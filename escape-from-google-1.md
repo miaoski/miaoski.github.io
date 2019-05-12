@@ -167,6 +167,8 @@ smtp_sasl_password_maps=hash:/etc/postfix/sasl/passwd
 smtp_sasl_security_options=noanonymous
 smtp_tls_security_level = encrypt
 header_size_limit = 4096000
+
+virtual_alias_maps = hash:/etc/postfix/virtual
 ```
 
 
@@ -197,6 +199,23 @@ port 25 傳統上是給明文傳輸使用。當然，port 25 也可以 STARTTLS�
 我試過從 GMail 發信過來、以及寄信給 GMail 都沒有問題。
 
 
+Catch-all
+---------
+自己架設 postfix 的好處之一，是可以自訂 email 規則，比方說把所有寄給 me@miaoski.idv.tw, 
+ccc@miaoski.idv.tw, hitcon@miaoski.idv.tw 的信，通通收下來，這樣你就知道誰把你的 email
+出賣給 spammer 了！
+
+只要新增檔案 `/etc/postfix/virtual` 並填入以下內容:
+```
+@miaoski.idv.tw		my_unix_account
+@other.domain.tw	my_unix_account
+```
+
+再執行 `postmap /etc/postfix/virtual` 就可以了。當然這也有一些壞處，比方說你會收到更多的 spam ...
+但是你可以自訂郵件規則，在 client 端處理這件事。
+
+
+
 不透過ISP轉信
 =============
 這個年代不透過 ISP 寄信，幾乎沒辦法通過 GMail 的重重關卡。
@@ -212,5 +231,19 @@ port 25 傳統上是給明文傳輸使用。當然，port 25 也可以 STARTTLS�
 命令列的好處是，你幾乎不可能中內嵌的釣魚信、iFrame 釣魚信，不可能點兩下就把
 含有 0-day 或 1-day 的附檔打開 (至少要先 scp 回自己的筆電...) ，資安馬上提升了一個等級。
 如果覺得命令列實在用不習慣，可以設定 Thunderbird 。
+
+
+Catch-all
+---------
+搭配 catch-all 使用的時候，我們希望 mutt 可以使用 To: 所指定的 email 地址回信，比方說
+寄給 feedback at miaoski 的信，我們就希望回信的 From: 欄是 feedback at miaoski 而不是
+你用來收信的 `my_unix_account` 帳號。做法很簡單， `~/.muttrc` 加一行就好:
+
+```
+set reverse_name = yes
+```
+
+
+
 
 如果想在手機上收信、回信的話...
