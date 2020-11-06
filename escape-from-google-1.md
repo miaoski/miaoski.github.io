@@ -219,7 +219,7 @@ ccc@miaoski.idv.tw, hitcon@miaoski.idv.tw 的信，通通收下來，這樣你�
 不透過ISP轉信
 =============
 這個年代不透過 ISP 寄信，幾乎沒辦法通過 GMail 的重重關卡。
-但如果要避開 ISP 可能的監控 (即使使用 SASL + TLS, MTA 仍然可以取得信件明文)，
+但如果要避開 ISP 可能的監控 (即使 ISP 端使用 SASL + TLS, MTA 仍然可以取得信件明文，除非在 local → ISP 就已經使用 TLS)，
 還是必須想辦法，不要透過 relayhost 轉信。
 
 
@@ -243,7 +243,15 @@ Catch-all
 set reverse_name = yes
 ```
 
+如果想在手機上收信、回信的話，可以安裝 DoveCot + LetsEncrypt 憑證。
 
 
+Dovecot
+=======
+參考:
 
-如果想在手機上收信、回信的話...
+LetsEncrypt
+-----------
+
+除錯
+----
