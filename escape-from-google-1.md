@@ -45,6 +45,10 @@ Android 手機，你就幾乎沒辦法不註冊一個 Google 帳號，幾乎沒�
 如 Cubieboard 2 、 BananaPi 或 Odroid C2 等等。有 1GB RAM 就夠了，散熱片一定要裝，
 否則在台灣的氣候下一定會熱當。
 
+我目前用了最滿意的硬體，是使用 Intel Celeron N3450 的「銳角雲」倒店貨。但使用中國製
+倒店貨的前提，是必須承擔一定的資安風險 -- 沒人知道銳角雲會不會有 out-of-band 的 NIC 後門。
+由於我的路由器是 OpenWRT ，在流量幾乎都可以自己控管的情況下，大概是不需要擔心。
+
 
 先決定使用固定 IP 或浮動 IP
 ---------------------------
@@ -52,7 +56,7 @@ Android 手機，你就幾乎沒辦法不註冊一個 Google 帳號，幾乎沒�
 但是轉信時 ISP 可以取得 email 的明文，這是個資安風險。
 為了 email 的安全性，本文使用固定 IP + 不要透過 ISP 轉信。
 
-我用了手邊拿得到的設備: Cubieboard2 + SSD 硬碟 + Hinet ADSL (固1)。
+我之前使用手邊拿得到的設備: Cubieboard2 + SSD 硬碟 + Hinet ADSL (固1)。
 這並不代表我建議使用 Cubieboard，使用任何中國製的晶片，必須明白它帶來相當程度
 的資安風險。
 
@@ -70,8 +74,8 @@ Armbian Stretch ，它是基於 Debian 9 的發行版。按照一般安裝程序
 連上家裡的無線網路，ssh 進去，再把有線網路插在小烏龜上，設定 PPPoE。
 
 要使用 Edimax 的無線網卡(Realtek 晶片)，才有內建驅動程式，如果用 TP-Link TL-WN722N
-的話，會找不到 Atheros 的韌體。它不是開源的，重新 build Atheros open firmware
-要花上幾個小時。
+的話，會找不到 Atheros 的韌體。它不是開源的，重新 build Atheros open firmware 在 RPi
+等級的硬體上，要花好幾個小時。
 
 
 安裝套件
@@ -248,10 +252,17 @@ set reverse_name = yes
 
 Dovecot
 =======
-參考:
+Dovecot 幾乎直接 apt install 就可以用了，除了 SSL 的部份，路徑要改成 LetsEncrypt 簽發的 SSL 憑證之外，
+都不需要特別的設定。
+
+`/etc/dovecot/conf.d/ssl.conf` 修改如下:
+```
+ssl = required
+ssl_cert = </etc/letsencrypt/live/miaoski.idv.tw-0001/fullchain.pem
+ssl_key = </etc/letsencrypt/live/miaoski.idv.tw-0001/privkey.pem
+```
 
 LetsEncrypt
 -----------
-
-除錯
-----
+網路上非常多介紹 LetsEncrypt 的文章，這裡不再贅述。由於 Dovecot, Postfox, Nginx, ... 
+都需要用到 SSL 憑證，建議別忘了每三個月跑一次 certbot 更新憑證。
