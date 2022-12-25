@@ -13,6 +13,9 @@ WebSDR
 
 台灣之前沒有人架設 WebSDR，所以架設也是增加國際能見度的方法。
 
+台灣有幾位友台架設了 OpenWebRX, 我目前也覺得 OpenWebRX 介面和效果都比較好，只是需要更大的運算能力，
+特別是在提供 FT8 和其它數位模式解碼的情況下，大概會需要正常一點的桌機。
+
 硬體是使用廢棄的電視天線 (Yagi) 、廢棄的同軸電纜、加上舊的 RTL-SDR v2 。品質堪用而已，
 主要是 Yagi 的指向性很強，但 WebSDR 最好是全向接收，才能收到最多的電台。WebSDR 支援超過一隻 RTL-SDR
 所以可以同時提供 2m 波段及 70cm 波段的接收服務。
@@ -117,3 +120,92 @@ Position with time, Mobile Satellite Station, Generic, (obsolete. Digis should u
 N 25 04.3300, E 121 32.9700, 39 MPH, course 90, alt 137 ft
 Trackuino Ver20180711 Sat:11 4.5V
 ```
+
+
+WSJT-X
+======
+如果要 monitor FT8 的話，我目前使用的是 wjst-x + VNC + RTL-SDR, 白天切到 15m 波段，晚上切到 40m 波段。
+
+首先安裝 wsjtx, vncserver, rtl-sdr, 然後設定好 WSJT-X。我使用二個 profile: 
+sdr-40m 給40米波段、
+sdr-15m 給15米波段，
+必須設定呼號。
+
+相關的 script 如下:
+
+`cron.sh`
+```bash
+#!/bin/bash
+# UTC 0000-1000 15m
+# UTC 1000-2359 40m
+export TZ=UTC
+export DISPLAY=:1
+
+while true; do
+
+if [ `date +%H` -lt 10 ]; then
+	until=$((10*60*60))
+	band="15m"
+else
+	until=$((24*60*60))
+	band="40m"
+fi
+
+echo "Starting FT8 $band at" `date` >> ~/cron.log
+~/ft8.sh $band &
+sleep 5
+
+ts=$(date +%s)
+to=$((until - ts % 86400))
+echo "Starting wsjtx -c sdr-$band (timeout: ${to}) at" `date` >> ~/cron.log
+timeout ${to} wsjtx -c sdr-$band
+kill %1
+
+echo "All stopped at" `date` >> ~/cron.log
+
+
+done
+```
+
+WSJT-X 要跑得起來，一定要先跑 vncserver ，讓 `DISPLAY=:1` 可以顯示它的 GUI.
+
+然後 `ft8.sh` 使用了 PulseAudio 的 Virtual channel ，自動把 RTL-SDR 的結果丟進 mplayer (謎之音: 真的需要 mplayer 嗎?)
+
+```bash
+#!/bin/bash
+BW=1200000
+if [ "$1" = "40m" ]; then
+	DC=7000000
+	FT=7074000
+fi
+if [ "$1" = "15m" ]; then
+	DC=21100000
+	FT=21074000
+fi
+if [ "x${FT}" = "x" ]; then
+	print "Try $0 40m"
+	exit 10
+fi
+# DC=14100000
+# FT=14074000
+GAIN=15
+rtl_sdr -s ${BW} -f ${DC} -D 2 -g ${GAIN} - | \
+	csdr convert_u8_f | \
+	csdr shift_addition_cc `python -c "print(float(${DC}-${FT})/${BW})"` | \
+	csdr fir_decimate_cc 25 0.05 HAMMING | \
+	csdr bandpass_fir_fft_cc 0 0.5 0.05 | \
+	csdr realpart_cf | \
+	csdr agc_ff | \
+	csdr limit_ff | \
+	csdr convert_f_s16 | \
+	mplayer -nocache -rawaudio samplesize=2:channels=1:rate=48000 -demuxer rawaudio -ao pulse::Virtual0 -
+```
+
+因為需要 Virtual0, 記得在 `/etc/pulse/default.pa` 加上:
+
+```
+load-module module-null-sink sink_name=Virtual0 sink_properties=device.description="Virtual0"
+load-module module-null-sink sink_name=Virtual1 sink_properties=device.description="Virtual1"
+```
+
+這樣就可以自動守聽 FT-8 並上傳到 PSK Reporter 了。
