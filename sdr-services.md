@@ -209,3 +209,32 @@ load-module module-null-sink sink_name=Virtual1 sink_properties=device.descripti
 ```
 
 這樣就可以自動守聽 FT-8 並上傳到 PSK Reporter 了。
+
+
+Airspy-HF+
+----------
+以下的 script 可以用在 Airspy HF+ 接收 FT8:
+
+```bash
+#!/bin/bash
+BW=768000
+if [ "$1" = "40m" ]; then
+        FT=7.074
+fi
+if [ "$1" = "15m" ]; then
+        FT=21.074
+fi
+if [ "x${FT}" = "x" ]; then
+        print "Try $0 40m"
+        exit 10
+fi
+
+airspyhf_rx -f ${FT} -r stdout -m on | \
+        csdr fir_decimate_cc 16 0.05 HAMMING | \
+        csdr bandpass_fir_fft_cc 0 0.5 0.05 | \
+        csdr realpart_cf | \
+        csdr agc_ff | \
+        csdr limit_ff | \
+        csdr convert_f_s16 | \
+        mplayer -cache 1024 -rawaudio samplesize=2:channels=1:rate=48000 -demuxer rawaudio -ao pulse::Virtual0 -
+```
