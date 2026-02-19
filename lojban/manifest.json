@@ -1,0 +1,17 @@
+{
+  "name": "Lojban 30-Week Course",
+  "short_name": "Lojban",
+  "description": "Learn Lojban in 15 minutes a day",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2d3748",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

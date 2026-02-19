@@ -1,0 +1,113 @@
+{
+  "id": "w01d5",
+  "week": 1,
+  "day": 5,
+  "title": "Chaining Sentences with `.i`",
+  "goal": "Connect multiple bridi into flowing Lojban discourse using `.i`.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Vocabulary speed round — translate to English as fast as you can:</p>\n<pre><code>1. mi cu sipna     → ?\n2. ti cu melbi     → ?\n3. do cu xamgu     → ?\n4. mi cu ciska     → ?\n5. do cu tcidu ti  → ?\n6. mi cu prami do  → ?\n</code></pre>\n<p>(Answers: I sleep. This is beautiful. You are good. I write. You read this. I love you.)</p>\n<p>Now say each Lojban sentence aloud, with clear stress on the penultimate syllable.</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>The Sentence Separator <code>.i</code></h3>\n<p><code>mi tavla .i do citka</code> — I talk. You eat.</p>\n<p>In English, we use periods and capital letters to separate sentences. In Lojban, we use <code>.i</code> (pronounced as a pause followed by &quot;ee&quot;).</p>\n<h4>How <code>.i</code> Works</h4>\n<p>The <code>.i</code> goes <em>between</em> sentences, not at the end:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi cadzu</code></td>\n<td>I walk.</td>\n</tr>\n<tr>\n<td><code>mi cadzu .i do sipna</code></td>\n<td>I walk. You sleep.</td>\n</tr>\n<tr>\n<td><code>mi cadzu .i do sipna .i ti melbi</code></td>\n<td>I walk. You sleep. This is beautiful.</td>\n</tr>\n</tbody></table>\n<p>Each <code>.i</code> marks the boundary between one bridi and the next.</p>\n<h4>Pronunciation</h4>\n<p>The period (<code>.</code>) in Lojban represents a <strong>glottal stop</strong> — a tiny pause, like the break in &quot;uh-oh.&quot; When you say <code>.i</code>:</p>\n<ol>\n<li>Make a small pause (the <code>.</code>)</li>\n<li>Say &quot;ee&quot; (the <code>i</code>)</li>\n</ol>\n<p>Practice: <code>mi tavla .i do citka</code></p>\n<ul>\n<li>Say &quot;mi tavla&quot;</li>\n<li>Pause briefly</li>\n<li>Say &quot;ee&quot;</li>\n<li>Say &quot;do citka&quot;</li>\n</ul>\n<h4>Why Not Just Pause?</h4>\n<p>In speech, pauses can be ambiguous. The <code>.i</code> makes sentence boundaries explicit, even in rapid speech or written text. It&#39;s not optional — it&#39;s the standard way to chain sentences.</p>\n<h4>Examples</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Gloss</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi citka .i do pinxe</code></td>\n<td>I eat [.i] you drink</td>\n<td>I eat. You drink.</td>\n</tr>\n<tr>\n<td><code>ti xamgu .i ta xlali</code></td>\n<td>this good [.i] that bad</td>\n<td>This is good. That is bad.</td>\n</tr>\n<tr>\n<td><code>mi prami do .i do prami mi</code></td>\n<td>I love you [.i] you love me</td>\n<td>I love you. You love me.</td>\n</tr>\n<tr>\n<td><code>do cadzu .i mi sipna</code></td>\n<td>you walk [.i] I sleep</td>\n<td>You walk. I sleep.</td>\n</tr>\n</tbody></table>\n<p>Notice the third example: the same pronouns, same verb, but switched positions tell a different story. And <code>.i</code> cleanly separates the two claims.</p>\n<h4>A New Pronoun: <code>ta</code></h4>\n<p>You&#39;ve learned <code>ti</code> (this, near speaker). Now meet <code>ta</code>:</p>\n<table>\n<thead>\n<tr>\n<th>Pronoun</th>\n<th>Meaning</th>\n<th>Distance</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ti</code></td>\n<td>this</td>\n<td>near speaker</td>\n</tr>\n<tr>\n<td><code>ta</code></td>\n<td>that</td>\n<td>near listener</td>\n</tr>\n<tr>\n<td><code>tu</code></td>\n<td>that (yonder)</td>\n<td>far from both</td>\n</tr>\n</tbody></table>\n<p>These form a trio. Today, focus on <code>ti</code> and <code>ta</code>.</p>\n<h4>Key Point</h4>\n<blockquote>\n<p><code>.i</code> separates sentences in Lojban. Pronounce it as a pause + &quot;ee&quot;. Use it between every bridi when chaining multiple statements.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "`.i` separates sentences in Lojban. Pronounce it as a pause + \"ee\". Use it between every bridi when chaining multiple statements."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Chain the Sentences</h3>\n<p>Combine each pair into one Lojban utterance using <code>.i</code>:</p>\n<ol>\n<li>I eat. + You drink.</li>\n<li>This is good. + That is bad.</li>\n<li>I sleep. + You walk.</li>\n<li>You talk to me. + I love you.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi citka .i do pinxe</code></li>\n<li><code>ti xamgu .i ta xlali</code></li>\n<li><code>mi sipna .i do cadzu</code></li>\n<li><code>do tavla mi .i mi prami do</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translation (Lojban → English)</h3>\n<p>Translate to English:</p>\n<ol>\n<li><code>mi ciska .i do tcidu</code></li>\n<li><code>ti melbi .i ta xlali</code></li>\n<li><code>do sipna .i mi cadzu</code></li>\n<li><code>mi klama .i do klama</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>I write. You read.</li>\n<li>This is beautiful. That is bad.</li>\n<li>You sleep. I walk.</li>\n<li>I go. You go.</li>\n</ol>\n</details>\n\n<h3>Exercise 3: Build a Three-Sentence Chain</h3>\n<p>Create a chain of three bridi using <code>.i</code>. Use at least three different gismu.</p>\n<p>Example: <code>mi sipna .i do citka .i ti xamgu</code>\n(I sleep. You eat. This is good.)</p>\n<p>Try making your own, then say it aloud.</p>\n<details>\n<summary>Sample answers</summary>\n\n<ul>\n<li><code>mi cadzu .i do tavla .i ti melbi</code></li>\n<li><code>do pinxe .i mi ciska .i ta xlali</code></li>\n<li><code>mi prami do .i do prami mi .i ti xamgu</code></li>\n</ul>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "chain-the-sentences",
+          "items": [
+            {
+              "text": "I eat. + You drink.",
+              "answer": "`mi citka .i do pinxe`"
+            },
+            {
+              "text": "This is good. + That is bad.",
+              "answer": "`ti xamgu .i ta xlali`"
+            },
+            {
+              "text": "I sleep. + You walk.",
+              "answer": "`mi sipna .i do cadzu`"
+            },
+            {
+              "text": "You talk to me. + I love you.",
+              "answer": "`do tavla mi .i mi prami do`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translation",
+          "items": [
+            {
+              "text": "`mi ciska .i do tcidu`",
+              "answer": "I write. You read."
+            },
+            {
+              "text": "`ti melbi .i ta xlali`",
+              "answer": "This is beautiful. That is bad."
+            },
+            {
+              "text": "`do sipna .i mi cadzu`",
+              "answer": "You sleep. I walk."
+            },
+            {
+              "text": "`mi klama .i do klama`",
+              "answer": "I go. You go."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "build-a-three-sentence-chain",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud in Lojban:</strong></p>\n<ol>\n<li>&quot;I walk. You sleep.&quot;</li>\n<li>&quot;This is beautiful. That is bad.&quot;</li>\n<li>&quot;I love you. You love me.&quot;</li>\n<li>&quot;I read. You write. This is good.&quot;</li>\n</ol>\n<p><strong>Answer key:</strong></p>\n<ol>\n<li><code>mi cadzu .i do sipna</code></li>\n<li><code>ti melbi .i ta xlali</code></li>\n<li><code>mi prami do .i do prami mi</code></li>\n<li><code>mi tcidu .i do ciska .i ti xamgu</code></li>\n</ol>\n",
+      "prompts": [
+        {
+          "text": "\"I walk. You sleep.\"",
+          "answer": "`mi cadzu .i do sipna`"
+        },
+        {
+          "text": "\"This is beautiful. That is bad.\"",
+          "answer": "`ti melbi .i ta xlali`"
+        },
+        {
+          "text": "\"I love you. You love me.\"",
+          "answer": "`mi prami do .i do prami mi`"
+        },
+        {
+          "text": "\"I read. You write. This is good.\"",
+          "answer": "`mi tcidu .i do ciska .i ti xamgu`"
+        }
+      ]
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>xlali</code></td>\n<td>x1 is bad for x2 by standard x3</td>\n<td>bad</td>\n</tr>\n</tbody></table>\n<p><strong>Cmavo introduced today:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>.i</code></td>\n<td>sentence separator (pause + &quot;ee&quot;)</td>\n</tr>\n<tr>\n<td><code>ta</code></td>\n<td>that (near listener)</td>\n</tr>\n</tbody></table>\n<p><strong>Week 1 vocabulary complete:</strong> All 12 gismu introduced.</p>\n<table>\n<thead>\n<tr>\n<th>Gismu</th>\n<th>English</th>\n<th>Gismu</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>prami</code></td>\n<td>love</td>\n<td><code>ciska</code></td>\n<td>write</td>\n</tr>\n<tr>\n<td><code>klama</code></td>\n<td>go</td>\n<td><code>tcidu</code></td>\n<td>read</td>\n</tr>\n<tr>\n<td><code>tavla</code></td>\n<td>talk</td>\n<td><code>sipna</code></td>\n<td>sleep</td>\n</tr>\n<tr>\n<td><code>citka</code></td>\n<td>eat</td>\n<td><code>melbi</code></td>\n<td>beautiful</td>\n</tr>\n<tr>\n<td><code>pinxe</code></td>\n<td>drink</td>\n<td><code>xamgu</code></td>\n<td>good</td>\n</tr>\n<tr>\n<td><code>cadzu</code></td>\n<td>walk</td>\n<td><code>xlali</code></td>\n<td>bad</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "xlali",
+          "place": "x1 is bad for x2 by standard x3",
+          "english": "bad"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned that <code>.i</code> separates sentences in Lojban, pronounced as a glottal pause followed by &quot;ee.&quot; You practiced chaining two and three bridi together, and met the pronoun <code>ta</code> (that, near listener). You also learned <code>xlali</code> (bad), completing all 12 gismu for Week 1.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Vocabulary drill day — you&#39;ll review all 12 gismu and test yourself on everything from the week.</p>\n",
+      "tomorrow": "Vocabulary drill day — you'll review all 12 gismu and test yourself on everything from the week."
+    }
+  ]
+}

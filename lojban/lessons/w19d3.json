@@ -1,0 +1,92 @@
+{
+  "id": "w19d3",
+  "week": 19,
+  "day": 3,
+  "title": "ka for Properties",
+  "goal": "Learn `ka` for property abstractions.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Abstraction review:</p>\n<pre><code>nu creates → ?\ndu&#39;u creates → ?\n</code></pre>\n<p>(Answers: events, propositions/facts)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>dicra</code></td>\n<td>x1 interrupts/disrupts x2</td>\n<td>interrupt</td>\n</tr>\n<tr>\n<td><code>fanta</code></td>\n<td>x1 prevents x2 from happening</td>\n<td>prevent</td>\n</tr>\n</tbody></table>\n<h3>What Is <code>ka</code>?</h3>\n<p><code>ka</code> creates a <strong>property</strong> (a quality or characteristic) from a bridi.</p>\n<h3>Basic Usage</h3>\n<pre><code>lo ka melbi\n</code></pre>\n<p>The property of being beautiful. (beauty)</p>\n<pre><code>lo ka sutra\n</code></pre>\n<p>The property of being fast. (speed)</p>\n<h3>The ce&#39;u Placeholder</h3>\n<p><code>ka</code> often uses <code>ce&#39;u</code> as a placeholder for &quot;the thing with this property&quot;:</p>\n<pre><code>lo ka ce&#39;u melbi\n</code></pre>\n<p>The property of [something] being beautiful.</p>\n<p>When <code>ce&#39;u</code> is x1, it can be omitted:</p>\n<pre><code>lo ka melbi = lo ka ce&#39;u melbi\n</code></pre>\n<h3>Using ka</h3>\n<pre><code>mi nelci lo ka cadzu\n</code></pre>\n<p>I like [the property of walking]. = I like walking (as an activity type).</p>\n<pre><code>mi djica lo ka gleki\n</code></pre>\n<p>I want [the property of being happy]. = I want to be happy.</p>\n<h3>ka vs nu</h3>\n<table>\n<thead>\n<tr>\n<th>Abstractor</th>\n<th>Focus</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>nu</code></td>\n<td>Specific event</td>\n<td><code>lo nu mi cadzu</code> (the event of me walking)</td>\n</tr>\n<tr>\n<td><code>ka</code></td>\n<td>General property</td>\n<td><code>lo ka cadzu</code> (the property of walking)</td>\n</tr>\n</tbody></table>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>ka</code> creates properties/qualities. Use for general characteristics rather than specific events.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Build ka Phrases</h3>\n<p>Create property phrases:</p>\n<ol>\n<li>The property of being big → ?</li>\n<li>The property of being good → ?</li>\n<li>The property of running → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo ka barda</code></li>\n<li><code>lo ka xamgu</code></li>\n<li><code>lo ka bajra</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Use ka</h3>\n<p>Translate:</p>\n<ol>\n<li>I like walking. (as a property)</li>\n<li>I want to be happy.</li>\n<li>Beauty is important.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi nelci lo ka cadzu</code></li>\n<li><code>mi djica lo ka gleki</code></li>\n<li><code>lo ka melbi cu vajni</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>I interrupt you.</li>\n<li>I prevent this.</li>\n<li>He prevents me from going.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi dicra do</code></li>\n<li><code>mi fanta ti</code></li>\n<li><code>ri fanta lo nu mi klama</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "build-ka-phrases",
+          "items": [
+            {
+              "text": "The property of being big → ?",
+              "answer": "`lo ka barda`"
+            },
+            {
+              "text": "The property of being good → ?",
+              "answer": "`lo ka xamgu`"
+            },
+            {
+              "text": "The property of running → ?",
+              "answer": "`lo ka bajra`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "use-ka",
+          "items": [
+            {
+              "text": "I like walking. (as a property)",
+              "answer": "`mi nelci lo ka cadzu`"
+            },
+            {
+              "text": "I want to be happy.",
+              "answer": "`mi djica lo ka gleki`"
+            },
+            {
+              "text": "Beauty is important.",
+              "answer": "`lo ka melbi cu vajni`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "new-vocabulary",
+          "items": [
+            {
+              "text": "I interrupt you.",
+              "answer": "`mi dicra do`"
+            },
+            {
+              "text": "I prevent this.",
+              "answer": "`mi fanta ti`"
+            },
+            {
+              "text": "He prevents me from going.",
+              "answer": "`ri fanta lo nu mi klama`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I like walking.&quot; → <code>mi nelci lo ka cadzu</code></li>\n<li>&quot;I want to be happy.&quot; → <code>mi djica lo ka gleki</code></li>\n<li>&quot;I prevent this.&quot; → <code>mi fanta ti</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>dicra</code></td>\n<td>interrupt</td>\n</tr>\n<tr>\n<td><code>fanta</code></td>\n<td>prevent</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ka</code></td>\n<td>Property abstractor — turns bridi into quality sumti</td>\n</tr>\n<tr>\n<td><code>ce&#39;u</code></td>\n<td>Placeholder for &quot;the thing with this property&quot;</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>ka</code> for property abstractions. <code>lo ka melbi</code> = &quot;the property of being beautiful.&quot;</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Combining abstractions in complex sentences.</p>\n",
+      "tomorrow": "Combining abstractions in complex sentences."
+    }
+  ]
+}

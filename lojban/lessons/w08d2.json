@@ -1,0 +1,101 @@
+{
+  "id": "w08d2",
+  "week": 8,
+  "day": 2,
+  "title": "Adding `fi` for Third Place",
+  "goal": "Use `fi` to mark the third place and practice three-place tagging.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Place tag review:</p>\n<pre><code>fa marks → ?\nfe marks → ?\n</code></pre>\n<p>(Answers: x1, x2)</p>\n<p>Rewrite with tags: <code>mi prami do</code> → ?</p>\n<p>(Answer: <code>fa mi cu prami fe do</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>The Third Place Tag: <code>fi</code></h3>\n<p><code>fi la .alis. fa mi cu dunda fe la cukta</code> — I give a book to Alice.</p>\n<p>Adding <code>fi</code> lets you mark the third place, enabling complete flexibility with three-place gismu.</p>\n<h4><code>fi</code> with <code>dunda</code></h4>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With Tags</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi dunda la cukta la .alis.</code></td>\n<td><code>fa mi cu dunda fe la cukta fi la .alis.</code></td>\n</tr>\n</tbody></table>\n<p>Both mean: I give a book to Alice.</p>\n<h4>Any Order with Tags</h4>\n<table>\n<thead>\n<tr>\n<th>Order</th>\n<th>Sentence</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>x1, x2, x3</td>\n<td><code>fa mi cu dunda fe la cukta fi la .bob.</code></td>\n<td>I give a book to Bob</td>\n</tr>\n<tr>\n<td>x3, x1, x2</td>\n<td><code>fi la .bob. fa mi cu dunda fe la cukta</code></td>\n<td>I give a book to Bob</td>\n</tr>\n<tr>\n<td>x2, x3, x1</td>\n<td><code>fe la cukta fi la .bob. fa mi cu dunda</code></td>\n<td>I give a book to Bob</td>\n</tr>\n</tbody></table>\n<p>All three are equivalent!</p>\n<h4>New Vocabulary</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>stidi</code></td>\n<td>x1 suggests x2 to audience x3</td>\n<td>suggest</td>\n</tr>\n<tr>\n<td><code>smadi</code></td>\n<td>x1 guesses x2 is true about x3</td>\n<td>guess</td>\n</tr>\n</tbody></table>\n<h4>Comparing Tags and Conversions</h4>\n<p>Both achieve similar results:</p>\n<table>\n<thead>\n<tr>\n<th>Goal</th>\n<th>Conversion</th>\n<th>Tags</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Recipient first</td>\n<td><code>la .bob. te dunda la cukta mi</code></td>\n<td><code>fi la .bob. fa mi cu dunda fe la cukta</code></td>\n</tr>\n<tr>\n<td>Gift first</td>\n<td><code>la cukta se dunda mi la .bob.</code></td>\n<td><code>fe la cukta fa mi cu dunda fi la .bob.</code></td>\n</tr>\n</tbody></table>\n<p>Tags are more explicit; conversions are more concise.</p>\n<h4>Key Point</h4>\n<blockquote>\n<p><code>fi</code> marks x3. With <code>fa</code>/<code>fe</code>/<code>fi</code>, you can arrange three-place gismu in any order.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "`fi` marks x3. With `fa`/`fe`/`fi`, you can arrange three-place gismu in any order."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Add Full Tags</h3>\n<p>Rewrite with <code>fa</code>, <code>fe</code>, and <code>fi</code>:</p>\n<ol>\n<li><code>mi dunda la skami la .tam.</code> → ?</li>\n<li><code>la .bob. cu tavla la .alis. la cukta</code> → ?</li>\n<li><code>do benji la notci mi</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>fa mi cu dunda fe la skami fi la .tam.</code></li>\n<li><code>fa la .bob. cu tavla fe la .alis. fi la cukta</code></li>\n<li><code>fa do cu benji fe la notci fi mi</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Reorder with Tags</h3>\n<p>Put the recipient (x3) first:</p>\n<ol>\n<li><code>mi dunda la cukta la .alis.</code> → ?</li>\n<li><code>la .bob. cu benji la karce la .tam.</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>fi la .alis. fa mi cu dunda fe la cukta</code></li>\n<li><code>fi la .tam. fa la .bob. cu benji fe la karce</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Interpret</h3>\n<p>Translate to English:</p>\n<ol>\n<li><code>fi la .bob. fa la .alis. cu dunda fe la plise</code></li>\n<li><code>fe la notci fi do fa mi cu benji</code></li>\n<li><code>fa do cu stidi fe ti fi mi</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>Alice gives an apple to Bob.</li>\n<li>I send a message to you.</li>\n<li>You suggest this to me.</li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "add-full-tags",
+          "items": [
+            {
+              "text": "`mi dunda la skami la .tam.` → ?",
+              "answer": "`fa mi cu dunda fe la skami fi la .tam.`"
+            },
+            {
+              "text": "`la .bob. cu tavla la .alis. la cukta` → ?",
+              "answer": "`fa la .bob. cu tavla fe la .alis. fi la cukta`"
+            },
+            {
+              "text": "`do benji la notci mi` → ?",
+              "answer": "`fa do cu benji fe la notci fi mi`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "reorder-with-tags",
+          "items": [
+            {
+              "text": "`mi dunda la cukta la .alis.` → ?",
+              "answer": "`fi la .alis. fa mi cu dunda fe la cukta`"
+            },
+            {
+              "text": "`la .bob. cu benji la karce la .tam.` → ?",
+              "answer": "`fi la .tam. fa la .bob. cu benji fe la karce`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "interpret",
+          "items": [
+            {
+              "text": "`fi la .bob. fa la .alis. cu dunda fe la plise`",
+              "answer": "Alice gives an apple to Bob."
+            },
+            {
+              "text": "`fe la notci fi do fa mi cu benji`",
+              "answer": "I send a message to you."
+            },
+            {
+              "text": "`fa do cu stidi fe ti fi mi`",
+              "answer": "You suggest this to me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I give a book to Alice.&quot; (normal) → <code>mi dunda la cukta la .alis.</code></li>\n<li>&quot;I give a book to Alice.&quot; (tagged) → <code>fa mi cu dunda fe la cukta fi la .alis.</code></li>\n<li>&quot;Alice receives a book from me.&quot; (Alice first, tagged) → <code>fi la .alis. fa mi cu dunda fe la cukta</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>stidi</code></td>\n<td>x1 suggests x2 to x3</td>\n<td>suggest</td>\n</tr>\n<tr>\n<td><code>smadi</code></td>\n<td>x1 guesses x2 about x3</td>\n<td>guess</td>\n</tr>\n</tbody></table>\n<p><strong>Place tags so far:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Tag</th>\n<th>Marks</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>fa</code></td>\n<td>x1</td>\n</tr>\n<tr>\n<td><code>fe</code></td>\n<td>x2</td>\n</tr>\n<tr>\n<td><code>fi</code></td>\n<td>x3</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "stidi",
+          "place": "x1 suggests x2 to x3",
+          "english": "suggest"
+        },
+        {
+          "lojban": "smadi",
+          "place": "x1 guesses x2 about x3",
+          "english": "guess"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>fi</code>, which marks x3. With <code>fa</code>/<code>fe</code>/<code>fi</code>, you can express three-place relationships in any word order.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll add <code>fo</code> for the fourth place, useful for prices and other x4 arguments.</p>\n",
+      "tomorrow": "You'll add `fo` for the fourth place, useful for prices and other x4 arguments."
+    }
+  ]
+}

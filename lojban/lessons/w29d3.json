@@ -1,0 +1,79 @@
+{
+  "id": "w29d3",
+  "week": 29,
+  "day": 3,
+  "title": "Pro-bridi Placeholders",
+  "goal": "Learn `broda`/`brode`/etc. for placeholder predicates.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>MEX review:</p>\n<pre><code>li re pi&#39;i vo du li ? = ?\n</code></pre>\n<p>(Answer: 8)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>merko</code></td>\n<td>x1 reflects American (USA) culture</td>\n<td>American</td>\n</tr>\n<tr>\n<td><code>brito</code></td>\n<td>x1 reflects British culture</td>\n<td>British</td>\n</tr>\n</tbody></table>\n<h3>What Are Pro-bridi?</h3>\n<p>Pro-bridi are placeholder predicates that stand in for real selbri:</p>\n<table>\n<thead>\n<tr>\n<th>Pro-bridi</th>\n<th>Use</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>broda</code></td>\n<td>Placeholder 1</td>\n</tr>\n<tr>\n<td><code>brode</code></td>\n<td>Placeholder 2</td>\n</tr>\n<tr>\n<td><code>brodi</code></td>\n<td>Placeholder 3</td>\n</tr>\n<tr>\n<td><code>brodo</code></td>\n<td>Placeholder 4</td>\n</tr>\n<tr>\n<td><code>brodu</code></td>\n<td>Placeholder 5</td>\n</tr>\n</tbody></table>\n<h3>Using Pro-bridi</h3>\n<p>When you want to refer back to a predicate without repeating it:</p>\n<pre><code>mi tavla bau la .jbobau. .i do broda\n</code></pre>\n<p>I speak in Lojban. You [do the same].</p>\n<pre><code>lo gerku cu bajra .i lo mlatu cu broda\n</code></pre>\n<p>The dog runs. The cat [does the same].</p>\n<h3>In Definitions</h3>\n<p>Pro-bridi are useful in definitions or general statements:</p>\n<pre><code>ro da poi broda cu brode\n</code></pre>\n<p>Everything that [does X] [does Y].</p>\n<h3>Multiple Pro-bridi</h3>\n<pre><code>mi broda .i do brode .i la .alis. brodi\n</code></pre>\n<p>I [do X]. You [do Y]. Alice [does Z].</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Pro-bridi let you reference predicates without repeating them. Useful for comparison and definitions.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Use broda</h3>\n<p>Complete with broda:</p>\n<ol>\n<li>&quot;I eat. You [do the same].&quot; → <code>mi citka .i do ___</code></li>\n<li>&quot;The dog sleeps. The cat [does the same].&quot; → <code>lo gerku cu sipna .i lo mlatu cu ___</code></li>\n<li>&quot;Alice walks. Bob [does the same].&quot; → <code>la .alis. cu cadzu .i la .bob. cu ___</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>broda</code></li>\n<li><code>broda</code></li>\n<li><code>broda</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Culture Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>This is American.</li>\n<li>Bob is British.</li>\n<li>American and British are different.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti merko</code></li>\n<li><code>la .bob. cu brito</code></li>\n<li><code>lo merko cu frica lo brito</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Pro-bridi in Context</h3>\n<p>What does this mean?</p>\n<pre><code>mi nelci lo plise .i xu do broda\n</code></pre>\n<details>\n<summary>Answer</summary>\n\n<p>I like apples. Do you [like apples too]?</p>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "use-broda",
+          "items": [
+            {
+              "text": "\"I eat. You [do the same].\" → `mi citka .i do ___`",
+              "answer": "`broda`"
+            },
+            {
+              "text": "\"The dog sleeps. The cat [does the same].\" → `lo gerku cu sipna .i lo mlatu cu ___`",
+              "answer": "`broda`"
+            },
+            {
+              "text": "\"Alice walks. Bob [does the same].\" → `la .alis. cu cadzu .i la .bob. cu ___`",
+              "answer": "`broda`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "culture-vocabulary",
+          "items": [
+            {
+              "text": "This is American.",
+              "answer": "`ti merko`"
+            },
+            {
+              "text": "Bob is British.",
+              "answer": "`la .bob. cu brito`"
+            },
+            {
+              "text": "American and British are different.",
+              "answer": "`lo merko cu frica lo brito`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "pro-bridi-in-context",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Use pro-bridi aloud:</strong></p>\n<ol>\n<li>&quot;I work. Do you [work too]?&quot; → <code>mi gunka .i xu do broda</code></li>\n<li>&quot;Alice studies. Bob does the same.&quot; → <code>la .alis. cu tadni .i la .bob. cu broda</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>merko</code></td>\n<td>American</td>\n</tr>\n<tr>\n<td><code>brito</code></td>\n<td>British</td>\n</tr>\n</tbody></table>\n<p><strong>Pro-bridi:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Use</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>broda</code></td>\n<td>Placeholder predicate 1</td>\n</tr>\n<tr>\n<td><code>brode</code></td>\n<td>Placeholder predicate 2</td>\n</tr>\n<tr>\n<td><code>brodi</code></td>\n<td>Placeholder predicate 3</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned pro-bridi (<code>broda</code>, <code>brode</code>, etc.) for referencing predicates without repetition.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Terminator elision — when to drop terminators.</p>\n",
+      "tomorrow": "Terminator elision — when to drop terminators."
+    }
+  ]
+}

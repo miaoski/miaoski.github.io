@@ -1,0 +1,42 @@
+{
+  "id": "w09d7",
+  "week": 9,
+  "day": 7,
+  "title": "Week Review: Place Structure Mastery",
+  "goal": "Demonstrate complete mastery of place structures, conversions, and tags.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Quick recall:</p>\n<pre><code>se swaps → ?     fa marks → ?\nte swaps → ?     fe marks → ?\nve swaps → ?     fi marks → ?\nxe swaps → ?     fo marks → ?\n                 fu marks → ?\n</code></pre>\n<p>(Answers: x1↔x2, x1↔x3, x1↔x4, x1↔x5 | x1, x2, x3, x4, x5)</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Grammar Summary (3-4 min)</h2>\n<h3>What You Reviewed This Week</h3>\n<p><strong>1. Conversions</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Swaps</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>se</code></td>\n<td>x1↔x2</td>\n</tr>\n<tr>\n<td><code>te</code></td>\n<td>x1↔x3</td>\n</tr>\n<tr>\n<td><code>ve</code></td>\n<td>x1↔x4</td>\n</tr>\n<tr>\n<td><code>xe</code></td>\n<td>x1↔x5</td>\n</tr>\n</tbody></table>\n<p><strong>2. Place Tags</strong></p>\n<table>\n<thead>\n<tr>\n<th>Tag</th>\n<th>Marks</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>fa</code></td>\n<td>x1</td>\n</tr>\n<tr>\n<td><code>fe</code></td>\n<td>x2</td>\n</tr>\n<tr>\n<td><code>fi</code></td>\n<td>x3</td>\n</tr>\n<tr>\n<td><code>fo</code></td>\n<td>x4</td>\n</tr>\n<tr>\n<td><code>fu</code></td>\n<td>x5</td>\n</tr>\n</tbody></table>\n<p><strong>3. Week 9 Gismu (8)</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>bilga</code></td>\n<td>obligated</td>\n</tr>\n<tr>\n<td><code>curmi</code></td>\n<td>allow</td>\n</tr>\n<tr>\n<td><code>sarcu</code></td>\n<td>necessary</td>\n</tr>\n<tr>\n<td><code>pacna</code></td>\n<td>hope</td>\n</tr>\n<tr>\n<td><code>terpa</code></td>\n<td>fear</td>\n</tr>\n<tr>\n<td><code>tatpi</code></td>\n<td>tired</td>\n</tr>\n<tr>\n<td><code>xagji</code></td>\n<td>hungry</td>\n</tr>\n<tr>\n<td><code>taske</code></td>\n<td>thirsty</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Self-Test (5-6 min)</h2>\n<h3>Part A: Vocabulary (8 points)</h3>\n<p>Translate to English:</p>\n<ol>\n<li><code>bilga</code> →</li>\n<li><code>terpa</code> →</li>\n<li><code>xagji</code> →</li>\n<li><code>pacna</code> →</li>\n</ol>\n<p>Translate to Lojban:</p>\n<ol start=\"5\">\n<li>allow →</li>\n<li>necessary →</li>\n<li>tired →</li>\n<li>thirsty →</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>obligated</li>\n<li>fear</li>\n<li>hungry</li>\n<li>hope</li>\n<li><code>curmi</code></li>\n<li><code>sarcu</code></li>\n<li><code>tatpi</code></li>\n<li><code>taske</code></li>\n</ol>\n</details>\n\n<h3>Part B: Conversions (8 points)</h3>\n<p>Apply the conversion:</p>\n<ol>\n<li><code>mi prami do</code> with <code>se</code> → ?</li>\n<li><code>mi dunda la cukta la .bob.</code> with <code>te</code> → ?</li>\n<li><code>mi vecnu la karce do pa no no</code> with <code>ve</code> → ?</li>\n<li><code>mi klama la .paris. zo&#39;e zo&#39;e la karce</code> with <code>xe</code> → ?</li>\n</ol>\n<p>Identify what x1 becomes:</p>\n<ol start=\"5\">\n<li><code>se dunda</code> → x1 = ?</li>\n<li><code>te benji</code> → x1 = ?</li>\n<li><code>ve vecnu</code> → x1 = ?</li>\n<li><code>xe klama</code> → x1 = ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>do se prami mi</code></li>\n<li><code>la .bob. te dunda la cukta mi</code></li>\n<li><code>pa no no ve vecnu la karce do mi</code></li>\n<li><code>la karce xe klama la .paris. zo&#39;e zo&#39;e mi</code></li>\n<li>gift</li>\n<li>destination (receiver)</li>\n<li>price</li>\n<li>vehicle</li>\n</ol>\n</details>\n\n<h3>Part C: Place Tags (9 points)</h3>\n<p>Rewrite with explicit tags:</p>\n<ol>\n<li><code>mi dunda la cukta la .alis.</code> → ?</li>\n<li><code>do klama la .paris. la .london.</code> → ?</li>\n</ol>\n<p>Rewrite with recipient first (using tags):</p>\n<ol start=\"3\">\n<li><code>mi dunda la cukta la .bob.</code> → ?</li>\n</ol>\n<p>Decode (identify x1, x2, x3):</p>\n<ol start=\"4\">\n<li><code>fi la .tam. fa mi cu benji fe la notci</code>\nx1=?, x2=?, x3=?</li>\n</ol>\n<p>Express the same idea with conversion instead of tags:</p>\n<ol start=\"5\">\n<li><code>fi la .bob. fa mi cu dunda fe la cukta</code> → ? (use <code>te</code>)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>fa mi cu dunda fe la cukta fi la .alis.</code></li>\n<li><code>fa do cu klama fe la .paris. fi la .london.</code></li>\n<li><code>fi la .bob. fa mi cu dunda fe la cukta</code></li>\n<li>x1=mi, x2=la notci, x3=la .tam. (I send a message to Tom)</li>\n<li><code>la .bob. te dunda la cukta mi</code></li>\n</ol>\n</details>"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Scoring</h2>\n<table>\n<thead>\n<tr>\n<th>Section</th>\n<th>Points</th>\n<th>Your Score</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Part A</td>\n<td>8</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part B</td>\n<td>8</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part C</td>\n<td>9</td>\n<td>___</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>25</strong></td>\n<td>___</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Integration Challenge (1-2 min)</h2>\n<h3>Create a Complex Narrative</h3>\n<p>Use at least:</p>\n<ul>\n<li>One <code>se</code> conversion</li>\n<li>One <code>te</code> conversion</li>\n<li>One place tag construction</li>\n<li>Two of this week&#39;s gismu</li>\n</ul>\n<p><strong>Example:</strong></p>\n<pre><code>mi tatpi .i mi xagji la plise\n.i la plise se vecnu la prenu mi\n.i la .bob. te dunda la plise mi\n.i mi gleki\n</code></pre>\n<p>(I am tired. I am hungry for apples. Apples are sold by a person to me. Bob receives apples from me. I am happy.)</p>\n<p>Create your own and say it aloud.</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Week 9 Complete Reference</h2>\n<p><strong>Gismu (8):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>bilga</code></td>\n<td>obligated</td>\n<td><code>tatpi</code></td>\n<td>tired</td>\n</tr>\n<tr>\n<td><code>curmi</code></td>\n<td>allow</td>\n<td><code>xagji</code></td>\n<td>hungry</td>\n</tr>\n<tr>\n<td><code>sarcu</code></td>\n<td>necessary</td>\n<td><code>taske</code></td>\n<td>thirsty</td>\n</tr>\n<tr>\n<td><code>pacna</code></td>\n<td>hope</td>\n<td><code>terpa</code></td>\n<td>fear</td>\n</tr>\n</tbody></table>\n<p><strong>Cumulative vocabulary:</strong> 80 gismu</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You completed Week 9, the comprehensive place structure review. You&#39;ve mastered conversions (<code>se</code>/<code>te</code>/<code>ve</code>/<code>xe</code>), place tags (<code>fa</code>-<code>fu</code>), and can translate between systems.</p>\n</blockquote>\n<p><strong>Next week preview:</strong> Week 10 introduces tanru — two-word compounds where the left word modifies the right.</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Congratulations</h2>\n<p><code>do kakne lo nu pilno la .lojban. le pluja</code></p>\n<p>(You are able to use Lojban in complex ways!)</p>\n<p>Nine weeks complete. You&#39;ve mastered Lojban&#39;s place structure system.</p>\n"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "w29d4",
+  "week": 29,
+  "day": 4,
+  "title": "Terminator Elision",
+  "goal": "Learn which terminators can be safely dropped.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Pro-bridi review:</p>\n<pre><code>mi citka .i do broda = ?\n</code></pre>\n<p>(Answer: I eat. You [eat too].)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>fraso</code></td>\n<td>x1 reflects French culture</td>\n<td>French</td>\n</tr>\n<tr>\n<td><code>dotco</code></td>\n<td>x1 reflects German culture</td>\n<td>German</td>\n</tr>\n</tbody></table>\n<h3>What Is Elision?</h3>\n<p>Elision means dropping terminators that aren&#39;t needed. Most Lojban text omits optional terminators.</p>\n<h3>Common Terminators</h3>\n<table>\n<thead>\n<tr>\n<th>Terminator</th>\n<th>Ends</th>\n<th>Often Elidable?</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ku</code></td>\n<td>sumti</td>\n<td>Yes, usually</td>\n</tr>\n<tr>\n<td><code>kei</code></td>\n<td>abstraction</td>\n<td>Yes, usually</td>\n</tr>\n<tr>\n<td><code>ku&#39;o</code></td>\n<td>relative clause</td>\n<td>Yes, usually</td>\n</tr>\n<tr>\n<td><code>vau</code></td>\n<td>bridi</td>\n<td>Yes, before <code>.i</code></td>\n</tr>\n<tr>\n<td><code>be&#39;o</code></td>\n<td>be/bei</td>\n<td>Sometimes</td>\n</tr>\n</tbody></table>\n<h3>When to Keep Terminators</h3>\n<p>Keep when ambiguity would result:</p>\n<pre><code>lo nu klama kei cu xamgu\n</code></pre>\n<p>vs</p>\n<pre><code>lo nu klama cu xamgu\n</code></pre>\n<p>Both work here because <code>cu</code> forces the boundary.</p>\n<h3>Elision Examples</h3>\n<p><strong>Full form:</strong></p>\n<pre><code>mi djica lo nu do klama kei vau\n</code></pre>\n<p><strong>Elided:</strong></p>\n<pre><code>mi djica lo nu do klama\n</code></pre>\n<p><strong>Full form:</strong></p>\n<pre><code>lo gerku ku poi barda ku&#39;o cu melbi vau\n</code></pre>\n<p><strong>Elided:</strong></p>\n<pre><code>lo gerku poi barda cu melbi\n</code></pre>\n<h3>Key Point</h3>\n<blockquote>\n<p>Most terminators are elidable when grammar is unambiguous. <code>cu</code> often makes terminators unnecessary.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Remove Unnecessary Terminators</h3>\n<p>Simplify:</p>\n<ol>\n<li><code>mi djica lo nu citka kei vau</code> →</li>\n<li><code>lo mlatu ku cu melbi vau</code> →</li>\n<li><code>mi djuno lo du&#39;u do klama kei vau</code> →</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi djica lo nu citka</code></li>\n<li><code>lo mlatu cu melbi</code></li>\n<li><code>mi djuno lo du&#39;u do klama</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Cultural Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>This is French.</li>\n<li>Alice is German.</li>\n<li>French and German are different.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti fraso</code></li>\n<li><code>la .alis. cu dotco</code></li>\n<li><code>lo fraso cu frica lo dotco</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: When is ku needed?</h3>\n<p>Is <code>ku</code> needed here?</p>\n<ol>\n<li><code>mi viska lo gerku .i ri barda</code> — ku after gerku?</li>\n<li><code>lo mlatu cu klama lo zdani</code> — ku after zdani?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>No — <code>.i</code> ends the bridi</li>\n<li>No — end of sentence</li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "remove-unnecessary-terminators",
+          "items": [
+            {
+              "text": "`mi djica lo nu citka kei vau` →",
+              "answer": "`mi djica lo nu citka`"
+            },
+            {
+              "text": "`lo mlatu ku cu melbi vau` →",
+              "answer": "`lo mlatu cu melbi`"
+            },
+            {
+              "text": "`mi djuno lo du'u do klama kei vau` →",
+              "answer": "`mi djuno lo du'u do klama`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "cultural-vocabulary",
+          "items": [
+            {
+              "text": "This is French.",
+              "answer": "`ti fraso`"
+            },
+            {
+              "text": "Alice is German.",
+              "answer": "`la .alis. cu dotco`"
+            },
+            {
+              "text": "French and German are different.",
+              "answer": "`lo fraso cu frica lo dotco`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "when-is-ku-needed?",
+          "items": [
+            {
+              "text": "`mi viska lo gerku .i ri barda` — ku after gerku?",
+              "answer": "No — `.i` ends the bridi"
+            },
+            {
+              "text": "`lo mlatu cu klama lo zdani` — ku after zdani?",
+              "answer": "No — end of sentence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say the elided versions:</strong></p>\n<ol>\n<li><p>Full: <code>mi nelci lo nu sipna kei vau</code>\nElided: → <code>mi nelci lo nu sipna</code></p>\n</li>\n<li><p>Full: <code>lo prenu ku poi barda ku&#39;o cu klama vau</code>\nElided: → <code>lo prenu poi barda cu klama</code></p>\n</li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>fraso</code></td>\n<td>French</td>\n</tr>\n<tr>\n<td><code>dotco</code></td>\n<td>German</td>\n</tr>\n</tbody></table>\n<p><strong>Elidable terminators:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Terminator</th>\n<th>When elidable</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ku</code></td>\n<td>When followed by cu, .i, or end</td>\n</tr>\n<tr>\n<td><code>kei</code></td>\n<td>When followed by cu, .i, or end</td>\n</tr>\n<tr>\n<td><code>ku&#39;o</code></td>\n<td>When followed by cu</td>\n</tr>\n<tr>\n<td><code>vau</code></td>\n<td>Before .i or end</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned terminator elision. Most terminators can be dropped when grammar is clear.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Non-logical connectives — <code>joi</code>, <code>ce</code>, <code>ce&#39;o</code>.</p>\n",
+      "tomorrow": "Non-logical connectives — `joi`, `ce`, `ce'o`."
+    }
+  ]
+}

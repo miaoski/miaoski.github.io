@@ -1,0 +1,160 @@
+{
+  "id": "w01d4",
+  "week": 1,
+  "day": 4,
+  "title": "The `cu` Marker",
+  "goal": "Understand when and why to use `cu`, and practice all vocabulary learned so far.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Quick vocabulary check — say the x2 meaning for each gismu:</p>\n<pre><code>prami  → x2 is the _____ (beloved)\ntavla  → x2 is the _____ (listener)\ncitka  → x2 is the _____ (food)\npinxe  → x2 is the _____ (beverage)\ncadzu  → x2 is the _____ (walking surface)\nciska  → x2 is the _____ (text written)\ntcidu  → x2 is the _____ (text read)\nklama  → x2 is the _____ (destination)\n</code></pre>\n<p>Now translate quickly:</p>\n<ol>\n<li><code>mi ciska ti</code> → ?</li>\n<li><code>do tcidu ti</code> → ?</li>\n<li><code>mi prami do</code> → ?</li>\n</ol>\n<p>(Answers: I write this. You read this. I love you.)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Introducing <code>cu</code></h3>\n<p><code>mi cu tavla do</code> — I talk to you.</p>\n<p>Wait — isn&#39;t that the same as <code>mi tavla do</code>? Yes. The word <code>cu</code> doesn&#39;t change the meaning. So why does it exist?</p>\n<h4>The Problem <code>cu</code> Solves</h4>\n<p>In <code>mi tavla do</code>, it&#39;s obvious where the selbri starts: right after <code>mi</code>. But what if you have a longer sumti in x1?</p>\n<p>Imagine you want to say &quot;The beautiful one loves you.&quot; You might try:</p>\n<pre><code>melbi prami do\n</code></pre>\n<p>But this is ambiguous. Is <code>melbi prami</code> a compound selbri (a &quot;beautiful-lover&quot;)? Or is <code>melbi</code> the x1 sumti and <code>prami</code> the selbri?</p>\n<p>The <code>cu</code> marker makes it clear:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>melbi prami do</code></td>\n<td>ambiguous (compound? or sumti + selbri?)</td>\n</tr>\n<tr>\n<td><code>melbi cu prami do</code></td>\n<td>The beautiful one loves you.</td>\n</tr>\n</tbody></table>\n<h4>When <code>cu</code> Is Optional</h4>\n<p>When the x1 sumti is a simple pronoun like <code>mi</code> or <code>do</code>, there&#39;s no ambiguity:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Gloss</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi tavla do</code></td>\n<td>I talk-to you</td>\n<td>I talk to you.</td>\n</tr>\n<tr>\n<td><code>mi cu tavla do</code></td>\n<td>I [cu] talk-to you</td>\n<td>I talk to you.</td>\n</tr>\n</tbody></table>\n<p>Both are correct. The <code>cu</code> is optional but never wrong.</p>\n<h4>When <code>cu</code> Is Helpful</h4>\n<p>Use <code>cu</code> when:</p>\n<ol>\n<li>The x1 sumti is a gismu being used as a noun</li>\n<li>You want extra clarity</li>\n<li>You&#39;re chaining multiple words before the selbri</li>\n</ol>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Gloss</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>do cu sipna</code></td>\n<td>you [cu] sleep</td>\n<td>You sleep.</td>\n</tr>\n<tr>\n<td><code>ti cu melbi</code></td>\n<td>this [cu] beautiful</td>\n<td>This is beautiful.</td>\n</tr>\n<tr>\n<td><code>mi cu xamgu</code></td>\n<td>I [cu] good</td>\n<td>I am good.</td>\n</tr>\n</tbody></table>\n<p>Notice: when a gismu like <code>melbi</code> or <code>xamgu</code> is the selbri (not modifying another word), it acts like &quot;is beautiful&quot; or &quot;is good.&quot;</p>\n<h4>Examples</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Gloss</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi cu sipna</code></td>\n<td>I [cu] sleep</td>\n<td>I sleep.</td>\n</tr>\n<tr>\n<td><code>do cu melbi</code></td>\n<td>you [cu] beautiful</td>\n<td>You are beautiful.</td>\n</tr>\n<tr>\n<td><code>ti cu xamgu</code></td>\n<td>this [cu] good</td>\n<td>This is good.</td>\n</tr>\n<tr>\n<td><code>mi cu citka ti</code></td>\n<td>I [cu] eat this</td>\n<td>I eat this.</td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p><code>cu</code> marks the start of the selbri. It&#39;s optional after simple pronouns, but never wrong. Use it when the x1 sumti could be confused with part of the selbri.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "`cu` marks the start of the selbri. It's optional after simple pronouns, but never wrong. Use it when the x1 sumti could be confused with part of the selbri."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Add <code>cu</code> Appropriately</h3>\n<p>Rewrite each sentence by inserting <code>cu</code> in the correct position:</p>\n<ol>\n<li><code>mi klama</code> → ?</li>\n<li><code>do sipna</code> → ?</li>\n<li><code>ti melbi</code> → ?</li>\n<li><code>mi prami do</code> → ?</li>\n<li><code>do citka ti</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi cu klama</code></li>\n<li><code>do cu sipna</code></li>\n<li><code>ti cu melbi</code></li>\n<li><code>mi cu prami do</code></li>\n<li><code>do cu citka ti</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translation (English → Lojban)</h3>\n<p>Translate using <code>cu</code> in each sentence:</p>\n<ol>\n<li>I sleep.</li>\n<li>You are beautiful.</li>\n<li>This is good.</li>\n<li>I drink this.</li>\n<li>You write.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi cu sipna</code></li>\n<li><code>do cu melbi</code></li>\n<li><code>ti cu xamgu</code></li>\n<li><code>mi cu pinxe ti</code></li>\n<li><code>do cu ciska</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Rapid Drill</h3>\n<p>Say each sentence aloud as fast as you can while staying clear:</p>\n<ol>\n<li><code>mi cu prami do</code></li>\n<li><code>do cu tavla mi</code></li>\n<li><code>mi cu citka</code></li>\n<li><code>do cu pinxe ti</code></li>\n<li><code>mi cu cadzu</code></li>\n<li><code>ti cu melbi</code></li>\n</ol>\n<p>Repeat the list twice. On the second pass, try without looking.</p>\n",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "add-`cu`-appropriately",
+          "items": [
+            {
+              "text": "`mi klama` → ?",
+              "answer": "`mi cu klama`"
+            },
+            {
+              "text": "`do sipna` → ?",
+              "answer": "`do cu sipna`"
+            },
+            {
+              "text": "`ti melbi` → ?",
+              "answer": "`ti cu melbi`"
+            },
+            {
+              "text": "`mi prami do` → ?",
+              "answer": "`mi cu prami do`"
+            },
+            {
+              "text": "`do citka ti` → ?",
+              "answer": "`do cu citka ti`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translation",
+          "items": [
+            {
+              "text": "I sleep.",
+              "answer": "`mi cu sipna`"
+            },
+            {
+              "text": "You are beautiful.",
+              "answer": "`do cu melbi`"
+            },
+            {
+              "text": "This is good.",
+              "answer": "`ti cu xamgu`"
+            },
+            {
+              "text": "I drink this.",
+              "answer": "`mi cu pinxe ti`"
+            },
+            {
+              "text": "You write.",
+              "answer": "`do cu ciska`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "rapid-drill",
+          "items": [
+            {
+              "text": "`mi cu prami do`",
+              "answer": null
+            },
+            {
+              "text": "`do cu tavla mi`",
+              "answer": null
+            },
+            {
+              "text": "`mi cu citka`",
+              "answer": null
+            },
+            {
+              "text": "`do cu pinxe ti`",
+              "answer": null
+            },
+            {
+              "text": "`mi cu cadzu`",
+              "answer": null
+            },
+            {
+              "text": "`ti cu melbi`",
+              "answer": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud in Lojban (use <code>cu</code> in each):</strong></p>\n<ol>\n<li>&quot;I sleep.&quot;</li>\n<li>&quot;You are good.&quot;</li>\n<li>&quot;This is beautiful.&quot;</li>\n<li>&quot;I read this.&quot;</li>\n<li>&quot;You walk.&quot;</li>\n</ol>\n<p><strong>Answer key:</strong></p>\n<ol>\n<li><code>mi cu sipna</code></li>\n<li><code>do cu xamgu</code></li>\n<li><code>ti cu melbi</code></li>\n<li><code>mi cu tcidu ti</code></li>\n<li><code>do cu cadzu</code></li>\n</ol>\n",
+      "prompts": [
+        {
+          "text": "\"I sleep.\"",
+          "answer": "`mi cu sipna`"
+        },
+        {
+          "text": "\"You are good.\"",
+          "answer": "`do cu xamgu`"
+        },
+        {
+          "text": "\"This is beautiful.\"",
+          "answer": "`ti cu melbi`"
+        },
+        {
+          "text": "\"I read this.\"",
+          "answer": "`mi cu tcidu ti`"
+        },
+        {
+          "text": "\"You walk.\"",
+          "answer": "`do cu cadzu`"
+        }
+      ]
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>sipna</code></td>\n<td>x1 sleeps</td>\n<td>sleep</td>\n</tr>\n<tr>\n<td><code>melbi</code></td>\n<td>x1 is beautiful to x2 by standard x3</td>\n<td>beautiful</td>\n</tr>\n<tr>\n<td><code>xamgu</code></td>\n<td>x1 is good for x2 by standard x3</td>\n<td>good</td>\n</tr>\n</tbody></table>\n<p><strong>Cmavo introduced today:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>cu</code></td>\n<td>marks the start of the selbri (optional after simple pronouns)</td>\n</tr>\n</tbody></table>\n<p><strong>Running vocabulary count:</strong> 11 of 12 Week 1 gismu learned.</p>\n",
+      "items": [
+        {
+          "lojban": "sipna",
+          "place": "x1 sleeps",
+          "english": "sleep"
+        },
+        {
+          "lojban": "melbi",
+          "place": "x1 is beautiful to x2 by standard x3",
+          "english": "beautiful"
+        },
+        {
+          "lojban": "xamgu",
+          "place": "x1 is good for x2 by standard x3",
+          "english": "good"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned that <code>cu</code> marks the start of the selbri, preventing ambiguity when the x1 sumti could be confused with the selbri. It&#39;s always safe to use, and essential when x1 is more than a simple pronoun. You also learned three new gismu: <code>sipna</code> (sleep), <code>melbi</code> (beautiful), and <code>xamgu</code> (good).</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll learn <code>.i</code>, the sentence separator, and practice chaining multiple sentences together.</p>\n",
+      "tomorrow": "You'll learn `.i`, the sentence separator, and practice chaining multiple sentences together."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "w17d3",
+  "week": 17,
+  "day": 3,
+  "title": "ma for Sumti Questions",
+  "goal": "Learn `ma` as a fill-in-the-blank for sumti.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Action vocabulary review:</p>\n<pre><code>do/act → ?\ntry → ?\nsucceed → ?\n</code></pre>\n<p>(Answers: <code>zukte</code>, <code>troci</code>, <code>snada</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>What Is <code>ma</code>?</h3>\n<p><code>ma</code> is a question word that replaces <strong>any sumti</strong> (argument).</p>\n<h3><code>ma</code> in Different Places</h3>\n<p><strong>x1 position:</strong></p>\n<pre><code>ma klama\n</code></pre>\n<p>Who/what goes?</p>\n<p><strong>x2 position:</strong></p>\n<pre><code>do klama ma\n</code></pre>\n<p>Where do you go? (You go to what?)</p>\n<p><strong>x3 position:</strong></p>\n<pre><code>do dunda ti ma\n</code></pre>\n<p>To whom do you give this?</p>\n<h3>Examples</h3>\n<pre><code>ma citka lo plise\n</code></pre>\n<p>Who eats the apple?</p>\n<pre><code>do nelci ma\n</code></pre>\n<p>What do you like?</p>\n<pre><code>do dunda ma mi\n</code></pre>\n<p>What do you give me?</p>\n<h3>Answering <code>ma</code> Questions</h3>\n<p>Replace <code>ma</code> with the answer:</p>\n<p><strong>Q:</strong> <code>do klama ma</code>\n<strong>A:</strong> <code>mi klama la .paris.</code> (I go to Paris.)</p>\n<p><strong>Q:</strong> <code>ma tavla do</code>\n<strong>A:</strong> <code>la .bob. cu tavla mi</code> (Bob talks to me.)</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>ma</code> asks &quot;who?&quot; or &quot;what?&quot; — replace it with a sumti to answer.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Form Questions with ma</h3>\n<p>Create questions:</p>\n<ol>\n<li>Who goes? → ?</li>\n<li>What do you eat? → ?</li>\n<li>To whom do you give this? → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ma klama</code></li>\n<li><code>do citka ma</code></li>\n<li><code>do dunda ti ma</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Answer Questions</h3>\n<p>Answer these:</p>\n<ol>\n<li><code>do klama ma</code> — I go to Paris.</li>\n<li><code>ma nelci lo plise</code> — Bob likes apples.</li>\n<li><code>do tavla ma</code> — I talk to Alice.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi klama la .paris.</code></li>\n<li><code>la .bob. cu nelci lo plise</code></li>\n<li><code>mi tavla la .alis.</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Translate Questions</h3>\n<p>Translate:</p>\n<ol>\n<li>What causes this?</li>\n<li>Who tries to go?</li>\n<li>What is the result?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ma rinka ti</code></li>\n<li><code>ma troci lo nu klama</code></li>\n<li><code>ma jalge</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "form-questions-with-ma",
+          "items": [
+            {
+              "text": "Who goes? → ?",
+              "answer": "`ma klama`"
+            },
+            {
+              "text": "What do you eat? → ?",
+              "answer": "`do citka ma`"
+            },
+            {
+              "text": "To whom do you give this? → ?",
+              "answer": "`do dunda ti ma`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "answer-questions",
+          "items": [
+            {
+              "text": "`do klama ma` — I go to Paris.",
+              "answer": "`mi klama la .paris.`"
+            },
+            {
+              "text": "`ma nelci lo plise` — Bob likes apples.",
+              "answer": "`la .bob. cu nelci lo plise`"
+            },
+            {
+              "text": "`do tavla ma` — I talk to Alice.",
+              "answer": "`mi tavla la .alis.`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "translate-questions",
+          "items": [
+            {
+              "text": "What causes this?",
+              "answer": "`ma rinka ti`"
+            },
+            {
+              "text": "Who tries to go?",
+              "answer": "`ma troci lo nu klama`"
+            },
+            {
+              "text": "What is the result?",
+              "answer": "`ma jalge`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;Where do you go?&quot; → <code>do klama ma</code></li>\n<li>&quot;What do you want?&quot; → <code>do djica ma</code></li>\n<li>&quot;Who is that?&quot; → <code>ma ta</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Grammar</h2>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ma</code></td>\n<td>Question word for sumti (who/what)</td>\n</tr>\n</tbody></table>\n<p><strong>Usage:</strong> Replace any sumti (x1, x2, x3...) with <code>ma</code> to ask about it.</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>ma</code> for sumti questions. Use <code>ma</code> to ask &quot;who?&quot; or &quot;what?&quot; in any place of a bridi.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> <code>mo</code> for selbri questions.</p>\n",
+      "tomorrow": "`mo` for selbri questions."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "w21d1",
+  "week": 21,
+  "day": 1,
+  "title": "Sumti Connectives: .e",
+  "goal": "Learn to connect sumti with `.e` (and).",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Review relative clause vocabulary:</p>\n<pre><code>story → ?      picture → ?\nmusic → ?      poem → ?\n</code></pre>\n<p>(Answers: <code>lisri</code>, <code>pixra</code>, <code>zgike</code>, <code>pemci</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jmina</code></td>\n<td>x1 adds x2 to x3 by amount x4</td>\n<td>add/increase</td>\n</tr>\n<tr>\n<td><code>vimcu</code></td>\n<td>x1 removes x2 from x3</td>\n<td>remove/subtract</td>\n</tr>\n</tbody></table>\n<h3>What Are Logical Connectives?</h3>\n<p>Logical connectives join words or phrases with specific logical meanings. Today we learn <code>.e</code> — the basic &quot;and&quot; for sumti.</p>\n<h3>The Sumti Connective <code>.e</code></h3>\n<p><code>.e</code> connects two sumti that share the same relationship:</p>\n<pre><code>mi .e do cu klama\n</code></pre>\n<p>I and you go. (Both of us go.)</p>\n<pre><code>la .alis. .e la .bob. cu tavla\n</code></pre>\n<p>Alice and Bob talk.</p>\n<h3>More Examples</h3>\n<pre><code>lo gerku .e lo mlatu cu melbi\n</code></pre>\n<p>Dogs and cats are beautiful.</p>\n<pre><code>mi viska lo cukta .e lo penbi\n</code></pre>\n<p>I see the book and the pen.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>.e</code> means both sumti have the same relationship to the selbri. &quot;A and B do X&quot; = A does X, and B does X.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Use .e</h3>\n<p>Translate:</p>\n<ol>\n<li>I and you are happy.</li>\n<li>Alice and Bob go.</li>\n<li>The dog and the cat are big.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi .e do cu gleki</code></li>\n<li><code>la .alis. .e la .bob. cu klama</code></li>\n<li><code>lo gerku .e lo mlatu cu barda</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>I add water.</li>\n<li>You remove the book.</li>\n<li>Alice adds and Bob removes.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi jmina lo djacu</code></li>\n<li><code>do vimcu lo cukta</code></li>\n<li><code>la .alis. cu jmina .i la .bob. cu vimcu</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "use-.e",
+          "items": [
+            {
+              "text": "I and you are happy.",
+              "answer": "`mi .e do cu gleki`"
+            },
+            {
+              "text": "Alice and Bob go.",
+              "answer": "`la .alis. .e la .bob. cu klama`"
+            },
+            {
+              "text": "The dog and the cat are big.",
+              "answer": "`lo gerku .e lo mlatu cu barda`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "new-vocabulary",
+          "items": [
+            {
+              "text": "I add water.",
+              "answer": "`mi jmina lo djacu`"
+            },
+            {
+              "text": "You remove the book.",
+              "answer": "`do vimcu lo cukta`"
+            },
+            {
+              "text": "Alice adds and Bob removes.",
+              "answer": "`la .alis. cu jmina .i la .bob. cu vimcu`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;You and I talk.&quot; → <code>mi .e do cu tavla</code></li>\n<li>&quot;I add.&quot; → <code>mi jmina</code></li>\n<li>&quot;Dogs and cats are good.&quot; → <code>lo gerku .e lo mlatu cu xamgu</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jmina</code></td>\n<td>add/increase</td>\n</tr>\n<tr>\n<td><code>vimcu</code></td>\n<td>remove/subtract</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>.e</code></td>\n<td>And (sumti connective) — both are true</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>.e</code> to connect sumti with &quot;and&quot; meaning. Both sumti share the same relationship to the selbri.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Other sumti connectives — <code>.a</code>, <code>.o</code>, <code>.u</code>.</p>\n",
+      "tomorrow": "Other sumti connectives — `.a`, `.o`, `.u`."
+    }
+  ]
+}

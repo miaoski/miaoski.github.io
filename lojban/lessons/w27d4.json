@@ -1,0 +1,79 @@
+{
+  "id": "w27d4",
+  "week": 27,
+  "day": 4,
+  "title": "Shopping and Ordering",
+  "goal": "Build restaurant and shop dialogues.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Activities review:</p>\n<pre><code>do zukte ma = ?\nmi nelci lo nu tcidu = ?\n</code></pre>\n<p>(Answers: What do you do?, I like reading)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Shopping Phrases</h3>\n<pre><code>mi djica lo nu te vecnu X\n</code></pre>\n<p>I want to buy X.</p>\n<pre><code>mi djica tu&#39;a X\n</code></pre>\n<p>I want (something about) X. (Shorter form)</p>\n<pre><code>lo X cu kargu ma\n</code></pre>\n<p>How much does X cost?</p>\n<pre><code>lo X cu kargu li [number]\n</code></pre>\n<p>X costs [number].</p>\n<h3>Restaurant Phrases</h3>\n<pre><code>mi djica lo nu citka X\n</code></pre>\n<p>I want to eat X.</p>\n<pre><code>ko dunda lo ckafi mi\n</code></pre>\n<p>Please give me coffee.</p>\n<pre><code>ki&#39;e\n</code></pre>\n<p>Thank you.</p>\n<pre><code>je&#39;e\n</code></pre>\n<p>You&#39;re welcome. / Acknowledged.</p>\n<h3>Sample Restaurant Dialogue</h3>\n<pre><code>A: coi .i do djica ma\nB: mi djica tu&#39;a lo ckafi .e lo titnanba\nA: je&#39;e .i lo ckafi .e lo titnanba\nB: ki&#39;e .i lo se pleji cu kargu ma\nA: kargu li mu\nB: je&#39;e\n</code></pre>\n<p>(A: Hello. What would you like? B: I want coffee and cake. A: Okay. Coffee and cake. B: Thanks. How much is the payment? A: It costs 5. B: Okay.)</p>\n<h3>Shopping Dialogue</h3>\n<pre><code>A: mi djica lo nu te vecnu lo cukta\nB: ta cukta .i ta kargu li pa no\nA: xu do te vecnu lo penbi\nB: .ie .i ta kargu li re\nA: mi te vecnu ri\n</code></pre>\n<p>(A: I want to buy a book. B: That&#39;s a book. It costs 10. A: Do you sell pens? B: Yes. That costs 2. A: I&#39;ll buy it.)</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Use <code>tu&#39;a</code> for quick requests, full abstraction for explicit wants.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Shopping</h3>\n<p>Translate:</p>\n<ol>\n<li>I want to buy apples.</li>\n<li>How much does this cost?</li>\n<li>I&#39;ll take it.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi djica lo nu te vecnu lo plise</code></li>\n<li><code>ti kargu ma</code></li>\n<li><code>mi te vecnu ri</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Restaurant</h3>\n<p>Translate:</p>\n<ol>\n<li>I want coffee.</li>\n<li>Please give me water.</li>\n<li>Thank you.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi djica tu&#39;a lo ckafi</code></li>\n<li><code>ko dunda lo djacu mi</code></li>\n<li><code>ki&#39;e</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Create Dialogue</h3>\n<p>Write a short shopping dialogue:</p>\n<details>\n<summary>Example Answer</summary>\n\n<pre><code>A: coi .i mi djica tu&#39;a lo plise\nB: ti plise .i ti kargu li ci\nA: xamgu .i mi te vecnu\nB: ki&#39;e .i co&#39;o\n</code></pre>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "shopping",
+          "items": [
+            {
+              "text": "I want to buy apples.",
+              "answer": "`mi djica lo nu te vecnu lo plise`"
+            },
+            {
+              "text": "How much does this cost?",
+              "answer": "`ti kargu ma`"
+            },
+            {
+              "text": "I'll take it.",
+              "answer": "`mi te vecnu ri`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "restaurant",
+          "items": [
+            {
+              "text": "I want coffee.",
+              "answer": "`mi djica tu'a lo ckafi`"
+            },
+            {
+              "text": "Please give me water.",
+              "answer": "`ko dunda lo djacu mi`"
+            },
+            {
+              "text": "Thank you.",
+              "answer": "`ki'e`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "create-dialogue",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Role-play ordering food:</strong></p>\n<ol>\n<li>Greet the server</li>\n<li>Order something</li>\n<li>Ask the price</li>\n<li>Say thank you</li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Phrases</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi djica tu&#39;a X</code></td>\n<td>I want X</td>\n</tr>\n<tr>\n<td><code>lo X cu kargu ma</code></td>\n<td>How much is X?</td>\n</tr>\n<tr>\n<td><code>mi te vecnu</code></td>\n<td>I&#39;ll buy</td>\n</tr>\n<tr>\n<td><code>ko dunda X mi</code></td>\n<td>Please give me X</td>\n</tr>\n<tr>\n<td><code>ki&#39;e</code></td>\n<td>Thank you</td>\n</tr>\n<tr>\n<td><code>je&#39;e</code></td>\n<td>You&#39;re welcome</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced shopping and restaurant dialogues using requests, prices, and polite phrases.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Directions and locations.</p>\n",
+      "tomorrow": "Directions and locations."
+    }
+  ]
+}

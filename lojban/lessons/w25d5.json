@@ -1,0 +1,88 @@
+{
+  "id": "w25d5",
+  "week": 25,
+  "day": 5,
+  "title": "Sticky Tense with ki",
+  "goal": "Learn `ki` to set a tense that persists across sentences.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Compound tense review:</p>\n<pre><code>puca&#39;o = ?\nbaco&#39;a = ?\npuze&#39;u = ?\n</code></pre>\n<p>(Answers: was ongoing, will begin, for long time in past)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>The Problem</h3>\n<p>Without <code>ki</code>, you must repeat tense in every sentence:</p>\n<pre><code>mi pu klama la .paris. .i mi pu penmi la .tam. .i mi pu citka\n</code></pre>\n<p>I went to Paris. I met Tom. I ate.</p>\n<h3>The Solution: ki</h3>\n<p><code>ki</code> &quot;sticks&quot; a tense so it applies to following sentences:</p>\n<pre><code>mi pu ki klama la .paris. .i penmi la .tam. .i citka\n</code></pre>\n<p>(In the past:) I went to Paris. Met Tom. Ate.</p>\n<p>All three actions are in the past without repeating <code>pu</code>.</p>\n<h3>Resetting ki</h3>\n<p>Use <code>ki</code> again to set a new default:</p>\n<pre><code>mi pu ki klama la .paris.\n.i ca ki tavla la .tam.\n</code></pre>\n<p>(Past:) I went to Paris. (Now:) I talk to Tom.</p>\n<h3>ki with Spatial Tenses</h3>\n<p>Works for space too:</p>\n<pre><code>mi vi ki viska lo mlatu .i viska lo gerku\n</code></pre>\n<p>(Here:) I see a cat. See a dog. (Both are nearby.)</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>ki</code> sets a tense context that persists until reset. It makes narratives more efficient.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Use pu ki</h3>\n<p>Write a 3-sentence past narrative using <code>ki</code>:</p>\n<ol>\n<li>I went to the store.</li>\n<li>I bought apples.</li>\n<li>I returned home.</li>\n</ol>\n<details>\n<summary>Answer</summary>\n\n<pre><code>mi pu ki klama lo zarci\n.i te vecnu lo plise\n.i xruti lo zdani\n</code></pre>\n</details>\n\n<h3>Exercise 2: Use ba ki</h3>\n<p>Write a 3-sentence future narrative using <code>ki</code>:</p>\n<ol>\n<li>I will wake up.</li>\n<li>I will eat breakfast.</li>\n<li>I will go to work.</li>\n</ol>\n<details>\n<summary>Answer</summary>\n\n<pre><code>mi ba ki cikna\n.i citka lo cerni cidja\n.i klama lo briju\n</code></pre>\n</details>\n\n<h3>Exercise 3: Switch Tenses</h3>\n<p>Write sentences that switch from past to present:</p>\n<ol>\n<li>(Past) I studied.</li>\n<li>(Now) I know.</li>\n</ol>\n<details>\n<summary>Answer</summary>\n\n<pre><code>mi pu ki tadni\n.i ca ki djuno\n</code></pre>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "use-pu-ki",
+          "items": [
+            {
+              "text": "I went to the store.",
+              "answer": null
+            },
+            {
+              "text": "I bought apples.",
+              "answer": null
+            },
+            {
+              "text": "I returned home.",
+              "answer": null
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "use-ba-ki",
+          "items": [
+            {
+              "text": "I will wake up.",
+              "answer": null
+            },
+            {
+              "text": "I will eat breakfast.",
+              "answer": null
+            },
+            {
+              "text": "I will go to work.",
+              "answer": null
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "switch-tenses",
+          "items": [
+            {
+              "text": "(Past) I studied.",
+              "answer": null
+            },
+            {
+              "text": "(Now) I know.",
+              "answer": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Tell a short story using ki:</strong></p>\n<p><strong>Example:</strong></p>\n<pre><code>mi pu ki cadzu bu&#39;u lo foldi\n.i viska lo cipni\n.i gleki\n.i ca ki stali lo zdani\n</code></pre>\n<p>(In the past: I walked in the field. Saw a bird. Was happy. Now: I stay at home.)</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Grammar</h2>\n<p><strong>Sticky tense:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Pattern</th>\n<th>Effect</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pu ki</code></td>\n<td>Sets past as default</td>\n</tr>\n<tr>\n<td><code>ba ki</code></td>\n<td>Sets future as default</td>\n</tr>\n<tr>\n<td><code>ca ki</code></td>\n<td>Sets present as default</td>\n</tr>\n<tr>\n<td><code>vi ki</code></td>\n<td>Sets &quot;here&quot; as default</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>ki</code> to set a sticky tense context. This makes narratives more efficient by avoiding repetition.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Repetition with <code>roi</code>.</p>\n",
+      "tomorrow": "Repetition with `roi`."
+    }
+  ]
+}

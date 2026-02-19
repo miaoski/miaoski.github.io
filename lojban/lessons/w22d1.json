@@ -1,0 +1,92 @@
+{
+  "id": "w22d1",
+  "week": 22,
+  "day": 1,
+  "title": "Cause Tags: ri'a, mu'i, ki'u",
+  "goal": "Learn to express different types of causes.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Review logical connectives:</p>\n<pre><code>.e = ?     je = ?     gi&#39;e = ?\n</code></pre>\n<p>(Answers: sumti and, selbri and, bridi-tail and)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>dargu</code></td>\n<td>x1 is a road/highway to x2 from x3</td>\n<td>road/highway</td>\n</tr>\n<tr>\n<td><code>foldi</code></td>\n<td>x1 is a field of x2 (crop/property)</td>\n<td>field</td>\n</tr>\n</tbody></table>\n<h3>What Are Sumtcita?</h3>\n<p>Sumtcita (modal tags) add contextual information beyond basic place structure. They work like precise prepositions.</p>\n<h3>Cause/Reason Tags</h3>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Type of Cause</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ri&#39;a</code></td>\n<td>Physical cause</td>\n<td>Because (physics)</td>\n</tr>\n<tr>\n<td><code>mu&#39;i</code></td>\n<td>Motivation</td>\n<td>Motivated by</td>\n</tr>\n<tr>\n<td><code>ki&#39;u</code></td>\n<td>Justification</td>\n<td>Justified by</td>\n</tr>\n</tbody></table>\n<h3>Using ri&#39;a (Physical Cause)</h3>\n<pre><code>mi farlu ri&#39;a lo nu mi xagji\n</code></pre>\n<p>I fall because I&#39;m hungry. (Physical cause)</p>\n<h3>Using mu&#39;i (Motivation)</h3>\n<pre><code>mi klama mu&#39;i lo nu mi djica\n</code></pre>\n<p>I go motivated by my desire.</p>\n<h3>Using ki&#39;u (Justification)</h3>\n<pre><code>mi klama ki&#39;u lo nu xamgu\n</code></pre>\n<p>I go because/justified-by it being good.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>ri&#39;a</code> = physical cause, <code>mu&#39;i</code> = motivation, <code>ki&#39;u</code> = explanation/justification.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Use ri&#39;a</h3>\n<p>Translate:</p>\n<ol>\n<li>I fall because I&#39;m tired.</li>\n<li>The water freezes because it&#39;s cold.</li>\n<li>I sleep because I&#39;m sick.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi farlu ri&#39;a lo nu mi tatpi</code></li>\n<li><code>lo djacu cu dunja ri&#39;a lo nu lenku</code></li>\n<li><code>mi sipna ri&#39;a lo nu mi bilma</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Use mu&#39;i</h3>\n<p>Translate:</p>\n<ol>\n<li>I go motivated by happiness.</li>\n<li>Alice works motivated by love.</li>\n<li>I learn motivated by curiosity.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi klama mu&#39;i lo nu mi gleki</code></li>\n<li><code>la .alis. cu gunka mu&#39;i lo prami</code></li>\n<li><code>mi cilre mu&#39;i lo nu mi djica lo nu djuno</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>This is a road.</li>\n<li>I see a field.</li>\n<li>The road is long.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti dargu</code></li>\n<li><code>mi viska lo foldi</code></li>\n<li><code>lo dargu cu clani</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "use-ri'a",
+          "items": [
+            {
+              "text": "I fall because I'm tired.",
+              "answer": "`mi farlu ri'a lo nu mi tatpi`"
+            },
+            {
+              "text": "The water freezes because it's cold.",
+              "answer": "`lo djacu cu dunja ri'a lo nu lenku`"
+            },
+            {
+              "text": "I sleep because I'm sick.",
+              "answer": "`mi sipna ri'a lo nu mi bilma`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "use-mu'i",
+          "items": [
+            {
+              "text": "I go motivated by happiness.",
+              "answer": "`mi klama mu'i lo nu mi gleki`"
+            },
+            {
+              "text": "Alice works motivated by love.",
+              "answer": "`la .alis. cu gunka mu'i lo prami`"
+            },
+            {
+              "text": "I learn motivated by curiosity.",
+              "answer": "`mi cilre mu'i lo nu mi djica lo nu djuno`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "new-vocabulary",
+          "items": [
+            {
+              "text": "This is a road.",
+              "answer": "`ti dargu`"
+            },
+            {
+              "text": "I see a field.",
+              "answer": "`mi viska lo foldi`"
+            },
+            {
+              "text": "The road is long.",
+              "answer": "`lo dargu cu clani`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I go because I want to.&quot; → <code>mi klama mu&#39;i lo nu mi djica</code></li>\n<li>&quot;This is a road.&quot; → <code>ti dargu</code></li>\n<li>&quot;I work because it&#39;s good.&quot; → <code>mi gunka ki&#39;u lo nu xamgu</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>dargu</code></td>\n<td>road/highway</td>\n</tr>\n<tr>\n<td><code>foldi</code></td>\n<td>field</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ri&#39;a</code></td>\n<td>Physical cause</td>\n</tr>\n<tr>\n<td><code>mu&#39;i</code></td>\n<td>Motivation</td>\n</tr>\n<tr>\n<td><code>ki&#39;u</code></td>\n<td>Justification/explanation</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned cause tags: <code>ri&#39;a</code> (physical), <code>mu&#39;i</code> (motivation), <code>ki&#39;u</code> (justification). These add &quot;because&quot; with different nuances.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Location tags — <code>bu&#39;u</code>, <code>fa&#39;a</code>, <code>to&#39;o</code>.</p>\n",
+      "tomorrow": "Location tags — `bu'u`, `fa'a`, `to'o`."
+    }
+  ]
+}

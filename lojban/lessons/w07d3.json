@@ -1,0 +1,101 @@
+{
+  "id": "w07d3",
+  "week": 7,
+  "day": 3,
+  "title": "Introduction to `ve`",
+  "goal": "Learn how `ve` swaps x1 and x4, putting the fourth place first.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Conversion review:</p>\n<pre><code>se swaps x1 ↔ x2\nte swaps x1 ↔ x3\n</code></pre>\n<p>Convert: <code>mi benji la cukta la .bob.</code> → ? (with <code>te</code>)</p>\n<p>(Answer: <code>la .bob. te benji la cukta mi</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>The Fourth Place: <code>ve</code></h3>\n<p><code>li mu ve vecnu la cukta mi do</code> — 5 is the price of a book from me to you.</p>\n<p><code>ve</code> swaps x1 and x4. This is useful for gismu with important fourth places.</p>\n<h4><code>ve</code> with <code>vecnu</code></h4>\n<p>Original <code>vecnu</code>:</p>\n<pre><code>vecnu — x1 (seller) sells x2 (goods) to x3 (buyer) for x4 (price)\n</code></pre>\n<p>With <code>ve</code>:</p>\n<pre><code>ve vecnu — x1 (price) is-the-price-of x2 (goods) to x3 (buyer) from x4 (seller)\n</code></pre>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>ve</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi vecnu la cukta do mu no</code></td>\n<td><code>mu no ve vecnu la cukta do mi</code></td>\n</tr>\n<tr>\n<td>I sell a book to you for 50.</td>\n<td>50 is the price of a book to you from me.</td>\n</tr>\n</tbody></table>\n<h4>New Vocabulary</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>tarja</code></td>\n<td>x1 posts x2 at location x3 for audience x4</td>\n<td>post/display</td>\n</tr>\n<tr>\n<td><code>tutci</code></td>\n<td>x1 is a tool for purpose x2 used by x3</td>\n<td>tool</td>\n</tr>\n</tbody></table>\n<h4><code>ve</code> with <code>benji</code></h4>\n<p>Original: x1 sends x2 to x3 from x4 via x5</p>\n<p>With <code>ve</code>: x1 (source/origin) sends x2 to x3 by x4 (sender)</p>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>ve</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi benji la notci do la zdani</code></td>\n<td><code>la zdani ve benji la notci do mi</code></td>\n</tr>\n<tr>\n<td>I send a message to you from home.</td>\n<td>Home is-the-source of a message to you by me.</td>\n</tr>\n</tbody></table>\n<h4>When to Use <code>ve</code></h4>\n<p>Use <code>ve</code> when:</p>\n<ol>\n<li>Discussing prices: &quot;The price is 50&quot; → <code>mu no ve vecnu...</code></li>\n<li>Discussing sources/mediums</li>\n<li>Answering questions about fourth-place arguments</li>\n</ol>\n<h4>Comparing Conversions</h4>\n<table>\n<thead>\n<tr>\n<th>Sentence</th>\n<th>Focus</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi vecnu la cukta do mu no</code></td>\n<td>I (seller)</td>\n</tr>\n<tr>\n<td><code>la cukta se vecnu mi do mu no</code></td>\n<td>book (goods)</td>\n</tr>\n<tr>\n<td><code>do te vecnu la cukta mi mu no</code></td>\n<td>you (buyer)</td>\n</tr>\n<tr>\n<td><code>mu no ve vecnu la cukta do mi</code></td>\n<td>50 (price)</td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p><code>ve</code> swaps x1 and x4. For <code>vecnu</code>, this makes the price the topic.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "`ve` swaps x1 and x4. For `vecnu`, this makes the price the topic."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Apply <code>ve</code></h3>\n<p>Rewrite using <code>ve</code>:</p>\n<ol>\n<li><code>mi vecnu la karce la .bob. pa no no</code> → ?</li>\n<li><code>la .alis. cu vecnu la skami mi re no no</code> → ?</li>\n<li><code>do vecnu la cukta la .tam. mu no</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>pa no no ve vecnu la karce la .bob. mi</code></li>\n<li><code>re no no ve vecnu la skami mi la .alis.</code></li>\n<li><code>mu no ve vecnu la cukta la .tam. do</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Interpret <code>ve</code> Sentences</h3>\n<p>Translate to English:</p>\n<ol>\n<li><code>ci no ve vecnu la plise mi la .bob.</code></li>\n<li><code>pa no no no ve vecnu la karce do mi</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>30 is the price of apples to me from Bob. / Bob sells apples to me for 30.</li>\n<li>1000 is the price of the car to you from me. / I sell the car to you for 1000.</li>\n</ol>\n</details>\n\n<h3>Exercise 3: Choose the Right Conversion</h3>\n<p>Which conversion focuses on the underlined element?</p>\n<ol>\n<li><code>mi vecnu la cukta do __mu no__</code> — focus on price → ?</li>\n<li><code>mi vecnu __la cukta__ do mu no</code> — focus on book → ?</li>\n<li><code>mi vecnu la cukta __do__ mu no</code> — focus on buyer → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ve</code> — <code>mu no ve vecnu la cukta do mi</code></li>\n<li><code>se</code> — <code>la cukta se vecnu mi do mu no</code></li>\n<li><code>te</code> — <code>do te vecnu la cukta mi mu no</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "apply-`ve`",
+          "items": [
+            {
+              "text": "`mi vecnu la karce la .bob. pa no no` → ?",
+              "answer": "`pa no no ve vecnu la karce la .bob. mi`"
+            },
+            {
+              "text": "`la .alis. cu vecnu la skami mi re no no` → ?",
+              "answer": "`re no no ve vecnu la skami mi la .alis.`"
+            },
+            {
+              "text": "`do vecnu la cukta la .tam. mu no` → ?",
+              "answer": "`mu no ve vecnu la cukta la .tam. do`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "interpret-`ve`-sentences",
+          "items": [
+            {
+              "text": "`ci no ve vecnu la plise mi la .bob.`",
+              "answer": "30 is the price of apples to me from Bob. / Bob sells apples to me for 30."
+            },
+            {
+              "text": "`pa no no no ve vecnu la karce do mi`",
+              "answer": "1000 is the price of the car to you from me. / I sell the car to you for 1000."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "choose-the-right-conversion",
+          "items": [
+            {
+              "text": "`mi vecnu la cukta do __mu no__` — focus on price → ?",
+              "answer": "`ve` — `mu no ve vecnu la cukta do mi`"
+            },
+            {
+              "text": "`mi vecnu __la cukta__ do mu no` — focus on book → ?",
+              "answer": "`se` — `la cukta se vecnu mi do mu no`"
+            },
+            {
+              "text": "`mi vecnu la cukta __do__ mu no` — focus on buyer → ?",
+              "answer": "`te` — `do te vecnu la cukta mi mu no`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I sell a book to you for 50.&quot; → <code>mi vecnu la cukta do mu no</code></li>\n<li>&quot;50 is the price of the book.&quot; → <code>mu no ve vecnu la cukta</code></li>\n<li>&quot;100 is the price of the car to Bob from me.&quot; → <code>pa no no ve vecnu la karce la .bob. mi</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>tarja</code></td>\n<td>x1 posts x2 at x3 for audience x4</td>\n<td>post</td>\n</tr>\n<tr>\n<td><code>tutci</code></td>\n<td>x1 is a tool for purpose x2 used by x3</td>\n<td>tool</td>\n</tr>\n</tbody></table>\n<p><strong>Cmavo:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ve</code></td>\n<td>swaps x1 and x4</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "tarja",
+          "place": "x1 posts x2 at x3 for audience x4",
+          "english": "post"
+        },
+        {
+          "lojban": "tutci",
+          "place": "x1 is a tool for purpose x2 used by x3",
+          "english": "tool"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>ve</code>, which swaps x1 and x4. For <code>vecnu</code>, <code>ve vecnu</code> makes the price the topic. This completes three of the four conversion operators.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll drill <code>ve</code> and learn <code>sazri</code> (operate) and <code>zbasu</code> (make).</p>\n",
+      "tomorrow": "You'll drill `ve` and learn `sazri` (operate) and `zbasu` (make)."
+    }
+  ]
+}

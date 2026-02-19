@@ -1,0 +1,100 @@
+{
+  "id": "w02d1",
+  "week": 2,
+  "day": 1,
+  "title": "Lojbanizing Your Name",
+  "goal": "Adapt your name to Lojban phonology and introduce yourself with `mi'e`.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Week 1 vocabulary review — translate to English:</p>\n<pre><code>1. mi prami do    → ?\n2. ti melbi       → ?\n3. do sipna       → ?\n4. mi klama       → ?\n5. ta xlali       → ?\n</code></pre>\n<p>(Answers: I love you. This is beautiful. You sleep. I go. That is bad.)</p>\n<p>Say each sentence aloud with correct stress.</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Names in Lojban (cmevla)</h3>\n<p><code>mi&#39;e .alis.</code> — I&#39;m Alice.</p>\n<p>In Lojban, names are a special word type called <strong>cmevla</strong>. They follow strict rules:</p>\n<h4>Rule 1: Must End in a Consonant</h4>\n<p>English names often end in vowels. Lojban names cannot. Add a consonant if needed:</p>\n<table>\n<thead>\n<tr>\n<th>English</th>\n<th>Lojbanized</th>\n<th>Method</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Anna</td>\n<td><code>.anas.</code></td>\n<td>add -s</td>\n</tr>\n<tr>\n<td>Mary</td>\n<td><code>.meris.</code></td>\n<td>add -s</td>\n</tr>\n<tr>\n<td>Joe</td>\n<td><code>.djoz.</code></td>\n<td>add -z</td>\n</tr>\n<tr>\n<td>Chloe</td>\n<td><code>.kloes.</code></td>\n<td>add -s</td>\n</tr>\n</tbody></table>\n<p>Common endings to add: <strong>-s</strong>, <strong>-n</strong>, <strong>-m</strong>, <strong>-z</strong></p>\n<h4>Rule 2: Wrapped in Pauses</h4>\n<p>Every cmevla is surrounded by periods (pauses):</p>\n<pre><code>.alis.    .bob.    .tam.    .meris.\n</code></pre>\n<p>The periods create a tiny silence before and after, setting the name apart from other words.</p>\n<h4>Rule 3: Lojban Sound Rules Apply</h4>\n<p>Some English sounds don&#39;t exist in Lojban. Adapt them:</p>\n<table>\n<thead>\n<tr>\n<th>English Sound</th>\n<th>Lojban Equivalent</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>&quot;th&quot; (think)</td>\n<td>t or f</td>\n</tr>\n<tr>\n<td>&quot;th&quot; (the)</td>\n<td>d</td>\n</tr>\n<tr>\n<td>&quot;w&quot;</td>\n<td>u or v</td>\n</tr>\n<tr>\n<td>&quot;ch&quot; (church)</td>\n<td>tc</td>\n</tr>\n<tr>\n<td>&quot;sh&quot;</td>\n<td>c</td>\n</tr>\n<tr>\n<td>&quot;j&quot; (judge)</td>\n<td>dj</td>\n</tr>\n</tbody></table>\n<table>\n<thead>\n<tr>\n<th>English</th>\n<th>Lojbanized</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>John</td>\n<td><code>.djan.</code></td>\n<td>j → dj</td>\n</tr>\n<tr>\n<td>Charles</td>\n<td><code>.tcarlz.</code></td>\n<td>ch → tc</td>\n</tr>\n<tr>\n<td>William</td>\n<td><code>.uiliam.</code></td>\n<td>w → u</td>\n</tr>\n<tr>\n<td>Catherine</td>\n<td><code>.kateryn.</code></td>\n<td>th → t</td>\n</tr>\n</tbody></table>\n<h4>Examples of Common Names</h4>\n<table>\n<thead>\n<tr>\n<th>English</th>\n<th>Lojban cmevla</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Alice</td>\n<td><code>.alis.</code></td>\n</tr>\n<tr>\n<td>Bob</td>\n<td><code>.bob.</code></td>\n</tr>\n<tr>\n<td>Tom</td>\n<td><code>.tam.</code></td>\n</tr>\n<tr>\n<td>Sarah</td>\n<td><code>.seras.</code></td>\n</tr>\n<tr>\n<td>David</td>\n<td><code>.deivyd.</code></td>\n</tr>\n<tr>\n<td>Paris</td>\n<td><code>.paris.</code></td>\n</tr>\n<tr>\n<td>London</td>\n<td><code>.lyndyn.</code></td>\n</tr>\n</tbody></table>\n<h4>The <code>mi&#39;e</code> Introduction</h4>\n<p><code>mi&#39;e</code> means &quot;I am [name]&quot; — used specifically for introducing yourself:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi&#39;e .alis.</code></td>\n<td>I&#39;m Alice.</td>\n</tr>\n<tr>\n<td><code>mi&#39;e .bob.</code></td>\n<td>I&#39;m Bob.</td>\n</tr>\n<tr>\n<td><code>mi&#39;e .tam.</code></td>\n<td>I&#39;m Tom.</td>\n</tr>\n</tbody></table>\n<p>Note: <code>mi&#39;e</code> is a <strong>vocative</strong>, a special cmavo for social interaction. You&#39;ll learn more vocatives this week.</p>\n<h4>Key Point</h4>\n<blockquote>\n<p>Lojban names (cmevla) must end in a consonant and be wrapped in pauses. Use <code>mi&#39;e .name.</code> to introduce yourself.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "Lojban names (cmevla) must end in a consonant and be wrapped in pauses. Use `mi'e .name.` to introduce yourself."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Lojbanize These Names</h3>\n<p>Convert to Lojban cmevla:</p>\n<ol>\n<li>Emma → ?</li>\n<li>Jack → ?</li>\n<li>Sophie → ?</li>\n<li>Michael → ?</li>\n<li>Tokyo → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>.emas.</code> (add -s)</li>\n<li><code>.djak.</code> (already ends in consonant; j → dj)</li>\n<li><code>.sofis.</code> (add -s, ph → f)</li>\n<li><code>.maikyl.</code> or <code>.maik.</code> (ch → k)</li>\n<li><code>.tokios.</code> (add -s)</li>\n</ol>\n<p>Note: There&#39;s flexibility in Lojbanization — the key is consistency and following the phonology rules.</p>\n</details>\n\n<h3>Exercise 2: Create Your cmevla</h3>\n<p>Lojbanize your own name. Write it here:</p>\n<p>My name in Lojban: <code>.____________.</code></p>\n<p>Now say <code>mi&#39;e .yourname.</code> aloud 5 times.</p>\n<h3>Exercise 3: Introduce These People</h3>\n<p>Write the <code>mi&#39;e</code> introduction for each:</p>\n<ol>\n<li>Alice introduces herself.</li>\n<li>Bob introduces himself.</li>\n<li>You introduce yourself.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi&#39;e .alis.</code></li>\n<li><code>mi&#39;e .bob.</code></li>\n<li><code>mi&#39;e .yourname.</code> (your Lojbanized name)</li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "lojbanize-these-names",
+          "items": [
+            {
+              "text": "Emma → ?",
+              "answer": "`.emas.` (add -s)"
+            },
+            {
+              "text": "Jack → ?",
+              "answer": "`.djak.` (already ends in consonant; j → dj)"
+            },
+            {
+              "text": "Sophie → ?",
+              "answer": "`.sofis.` (add -s, ph → f)"
+            },
+            {
+              "text": "Michael → ?",
+              "answer": "`.maikyl.` or `.maik.` (ch → k)"
+            },
+            {
+              "text": "Tokyo → ?",
+              "answer": "`.tokios.` (add -s)"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "create-your-cmevla",
+          "items": []
+        },
+        {
+          "number": 3,
+          "type": "introduce-these-people",
+          "items": [
+            {
+              "text": "Alice introduces herself.",
+              "answer": "`mi'e .alis.`"
+            },
+            {
+              "text": "Bob introduces himself.",
+              "answer": "`mi'e .bob.`"
+            },
+            {
+              "text": "You introduce yourself.",
+              "answer": "`mi'e .yourname.` (your Lojbanized name)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>Introduce yourself: <code>mi&#39;e .yourname.</code></li>\n<li>Imagine you&#39;re Alice. Say: <code>mi&#39;e .alis.</code></li>\n<li>Imagine you&#39;re Tom. Say: <code>mi&#39;e .tam.</code></li>\n<li>Say your introduction 3 times, getting faster each time.</li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Type</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>cmevla</code></td>\n<td>(term)</td>\n<td>name word; must end in consonant</td>\n</tr>\n<tr>\n<td><code>mi&#39;e</code></td>\n<td>cmavo (vocative)</td>\n<td>I am [name] (introduction)</td>\n</tr>\n</tbody></table>\n<p><strong>New gismu:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>cmene</code></td>\n<td>x1 is a name for x2 used by x3</td>\n<td>name</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "cmevla",
+          "place": "(term)",
+          "english": "name word; must end in consonant"
+        },
+        {
+          "lojban": "mi'e",
+          "place": "cmavo (vocative)",
+          "english": "I am [name] (introduction)"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned that Lojban names (cmevla) must end in a consonant and be wrapped in periods. You Lojbanized your own name and practiced introducing yourself with <code>mi&#39;e .name.</code>.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll learn <code>coi</code> (hello) and <code>co&#39;o</code> (goodbye), and start greeting people by name.</p>\n",
+      "tomorrow": "You'll learn `coi` (hello) and `co'o` (goodbye), and start greeting people by name."
+    }
+  ]
+}

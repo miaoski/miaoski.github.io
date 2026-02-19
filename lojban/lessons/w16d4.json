@@ -1,0 +1,88 @@
+{
+  "id": "w16d4",
+  "week": 16,
+  "day": 4,
+  "title": "na with Tense",
+  "goal": "Understand how `na` interacts with tense markers.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p><code>na</code> review:</p>\n<pre><code>I don&#39;t go → ?\nThis is not good → ?\n</code></pre>\n<p>(Answers: <code>mi na klama</code>, <code>ti na xamgu</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3><code>na</code> + Tense: Order Matters</h3>\n<p>The position of <code>na</code> relative to tense changes meaning:</p>\n<h3><code>na</code> Before Tense</h3>\n<pre><code>mi na pu klama\n</code></pre>\n<p>It is not the case that [I went].\n(Negates the entire past claim.)</p>\n<h3>Tense Before <code>na</code></h3>\n<pre><code>mi pu na klama\n</code></pre>\n<p>I past-not-go. = In the past, I didn&#39;t go.\n(The negation is within the past context.)</p>\n<h3>Subtle Difference</h3>\n<table>\n<thead>\n<tr>\n<th>Form</th>\n<th>Reading</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi na pu klama</code></td>\n<td>Not true that [I went]</td>\n</tr>\n<tr>\n<td><code>mi pu na klama</code></td>\n<td>[I didn&#39;t go] in the past</td>\n</tr>\n</tbody></table>\n<p>In practice, both often mean &quot;I didn&#39;t go,&quot; but technically:</p>\n<ul>\n<li>First: denies the whole past claim</li>\n<li>Second: affirms a past state of not-going</li>\n</ul>\n<h3>Examples</h3>\n<pre><code>mi na pu citka lo plise\n</code></pre>\n<p>It&#39;s not true that I ate apples.</p>\n<pre><code>mi pu na citka lo plise\n</code></pre>\n<p>In the past, I didn&#39;t eat apples.</p>\n<h3>Practical Advice</h3>\n<p>For most purposes, <code>mi pu na klama</code> is the natural way to say &quot;I didn&#39;t go.&quot;</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Position matters: <code>na pu</code> negates the claim; <code>pu na</code> places negation in the past.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Translate Both Forms</h3>\n<p>Translate:</p>\n<ol>\n<li>It&#39;s not true that I went. → ?</li>\n<li>I didn&#39;t go (in the past). → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi na pu klama</code></li>\n<li><code>mi pu na klama</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Identify Meaning</h3>\n<p>What does each mean?</p>\n<ol>\n<li><code>mi na ba citka</code></li>\n<li><code>mi ba na citka</code></li>\n<li><code>mi na ca gunka</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>It&#39;s not true that I will eat.</li>\n<li>I will not eat (in the future).</li>\n<li>It&#39;s not true that I am working now.</li>\n</ol>\n</details>\n\n<h3>Exercise 3: Real Situations</h3>\n<p>Translate naturally:</p>\n<ol>\n<li>I didn&#39;t sleep.</li>\n<li>I won&#39;t go.</li>\n<li>I am not working now.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi pu na sipna</code></li>\n<li><code>mi ba na klama</code></li>\n<li><code>mi ca na gunka</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "translate-both-forms",
+          "items": [
+            {
+              "text": "It's not true that I went. → ?",
+              "answer": "`mi na pu klama`"
+            },
+            {
+              "text": "I didn't go (in the past). → ?",
+              "answer": "`mi pu na klama`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "identify-meaning",
+          "items": [
+            {
+              "text": "`mi na ba citka`",
+              "answer": "It's not true that I will eat."
+            },
+            {
+              "text": "`mi ba na citka`",
+              "answer": "I will not eat (in the future)."
+            },
+            {
+              "text": "`mi na ca gunka`",
+              "answer": "It's not true that I am working now."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "real-situations",
+          "items": [
+            {
+              "text": "I didn't sleep.",
+              "answer": "`mi pu na sipna`"
+            },
+            {
+              "text": "I won't go.",
+              "answer": "`mi ba na klama`"
+            },
+            {
+              "text": "I am not working now.",
+              "answer": "`mi ca na gunka`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I didn&#39;t go.&quot; → <code>mi pu na klama</code></li>\n<li>&quot;I won&#39;t eat.&quot; → <code>mi ba na citka</code></li>\n<li>&quot;I&#39;m not working.&quot; → <code>mi ca na gunka</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Grammar</h2>\n<table>\n<thead>\n<tr>\n<th>Form</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>na pu</code> + selbri</td>\n<td>Not true that [past event]</td>\n</tr>\n<tr>\n<td><code>pu na</code> + selbri</td>\n<td>In the past, [didn&#39;t do]</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned how <code>na</code> interacts with tense. Order matters: <code>na pu</code> negates the claim; <code>pu na</code> locates negation in the past.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Scalar negation — <code>na&#39;e</code>, <code>to&#39;e</code>, <code>no&#39;e</code>.</p>\n",
+      "tomorrow": "Scalar negation — `na'e`, `to'e`, `no'e`."
+    }
+  ]
+}

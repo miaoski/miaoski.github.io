@@ -1,0 +1,92 @@
+{
+  "id": "w14d3",
+  "week": 14,
+  "day": 3,
+  "title": "Tanru Review",
+  "goal": "Review tanru formation rules and semantics.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>All 8 vocabulary words:</p>\n<pre><code>language → ?    Chinese → ?\nword → ?        Spanish → ?\nmeaning → ?     Russian → ?\n</code></pre>\n<p>(Answers: <code>bangu</code>, <code>jungo</code>, <code>valsi</code>, <code>spano</code>, <code>smuni</code>, <code>rusko</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Tanru Formation Rules</h3>\n<p><strong>Basic Rule:</strong> Left modifies right.</p>\n<pre><code>blanu gerku = blue dog\n</code></pre>\n<p><strong>Place Structure:</strong> From rightmost word.</p>\n<pre><code>sutra klama → places from klama (goer, dest, origin, route, vehicle)\n</code></pre>\n<h3>Grouping Tools</h3>\n<table>\n<thead>\n<tr>\n<th>Tool</th>\n<th>Effect</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Default</td>\n<td><code>(A B) C</code></td>\n<td><code>barda blanu gerku</code> = (big-blue) dog</td>\n</tr>\n<tr>\n<td><code>bo</code></td>\n<td><code>A (B C)</code></td>\n<td><code>barda blanu bo gerku</code> = big (blue-dog)</td>\n</tr>\n<tr>\n<td><code>ke...ke&#39;e</code></td>\n<td>Explicit brackets</td>\n<td><code>barda ke blanu gerku ke&#39;e</code></td>\n</tr>\n<tr>\n<td><code>co</code></td>\n<td>Inversion</td>\n<td><code>gerku co blanu</code> = blue dog</td>\n</tr>\n</tbody></table>\n<h3>Tanru Ambiguity</h3>\n<p><code>gerku zdani</code> could mean:</p>\n<ul>\n<li>House for dogs</li>\n<li>Dog-like house</li>\n<li>House where dogs live</li>\n</ul>\n<p>Context determines meaning.</p>\n<h3>Building New Tanru</h3>\n<p>Combine vocabulary from weeks 1-14:</p>\n<pre><code>jungo bangu prenu\n</code></pre>\n<p>Chinese-language person (person who speaks Chinese)</p>\n<pre><code>sutra tavla prenu\n</code></pre>\n<p>Fast-talking person</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Tanru are flexible compounds — master grouping tools and understand place structure inheritance.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Build Tanru</h3>\n<p>Create tanru:</p>\n<ol>\n<li>big house → ?</li>\n<li>Chinese language → ?</li>\n<li>fast runner → ?</li>\n<li>beautiful word → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>barda zdani</code></li>\n<li><code>jungo bangu</code> or <code>junbau</code></li>\n<li><code>sutra bajra</code> (as a person: <code>sutra bajra prenu</code>)</li>\n<li><code>melbi valsi</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Change Grouping</h3>\n<p>Rewrite with different grouping:</p>\n<ol>\n<li><code>(barda blanu) gerku</code> using <code>bo</code> to get <code>barda (blanu gerku)</code> → ?</li>\n<li><code>(sutra bajra) prenu</code> using <code>co</code> to put <code>prenu</code> first → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>barda blanu bo gerku</code></li>\n<li><code>prenu co sutra co bajra</code> or <code>prenu co sutra bajra</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Identify Place Structure</h3>\n<p>What are the places for each tanru?</p>\n<ol>\n<li><code>blanu gerku</code> → places from ?</li>\n<li><code>sutra klama</code> → places from ?</li>\n<li><code>melbi bangu</code> → places from ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>From <code>gerku</code>: x1 is a dog of breed x2</li>\n<li>From <code>klama</code>: x1 goes to x2 from x3 via x4 using x5</li>\n<li>From <code>bangu</code>: x1 is a language used by x2 to express x3</li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "build-tanru",
+          "items": [
+            {
+              "text": "big house → ?",
+              "answer": "`barda zdani`"
+            },
+            {
+              "text": "Chinese language → ?",
+              "answer": "`jungo bangu` or `junbau`"
+            },
+            {
+              "text": "fast runner → ?",
+              "answer": "`sutra bajra` (as a person: `sutra bajra prenu`)"
+            },
+            {
+              "text": "beautiful word → ?",
+              "answer": "`melbi valsi`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "change-grouping",
+          "items": [
+            {
+              "text": "`(barda blanu) gerku` using `bo` to get `barda (blanu gerku)` → ?",
+              "answer": "`barda blanu bo gerku`"
+            },
+            {
+              "text": "`(sutra bajra) prenu` using `co` to put `prenu` first → ?",
+              "answer": "`prenu co sutra co bajra` or `prenu co sutra bajra`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "identify-place-structure",
+          "items": [
+            {
+              "text": "`blanu gerku` → places from ?",
+              "answer": "From `gerku`: x1 is a dog of breed x2"
+            },
+            {
+              "text": "`sutra klama` → places from ?",
+              "answer": "From `klama`: x1 goes to x2 from x3 via x4 using x5"
+            },
+            {
+              "text": "`melbi bangu` → places from ?",
+              "answer": "From `bangu`: x1 is a language used by x2 to express x3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I am a fast runner.&quot; → <code>mi sutra bajra prenu</code></li>\n<li>&quot;This is a beautiful language.&quot; → <code>ti melbi bangu</code></li>\n<li>&quot;I see a big blue dog.&quot; → <code>mi viska lo barda blanu gerku</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Review</h2>\n<p><strong>Tanru tools:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Tool</th>\n<th>Result</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Default</td>\n<td><code>(A B) C</code></td>\n</tr>\n<tr>\n<td><code>bo</code></td>\n<td><code>A (B C)</code></td>\n</tr>\n<tr>\n<td><code>ke...ke&#39;e</code></td>\n<td>Explicit grouping</td>\n</tr>\n<tr>\n<td><code>co</code></td>\n<td>Inversion, places from word before <code>co</code></td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You reviewed tanru formation, grouping, and place structure. Tanru are the foundation for compound concepts in Lojban.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Lujvo deep dive — rafsi and frozen compounds.</p>\n",
+      "tomorrow": "Lujvo deep dive — rafsi and frozen compounds."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "w09d4",
+  "week": 9,
+  "day": 4,
+  "title": "Conversions to Tags Translation",
+  "goal": "Practice translating between conversion style and tag style.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Quick recall:</p>\n<pre><code>te dunda → recipient first\nse dunda → gift first\nfi ... fa ... cu dunda fe ... → tagged\n</code></pre>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Converting Between Systems</h3>\n<h4>New Vocabulary</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>xagji</code></td>\n<td>x1 is hungry for x2</td>\n<td>hungry</td>\n</tr>\n<tr>\n<td><code>taske</code></td>\n<td>x1 is thirsty for x2</td>\n<td>thirsty</td>\n</tr>\n</tbody></table>\n<h4>Conversion → Tags</h4>\n<p>Any converted sentence can be rewritten with tags:</p>\n<p><strong><code>se dunda</code> → tags:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Conversion</th>\n<th>Tags</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>la cukta se dunda mi la .bob.</code></td>\n<td><code>fe la cukta fa mi cu dunda fi la .bob.</code></td>\n</tr>\n</tbody></table>\n<p>Both mean: The book is given by me to Bob.</p>\n<p><strong><code>te dunda</code> → tags:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Conversion</th>\n<th>Tags</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>la .bob. te dunda la cukta mi</code></td>\n<td><code>fi la .bob. fa mi cu dunda fe la cukta</code></td>\n</tr>\n</tbody></table>\n<p>Both mean: Bob receives a book from me.</p>\n<p><strong><code>ve vecnu</code> → tags:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Conversion</th>\n<th>Tags</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mu no ve vecnu la cukta do mi</code></td>\n<td><code>fo mu no fa mi cu vecnu fe la cukta fi do</code></td>\n</tr>\n</tbody></table>\n<p>Both mean: 50 is the price of the book to you from me.</p>\n<h4>Tags → Conversion</h4>\n<p>Going the other direction:</p>\n<table>\n<thead>\n<tr>\n<th>Tags</th>\n<th>Conversion</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>fe la cukta fa mi cu dunda fi la .bob.</code></td>\n<td><code>la cukta se dunda mi la .bob.</code></td>\n</tr>\n<tr>\n<td><code>fi la .bob. fa mi cu dunda fe la cukta</code></td>\n<td><code>la .bob. te dunda la cukta mi</code></td>\n</tr>\n</tbody></table>\n<h4>When Each Is Better</h4>\n<table>\n<thead>\n<tr>\n<th>Situation</th>\n<th>Better choice</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Common derived verb</td>\n<td>Conversion (<code>se pilno</code>, <code>te dunda</code>)</td>\n</tr>\n<tr>\n<td>Complex reordering</td>\n<td>Tags</td>\n</tr>\n<tr>\n<td>Clarity for beginners</td>\n<td>Tags</td>\n</tr>\n<tr>\n<td>Brevity</td>\n<td>Conversion</td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p>Conversions and tags are interchangeable. Master both to read any Lojban text.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "Conversions and tags are interchangeable. Master both to read any Lojban text."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Conversion → Tags</h3>\n<p>Rewrite using tags instead of conversions:</p>\n<ol>\n<li><code>la cukta se viska mi</code> → ?</li>\n<li><code>la .bob. te dunda la skami la .alis.</code> → ?</li>\n<li><code>pa no no ve vecnu la karce do mi</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>fe la cukta fa mi cu viska</code></li>\n<li><code>fi la .bob. fa la .alis. cu dunda fe la skami</code></li>\n<li><code>fo pa no no fa mi cu vecnu fe la karce fi do</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Tags → Conversion</h3>\n<p>Rewrite using conversion instead of tags:</p>\n<ol>\n<li><code>fe la plise fa mi cu nelci</code> → ?</li>\n<li><code>fi la .alis. fa la .bob. cu benji fe la notci</code> → ?</li>\n<li><code>fe la karce fa do cu ponse</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la plise se nelci mi</code></li>\n<li><code>la .alis. te benji la notci la .bob.</code></li>\n<li><code>la karce se ponse do</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Use New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>I am hungry.</li>\n<li>Bob is thirsty.</li>\n<li>I am hungry for apples.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi xagji</code></li>\n<li><code>la .bob. cu taske</code></li>\n<li><code>mi xagji la plise</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "conversion-→-tags",
+          "items": [
+            {
+              "text": "`la cukta se viska mi` → ?",
+              "answer": "`fe la cukta fa mi cu viska`"
+            },
+            {
+              "text": "`la .bob. te dunda la skami la .alis.` → ?",
+              "answer": "`fi la .bob. fa la .alis. cu dunda fe la skami`"
+            },
+            {
+              "text": "`pa no no ve vecnu la karce do mi` → ?",
+              "answer": "`fo pa no no fa mi cu vecnu fe la karce fi do`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "tags-→-conversion",
+          "items": [
+            {
+              "text": "`fe la plise fa mi cu nelci` → ?",
+              "answer": "`la plise se nelci mi`"
+            },
+            {
+              "text": "`fi la .alis. fa la .bob. cu benji fe la notci` → ?",
+              "answer": "`la .alis. te benji la notci la .bob.`"
+            },
+            {
+              "text": "`fe la karce fa do cu ponse` → ?",
+              "answer": "`la karce se ponse do`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "use-new-vocabulary",
+          "items": [
+            {
+              "text": "I am hungry.",
+              "answer": "`mi xagji`"
+            },
+            {
+              "text": "Bob is thirsty.",
+              "answer": "`la .bob. cu taske`"
+            },
+            {
+              "text": "I am hungry for apples.",
+              "answer": "`mi xagji la plise`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Express the same idea both ways:</strong></p>\n<p>&quot;The book is given by me to Alice.&quot;</p>\n<ol>\n<li>Conversion: → <code>la cukta se dunda mi la .alis.</code></li>\n<li>Tags: → <code>fe la cukta fa mi cu dunda fi la .alis.</code></li>\n</ol>\n<p>Say both aloud.</p>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>xagji</code></td>\n<td>x1 is hungry for x2</td>\n<td>hungry</td>\n</tr>\n<tr>\n<td><code>taske</code></td>\n<td>x1 is thirsty for x2</td>\n<td>thirsty</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "xagji",
+          "place": "x1 is hungry for x2",
+          "english": "hungry"
+        },
+        {
+          "lojban": "taske",
+          "place": "x1 is thirsty for x2",
+          "english": "thirsty"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced translating between conversions and tags. Both systems achieve the same reordering — choose based on clarity and brevity.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Complex multi-place drills with <code>vecnu</code> and <code>klama</code>.</p>\n",
+      "tomorrow": "Complex multi-place drills with `vecnu` and `klama`."
+    }
+  ]
+}

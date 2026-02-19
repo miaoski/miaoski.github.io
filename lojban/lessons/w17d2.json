@@ -1,0 +1,92 @@
+{
+  "id": "w17d2",
+  "week": 17,
+  "day": 2,
+  "title": "Action Vocabulary",
+  "goal": "Learn words for doing, trying, and succeeding.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Yesterday&#39;s vocabulary:</p>\n<pre><code>motive → ?     result → ?\ncause → ?      reason → ?\n</code></pre>\n<p>(Answers: <code>mukti</code>, <code>jalge</code>, <code>rinka</code>, <code>krinu</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>gasnu</code></td>\n<td>x1 (agent) causes/brings about x2</td>\n<td>make happen</td>\n</tr>\n<tr>\n<td><code>zukte</code></td>\n<td>x1 does/acts to bring about x2</td>\n<td>do/act</td>\n</tr>\n<tr>\n<td><code>troci</code></td>\n<td>x1 tries to do x2</td>\n<td>try</td>\n</tr>\n<tr>\n<td><code>snada</code></td>\n<td>x1 succeeds in doing x2</td>\n<td>succeed</td>\n</tr>\n</tbody></table>\n<h3>Doing and Acting</h3>\n<pre><code>mi zukte ti\n</code></pre>\n<p>I do this.</p>\n<pre><code>do zukte ma\n</code></pre>\n<p>What do you do? (What action do you take?)</p>\n<h3>Causing as Agent</h3>\n<pre><code>mi gasnu lo nu ti slabu\n</code></pre>\n<p>I bring about this being old. (I make this old.)</p>\n<p>Note: <code>gasnu</code> = agent causes, <code>rinka</code> = event causes.</p>\n<h3>Trying and Succeeding</h3>\n<pre><code>mi troci lo nu klama\n</code></pre>\n<p>I try to go.</p>\n<pre><code>mi snada lo nu gunka\n</code></pre>\n<p>I succeed in working.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>zukte</code> = do/act, <code>gasnu</code> = make happen, <code>troci</code> = try, <code>snada</code> = succeed.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Doing</h3>\n<p>Translate:</p>\n<ol>\n<li>I do this.</li>\n<li>What do you do?</li>\n<li>Bob does that.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi zukte ti</code></li>\n<li><code>do zukte ma</code></li>\n<li><code>la .bob. cu zukte ta</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Trying</h3>\n<p>Translate:</p>\n<ol>\n<li>I try to go.</li>\n<li>She tries to work.</li>\n<li>We try to understand.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi troci lo nu klama</code></li>\n<li><code>ri troci lo nu gunka</code></li>\n<li><code>mi&#39;o troci lo nu jimpe</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Succeeding</h3>\n<p>Translate:</p>\n<ol>\n<li>I succeed.</li>\n<li>Bob succeeds in learning.</li>\n<li>Do you succeed?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi snada</code></li>\n<li><code>la .bob. cu snada lo nu cilre</code></li>\n<li><code>xu do snada</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "doing",
+          "items": [
+            {
+              "text": "I do this.",
+              "answer": "`mi zukte ti`"
+            },
+            {
+              "text": "What do you do?",
+              "answer": "`do zukte ma`"
+            },
+            {
+              "text": "Bob does that.",
+              "answer": "`la .bob. cu zukte ta`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "trying",
+          "items": [
+            {
+              "text": "I try to go.",
+              "answer": "`mi troci lo nu klama`"
+            },
+            {
+              "text": "She tries to work.",
+              "answer": "`ri troci lo nu gunka`"
+            },
+            {
+              "text": "We try to understand.",
+              "answer": "`mi'o troci lo nu jimpe`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "succeeding",
+          "items": [
+            {
+              "text": "I succeed.",
+              "answer": "`mi snada`"
+            },
+            {
+              "text": "Bob succeeds in learning.",
+              "answer": "`la .bob. cu snada lo nu cilre`"
+            },
+            {
+              "text": "Do you succeed?",
+              "answer": "`xu do snada`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I do this.&quot; → <code>mi zukte ti</code></li>\n<li>&quot;I try to go.&quot; → <code>mi troci lo nu klama</code></li>\n<li>&quot;I succeed.&quot; → <code>mi snada</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>gasnu</code></td>\n<td>make happen</td>\n</tr>\n<tr>\n<td><code>zukte</code></td>\n<td>do/act</td>\n</tr>\n<tr>\n<td><code>troci</code></td>\n<td>try</td>\n</tr>\n<tr>\n<td><code>snada</code></td>\n<td>succeed</td>\n</tr>\n</tbody></table>\n<p><strong>Week 17 so far (8):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mukti</code></td>\n<td>motive</td>\n<td><code>gasnu</code></td>\n<td>make happen</td>\n</tr>\n<tr>\n<td><code>rinka</code></td>\n<td>cause</td>\n<td><code>zukte</code></td>\n<td>do/act</td>\n</tr>\n<tr>\n<td><code>jalge</code></td>\n<td>result</td>\n<td><code>troci</code></td>\n<td>try</td>\n</tr>\n<tr>\n<td><code>krinu</code></td>\n<td>reason</td>\n<td><code>snada</code></td>\n<td>succeed</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned four action words: <code>gasnu</code> (make happen), <code>zukte</code> (do), <code>troci</code> (try), <code>snada</code> (succeed).</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> <code>ma</code> for sumti questions.</p>\n",
+      "tomorrow": "`ma` for sumti questions."
+    }
+  ]
+}

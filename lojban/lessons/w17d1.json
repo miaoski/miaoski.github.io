@@ -1,0 +1,92 @@
+{
+  "id": "w17d1",
+  "week": 17,
+  "day": 1,
+  "title": "Cause and Effect Vocabulary",
+  "goal": "Learn words for cause, reason, and effect.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Week 16 review:</p>\n<pre><code>bridi negation → ?\nopposite (scalar) → ?\nI don&#39;t go → ?\n</code></pre>\n<p>(Answers: <code>na</code>, <code>to&#39;e</code>, <code>mi na klama</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mukti</code></td>\n<td>x1 is a motive for action x2 by x3</td>\n<td>motive</td>\n</tr>\n<tr>\n<td><code>rinka</code></td>\n<td>x1 (event) causes x2 (event)</td>\n<td>cause</td>\n</tr>\n<tr>\n<td><code>jalge</code></td>\n<td>x1 is a result of x2</td>\n<td>result</td>\n</tr>\n<tr>\n<td><code>krinu</code></td>\n<td>x1 is a reason for x2</td>\n<td>reason</td>\n</tr>\n</tbody></table>\n<h3>Cause and Effect</h3>\n<pre><code>ti rinka lo nu mi gleki\n</code></pre>\n<p>This causes me to be happy.</p>\n<pre><code>lo nu mi gunka cu rinka lo nu mi tatpi\n</code></pre>\n<p>Working causes me to be tired.</p>\n<h3>Results</h3>\n<pre><code>ti jalge lo nu mi gunka\n</code></pre>\n<p>This is a result of me working.</p>\n<h3>Reasons and Motives</h3>\n<pre><code>ma mukti lo nu do klama\n</code></pre>\n<p>What is the motive for you going?</p>\n<pre><code>ti krinu lo nu mi citka\n</code></pre>\n<p>This is the reason I eat.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>rinka</code> = physical cause, <code>mukti</code> = motive/purpose, <code>krinu</code> = justification, <code>jalge</code> = result.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Cause Sentences</h3>\n<p>Translate:</p>\n<ol>\n<li>This causes me to be happy.</li>\n<li>Rain causes me to be wet.</li>\n<li>Work causes tiredness.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti rinka lo nu mi gleki</code></li>\n<li><code>lo carvi cu rinka lo nu mi cilmo</code></li>\n<li><code>lo gunka cu rinka lo nu tatpi</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Result Sentences</h3>\n<p>Translate:</p>\n<ol>\n<li>This is the result.</li>\n<li>Happiness is a result of success.</li>\n<li>What is the result?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti jalge</code></li>\n<li><code>lo gleki cu jalge lo nu snada</code></li>\n<li><code>ma jalge</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Motive and Reason</h3>\n<p>Translate:</p>\n<ol>\n<li>What is your motive?</li>\n<li>This is the reason.</li>\n<li>My motive is happiness.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ma mukti</code></li>\n<li><code>ti krinu</code></li>\n<li><code>lo nu mi gleki cu mukti</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "cause-sentences",
+          "items": [
+            {
+              "text": "This causes me to be happy.",
+              "answer": "`ti rinka lo nu mi gleki`"
+            },
+            {
+              "text": "Rain causes me to be wet.",
+              "answer": "`lo carvi cu rinka lo nu mi cilmo`"
+            },
+            {
+              "text": "Work causes tiredness.",
+              "answer": "`lo gunka cu rinka lo nu tatpi`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "result-sentences",
+          "items": [
+            {
+              "text": "This is the result.",
+              "answer": "`ti jalge`"
+            },
+            {
+              "text": "Happiness is a result of success.",
+              "answer": "`lo gleki cu jalge lo nu snada`"
+            },
+            {
+              "text": "What is the result?",
+              "answer": "`ma jalge`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "motive-and-reason",
+          "items": [
+            {
+              "text": "What is your motive?",
+              "answer": "`ma mukti`"
+            },
+            {
+              "text": "This is the reason.",
+              "answer": "`ti krinu`"
+            },
+            {
+              "text": "My motive is happiness.",
+              "answer": "`lo nu mi gleki cu mukti`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;This causes happiness.&quot; → <code>ti rinka lo nu gleki</code></li>\n<li>&quot;What is the reason?&quot; → <code>ma krinu</code></li>\n<li>&quot;This is the result.&quot; → <code>ti jalge</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mukti</code></td>\n<td>motive</td>\n</tr>\n<tr>\n<td><code>rinka</code></td>\n<td>cause</td>\n</tr>\n<tr>\n<td><code>jalge</code></td>\n<td>result</td>\n</tr>\n<tr>\n<td><code>krinu</code></td>\n<td>reason</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned four cause/effect words: <code>mukti</code> (motive), <code>rinka</code> (cause), <code>jalge</code> (result), <code>krinu</code> (reason).</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Action vocabulary — do, try, succeed.</p>\n",
+      "tomorrow": "Action vocabulary — do, try, succeed."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "w30d2",
+  "week": 30,
+  "day": 2,
+  "title": "Tanru & Lujvo Challenge",
+  "goal": "Demonstrate mastery of compound predicates.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Place structure review:</p>\n<pre><code>se prami = ? (meaning)\nmi se dunda lo plise = ?\n</code></pre>\n<p>(Answers: is loved by, I am given an apple)</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Review Material (5-7 min)</h2>\n<h3>Tanru — Compound Predicates</h3>\n<p>Combine gismu for new meanings:</p>\n<pre><code>blanu gerku = blue-type dog (blue dog)\nsutra bajra = fast-type runner (fast runner)\n</code></pre>\n<h3>Tanru Grouping</h3>\n<table>\n<thead>\n<tr>\n<th>Tool</th>\n<th>Effect</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>bo</code></td>\n<td>Groups right</td>\n</tr>\n<tr>\n<td><code>ke...ke&#39;e</code></td>\n<td>Groups left</td>\n</tr>\n<tr>\n<td><code>co</code></td>\n<td>Inverts order</td>\n</tr>\n</tbody></table>\n<pre><code>barda blanu gerku = big (blue dog)\nbarda bo blanu gerku = (big-blue) dog\n</code></pre>\n<h3>Lujvo — Fused Compounds</h3>\n<p>Tanru can become single words using rafsi:</p>\n<pre><code>jbobau = jbo + bau = Lojban language\nglibau = gli + bau = English language\n</code></pre>\n<h3>Finding Rafsi</h3>\n<p>Most gismu have 2-3 rafsi forms for combining:</p>\n<table>\n<thead>\n<tr>\n<th>Gismu</th>\n<th>Rafsi</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>bangu</code></td>\n<td>ban, bau</td>\n</tr>\n<tr>\n<td><code>lojbo</code></td>\n<td>jbo, lob</td>\n</tr>\n<tr>\n<td><code>glico</code></td>\n<td>gli, gic</td>\n</tr>\n</tbody></table>\n<h3>Creating Tanru</h3>\n<pre><code>lo skami pilno = computer user\nlo cukta zarci = book store\nlo jbobau ctuca = Lojban teacher\n</code></pre>\n"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Build 10 Tanru</h3>\n<p>Create tanru for:</p>\n<ol>\n<li>Blue cat</li>\n<li>Fast dog</li>\n<li>Big house</li>\n<li>Beautiful song</li>\n<li>Good book</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>blanu mlatu</code></li>\n<li><code>sutra gerku</code></li>\n<li><code>barda zdani</code></li>\n<li><code>melbi sanga</code></li>\n<li><code>xamgu cukta</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Grouping</h3>\n<p>Parse or create:</p>\n<ol>\n<li>big-type (fast dog) = ?</li>\n<li>(big fast) dog = ?</li>\n<li>Use <code>co</code>: dog-type fast thing = ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>barda sutra gerku</code></li>\n<li><code>ke barda sutra ke&#39;e gerku</code> or <code>barda bo sutra gerku</code></li>\n<li><code>sutra co gerku</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Lujvo Recognition</h3>\n<p>What do these mean?</p>\n<ol>\n<li><code>jbobau</code></li>\n<li><code>glibau</code></li>\n<li><code>seljmi</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>Lojban language</li>\n<li>English language</li>\n<li>Understanding/comprehension (se jmi → what is understood)</li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "build-10-tanru",
+          "items": [
+            {
+              "text": "Blue cat",
+              "answer": "`blanu mlatu`"
+            },
+            {
+              "text": "Fast dog",
+              "answer": "`sutra gerku`"
+            },
+            {
+              "text": "Big house",
+              "answer": "`barda zdani`"
+            },
+            {
+              "text": "Beautiful song",
+              "answer": "`melbi sanga`"
+            },
+            {
+              "text": "Good book",
+              "answer": "`xamgu cukta`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "grouping",
+          "items": [
+            {
+              "text": "big-type (fast dog) = ?",
+              "answer": "`barda sutra gerku`"
+            },
+            {
+              "text": "(big fast) dog = ?",
+              "answer": "`ke barda sutra ke'e gerku` or `barda bo sutra gerku`"
+            },
+            {
+              "text": "Use `co`: dog-type fast thing = ?",
+              "answer": "`sutra co gerku`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "lujvo-recognition",
+          "items": [
+            {
+              "text": "`jbobau`",
+              "answer": "Lojban language"
+            },
+            {
+              "text": "`glibau`",
+              "answer": "English language"
+            },
+            {
+              "text": "`seljmi`",
+              "answer": "Understanding/comprehension (se jmi → what is understood)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "other",
+      "content": "<h2>Challenge (1-2 min)</h2>\n<p><strong>Creative Tanru:</strong></p>\n<p>Create 5 original tanru for concepts in your life:</p>\n<p><strong>Example:</strong></p>\n<pre><code>skami cukta = computer book (e-book)\nnicte cidja = night food (dinner)\ncerni ckafi = morning coffee\n</code></pre>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Review</h2>\n<p><strong>Compound predicate tools:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Tool</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Tanru</td>\n<td>Modifier + Head</td>\n</tr>\n<tr>\n<td><code>bo</code></td>\n<td>Tight binding</td>\n</tr>\n<tr>\n<td><code>ke...ke&#39;e</code></td>\n<td>Grouping</td>\n</tr>\n<tr>\n<td><code>co</code></td>\n<td>Inversion</td>\n</tr>\n<tr>\n<td>Lujvo</td>\n<td>Fused compounds</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You reviewed tanru construction, grouping tools, and lujvo formation.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Abstraction and nesting drill.</p>\n",
+      "tomorrow": "Abstraction and nesting drill."
+    }
+  ]
+}

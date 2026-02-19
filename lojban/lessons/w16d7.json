@@ -1,0 +1,38 @@
+{
+  "id": "w16d7",
+  "week": 16,
+  "day": 7,
+  "title": "Week Review: Negation Mastery",
+  "goal": "Demonstrate mastery of negation vocabulary and grammar.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Quick recall — all 8 gismu:</p>\n<pre><code>certain → ?    assert → ?\ndoubt → ?      agree → ?\ntrue → ?       deny → ?\nfalse → ?      correct → ?\n</code></pre>\n<p>(Answers: <code>birti</code>, <code>xusra</code>, <code>senpi</code>, <code>tugni</code>, <code>jetnu</code>, <code>natfe</code>, <code>jitfa</code>, <code>drani</code>)</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Grammar Summary (3-4 min)</h2>\n<h3>Negation Types</h3>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Type</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>na</code></td>\n<td>Bridi</td>\n<td>&quot;It is not the case that...&quot;</td>\n</tr>\n<tr>\n<td><code>na&#39;e</code></td>\n<td>Scalar</td>\n<td>&quot;Other than...&quot;</td>\n</tr>\n<tr>\n<td><code>to&#39;e</code></td>\n<td>Scalar</td>\n<td>&quot;Opposite of...&quot;</td>\n</tr>\n<tr>\n<td><code>no&#39;e</code></td>\n<td>Scalar</td>\n<td>&quot;Neutral...&quot;</td>\n</tr>\n</tbody></table>\n<h3>Week 16 Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>birti</code></td>\n<td>certain</td>\n<td><code>xusra</code></td>\n<td>assert</td>\n</tr>\n<tr>\n<td><code>senpi</code></td>\n<td>doubt</td>\n<td><code>tugni</code></td>\n<td>agree</td>\n</tr>\n<tr>\n<td><code>jetnu</code></td>\n<td>true</td>\n<td><code>natfe</code></td>\n<td>deny</td>\n</tr>\n<tr>\n<td><code>jitfa</code></td>\n<td>false</td>\n<td><code>drani</code></td>\n<td>correct</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Self-Test (5-6 min)</h2>\n<h3>Part A: Vocabulary (8 points)</h3>\n<p>Translate:</p>\n<ol>\n<li><code>birti</code> →</li>\n<li><code>jetnu</code> →</li>\n<li><code>tugni</code> →</li>\n<li><code>natfe</code> →</li>\n</ol>\n<p>Translate to Lojban:</p>\n<ol start=\"5\">\n<li>doubt →</li>\n<li>false →</li>\n<li>assert →</li>\n<li>correct →</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>certain</li>\n<li>true</li>\n<li>agree</li>\n<li>deny</li>\n<li><code>senpi</code></li>\n<li><code>jitfa</code></li>\n<li><code>xusra</code></li>\n<li><code>drani</code></li>\n</ol>\n</details>\n\n<h3>Part B: Negation Grammar (8 points)</h3>\n<p>Choose the right negation:</p>\n<ol>\n<li>I don&#39;t go (whole claim) → ?</li>\n<li>This is ugly (opposite) → ?</li>\n<li>Neither big nor small → ?</li>\n<li>I do something else → ?</li>\n</ol>\n<p>Translate:</p>\n<ol start=\"5\">\n<li>I didn&#39;t eat. → ?</li>\n<li>This is not true. → ?</li>\n<li>I am uncertain. → ?</li>\n<li>I disagree. → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi na klama</code></li>\n<li><code>to&#39;e melbi</code></li>\n<li><code>no&#39;e barda</code></li>\n<li><code>mi na&#39;e zukte</code></li>\n<li><code>mi pu na citka</code></li>\n<li><code>ti na jetnu</code></li>\n<li><code>mi to&#39;e birti</code> or <code>mi senpi</code></li>\n<li><code>mi to&#39;e tugni</code> or <code>mi na tugni</code></li>\n</ol>\n</details>\n\n<h3>Part C: Discussion Sentences (4 points)</h3>\n<p>Translate:</p>\n<ol>\n<li>I am certain that this is true.</li>\n<li>I deny that you are correct.</li>\n<li>I don&#39;t agree with you.</li>\n<li>This is false.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi birti lo du&#39;u ti jetnu</code></li>\n<li><code>mi natfe lo du&#39;u do drani</code></li>\n<li><code>mi na tugni do</code></li>\n<li><code>ti jitfa</code></li>\n</ol>\n</details>"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Scoring</h2>\n<table>\n<thead>\n<tr>\n<th>Section</th>\n<th>Points</th>\n<th>Your Score</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Part A</td>\n<td>8</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part B</td>\n<td>8</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part C</td>\n<td>4</td>\n<td>___</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>20</strong></td>\n<td>___</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Integration Challenge (1-2 min)</h2>\n<p><strong>Have a debate:</strong></p>\n<p>Use:</p>\n<ul>\n<li>Two truth words (<code>jetnu</code>, <code>jitfa</code>)</li>\n<li>Two discussion words (<code>tugni</code>, <code>natfe</code>)</li>\n<li>Two negation types</li>\n</ul>\n<p><strong>Example:</strong></p>\n<pre><code>mi xusra lo du&#39;u ti jetnu\n.i do na tugni\n.i do natfe lo du&#39;u ti jetnu\n.i mi birti .i ti na jitfa\n</code></pre>\n<p>(I assert that this is true. You don&#39;t agree. You deny that this is true. I am certain. This is not false.)</p>\n<p>Create your own and say it aloud.</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Week 16 Complete Reference</h2>\n<p><strong>Vocabulary (8):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>birti</code></td>\n<td>certain</td>\n<td><code>xusra</code></td>\n<td>assert</td>\n</tr>\n<tr>\n<td><code>senpi</code></td>\n<td>doubt</td>\n<td><code>tugni</code></td>\n<td>agree</td>\n</tr>\n<tr>\n<td><code>jetnu</code></td>\n<td>true</td>\n<td><code>natfe</code></td>\n<td>deny</td>\n</tr>\n<tr>\n<td><code>jitfa</code></td>\n<td>false</td>\n<td><code>drani</code></td>\n<td>correct</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>na</code></td>\n<td>Bridi negation</td>\n</tr>\n<tr>\n<td><code>na&#39;e</code></td>\n<td>Other than</td>\n</tr>\n<tr>\n<td><code>to&#39;e</code></td>\n<td>Opposite</td>\n</tr>\n<tr>\n<td><code>no&#39;e</code></td>\n<td>Neutral</td>\n</tr>\n</tbody></table>\n<p><strong>Cumulative vocabulary:</strong> ~140 words</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You completed Week 16 on negation. You can now negate claims, express opposites, and discuss truth and agreement.</p>\n</blockquote>\n<p><strong>Next week preview:</strong> Week 17 covers questions in depth — <code>ma</code>, <code>mo</code>, <code>xo</code>.</p>\n"
+    }
+  ]
+}

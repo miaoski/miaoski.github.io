@@ -1,0 +1,97 @@
+{
+  "id": "w09d3",
+  "week": 9,
+  "day": 3,
+  "title": "Review: Place Tags",
+  "goal": "Review all five place tags with complex sentences.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Conversion review:</p>\n<pre><code>te dunda = ? receives\nve vecnu = ? is the price\n</code></pre>\n<p>Convert: <code>mi vecnu la cukta do ci no</code> → ? (with <code>ve</code>)</p>\n<p>(Answer: <code>ci no ve vecnu la cukta do mi</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Place Tags Review</h3>\n<h4>New Vocabulary</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>terpa</code></td>\n<td>x1 fears x2</td>\n<td>fear</td>\n</tr>\n<tr>\n<td><code>tatpi</code></td>\n<td>x1 is tired from x2</td>\n<td>tired</td>\n</tr>\n</tbody></table>\n<h4>The Five Tags</h4>\n<table>\n<thead>\n<tr>\n<th>Tag</th>\n<th>Marks</th>\n<th>Mnemonic</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>fa</code></td>\n<td>x1</td>\n<td><strong>f</strong>irst <strong>a</strong>rgument</td>\n</tr>\n<tr>\n<td><code>fe</code></td>\n<td>x2</td>\n<td>s<strong>e</strong>cond</td>\n</tr>\n<tr>\n<td><code>fi</code></td>\n<td>x3</td>\n<td>th<strong>i</strong>rd</td>\n</tr>\n<tr>\n<td><code>fo</code></td>\n<td>x4</td>\n<td>f<strong>o</strong>urth</td>\n</tr>\n<tr>\n<td><code>fu</code></td>\n<td>x5</td>\n<td>fif<strong>u</strong> (fifth)</td>\n</tr>\n</tbody></table>\n<h4>Full Tag Practice with <code>klama</code></h4>\n<p><code>klama</code>: x1 goes to x2 from x3 via x4 using x5</p>\n<p>Scrambled order with tags:</p>\n<pre><code>fi la .paris. fo la dargu fu la karce fa mi cu klama fe la .london.\n</code></pre>\n<p>Decoded:</p>\n<ul>\n<li>fi (x3) = la .paris. (from Paris)</li>\n<li>fo (x4) = la dargu (via road)</li>\n<li>fu (x5) = la karce (by car)</li>\n<li>fa (x1) = mi (I)</li>\n<li>fe (x2) = la .london. (to London)</li>\n</ul>\n<p>Meaning: I go to London from Paris via the road by car.</p>\n<h4>Tags with Three-Place Gismu</h4>\n<p><code>dunda</code>: x1 gives x2 to x3</p>\n<table>\n<thead>\n<tr>\n<th>Order</th>\n<th>Sentence</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Normal</td>\n<td><code>mi dunda la cukta la .bob.</code></td>\n</tr>\n<tr>\n<td>Tagged</td>\n<td><code>fa mi cu dunda fe la cukta fi la .bob.</code></td>\n</tr>\n<tr>\n<td>Gift first</td>\n<td><code>fe la cukta fa mi cu dunda fi la .bob.</code></td>\n</tr>\n<tr>\n<td>Recipient first</td>\n<td><code>fi la .bob. fa mi cu dunda fe la cukta</code></td>\n</tr>\n</tbody></table>\n<h4>Mixing Tags and Positional</h4>\n<p>After a tag, untagged sumti fill remaining places:</p>\n<pre><code>fi la .bob. fa mi cu dunda la cukta\n</code></pre>\n<ul>\n<li>fi (x3) = la .bob.</li>\n<li>fa (x1) = mi</li>\n<li>la cukta = x2 (positional after selbri)</li>\n</ul>\n<h4>Key Point</h4>\n<blockquote>\n<p>Tags provide explicit place marking. With practice, you can read and produce any word order.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "Tags provide explicit place marking. With practice, you can read and produce any word order."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Decode Tagged Sentences</h3>\n<p>Identify all places:</p>\n<ol>\n<li><p><code>fi la .alis. fa mi cu dunda fe la skami</code></p>\n<ul>\n<li>x1 = ?, x2 = ?, x3 = ?</li>\n</ul>\n</li>\n<li><p><code>fo la dargu fu la karce fa do cu klama fe la zarci fi la zdani</code></p>\n<ul>\n<li>x1 = ?, x2 = ?, x3 = ?, x4 = ?, x5 = ?</li>\n</ul>\n</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><p>x1 = mi, x2 = la skami, x3 = la .alis.\n(I give a computer to Alice.)</p>\n</li>\n<li><p>x1 = do, x2 = la zarci, x3 = la zdani, x4 = la dargu, x5 = la karce\n(You go to the market from home via the road by car.)</p>\n</li>\n</ol>\n</details>\n\n<h3>Exercise 2: Write with Tags</h3>\n<p>Rewrite with explicit tags, recipient first:</p>\n<ol>\n<li><code>mi dunda la cukta la .bob.</code> → ?</li>\n<li><code>la .alis. cu benji la notci mi</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>fi la .bob. fa mi cu dunda fe la cukta</code></li>\n<li><code>fi mi fa la .alis. cu benji fe la notci</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Use New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>I fear the dog.</li>\n<li>Bob is tired.</li>\n<li>The dog is feared by me. (use <code>se</code> or tags)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi terpa la gerku</code></li>\n<li><code>la .bob. cu tatpi</code></li>\n<li><code>la gerku se terpa mi</code> or <code>fe la gerku fa mi cu terpa</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "decode-tagged-sentences",
+          "items": [
+            {
+              "text": "`fi la .alis. fa mi cu dunda fe la skami`",
+              "answer": "x1 = mi, x2 = la skami, x3 = la .alis."
+            },
+            {
+              "text": "`fo la dargu fu la karce fa do cu klama fe la zarci fi la zdani`",
+              "answer": "x1 = do, x2 = la zarci, x3 = la zdani, x4 = la dargu, x5 = la karce"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "write-with-tags",
+          "items": [
+            {
+              "text": "`mi dunda la cukta la .bob.` → ?",
+              "answer": "`fi la .bob. fa mi cu dunda fe la cukta`"
+            },
+            {
+              "text": "`la .alis. cu benji la notci mi` → ?",
+              "answer": "`fi mi fa la .alis. cu benji fe la notci`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "use-new-vocabulary",
+          "items": [
+            {
+              "text": "I fear the dog.",
+              "answer": "`mi terpa la gerku`"
+            },
+            {
+              "text": "Bob is tired.",
+              "answer": "`la .bob. cu tatpi`"
+            },
+            {
+              "text": "The dog is feared by me. (use `se` or tags)",
+              "answer": "`la gerku se terpa mi` or `fe la gerku fa mi cu terpa`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I give a book to Alice.&quot; (tagged, gift first) → <code>fe la cukta fa mi cu dunda fi la .alis.</code></li>\n<li>&quot;I am tired.&quot; → <code>mi tatpi</code></li>\n<li>&quot;I fear this.&quot; → <code>mi terpa ti</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>terpa</code></td>\n<td>x1 fears x2</td>\n<td>fear</td>\n</tr>\n<tr>\n<td><code>tatpi</code></td>\n<td>x1 is tired from x2</td>\n<td>tired</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "terpa",
+          "place": "x1 fears x2",
+          "english": "fear"
+        },
+        {
+          "lojban": "tatpi",
+          "place": "x1 is tired from x2",
+          "english": "tired"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You reviewed all five place tags. Tags allow any word order through explicit place marking.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Practice converting between tags and conversions.</p>\n",
+      "tomorrow": "Practice converting between tags and conversions."
+    }
+  ]
+}

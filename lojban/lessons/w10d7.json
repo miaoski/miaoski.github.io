@@ -1,0 +1,42 @@
+{
+  "id": "w10d7",
+  "week": 10,
+  "day": 7,
+  "title": "Week Review: Tanru Mastery",
+  "goal": "Demonstrate mastery of tanru formation and interpretation.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Quick recall — all 10 new gismu:</p>\n<pre><code>blue → ?      long → ?\nred → ?       short → ?\nyellow → ?    wide → ?\ngreen → ?     deep → ?\nblack → ?\nwhite → ?\n</code></pre>\n<p>(Answers: <code>blanu</code>, <code>clani</code>, <code>xunre</code>, <code>tordu</code>, <code>pelxu</code>, <code>ganra</code>, <code>crino</code>, <code>condi</code>, <code>xekri</code>, <code>blabi</code>)</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Grammar Summary (3-4 min)</h2>\n<h3>What You Learned This Week</h3>\n<p><strong>1. Tanru Basics</strong></p>\n<ul>\n<li>Left word modifies right word</li>\n<li><code>blanu gerku</code> = blue dog</li>\n</ul>\n<p><strong>2. Place Structure Rule</strong></p>\n<ul>\n<li>Places come from the RIGHTMOST word</li>\n<li><code>sutra klama</code> has <code>klama</code>&#39;s 5 places</li>\n</ul>\n<p><strong>3. Tanru Ambiguity</strong></p>\n<ul>\n<li>Meanings are loose and contextual</li>\n<li><code>gerku zdani</code> could mean doghouse, dog-like house, etc.</li>\n</ul>\n<p><strong>4. Week 10 Gismu (10)</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>blanu</code></td>\n<td>blue</td>\n<td><code>clani</code></td>\n<td>long</td>\n</tr>\n<tr>\n<td><code>xunre</code></td>\n<td>red</td>\n<td><code>tordu</code></td>\n<td>short</td>\n</tr>\n<tr>\n<td><code>pelxu</code></td>\n<td>yellow</td>\n<td><code>ganra</code></td>\n<td>wide</td>\n</tr>\n<tr>\n<td><code>crino</code></td>\n<td>green</td>\n<td><code>condi</code></td>\n<td>deep</td>\n</tr>\n<tr>\n<td><code>xekri</code></td>\n<td>black</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td><code>blabi</code></td>\n<td>white</td>\n<td></td>\n<td></td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Self-Test (5-6 min)</h2>\n<h3>Part A: Vocabulary (10 points)</h3>\n<p>Translate to English:</p>\n<ol>\n<li><code>blanu</code> →</li>\n<li><code>xekri</code> →</li>\n<li><code>clani</code> →</li>\n<li><code>ganra</code> →</li>\n<li><code>crino</code> →</li>\n</ol>\n<p>Translate to Lojban:</p>\n<ol start=\"6\">\n<li>red →</li>\n<li>white →</li>\n<li>short →</li>\n<li>deep →</li>\n<li>yellow →</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>blue</li>\n<li>black</li>\n<li>long</li>\n<li>wide</li>\n<li>green</li>\n<li><code>xunre</code></li>\n<li><code>blabi</code></li>\n<li><code>tordu</code></li>\n<li><code>condi</code></li>\n<li><code>pelxu</code></li>\n</ol>\n</details>\n\n<h3>Part B: Tanru Formation (8 points)</h3>\n<p>Create tanru:</p>\n<ol>\n<li>blue car → ?</li>\n<li>big red house → ?</li>\n<li>fast run → ?</li>\n<li>good book → ?</li>\n</ol>\n<p>Identify what x1 is for each tanru:</p>\n<ol start=\"5\">\n<li><code>blanu gerku</code> → x1 = ?</li>\n<li><code>sutra klama</code> → x1 = ?</li>\n<li><code>xamgu citka</code> → x1 = ?</li>\n<li><code>melbi zdani</code> → x1 = ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>blanu karce</code></li>\n<li><code>barda xunre zdani</code></li>\n<li><code>sutra bajra</code></li>\n<li><code>xamgu cukta</code></li>\n<li>dog (from <code>gerku</code>)</li>\n<li>goer (from <code>klama</code>)</li>\n<li>eater (from <code>citka</code>)</li>\n<li>house (from <code>zdani</code>)</li>\n</ol>\n</details>\n\n<h3>Part C: Sentences (7 points)</h3>\n<p>Translate:</p>\n<ol>\n<li>This is a black cat.</li>\n<li>I see a big white dog.</li>\n<li>Bob owns a long blue car.</li>\n<li>Alice runs fast.</li>\n</ol>\n<p>Give two possible meanings:</p>\n<ol start=\"5\">\n<li><code>karce zdani</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti xekri mlatu</code></li>\n<li><code>mi viska la barda blabi gerku</code></li>\n<li><code>la .bob. cu ponse la clani blanu karce</code></li>\n<li><code>la .alis. cu sutra bajra</code></li>\n<li>House for cars (garage) / car-shaped house / mobile home / etc.</li>\n</ol>\n</details>"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Scoring</h2>\n<table>\n<thead>\n<tr>\n<th>Section</th>\n<th>Points</th>\n<th>Your Score</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Part A</td>\n<td>10</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part B</td>\n<td>8</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part C</td>\n<td>7</td>\n<td>___</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>25</strong></td>\n<td>___</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Integration Challenge (1-2 min)</h2>\n<h3>Create a Description</h3>\n<p>Use at least:</p>\n<ul>\n<li>Two colors</li>\n<li>One size/dimension word</li>\n<li>One quality word</li>\n<li>Three tanru</li>\n</ul>\n<p><strong>Example:</strong></p>\n<pre><code>mi ponse la barda blanu karce\n.i la karce cu sutra\n.i mi nelci la xunre cmalu zdani\n.i ti melbi\n</code></pre>\n<p>(I own a big blue car. The car is fast. I like the small red house. This is beautiful.)</p>\n<p>Create your own and say it aloud.</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Week 10 Complete Reference</h2>\n<p><strong>Gismu (10):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>blanu</code></td>\n<td>blue</td>\n<td><code>clani</code></td>\n<td>long</td>\n</tr>\n<tr>\n<td><code>xunre</code></td>\n<td>red</td>\n<td><code>tordu</code></td>\n<td>short</td>\n</tr>\n<tr>\n<td><code>pelxu</code></td>\n<td>yellow</td>\n<td><code>ganra</code></td>\n<td>wide</td>\n</tr>\n<tr>\n<td><code>crino</code></td>\n<td>green</td>\n<td><code>condi</code></td>\n<td>deep</td>\n</tr>\n<tr>\n<td><code>xekri</code></td>\n<td>black</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td><code>blabi</code></td>\n<td>white</td>\n<td></td>\n<td></td>\n</tr>\n</tbody></table>\n<p><strong>Cumulative vocabulary:</strong> 90 gismu</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You completed Week 10 on tanru. You can now form two-word compounds, understand place structure inheritance, and interpret ambiguous tanru.</p>\n</blockquote>\n<p><strong>Next week preview:</strong> Week 11 introduces tanru grouping with <code>bo</code> and <code>ke...ke&#39;e</code> for longer compounds.</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Congratulations</h2>\n<p><code>do kakne lo nu zbasu lo tanru</code></p>\n<p>(You are able to create tanru!)</p>\n<p>Ten weeks complete. You&#39;ve mastered basic Lojban compound words.</p>\n"
+    }
+  ]
+}

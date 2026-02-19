@@ -1,0 +1,88 @@
+{
+  "id": "w23d6",
+  "week": 23,
+  "day": 6,
+  "title": "Conversation Practice",
+  "goal": "Describe people by their relationships and actions.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>be/bei/be&#39;o review:</p>\n<pre><code>be = attaches ?\nbei = attaches ?\nbe&#39;o = ?\n</code></pre>\n<p>(Answers: x2, x3/x4/x5, terminates be-structure)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Describing People by Role</h3>\n<pre><code>A: ti ma\nB: ti lo ctuca be la .cmaci.\nA: xu ri xamgu\nB: .ie ri melbi je certu\n</code></pre>\n<p>(A: What is this? B: This is a teacher of math. A: Is she good? B: Yes, she&#39;s beautiful and skilled.)</p>\n<h3>Asking About Roles</h3>\n<pre><code>A: do ma\nB: mi lo ciska be lo karni\nA: be ma\nB: be lo skami datni\n</code></pre>\n<p>(A: What are you? B: I&#39;m a writer of journals. A: Of what? B: Of computer data.)</p>\n<h3>Describing Relationships</h3>\n<pre><code>A: la .alis. ma\nB: ri lo prami be la .bob.\nA: xu la .bob. cu djuno\nB: mi na djuno\n</code></pre>\n<p>(A: What is Alice? B: She&#39;s a lover of Bob. A: Does Bob know? B: I don&#39;t know.)</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Use be/bei naturally in conversation to describe roles and relationships precisely.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Describe Roles</h3>\n<p>Translate:</p>\n<ol>\n<li>She is a speaker of Lojban.</li>\n<li>He is a reader of poems.</li>\n<li>They are sellers of books.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ri lo tavla be la .jbobau.</code></li>\n<li><code>ri lo tcidu be lo pemci</code></li>\n<li><code>ri lo vecnu be lo cukta</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Create Dialogues</h3>\n<p>Write a dialogue about:</p>\n<ol>\n<li>Meeting a teacher of languages.</li>\n<li>Describing a writer of journals.</li>\n</ol>\n<details>\n<summary>Example Answers</summary>\n\n<ol>\n<li></li>\n</ol>\n<pre><code>A: do ma\nB: mi lo ctuca be lo bangu\nA: be ma bangu\nB: be la .jbobau. .e la .glibau.\n</code></pre>\n<ol start=\"2\">\n<li></li>\n</ol>\n<pre><code>A: ti ma\nB: ti lo ciska be lo karni\nA: xu ri certu\nB: .ie ri certu je xamgu\n</code></pre>\n</details>\n\n<h3>Exercise 3: Translate</h3>\n<ol>\n<li>I am a giver of books to children.</li>\n<li>Alice is a teacher of math to Bob.</li>\n<li>The writer of poems about love is beautiful.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi lo dunda be lo cukta bei lo verba</code></li>\n<li><code>la .alis. cu ctuca be la .cmaci. bei la .bob.</code></li>\n<li><code>lo ciska be lo pemci be lo prami cu melbi</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "describe-roles",
+          "items": [
+            {
+              "text": "She is a speaker of Lojban.",
+              "answer": "`ri lo tavla be la .jbobau.`"
+            },
+            {
+              "text": "He is a reader of poems.",
+              "answer": "`ri lo tcidu be lo pemci`"
+            },
+            {
+              "text": "They are sellers of books.",
+              "answer": "`ri lo vecnu be lo cukta`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "create-dialogues",
+          "items": [
+            {
+              "text": "Meeting a teacher of languages.",
+              "answer": null
+            },
+            {
+              "text": "Describing a writer of journals.",
+              "answer": null
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "translate",
+          "items": [
+            {
+              "text": "I am a giver of books to children.",
+              "answer": "`mi lo dunda be lo cukta bei lo verba`"
+            },
+            {
+              "text": "Alice is a teacher of math to Bob.",
+              "answer": "`la .alis. cu ctuca be la .cmaci. bei la .bob.`"
+            },
+            {
+              "text": "The writer of poems about love is beautiful.",
+              "answer": "`lo ciska be lo pemci be lo prami cu melbi`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Create your own dialogue using:</strong></p>\n<ul>\n<li>At least one be/bei structure</li>\n<li>At least two vocabulary words from this week</li>\n</ul>\n<p><strong>Example:</strong></p>\n<pre><code>A: ti ma\nB: ti lo karni be lo datni\nA: be ma datni\nB: be lo skami\nA: xu xamgu\nB: .ie xamgu je cnino\n</code></pre>\n<p>(A: What is this? B: This is a journal of data. A: Data about what? B: About computers. A: Is it good? B: Yes, good and new.)</p>\n"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Today&#39;s Practice</h2>\n<p><strong>Conversation patterns:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Pattern</th>\n<th>Use</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>lo X be Y</code></td>\n<td>The X of Y</td>\n</tr>\n<tr>\n<td><code>be ma</code></td>\n<td>Of what?</td>\n</tr>\n<tr>\n<td><code>lo X be Y bei Z</code></td>\n<td>The X of Y to Z</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced using be/bei in natural conversation to describe people by their roles and relationships.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Full week review.</p>\n",
+      "tomorrow": "Full week review."
+    }
+  ]
+}

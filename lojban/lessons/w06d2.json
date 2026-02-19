@@ -1,0 +1,116 @@
+{
+  "id": "w06d2",
+  "week": 6,
+  "day": 2,
+  "title": "`se` with Two-Place Predicates",
+  "goal": "Practice `se` conversion fluently with two-place gismu.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p><code>se</code> basics review:</p>\n<pre><code>se swaps x1 and x2\n</code></pre>\n<p>Convert: <code>mi viska do</code> → ? (with <code>se</code>)</p>\n<p>(Answer: <code>do se viska mi</code> — You are seen by me.)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Drilling <code>se</code> with Two-Place Gismu</h3>\n<p><code>la skami se pilno mi</code> — The computer is used by me.</p>\n<p>Today you&#39;ll learn <code>pilno</code> (use) and drill <code>se</code> until it&#39;s automatic.</p>\n<h4>New Gismu: <code>pilno</code></h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pilno</code></td>\n<td>x1 uses x2 for purpose x3</td>\n<td>use</td>\n</tr>\n</tbody></table>\n<p>Examples:</p>\n<ul>\n<li><code>mi pilno la skami</code> — I use the computer.</li>\n<li><code>la skami se pilno mi</code> — The computer is used by me.</li>\n</ul>\n<h4>The Two-Place <code>se</code> Pattern</h4>\n<p>For any two-place gismu:</p>\n<table>\n<thead>\n<tr>\n<th>Original</th>\n<th><code>se</code> Version</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>x1 [verb] x2</td>\n<td>x2 se [verb] x1</td>\n</tr>\n</tbody></table>\n<h4>Comprehensive Examples</h4>\n<p><strong>With <code>viska</code> (see):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>se</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi viska la gerku</code></td>\n<td><code>la gerku se viska mi</code></td>\n</tr>\n<tr>\n<td><code>la .alis. cu viska la cukta</code></td>\n<td><code>la cukta se viska la .alis.</code></td>\n</tr>\n</tbody></table>\n<p><strong>With <code>nelci</code> (like):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>se</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi nelci la plise</code></td>\n<td><code>la plise se nelci mi</code></td>\n</tr>\n<tr>\n<td><code>do nelci la mlatu</code></td>\n<td><code>la mlatu se nelci do</code></td>\n</tr>\n</tbody></table>\n<p><strong>With <code>pilno</code> (use):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>se</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi pilno la karce</code></td>\n<td><code>la karce se pilno mi</code></td>\n</tr>\n<tr>\n<td><code>la .bob. cu pilno la skami</code></td>\n<td><code>la skami se pilno la .bob.</code></td>\n</tr>\n</tbody></table>\n<p><strong>With <code>tirna</code> (hear):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>se</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi tirna la mlatu</code></td>\n<td><code>la mlatu se tirna mi</code></td>\n</tr>\n<tr>\n<td><code>do tirna ti</code></td>\n<td><code>ti se tirna do</code></td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p>For two-place gismu, <code>se</code> simply reverses who appears first. Practice until conversion is instant.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "For two-place gismu, `se` simply reverses who appears first. Practice until conversion is instant."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Convert to <code>se</code></h3>\n<ol>\n<li><code>mi nelci la plise</code> → ?</li>\n<li><code>la .bob. cu viska la karce</code> → ?</li>\n<li><code>do pilno la skami</code> → ?</li>\n<li><code>mi tirna la gerku</code> → ?</li>\n<li><code>la .alis. cu penmi la .tam.</code> → ?</li>\n<li><code>verba cu prami la mlatu</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la plise se nelci mi</code></li>\n<li><code>la karce se viska la .bob.</code></li>\n<li><code>la skami se pilno do</code></li>\n<li><code>la gerku se tirna mi</code></li>\n<li><code>la .tam. se penmi la .alis.</code></li>\n<li><code>la mlatu se prami verba</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Convert from <code>se</code></h3>\n<p>Rewrite without <code>se</code>:</p>\n<ol>\n<li><code>la cukta se viska mi</code> → ?</li>\n<li><code>do se prami la .alis.</code> → ?</li>\n<li><code>la jubme se pilno la .bob.</code> → ?</li>\n<li><code>la stizu se nelci mi</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi viska la cukta</code></li>\n<li><code>la .alis. cu prami do</code></li>\n<li><code>la .bob. cu pilno la jubme</code></li>\n<li><code>mi nelci la stizu</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Build Both Versions</h3>\n<p>For each prompt, write both versions:</p>\n<ol>\n<li>I use the car. / The car is used by me.</li>\n<li>Alice likes Bob. / Bob is liked by Alice.</li>\n<li>You see the building. / The building is seen by you.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi pilno la karce</code> / <code>la karce se pilno mi</code></li>\n<li><code>la .alis. cu nelci la .bob.</code> / <code>la .bob. se nelci la .alis.</code></li>\n<li><code>do viska la dinju</code> / <code>la dinju se viska do</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "convert-to-`se`",
+          "items": [
+            {
+              "text": "`mi nelci la plise` → ?",
+              "answer": "`la plise se nelci mi`"
+            },
+            {
+              "text": "`la .bob. cu viska la karce` → ?",
+              "answer": "`la karce se viska la .bob.`"
+            },
+            {
+              "text": "`do pilno la skami` → ?",
+              "answer": "`la skami se pilno do`"
+            },
+            {
+              "text": "`mi tirna la gerku` → ?",
+              "answer": "`la gerku se tirna mi`"
+            },
+            {
+              "text": "`la .alis. cu penmi la .tam.` → ?",
+              "answer": "`la .tam. se penmi la .alis.`"
+            },
+            {
+              "text": "`verba cu prami la mlatu` → ?",
+              "answer": "`la mlatu se prami verba`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "convert-from-`se`",
+          "items": [
+            {
+              "text": "`la cukta se viska mi` → ?",
+              "answer": "`mi viska la cukta`"
+            },
+            {
+              "text": "`do se prami la .alis.` → ?",
+              "answer": "`la .alis. cu prami do`"
+            },
+            {
+              "text": "`la jubme se pilno la .bob.` → ?",
+              "answer": "`la .bob. cu pilno la jubme`"
+            },
+            {
+              "text": "`la stizu se nelci mi` → ?",
+              "answer": "`mi nelci la stizu`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "build-both-versions",
+          "items": [
+            {
+              "text": "I use the car. / The car is used by me.",
+              "answer": "`mi pilno la karce` / `la karce se pilno mi`"
+            },
+            {
+              "text": "Alice likes Bob. / Bob is liked by Alice.",
+              "answer": "`la .alis. cu nelci la .bob.` / `la .bob. se nelci la .alis.`"
+            },
+            {
+              "text": "You see the building. / The building is seen by you.",
+              "answer": "`do viska la dinju` / `la dinju se viska do`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I use the computer.&quot; → <code>mi pilno la skami</code></li>\n<li>&quot;The computer is used by me.&quot; → <code>la skami se pilno mi</code></li>\n<li>&quot;The book is seen by Bob.&quot; → <code>la cukta se viska la .bob.</code></li>\n<li>&quot;The cat is liked by Alice.&quot; → <code>la mlatu se nelci la .alis.</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pilno</code></td>\n<td>x1 uses x2 for purpose x3</td>\n<td>use</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "pilno",
+          "place": "x1 uses x2 for purpose x3",
+          "english": "use"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You drilled <code>se</code> with two-place predicates until conversion became automatic. You learned <code>pilno</code> (use) and practiced with <code>viska</code>, <code>nelci</code>, <code>tirna</code>, and <code>penmi</code>.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll apply <code>se</code> to three-place gismu like <code>dunda</code>, where <code>se dunda</code> puts the gift in x1 position.</p>\n",
+      "tomorrow": "You'll apply `se` to three-place gismu like `dunda`, where `se dunda` puts the gift in x1 position."
+    }
+  ]
+}

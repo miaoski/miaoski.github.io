@@ -1,0 +1,92 @@
+{
+  "id": "w13d1",
+  "week": 13,
+  "day": 1,
+  "title": "Temperature and Moisture Vocabulary",
+  "goal": "Learn words for temperature and moisture.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Quick tanru review:</p>\n<pre><code>big blue dog → ?\nfast (running-dog) with bo → ?\n</code></pre>\n<p>(Answers: <code>barda blanu gerku</code>, <code>sutra bajra bo gerku</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>glare</code></td>\n<td>x1 is hot/warm at temperature x2</td>\n<td>hot/warm</td>\n</tr>\n<tr>\n<td><code>lenku</code></td>\n<td>x1 is cold/cool at temperature x2</td>\n<td>cold/cool</td>\n</tr>\n<tr>\n<td><code>cilmo</code></td>\n<td>x1 is moist/wet with liquid x2</td>\n<td>moist/wet</td>\n</tr>\n<tr>\n<td><code>sudga</code></td>\n<td>x1 is dry of liquid x2</td>\n<td>dry</td>\n</tr>\n</tbody></table>\n<h3>Temperature Words</h3>\n<pre><code>lo djacu cu glare\n</code></pre>\n<p>The water is hot.</p>\n<pre><code>lo zdani cu lenku\n</code></pre>\n<p>The house is cold.</p>\n<h3>Moisture Words</h3>\n<pre><code>lo foldi cu cilmo\n</code></pre>\n<p>The field is wet.</p>\n<pre><code>lo cukta cu sudga\n</code></pre>\n<p>The book is dry.</p>\n<h3>In Tanru</h3>\n<pre><code>ti glare djacu\n</code></pre>\n<p>This is hot water.</p>\n<pre><code>ta lenku zdani\n</code></pre>\n<p>That is a cold house.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>These four words describe physical properties — temperature and moisture — common in daily descriptions.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Temperature Sentences</h3>\n<p>Translate:</p>\n<ol>\n<li>The food is hot.</li>\n<li>The room is cold.</li>\n<li>I am warm.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo cidja cu glare</code></li>\n<li><code>lo kumfa cu lenku</code></li>\n<li><code>mi glare</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Moisture Sentences</h3>\n<p>Translate:</p>\n<ol>\n<li>The ground is wet.</li>\n<li>The towel is dry.</li>\n<li>My clothes are moist.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo dertu cu cilmo</code></li>\n<li><code>lo tivni cu sudga</code> (or use appropriate word for towel)</li>\n<li><code>lo mi taxfu cu cilmo</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Combine in Tanru</h3>\n<p>Create tanru:</p>\n<ol>\n<li>cold water → ?</li>\n<li>hot food → ?</li>\n<li>wet ground → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lenku djacu</code></li>\n<li><code>glare cidja</code></li>\n<li><code>cilmo dertu</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "temperature-sentences",
+          "items": [
+            {
+              "text": "The food is hot.",
+              "answer": "`lo cidja cu glare`"
+            },
+            {
+              "text": "The room is cold.",
+              "answer": "`lo kumfa cu lenku`"
+            },
+            {
+              "text": "I am warm.",
+              "answer": "`mi glare`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "moisture-sentences",
+          "items": [
+            {
+              "text": "The ground is wet.",
+              "answer": "`lo dertu cu cilmo`"
+            },
+            {
+              "text": "The towel is dry.",
+              "answer": "`lo tivni cu sudga` (or use appropriate word for towel)"
+            },
+            {
+              "text": "My clothes are moist.",
+              "answer": "`lo mi taxfu cu cilmo`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "combine-in-tanru",
+          "items": [
+            {
+              "text": "cold water → ?",
+              "answer": "`lenku djacu`"
+            },
+            {
+              "text": "hot food → ?",
+              "answer": "`glare cidja`"
+            },
+            {
+              "text": "wet ground → ?",
+              "answer": "`cilmo dertu`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;The water is cold.&quot; → <code>lo djacu cu lenku</code></li>\n<li>&quot;I am hot.&quot; → <code>mi glare</code></li>\n<li>&quot;The ground is wet.&quot; → <code>lo dertu cu cilmo</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>glare</code></td>\n<td>hot/warm</td>\n</tr>\n<tr>\n<td><code>lenku</code></td>\n<td>cold/cool</td>\n</tr>\n<tr>\n<td><code>cilmo</code></td>\n<td>moist/wet</td>\n</tr>\n<tr>\n<td><code>sudga</code></td>\n<td>dry</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned four words for physical properties: <code>glare</code> (hot), <code>lenku</code> (cold), <code>cilmo</code> (wet), <code>sudga</code> (dry).</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> More vocabulary — cleanliness and water words.</p>\n",
+      "tomorrow": "More vocabulary — cleanliness and water words."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "w08d1",
+  "week": 8,
+  "day": 1,
+  "title": "Introduction to `fa` and `fe`",
+  "goal": "Learn place tags as an alternative to conversions for flexible word order.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Conversion review — which conversion focuses on each place?</p>\n<pre><code>x2 → ?\nx3 → ?\nx4 → ?\nx5 → ?\n</code></pre>\n<p>(Answers: <code>se</code>, <code>te</code>, <code>ve</code>, <code>xe</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Place Tags: Another Way to Reorder</h3>\n<p><code>fe la cukta fa mi cu dunda fi la .bob.</code> — I give a book to Bob.</p>\n<p>Conversions (<code>se</code>/<code>te</code>/<code>ve</code>/<code>xe</code>) are one way to put different arguments first. <strong>Place tags</strong> are another — they explicitly mark which place each sumti fills.</p>\n<h4>The Five Place Tags</h4>\n<table>\n<thead>\n<tr>\n<th>Tag</th>\n<th>Marks</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>fa</code></td>\n<td>x1 (first place)</td>\n</tr>\n<tr>\n<td><code>fe</code></td>\n<td>x2 (second place)</td>\n</tr>\n<tr>\n<td><code>fi</code></td>\n<td>x3 (third place)</td>\n</tr>\n<tr>\n<td><code>fo</code></td>\n<td>x4 (fourth place)</td>\n</tr>\n<tr>\n<td><code>fu</code></td>\n<td>x5 (fifth place)</td>\n</tr>\n</tbody></table>\n<h4>How Tags Work</h4>\n<p>Instead of relying on position, you label each sumti:</p>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With Tags</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi dunda la cukta la .bob.</code></td>\n<td><code>fa mi cu dunda fe la cukta fi la .bob.</code></td>\n</tr>\n</tbody></table>\n<p>Both mean: I give a book to Bob.</p>\n<h4>Reordering with Tags</h4>\n<p>Tags let you put sumti in any order:</p>\n<table>\n<thead>\n<tr>\n<th>Order</th>\n<th>Sentence</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Normal</td>\n<td><code>mi dunda la cukta la .bob.</code></td>\n</tr>\n<tr>\n<td>Gift first</td>\n<td><code>fe la cukta fa mi cu dunda fi la .bob.</code></td>\n</tr>\n<tr>\n<td>Recipient first</td>\n<td><code>fi la .bob. fa mi cu dunda fe la cukta</code></td>\n</tr>\n</tbody></table>\n<p>All three mean the same thing — the tags tell you which place each sumti fills.</p>\n<h4>New Vocabulary</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>spuda</code></td>\n<td>x1 replies to x2 with response x3</td>\n<td>reply</td>\n</tr>\n<tr>\n<td><code>retsku</code></td>\n<td>x1 asks x2 from source x3 about x4</td>\n<td>ask</td>\n</tr>\n</tbody></table>\n<h4>Examples with <code>fa</code> and <code>fe</code></h4>\n<table>\n<thead>\n<tr>\n<th>Sentence</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>fa mi cu viska fe la cukta</code></td>\n<td>I see a book.</td>\n</tr>\n<tr>\n<td><code>fe la cukta fa mi cu viska</code></td>\n<td>I see a book. (book mentioned first)</td>\n</tr>\n<tr>\n<td><code>fa la .bob. cu spuda fe la .alis.</code></td>\n<td>Bob replies to Alice.</td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p>Place tags (<code>fa</code>/<code>fe</code>/<code>fi</code>/<code>fo</code>/<code>fu</code>) explicitly mark which place each sumti fills, allowing any word order.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "Place tags (`fa`/`fe`/`fi`/`fo`/`fu`) explicitly mark which place each sumti fills, allowing any word order."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Add Tags</h3>\n<p>Rewrite with explicit <code>fa</code> and <code>fe</code> tags:</p>\n<ol>\n<li><code>mi viska la gerku</code> → ?</li>\n<li><code>la .bob. cu prami la .alis.</code> → ?</li>\n<li><code>do nelci la plise</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>fa mi cu viska fe la gerku</code></li>\n<li><code>fa la .bob. cu prami fe la .alis.</code></li>\n<li><code>fa do cu nelci fe la plise</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Reorder with Tags</h3>\n<p>Rewrite with the underlined element first, using tags:</p>\n<ol>\n<li><code>mi viska __la cukta__</code> → ? (book first)</li>\n<li><code>la .bob. cu prami __la .alis.__</code> → ? (Alice first)</li>\n<li><code>mi dunda la skami __la .tam.__</code> → ? (Tom first)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>fe la cukta fa mi cu viska</code></li>\n<li><code>fe la .alis. fa la .bob. cu prami</code></li>\n<li><code>fi la .tam. fa mi cu dunda fe la skami</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Interpret Tagged Sentences</h3>\n<p>Translate to English:</p>\n<ol>\n<li><code>fe la karce fa la .alis. cu ponse</code></li>\n<li><code>fi la .bob. fa mi cu dunda fe la cukta</code></li>\n<li><code>fa do cu spuda fe mi</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>Alice owns a car.</li>\n<li>I give a book to Bob.</li>\n<li>You reply to me.</li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "add-tags",
+          "items": [
+            {
+              "text": "`mi viska la gerku` → ?",
+              "answer": "`fa mi cu viska fe la gerku`"
+            },
+            {
+              "text": "`la .bob. cu prami la .alis.` → ?",
+              "answer": "`fa la .bob. cu prami fe la .alis.`"
+            },
+            {
+              "text": "`do nelci la plise` → ?",
+              "answer": "`fa do cu nelci fe la plise`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "reorder-with-tags",
+          "items": [
+            {
+              "text": "`mi viska __la cukta__` → ? (book first)",
+              "answer": "`fe la cukta fa mi cu viska`"
+            },
+            {
+              "text": "`la .bob. cu prami __la .alis.__` → ? (Alice first)",
+              "answer": "`fe la .alis. fa la .bob. cu prami`"
+            },
+            {
+              "text": "`mi dunda la skami __la .tam.__` → ? (Tom first)",
+              "answer": "`fi la .tam. fa mi cu dunda fe la skami`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "interpret-tagged-sentences",
+          "items": [
+            {
+              "text": "`fe la karce fa la .alis. cu ponse`",
+              "answer": "Alice owns a car."
+            },
+            {
+              "text": "`fi la .bob. fa mi cu dunda fe la cukta`",
+              "answer": "I give a book to Bob."
+            },
+            {
+              "text": "`fa do cu spuda fe mi`",
+              "answer": "You reply to me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I see a book.&quot; (normal) → <code>mi viska la cukta</code></li>\n<li>&quot;I see a book.&quot; (with tags) → <code>fa mi cu viska fe la cukta</code></li>\n<li>&quot;A book, I see.&quot; (book first) → <code>fe la cukta fa mi cu viska</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>spuda</code></td>\n<td>x1 replies to x2 with response x3</td>\n<td>reply</td>\n</tr>\n<tr>\n<td><code>retsku</code></td>\n<td>x1 asks x2 from x3 about x4</td>\n<td>ask</td>\n</tr>\n</tbody></table>\n<p><strong>Place tags:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Tag</th>\n<th>Marks</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>fa</code></td>\n<td>x1</td>\n</tr>\n<tr>\n<td><code>fe</code></td>\n<td>x2</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "spuda",
+          "place": "x1 replies to x2 with response x3",
+          "english": "reply"
+        },
+        {
+          "lojban": "retsku",
+          "place": "x1 asks x2 from x3 about x4",
+          "english": "ask"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>fa</code> (marks x1) and <code>fe</code> (marks x2) as place tags. Tags let you put sumti in any order while explicitly marking their roles. This is an alternative to conversions.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll add <code>fi</code> for the third place, enabling full three-place flexibility.</p>\n",
+      "tomorrow": "You'll add `fi` for the third place, enabling full three-place flexibility."
+    }
+  ]
+}

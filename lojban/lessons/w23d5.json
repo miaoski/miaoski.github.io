@@ -1,0 +1,92 @@
+{
+  "id": "w23d5",
+  "week": 23,
+  "day": 5,
+  "title": "Complex Descriptions",
+  "goal": "Combine be/bei with other grammar.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Review all 8 vocabulary words:</p>\n<pre><code>letter → ?      page → ?\nsentence → ?    comment → ?\ncite → ?        utter → ?\njournal → ?     data → ?\n</code></pre>\n<p>(Answers: <code>lerfu</code>, <code>papri</code>, <code>jufra</code>, <code>pinka</code>, <code>sitna</code>, <code>bacru</code>, <code>karni</code>, <code>datni</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Combining be with Relative Clauses</h3>\n<pre><code>lo ctuca be la .cmaci. bei lo verba be&#39;o poi melbi\n</code></pre>\n<p>The teacher of math to children, who is beautiful.</p>\n<h3>Combining be with Abstractions</h3>\n<pre><code>lo djica be lo nu klama\n</code></pre>\n<p>The wanter of going. (One who wants to go.)</p>\n<pre><code>lo djuno be lo du&#39;u do klama\n</code></pre>\n<p>The knower that you go. (One who knows you go.)</p>\n<h3>Complex Descriptions</h3>\n<pre><code>lo ciska be lo pemci bei lo papri\n</code></pre>\n<p>The writer of poems on pages.</p>\n<pre><code>lo vecnu be lo cukta bei la .alis. be&#39;o poi slabu\n</code></pre>\n<p>The seller of books to Alice, who is old.</p>\n<h3>With pe</h3>\n<p><code>pe</code> and <code>be</code> serve different purposes:</p>\n<table>\n<thead>\n<tr>\n<th>Form</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>lo cukta pe mi</code></td>\n<td>My book (association)</td>\n</tr>\n<tr>\n<td><code>lo vecnu be lo cukta</code></td>\n<td>Seller OF books (place structure)</td>\n</tr>\n</tbody></table>\n<h3>Key Point</h3>\n<blockquote>\n<p>Complex descriptions layer: be/bei for places, be&#39;o to close, poi for relative clauses, nu/du&#39;u for abstractions.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: With Abstractions</h3>\n<p>Translate:</p>\n<ol>\n<li>The wanter of eating. (one who wants to eat)</li>\n<li>The knower that it&#39;s good.</li>\n<li>The believer that Alice is happy.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo djica be lo nu citka</code></li>\n<li><code>lo djuno be lo du&#39;u xamgu</code></li>\n<li><code>lo krici be lo du&#39;u la .alis. cu gleki</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Complex Structures</h3>\n<p>Translate:</p>\n<ol>\n<li>The teacher of math to children, who is tall.</li>\n<li>The giver of books to me, who is my friend.</li>\n<li>The writer of poems about love.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo ctuca be la .cmaci. bei lo verba be&#39;o poi clani</code></li>\n<li><code>lo dunda be lo cukta bei mi be&#39;o poi mi pendo</code></li>\n<li><code>lo ciska be lo pemci be lo prami</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: pe vs be</h3>\n<p>Translate using the appropriate form:</p>\n<ol>\n<li>My teacher. (association)</li>\n<li>The teacher of math. (place structure)</li>\n<li>Alice&#39;s book. (association)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo ctuca pe mi</code></li>\n<li><code>lo ctuca be la .cmaci.</code></li>\n<li><code>lo cukta pe la .alis.</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "with-abstractions",
+          "items": [
+            {
+              "text": "The wanter of eating. (one who wants to eat)",
+              "answer": "`lo djica be lo nu citka`"
+            },
+            {
+              "text": "The knower that it's good.",
+              "answer": "`lo djuno be lo du'u xamgu`"
+            },
+            {
+              "text": "The believer that Alice is happy.",
+              "answer": "`lo krici be lo du'u la .alis. cu gleki`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "complex-structures",
+          "items": [
+            {
+              "text": "The teacher of math to children, who is tall.",
+              "answer": "`lo ctuca be la .cmaci. bei lo verba be'o poi clani`"
+            },
+            {
+              "text": "The giver of books to me, who is my friend.",
+              "answer": "`lo dunda be lo cukta bei mi be'o poi mi pendo`"
+            },
+            {
+              "text": "The writer of poems about love.",
+              "answer": "`lo ciska be lo pemci be lo prami`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "pe-vs-be",
+          "items": [
+            {
+              "text": "My teacher. (association)",
+              "answer": "`lo ctuca pe mi`"
+            },
+            {
+              "text": "The teacher of math. (place structure)",
+              "answer": "`lo ctuca be la .cmaci.`"
+            },
+            {
+              "text": "Alice's book. (association)",
+              "answer": "`lo cukta pe la .alis.`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;The reader of journals.&quot; → <code>lo tcidu be lo karni</code></li>\n<li>&quot;The knower that it&#39;s true.&quot; → <code>lo djuno be lo du&#39;u jetnu</code></li>\n<li>&quot;The writer of data about books.&quot; → <code>lo ciska be lo datni be lo cukta</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Review</h2>\n<p><strong>Complex description patterns:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Pattern</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>be + abstraction</td>\n<td><code>lo djica be lo nu klama</code></td>\n</tr>\n<tr>\n<td>be + bei</td>\n<td><code>lo dunda be X bei Y</code></td>\n</tr>\n<tr>\n<td>be + be&#39;o + poi</td>\n<td><code>lo vecnu be X be&#39;o poi Y</code></td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced combining be/bei with abstractions and relative clauses to build complex descriptions.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Conversation practice describing people.</p>\n",
+      "tomorrow": "Conversation practice describing people."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#2d3748">
+  <title>Lojban Course</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon.svg">
+</head>
+<body>
+  <div id="app">
+    <header id="header">
+      <button id="back-btn" class="icon-btn" aria-label="Back">&#8592;</button>
+      <h1 id="header-title">Lojban</h1>
+      <button id="settings-btn" class="icon-btn" aria-label="Settings">&#9881;</button>
+    </header>
+
+    <div id="progress-bar">
+      <div id="progress-fill"></div>
+      <span id="progress-text"></span>
+    </div>
+
+    <nav id="section-tabs"></nav>
+
+    <main id="content">
+      <!-- Dynamic content rendered here -->
+    </main>
+
+    <footer id="footer">
+      <button id="prev-btn" class="nav-btn">&#8592; Previous</button>
+      <button id="next-btn" class="nav-btn primary">Next Day &#8594;</button>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

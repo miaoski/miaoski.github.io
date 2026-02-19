@@ -1,0 +1,74 @@
+{
+  "id": "w28d5",
+  "week": 28,
+  "day": 5,
+  "title": "Reading Practice",
+  "goal": "Practice parsing and understanding Lojban text.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Journal vocabulary review:</p>\n<pre><code>ca lo ca djedi = ?\nmi puca&#39;o gunka = ?\npe&#39;i = ?\n</code></pre>\n<p>(Answers: today, I was working, in my opinion)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Reading Strategy</h3>\n<ol>\n<li><strong>Identify the main bridi</strong> — Find the selbri</li>\n<li><strong>Note tenses and aspects</strong> — pu/ca/ba, co&#39;a/ca&#39;o</li>\n<li><strong>Find abstractions</strong> — lo nu, lo du&#39;u</li>\n<li><strong>Trace relative clauses</strong> — poi/noi back to ke&#39;a</li>\n<li><strong>Check connectives</strong> — .e, je, gi&#39;e, .i ba bo</li>\n</ol>\n<h3>Practice Text 1</h3>\n<pre><code>la .tam. pu ki cadzu bu&#39;u lo foldi\n.i viska lo gerku poi barda\n.i ri bajra fa&#39;a la .tam.\n.i la .tam. co&#39;a se xanka\n.i ku&#39;i lo gerku cu pendo\n.i ri bredi lo nu kelci\n.i .ui la .tam. gleki\n</code></pre>\n<p>Parse and translate:</p>\n<details>\n<summary>Translation</summary>\n\n<p>Tom walked in the field (past tense set). He saw a dog which was big. It ran toward Tom. Tom started being scared. But the dog was friendly. It was ready to play. Yay, Tom was happy.</p>\n</details>\n\n<h3>Practice Text 2</h3>\n<pre><code>mi jinvi lo du&#39;u lo nu cilre la .jbobau. cu vajni\n.i ki&#39;u lo nu ri logji bangu\n.i lo nu tavla ri cu cinri je nandu\n.i mi djica lo nu ba certu\n</code></pre>\n<details>\n<summary>Translation</summary>\n\n<p>I think that learning Lojban is important. Because it&#39;s a logical language. Speaking it is interesting and difficult. I want to become skilled (in the future).</p>\n</details>\n\n<h3>Unknown Words</h3>\n<p>When you find unknown words:</p>\n<ol>\n<li>Try to parse from context</li>\n<li>Note the place structure from usage</li>\n<li>Look up if needed</li>\n</ol>\n<h3>Key Point</h3>\n<blockquote>\n<p>Parse systematically: main bridi → tense → abstractions → connections.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Parse This Text</h3>\n<pre><code>lo prenu poi tadni la .jbobau. cu cilre so&#39;i da\n.i ri djuno lo du&#39;u lo bangu cu vajni\n.i ri nelci lo nu tcidu .e lo nu ciska\n</code></pre>\n<p>Questions:</p>\n<ol>\n<li>Who is the main subject?</li>\n<li>What do they learn?</li>\n<li>What do they like doing?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>The person who studies Lojban</li>\n<li>Many things</li>\n<li>Reading and writing</li>\n</ol>\n<p>Full translation: The person who studies Lojban learns many things. They know that language is important. They like reading and writing.</p>\n</details>\n\n<h3>Exercise 2: Identify Grammar</h3>\n<p>In this sentence, identify:</p>\n<pre><code>mi djuno lo du&#39;u la .alis. poi mi pendo cu djica lo nu klama\n</code></pre>\n<ol>\n<li>Main bridi</li>\n<li>Abstraction</li>\n<li>Relative clause</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>mi djuno (I know)</li>\n<li>lo du&#39;u...cu djica lo nu klama (that...wants to go)</li>\n<li>poi mi pendo (who is my friend)</li>\n</ol>\n<p>Full: I know that Alice, who is my friend, wants to go.</p>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "parse-this-text",
+          "items": [
+            {
+              "text": "Who is the main subject?",
+              "answer": "The person who studies Lojban"
+            },
+            {
+              "text": "What do they learn?",
+              "answer": "Many things"
+            },
+            {
+              "text": "What do they like doing?",
+              "answer": "Reading and writing"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "identify-grammar",
+          "items": [
+            {
+              "text": "Main bridi",
+              "answer": "mi djuno (I know)"
+            },
+            {
+              "text": "Abstraction",
+              "answer": "lo du'u...cu djica lo nu klama (that...wants to go)"
+            },
+            {
+              "text": "Relative clause",
+              "answer": "poi mi pendo (who is my friend)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Read aloud and translate:</strong></p>\n<pre><code>lo solri cu co&#39;a se viska\n.i lo cipni cu co&#39;a sanga\n.i mi gleki lo nu cikna\n</code></pre>\n<details>\n<summary>Translation</summary>\n\n<p>The sun started being seen (rose). The birds started singing. I&#39;m happy to be awake.</p>\n</details>"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Today&#39;s Practice</h2>\n<p><strong>Reading checklist:</strong></p>\n<ul>\n<li><input disabled=\"\" type=\"checkbox\"> Identify main selbri</li>\n<li><input disabled=\"\" type=\"checkbox\"> Note tenses</li>\n<li><input disabled=\"\" type=\"checkbox\"> Find abstractions</li>\n<li><input disabled=\"\" type=\"checkbox\"> Trace relative clauses</li>\n<li><input disabled=\"\" type=\"checkbox\"> Understand connectives</li>\n</ul>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced reading and parsing Lojban texts systematically.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Short story draft — beginning your story.</p>\n",
+      "tomorrow": "Short story draft — beginning your story."
+    }
+  ]
+}

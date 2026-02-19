@@ -1,0 +1,92 @@
+{
+  "id": "w17d5",
+  "week": 17,
+  "day": 5,
+  "title": "xo for Number Questions",
+  "goal": "Learn `xo` to ask about quantities.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Question word review:</p>\n<pre><code>ma asks about → ?\nmo asks about → ?\n</code></pre>\n<p>(Answers: sumti (who/what), selbri (what is/does))</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>What Is <code>xo</code>?</h3>\n<p><code>xo</code> replaces a <strong>number</strong> to ask &quot;how many?&quot;</p>\n<h3>Basic Usage</h3>\n<pre><code>xo gerku\n</code></pre>\n<p>How many dogs?</p>\n<pre><code>do ponse xo cukta\n</code></pre>\n<p>You own how many books?</p>\n<h3>Examples</h3>\n<pre><code>xo prenu cu klama\n</code></pre>\n<p>How many people go?</p>\n<pre><code>ti jdima xo\n</code></pre>\n<p>This costs how much?</p>\n<pre><code>do viska xo mlatu\n</code></pre>\n<p>You see how many cats?</p>\n<h3>Answering <code>xo</code> Questions</h3>\n<p>Replace <code>xo</code> with a number:</p>\n<p><strong>Q:</strong> <code>do ponse xo cukta</code>\n<strong>A:</strong> <code>mi ponse mu cukta</code> (I own five books.)</p>\n<p><strong>Q:</strong> <code>xo gerku cu cadzu</code>\n<strong>A:</strong> <code>re gerku cu cadzu</code> (Two dogs walk.)</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>xo</code> asks &quot;how many?&quot; — answer by replacing <code>xo</code> with a number.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Form xo Questions</h3>\n<p>Create questions:</p>\n<ol>\n<li>How many dogs? → ?</li>\n<li>You own how many books? → ?</li>\n<li>How many people go? → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>xo gerku</code></li>\n<li><code>do ponse xo cukta</code></li>\n<li><code>xo prenu cu klama</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Answer xo Questions</h3>\n<p>Answer:</p>\n<ol>\n<li><code>xo gerku cu cadzu</code> — Three dogs walk.</li>\n<li><code>do ponse xo cukta</code> — I own ten books.</li>\n<li><code>xo prenu cu tavla</code> — Five people talk.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ci gerku cu cadzu</code></li>\n<li><code>mi ponse pa no cukta</code></li>\n<li><code>mu prenu cu tavla</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Mixed Questions</h3>\n<p>Translate:</p>\n<ol>\n<li>How many apples do you eat?</li>\n<li>How many hours do you work?</li>\n<li>How many days in a week?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>do citka xo plise</code></li>\n<li><code>do gunka xo cacra</code></li>\n<li><code>xo djedi fa pa jeftu</code> or <code>lo jeftu cu xo djedi</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "form-xo-questions",
+          "items": [
+            {
+              "text": "How many dogs? → ?",
+              "answer": "`xo gerku`"
+            },
+            {
+              "text": "You own how many books? → ?",
+              "answer": "`do ponse xo cukta`"
+            },
+            {
+              "text": "How many people go? → ?",
+              "answer": "`xo prenu cu klama`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "answer-xo-questions",
+          "items": [
+            {
+              "text": "`xo gerku cu cadzu` — Three dogs walk.",
+              "answer": "`ci gerku cu cadzu`"
+            },
+            {
+              "text": "`do ponse xo cukta` — I own ten books.",
+              "answer": "`mi ponse pa no cukta`"
+            },
+            {
+              "text": "`xo prenu cu tavla` — Five people talk.",
+              "answer": "`mu prenu cu tavla`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "mixed-questions",
+          "items": [
+            {
+              "text": "How many apples do you eat?",
+              "answer": "`do citka xo plise`"
+            },
+            {
+              "text": "How many hours do you work?",
+              "answer": "`do gunka xo cacra`"
+            },
+            {
+              "text": "How many days in a week?",
+              "answer": "`xo djedi fa pa jeftu` or `lo jeftu cu xo djedi`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;How many?&quot; → <code>xo</code></li>\n<li>&quot;How many books do you have?&quot; → <code>do ponse xo cukta</code></li>\n<li>&quot;Five.&quot; → <code>mu</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Grammar</h2>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>xo</code></td>\n<td>Question word for numbers (how many)</td>\n</tr>\n</tbody></table>\n<p><strong>Question word summary:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Asks about</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>xu</code></td>\n<td>Yes/no</td>\n<td><code>xu do klama</code></td>\n</tr>\n<tr>\n<td><code>ma</code></td>\n<td>Sumti</td>\n<td><code>do klama ma</code></td>\n</tr>\n<tr>\n<td><code>mo</code></td>\n<td>Selbri</td>\n<td><code>do mo</code></td>\n</tr>\n<tr>\n<td><code>xo</code></td>\n<td>Number</td>\n<td><code>xo gerku</code></td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>xo</code> for number questions. Use <code>xo</code> to ask &quot;how many?&quot;</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Multiple questions and complex queries.</p>\n",
+      "tomorrow": "Multiple questions and complex queries."
+    }
+  ]
+}

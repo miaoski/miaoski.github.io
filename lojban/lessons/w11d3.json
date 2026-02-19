@@ -1,0 +1,112 @@
+{
+  "id": "w11d3",
+  "week": 11,
+  "day": 3,
+  "title": "bo Practice and Disambiguation",
+  "goal": "Practice using `bo` to disambiguate tanru meanings.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p><code>bo</code> review:</p>\n<pre><code>a b c (default) = ?\na b bo c = ?\n</code></pre>\n<p>(Answers: <code>(a b) c</code>, <code>a (b c)</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>djine</code></td>\n<td>x1 is a ring/torus of material x2</td>\n<td>ring</td>\n</tr>\n<tr>\n<td><code>cinla</code></td>\n<td>x1 is thin in dimension x2 by standard x3</td>\n<td>thin</td>\n</tr>\n</tbody></table>\n<h3>Disambiguation with <code>bo</code></h3>\n<p>When tanru are ambiguous, <code>bo</code> clarifies which grouping you mean.</p>\n<h4>Example: <code>sutra bajra gerku</code></h4>\n<p><strong>Default:</strong> <code>(sutra bajra) gerku</code></p>\n<ul>\n<li>(fast-running) dog</li>\n<li>A dog that is a fast-runner</li>\n</ul>\n<p><strong>With <code>bo</code>:</strong> <code>sutra bajra bo gerku</code></p>\n<ul>\n<li>fast (running-dog)</li>\n<li>A fast instance of a running-dog type</li>\n</ul>\n<p><strong>Alternative:</strong> <code>sutra bo bajra gerku</code></p>\n<ul>\n<li>(sutra bo bajra) gerku = ???</li>\n</ul>\n<p>Wait — <code>bo</code> only affects adjacent words. So <code>sutra bo bajra</code> binds those two, giving us <code>(sutra bo bajra) gerku</code> = <code>(sutra bajra) gerku</code>. No change!</p>\n<p><code>bo</code> is useful when you want to group the RIGHT two, not the left two.</p>\n<h3>Multiple <code>bo</code> Usage</h3>\n<p>For longer tanru, you can use multiple <code>bo</code>:</p>\n<pre><code>a bo b bo c = a (b c)  [actually same result]\n</code></pre>\n<p>But typically one <code>bo</code> suffices for three-word tanru.</p>\n<h3>Practice Scenarios</h3>\n<p><strong>Scenario 1:</strong> You want &quot;big blue-dog&quot;</p>\n<ul>\n<li>Use: <code>barda blanu bo gerku</code></li>\n<li>Grouping: <code>barda (blanu gerku)</code></li>\n</ul>\n<p><strong>Scenario 2:</strong> You want &quot;big-blue dog&quot;</p>\n<ul>\n<li>Use: <code>barda blanu gerku</code> (default)</li>\n<li>Grouping: <code>(barda blanu) gerku</code></li>\n</ul>\n<h3>Key Point</h3>\n<blockquote>\n<p>Use <code>bo</code> when you want the right two words to form the core concept, with the left word modifying that compound.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Choose the Right Form</h3>\n<p>Express each meaning:</p>\n<ol>\n<li>(long-thin) ring → ?</li>\n<li>long (thin-ring) → ?</li>\n<li>(small-red) ball → ?</li>\n<li>small (red-ball) → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>clani cinla djine</code> (default grouping)</li>\n<li><code>clani cinla bo djine</code></li>\n<li><code>cmalu xunre bolci</code> (default grouping)</li>\n<li><code>cmalu xunre bo bolci</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Interpret Tanru</h3>\n<p>What does each mean?</p>\n<ol>\n<li><code>barda blanu kubli</code></li>\n<li><code>barda blanu bo kubli</code></li>\n<li><code>cinla xekri djine</code></li>\n<li><code>cinla xekri bo djine</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>(big-blue) cube — a cube that is big-and-blue</li>\n<li>big (blue-cube) — a big instance of a blue cube</li>\n<li>(thin-black) ring — a ring that is thin-and-black</li>\n<li>thin (black-ring) — a thin instance of a black ring</li>\n</ol>\n</details>\n\n<h3>Exercise 3: Use New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>This is a ring.</li>\n<li>The book is thin.</li>\n<li>I see a thin black ring.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti djine</code></li>\n<li><code>la cukta cu cinla</code></li>\n<li><code>mi viska la cinla xekri djine</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "choose-the-right-form",
+          "items": [
+            {
+              "text": "(long-thin) ring → ?",
+              "answer": "`clani cinla djine` (default grouping)"
+            },
+            {
+              "text": "long (thin-ring) → ?",
+              "answer": "`clani cinla bo djine`"
+            },
+            {
+              "text": "(small-red) ball → ?",
+              "answer": "`cmalu xunre bolci` (default grouping)"
+            },
+            {
+              "text": "small (red-ball) → ?",
+              "answer": "`cmalu xunre bo bolci`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "interpret-tanru",
+          "items": [
+            {
+              "text": "`barda blanu kubli`",
+              "answer": "(big-blue) cube — a cube that is big-and-blue"
+            },
+            {
+              "text": "`barda blanu bo kubli`",
+              "answer": "big (blue-cube) — a big instance of a blue cube"
+            },
+            {
+              "text": "`cinla xekri djine`",
+              "answer": "(thin-black) ring — a ring that is thin-and-black"
+            },
+            {
+              "text": "`cinla xekri bo djine`",
+              "answer": "thin (black-ring) — a thin instance of a black ring"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "use-new-vocabulary",
+          "items": [
+            {
+              "text": "This is a ring.",
+              "answer": "`ti djine`"
+            },
+            {
+              "text": "The book is thin.",
+              "answer": "`la cukta cu cinla`"
+            },
+            {
+              "text": "I see a thin black ring.",
+              "answer": "`mi viska la cinla xekri djine`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud, distinguishing the groupings:</strong></p>\n<ol>\n<li>&quot;(Big-blue) dog&quot; → <code>ti barda blanu gerku</code></li>\n<li>&quot;Big (blue-dog)&quot; → <code>ti barda blanu bo gerku</code></li>\n<li>&quot;This is a thin ring.&quot; → <code>ti cinla djine</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>djine</code></td>\n<td>x1 is a ring/torus of x2</td>\n<td>ring</td>\n</tr>\n<tr>\n<td><code>cinla</code></td>\n<td>x1 is thin in x2 by x3</td>\n<td>thin</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "djine",
+          "place": "x1 is a ring/torus of x2",
+          "english": "ring"
+        },
+        {
+          "lojban": "cinla",
+          "place": "x1 is thin in x2 by x3",
+          "english": "thin"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced using <code>bo</code> to disambiguate three-word tanru. Default gives <code>(a b) c</code>; adding <code>bo</code> after the second word gives <code>a (b c)</code>.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Introduction to <code>ke...ke&#39;e</code> for explicit grouping brackets.</p>\n",
+      "tomorrow": "Introduction to `ke...ke'e` for explicit grouping brackets."
+    }
+  ]
+}

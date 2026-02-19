@@ -1,0 +1,38 @@
+{
+  "id": "w18d7",
+  "week": 18,
+  "day": 7,
+  "title": "Week Review: Attitudinals & Evidentials",
+  "goal": "Demonstrate mastery of emotional and evidential expression.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Quick recall — key cmavo:</p>\n<pre><code>happy → ?       I observe → ?\npity → ?        I heard → ?\nhope → ?        In my opinion → ?\nagree → ?       Certainly → ?\n</code></pre>\n<p>(Answers: <code>.ui</code>, <code>za&#39;a</code>, <code>.uu</code>, <code>ti&#39;e</code>, <code>.a&#39;o</code>, <code>pe&#39;i</code>, <code>.ie</code>, <code>ju&#39;o</code>)</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Grammar Summary (3-4 min)</h2>\n<h3>Attitudinals (Emotions)</h3>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Emotion</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>.ui</code></td>\n<td>happiness</td>\n</tr>\n<tr>\n<td><code>.uinai</code></td>\n<td>unhappiness</td>\n</tr>\n<tr>\n<td><code>.uu</code></td>\n<td>pity</td>\n</tr>\n<tr>\n<td><code>.u&#39;i</code></td>\n<td>amusement</td>\n</tr>\n<tr>\n<td><code>.oi</code></td>\n<td>pain</td>\n</tr>\n<tr>\n<td><code>.a&#39;o</code></td>\n<td>hope</td>\n</tr>\n<tr>\n<td><code>.au</code></td>\n<td>desire</td>\n</tr>\n<tr>\n<td><code>.e&#39;e</code></td>\n<td>encouragement</td>\n</tr>\n<tr>\n<td><code>.ie</code></td>\n<td>agreement</td>\n</tr>\n<tr>\n<td><code>.ienai</code></td>\n<td>disagreement</td>\n</tr>\n</tbody></table>\n<h3>Intensity Modifiers</h3>\n<table>\n<thead>\n<tr>\n<th>Modifier</th>\n<th>Level</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>cai</code></td>\n<td>extreme</td>\n</tr>\n<tr>\n<td><code>sai</code></td>\n<td>strong</td>\n</tr>\n<tr>\n<td><code>ru&#39;e</code></td>\n<td>weak</td>\n</tr>\n<tr>\n<td><code>cu&#39;i</code></td>\n<td>neutral</td>\n</tr>\n<tr>\n<td><code>nai</code></td>\n<td>opposite</td>\n</tr>\n</tbody></table>\n<h3>Evidentials (Knowledge Source)</h3>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Source</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ba&#39;a</code></td>\n<td>expectation</td>\n</tr>\n<tr>\n<td><code>ti&#39;e</code></td>\n<td>hearsay</td>\n</tr>\n<tr>\n<td><code>za&#39;a</code></td>\n<td>observation</td>\n</tr>\n<tr>\n<td><code>pe&#39;i</code></td>\n<td>opinion</td>\n</tr>\n<tr>\n<td><code>ju&#39;o</code></td>\n<td>certainty</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Self-Test (5-6 min)</h2>\n<h3>Part A: Attitudinals (8 points)</h3>\n<p>What does each mean?</p>\n<ol>\n<li><code>.ui</code> →</li>\n<li><code>.uu</code> →</li>\n<li><code>.a&#39;o</code> →</li>\n<li><code>.ie</code> →</li>\n</ol>\n<p>Add the right attitudinal:</p>\n<ol start=\"5\">\n<li>I&#39;m happy. → ?</li>\n<li>I feel pity. → ?</li>\n<li>I hope. → ?</li>\n<li>I agree. → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>happiness</li>\n<li>pity</li>\n<li>hope</li>\n<li>agreement</li>\n<li><code>.ui</code></li>\n<li><code>.uu</code></li>\n<li><code>.a&#39;o</code></li>\n<li><code>.ie</code></li>\n</ol>\n</details>\n\n<h3>Part B: Intensity (4 points)</h3>\n<p>Modify <code>.ui</code> (happy):</p>\n<ol>\n<li>Very happy → ?</li>\n<li>Slightly happy → ?</li>\n<li>Unhappy (opposite) → ?</li>\n<li>Indifferent → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>.uisai</code></li>\n<li><code>.uiru&#39;e</code></li>\n<li><code>.uinai</code></li>\n<li><code>.uicu&#39;i</code></li>\n</ol>\n</details>\n\n<h3>Part C: Evidentials (4 points)</h3>\n<p>Which evidential?</p>\n<ol>\n<li>I see it happening. → ?</li>\n<li>Someone told me. → ?</li>\n<li>In my opinion. → ?</li>\n<li>I&#39;m certain. → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>za&#39;a</code></li>\n<li><code>ti&#39;e</code></li>\n<li><code>pe&#39;i</code></li>\n<li><code>ju&#39;o</code></li>\n</ol>\n</details>\n\n<h3>Part D: Combined (4 points)</h3>\n<p>Translate:</p>\n<ol>\n<li>Happy! I heard you succeeded.</li>\n<li>I observe (pity) the dog is sick.</li>\n<li>Certainly, this is true.</li>\n<li>In my opinion (I agree), this is good.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>.ui ti&#39;e do snada</code></li>\n<li><code>za&#39;a .uu lo gerku cu bilma</code></li>\n<li><code>ju&#39;o ti jetnu</code></li>\n<li><code>pe&#39;i .ie ti xamgu</code></li>\n</ol>\n</details>"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Scoring</h2>\n<table>\n<thead>\n<tr>\n<th>Section</th>\n<th>Points</th>\n<th>Your Score</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Part A</td>\n<td>8</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part B</td>\n<td>4</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part C</td>\n<td>4</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part D</td>\n<td>4</td>\n<td>___</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>20</strong></td>\n<td>___</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Integration Challenge (1-2 min)</h2>\n<h3>Tell an Emotional Story</h3>\n<p>Use at least:</p>\n<ul>\n<li>Three different attitudinals</li>\n<li>Two evidentials</li>\n<li>One intensity modifier</li>\n</ul>\n<p><strong>Example:</strong></p>\n<pre><code>ti&#39;e la .alis. pu snada .uisai\n.i za&#39;a .a&#39;o ri ba ze&#39;u gleki\n.i pe&#39;i .ie la .alis. cu drani\n.i .uicai mi tugni\n</code></pre>\n<p>(I heard Alice succeeded. Very happy! I observe, hope, she will be happy long-term. In my opinion, I agree, Alice is right. Ecstatic! I agree.)</p>\n<p>Create your own and say it aloud.</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Week 18 Complete Reference</h2>\n<p><strong>Attitudinals (10):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Emotion</th>\n<th>Cmavo</th>\n<th>Emotion</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>.ui</code></td>\n<td>happy</td>\n<td><code>.a&#39;o</code></td>\n<td>hope</td>\n</tr>\n<tr>\n<td><code>.uinai</code></td>\n<td>unhappy</td>\n<td><code>.au</code></td>\n<td>desire</td>\n</tr>\n<tr>\n<td><code>.uu</code></td>\n<td>pity</td>\n<td><code>.e&#39;e</code></td>\n<td>encouragement</td>\n</tr>\n<tr>\n<td><code>.u&#39;i</code></td>\n<td>amused</td>\n<td><code>.ie</code></td>\n<td>agree</td>\n</tr>\n<tr>\n<td><code>.oi</code></td>\n<td>pain</td>\n<td><code>.ienai</code></td>\n<td>disagree</td>\n</tr>\n</tbody></table>\n<p><strong>Evidentials (5):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Source</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ba&#39;a</code></td>\n<td>expect</td>\n</tr>\n<tr>\n<td><code>ti&#39;e</code></td>\n<td>heard</td>\n</tr>\n<tr>\n<td><code>za&#39;a</code></td>\n<td>observe</td>\n</tr>\n<tr>\n<td><code>pe&#39;i</code></td>\n<td>opine</td>\n</tr>\n<tr>\n<td><code>ju&#39;o</code></td>\n<td>certain</td>\n</tr>\n</tbody></table>\n<p><strong>Intensity:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Level</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>cai</code></td>\n<td>extreme</td>\n</tr>\n<tr>\n<td><code>sai</code></td>\n<td>strong</td>\n</tr>\n<tr>\n<td><code>ru&#39;e</code></td>\n<td>weak</td>\n</tr>\n<tr>\n<td><code>cu&#39;i</code></td>\n<td>neutral</td>\n</tr>\n</tbody></table>\n<p><strong>Cumulative vocabulary:</strong> ~148 gismu + 15 cmavo</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You completed Week 18 on attitudinals and evidentials. You can now express emotions with intensity and indicate your source of knowledge.</p>\n</blockquote>\n<p><strong>Next week preview:</strong> Week 19 introduces abstractions — <code>nu</code>, <code>du&#39;u</code>, <code>ka</code>.</p>\n"
+    }
+  ]
+}

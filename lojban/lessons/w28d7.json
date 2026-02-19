@@ -1,0 +1,38 @@
+{
+  "id": "w28d7",
+  "week": 28,
+  "day": 7,
+  "title": "Week Review: Short Story Completion",
+  "goal": "Complete your short story and review the week.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>All 8 vocabulary words:</p>\n<pre><code>sun → ?        moon → ?\nstar → ?       sky → ?\nland → ?       island → ?\nlake → ?       snow → ?\n</code></pre>\n<p>(Answers: <code>solri</code>, <code>lunra</code>, <code>tarci</code>, <code>tsani</code>, <code>tumla</code>, <code>daplu</code>, <code>lalxu</code>, <code>snime</code>)</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Grammar Summary (3-4 min)</h2>\n<h3>Storytelling Tools</h3>\n<table>\n<thead>\n<tr>\n<th>Tool</th>\n<th>Use</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>.i ba bo</code></td>\n<td>Sequential events</td>\n</tr>\n<tr>\n<td><code>pu ki</code></td>\n<td>Sticky past tense</td>\n</tr>\n<tr>\n<td><code>lu...li&#39;u</code></td>\n<td>Direct speech</td>\n</tr>\n<tr>\n<td><code>lo se du&#39;u</code></td>\n<td>Indirect speech</td>\n</tr>\n<tr>\n<td>Attitudinals</td>\n<td>Character feelings</td>\n</tr>\n<tr>\n<td>Tanru</td>\n<td>Vivid descriptions</td>\n</tr>\n</tbody></table>\n<h3>Week 28 Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>solri</code></td>\n<td>sun</td>\n<td><code>lunra</code></td>\n<td>moon</td>\n</tr>\n<tr>\n<td><code>tarci</code></td>\n<td>star</td>\n<td><code>tsani</code></td>\n<td>sky</td>\n</tr>\n<tr>\n<td><code>tumla</code></td>\n<td>land</td>\n<td><code>daplu</code></td>\n<td>island</td>\n</tr>\n<tr>\n<td><code>lalxu</code></td>\n<td>lake</td>\n<td><code>snime</code></td>\n<td>snow</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Complete Your Story (7-8 min)</h2>\n<h3>Story Completion</h3>\n<p>Finish your story from yesterday. Target: <strong>100+ total words</strong>.</p>\n<p>Include:</p>\n<ul>\n<li>Resolution/ending</li>\n<li>At least one more dialogue</li>\n<li>Final feeling/state</li>\n</ul>\n<details>\n<summary>Example Complete Story</summary>\n\n<pre><code>.i pu ki la .tam. xabju ne&#39;a lo cmana\n.i ro cerni ri cadzu bu&#39;u lo foldi\n.i lo djedi cu lenku je snime\n.i la .tam. viska lo mlatu poi cmalu je blabi\n.i ri cusku lu .ue do ma zvati li&#39;u\n.i lo mlatu cu spuda lu mi se claxu lo zdani li&#39;u\n.i la .tam. cusku lu ko kansa mi li&#39;u\n\n.i ba bo la .tam. .e lo mlatu cu klama lo zdani\n.i lo zdani cu glare je pluka\n.i la .tam. dunda lo cidja lo mlatu\n.i lo mlatu cu cusku lu ki&#39;e .i do xamgu prenu li&#39;u\n.i la .tam. spuda lu mi gleki lo nu sidju do li&#39;u\n\n.i lo mlatu cu stali ne&#39;a la .tam.\n.i ri pendo\n.i la .tam. cusku lu mi ba cmene do zo .snobla. li&#39;u\n.i lo mlatu cu cusku lu .ui mi nelci li&#39;u\n.i ze&#39;u ri kansa la .tam.\n.i ro da gleki\n</code></pre>\n<p>(Tom lived near a mountain. Every morning he walked in the field. The day was cold and snowy. Tom saw a cat which was small and white. He said &quot;Wow, where are you?&quot; The cat replied &quot;I&#39;m missing a home.&quot; Tom said &quot;Come with me.&quot;</p>\n<p>Then Tom and the cat went to the house. The house was warm and pleasant. Tom gave food to the cat. The cat said &quot;Thanks, you&#39;re a good person.&quot; Tom replied &quot;I&#39;m happy to help you.&quot;</p>\n<p>The cat stayed with Tom. They were friends. Tom said &quot;I will name you &#39;Snobla&#39; (Snow-white).&quot; The cat said &quot;Yay, I like it!&quot; For a long time they were together. Everyone was happy.)</p>\n</details>"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Self-Test (3-4 min)</h2>\n<h3>Part A: Vocabulary (4 points)</h3>\n<p>Translate:</p>\n<ol>\n<li><code>solri</code> →</li>\n<li><code>tsani</code> →</li>\n<li>lake →</li>\n<li>snow →</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>sun</li>\n<li>sky</li>\n<li><code>lalxu</code></li>\n<li><code>snime</code></li>\n</ol>\n</details>\n\n<h3>Part B: Storytelling Tools (4 points)</h3>\n<p>What does each do?</p>\n<ol>\n<li><code>.i ba bo</code> →</li>\n<li><code>pu ki</code> →</li>\n<li><code>lu...li&#39;u</code> →</li>\n<li><code>lo se du&#39;u</code> →</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>Sequential (and then)</li>\n<li>Sticky past tense</li>\n<li>Direct quote</li>\n<li>Indirect speech</li>\n</ol>\n</details>"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Integration Challenge (1-2 min)</h2>\n<p><strong>Read your completed story aloud.</strong></p>\n<p>Check:</p>\n<ul>\n<li>Consistent tenses</li>\n<li>Clear dialogue</li>\n<li>Natural flow</li>\n<li>Complete plot</li>\n</ul>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Week 28 Complete Reference</h2>\n<p><strong>Vocabulary (8):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>solri</code></td>\n<td>sun</td>\n<td><code>lunra</code></td>\n<td>moon</td>\n</tr>\n<tr>\n<td><code>tarci</code></td>\n<td>star</td>\n<td><code>tsani</code></td>\n<td>sky</td>\n</tr>\n<tr>\n<td><code>tumla</code></td>\n<td>land</td>\n<td><code>daplu</code></td>\n<td>island</td>\n</tr>\n<tr>\n<td><code>lalxu</code></td>\n<td>lake</td>\n<td><code>snime</code></td>\n<td>snow</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Tool</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>.i ba bo</code></td>\n<td>Sequential narrative</td>\n</tr>\n<tr>\n<td><code>pu ki</code></td>\n<td>Sticky tense</td>\n</tr>\n<tr>\n<td><code>lu...li&#39;u</code></td>\n<td>Direct speech</td>\n</tr>\n<tr>\n<td><code>lo se du&#39;u</code></td>\n<td>Indirect speech</td>\n</tr>\n<tr>\n<td>Tanru</td>\n<td>Description</td>\n</tr>\n<tr>\n<td>Attitudinals</td>\n<td>Feelings</td>\n</tr>\n</tbody></table>\n<p><strong>Cumulative vocabulary:</strong> ~228 words</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You completed Week 28 on storytelling. You wrote a complete short story in Lojban using narrative tools, dialogue, and description.</p>\n</blockquote>\n<p><strong>Next week preview:</strong> Week 29 covers advanced topics — MEX (math), pro-bridi, and non-logical connectives.</p>\n"
+    }
+  ]
+}

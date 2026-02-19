@@ -1,0 +1,92 @@
+{
+  "id": "w15d3",
+  "week": 15,
+  "day": 3,
+  "title": "Simple Tense (pu/ca/ba)",
+  "goal": "Learn basic tense markers for past, present, and future.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Day parts review:</p>\n<pre><code>morning → ?\nevening → ?\nnight → ?\n</code></pre>\n<p>(Answers: <code>cerni</code>, <code>vanci</code>, <code>nicte</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Tense Is Optional in Lojban</h3>\n<p>By default, Lojban sentences are <strong>tenseless</strong>:</p>\n<pre><code>mi klama\n</code></pre>\n<p>I go / I went / I will go — context determines when.</p>\n<h3>Simple Tense Markers</h3>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Meaning</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pu</code></td>\n<td>past</td>\n<td><code>mi pu klama</code> (I went)</td>\n</tr>\n<tr>\n<td><code>ca</code></td>\n<td>present</td>\n<td><code>mi ca klama</code> (I am going now)</td>\n</tr>\n<tr>\n<td><code>ba</code></td>\n<td>future</td>\n<td><code>mi ba klama</code> (I will go)</td>\n</tr>\n</tbody></table>\n<h3>Placement</h3>\n<p>Tense goes before the selbri:</p>\n<pre><code>mi pu citka\n</code></pre>\n<p>I ate.</p>\n<pre><code>do ca gunka\n</code></pre>\n<p>You are working (now).</p>\n<pre><code>la .bob. ba klama\n</code></pre>\n<p>Bob will go.</p>\n<h3>With <code>cu</code></h3>\n<p>After complex sumti, use <code>cu</code>:</p>\n<pre><code>la barda gerku cu pu bajra\n</code></pre>\n<p>The big dog ran.</p>\n<h3>Why Use Tense?</h3>\n<p>Only add tense when time matters:</p>\n<ul>\n<li>Narrative clarity</li>\n<li>Contrasting times</li>\n<li>Answering &quot;when&quot; questions</li>\n</ul>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>pu</code> = past, <code>ca</code> = present, <code>ba</code> = future. Tense is optional — use when time matters.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Add Tense</h3>\n<p>Add the appropriate tense marker:</p>\n<ol>\n<li>I ate. (past) → ?</li>\n<li>I am eating. (present) → ?</li>\n<li>I will eat. (future) → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi pu citka</code></li>\n<li><code>mi ca citka</code></li>\n<li><code>mi ba citka</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translate with Tense</h3>\n<p>Translate:</p>\n<ol>\n<li>Bob went to Paris.</li>\n<li>Alice is working.</li>\n<li>I will sleep.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la .bob. cu pu klama la .paris.</code></li>\n<li><code>la .alis. ca gunka</code></li>\n<li><code>mi ba sipna</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Narrative Sequence</h3>\n<p>Translate this story:</p>\n<ol>\n<li>I ate.</li>\n<li>Now I work.</li>\n<li>Later I will sleep.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi pu citka</code></li>\n<li><code>ca mi gunka</code></li>\n<li><code>mi ba sipna</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "add-tense",
+          "items": [
+            {
+              "text": "I ate. (past) → ?",
+              "answer": "`mi pu citka`"
+            },
+            {
+              "text": "I am eating. (present) → ?",
+              "answer": "`mi ca citka`"
+            },
+            {
+              "text": "I will eat. (future) → ?",
+              "answer": "`mi ba citka`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translate-with-tense",
+          "items": [
+            {
+              "text": "Bob went to Paris.",
+              "answer": "`la .bob. cu pu klama la .paris.`"
+            },
+            {
+              "text": "Alice is working.",
+              "answer": "`la .alis. ca gunka`"
+            },
+            {
+              "text": "I will sleep.",
+              "answer": "`mi ba sipna`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "narrative-sequence",
+          "items": [
+            {
+              "text": "I ate.",
+              "answer": "`mi pu citka`"
+            },
+            {
+              "text": "Now I work.",
+              "answer": "`ca mi gunka`"
+            },
+            {
+              "text": "Later I will sleep.",
+              "answer": "`mi ba sipna`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I went.&quot; → <code>mi pu klama</code></li>\n<li>&quot;I am here now.&quot; → <code>mi ca zvati ti</code></li>\n<li>&quot;I will eat.&quot; → <code>mi ba citka</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Grammar</h2>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Tense</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pu</code></td>\n<td>past</td>\n<td><code>mi pu klama</code></td>\n</tr>\n<tr>\n<td><code>ca</code></td>\n<td>present</td>\n<td><code>mi ca klama</code></td>\n</tr>\n<tr>\n<td><code>ba</code></td>\n<td>future</td>\n<td><code>mi ba klama</code></td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned simple tense: <code>pu</code> (past), <code>ca</code> (present), <code>ba</code> (future). These go before the selbri and are optional.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Event contours — beginning, ongoing, completion.</p>\n",
+      "tomorrow": "Event contours — beginning, ongoing, completion."
+    }
+  ]
+}

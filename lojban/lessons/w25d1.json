@@ -1,0 +1,92 @@
+{
+  "id": "w25d1",
+  "week": 25,
+  "day": 1,
+  "title": "Spatial Tenses Basics",
+  "goal": "Learn spatial tenses `vi`/`va`/`vu`.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Review quotation:</p>\n<pre><code>lu...li&#39;u = ?\nzo = ?\nku&#39;i = ?\n</code></pre>\n<p>(Answers: grammatical quote, single word quote, however)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>nenri</code></td>\n<td>x1 is inside/within x2</td>\n<td>inside/within</td>\n</tr>\n<tr>\n<td><code>bartu</code></td>\n<td>x1 is outside x2</td>\n<td>outside</td>\n</tr>\n</tbody></table>\n<h3>Space as Tense</h3>\n<p>In Lojban, space is treated like time. Just as <code>pu</code>/<code>ca</code>/<code>ba</code> mark time, <code>vi</code>/<code>va</code>/<code>vu</code> mark spatial distance:</p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Meaning</th>\n<th>Compare to</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>vi</code></td>\n<td>here (near)</td>\n<td><code>ca</code> (now)</td>\n</tr>\n<tr>\n<td><code>va</code></td>\n<td>there (mid)</td>\n<td>—</td>\n</tr>\n<tr>\n<td><code>vu</code></td>\n<td>yonder (far)</td>\n<td>—</td>\n</tr>\n</tbody></table>\n<h3>Using Spatial Tenses</h3>\n<pre><code>lo mlatu cu vi cadzu\n</code></pre>\n<p>The cat walks here (nearby).</p>\n<pre><code>lo gerku cu va plipe\n</code></pre>\n<p>The dog jumps there (mid-distance).</p>\n<pre><code>lo cipni cu vu vofli\n</code></pre>\n<p>The bird flies yonder (far away).</p>\n<h3>With Position Words</h3>\n<pre><code>lo mlatu cu nenri vi lo zdani\n</code></pre>\n<p>The cat is inside the house here.</p>\n<pre><code>lo gerku cu bartu va lo dinju\n</code></pre>\n<p>The dog is outside the building there.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>vi</code>/<code>va</code>/<code>vu</code> mark spatial distance from the speaker, just like time tenses mark temporal distance.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Use vi/va/vu</h3>\n<p>Translate:</p>\n<ol>\n<li>The dog is here.</li>\n<li>The cat walks there.</li>\n<li>The bird is far away.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo gerku cu vi zvati</code></li>\n<li><code>lo mlatu cu va cadzu</code></li>\n<li><code>lo cipni cu vu zvati</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>The cat is inside the house.</li>\n<li>The dog is outside.</li>\n<li>I am inside.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo mlatu cu nenri lo zdani</code></li>\n<li><code>lo gerku cu bartu</code></li>\n<li><code>mi nenri</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Combined</h3>\n<p>Translate:</p>\n<ol>\n<li>The cat is inside here.</li>\n<li>The dog is outside there.</li>\n<li>I see something far away.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo mlatu cu nenri vi</code></li>\n<li><code>lo gerku cu bartu va</code></li>\n<li><code>mi viska lo vu zvati</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "use-vi/va/vu",
+          "items": [
+            {
+              "text": "The dog is here.",
+              "answer": "`lo gerku cu vi zvati`"
+            },
+            {
+              "text": "The cat walks there.",
+              "answer": "`lo mlatu cu va cadzu`"
+            },
+            {
+              "text": "The bird is far away.",
+              "answer": "`lo cipni cu vu zvati`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "new-vocabulary",
+          "items": [
+            {
+              "text": "The cat is inside the house.",
+              "answer": "`lo mlatu cu nenri lo zdani`"
+            },
+            {
+              "text": "The dog is outside.",
+              "answer": "`lo gerku cu bartu`"
+            },
+            {
+              "text": "I am inside.",
+              "answer": "`mi nenri`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "combined",
+          "items": [
+            {
+              "text": "The cat is inside here.",
+              "answer": "`lo mlatu cu nenri vi`"
+            },
+            {
+              "text": "The dog is outside there.",
+              "answer": "`lo gerku cu bartu va`"
+            },
+            {
+              "text": "I see something far away.",
+              "answer": "`mi viska lo vu zvati`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;The dog is here.&quot; → <code>lo gerku cu vi zvati</code></li>\n<li>&quot;The cat is inside.&quot; → <code>lo mlatu cu nenri</code></li>\n<li>&quot;I see something far away.&quot; → <code>mi viska lo vu zvati</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>nenri</code></td>\n<td>inside/within</td>\n</tr>\n<tr>\n<td><code>bartu</code></td>\n<td>outside</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>vi</code></td>\n<td>here (spatially near)</td>\n</tr>\n<tr>\n<td><code>va</code></td>\n<td>there (mid-distance)</td>\n</tr>\n<tr>\n<td><code>vu</code></td>\n<td>yonder (far away)</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned spatial tenses <code>vi</code>/<code>va</code>/<code>vu</code> and position words <code>nenri</code>/<code>bartu</code>. Space works like time in Lojban.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Above, below, front, back — <code>gapru</code>, <code>cnita</code>, <code>crane</code>, <code>trixe</code>.</p>\n",
+      "tomorrow": "Above, below, front, back — `gapru`, `cnita`, `crane`, `trixe`."
+    }
+  ]
+}

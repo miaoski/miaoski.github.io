@@ -1,0 +1,92 @@
+{
+  "id": "w29d1",
+  "week": 29,
+  "day": 1,
+  "title": "Mathematical Expressions",
+  "goal": "Learn MEX (math expressions) in Lojban.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Review storytelling:</p>\n<pre><code>.i ba bo = ?\nlu...li&#39;u = ?\n</code></pre>\n<p>(Answers: and then, direct quote)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>turni</code></td>\n<td>x1 governs/rules x2</td>\n<td>govern/rule</td>\n</tr>\n<tr>\n<td><code>kagni</code></td>\n<td>x1 is a company engaged in x2</td>\n<td>company/corporation</td>\n</tr>\n</tbody></table>\n<h3>MEX — Mathematical Expressions</h3>\n<p>Use <code>li</code> to introduce numbers as mathematical objects:</p>\n<pre><code>li pa\n</code></pre>\n<p>The number 1.</p>\n<h3>Math Operators</h3>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Meaning</th>\n<th>Symbol</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>su&#39;i</code></td>\n<td>plus</td>\n<td>+</td>\n</tr>\n<tr>\n<td><code>vu&#39;u</code></td>\n<td>minus</td>\n<td>−</td>\n</tr>\n<tr>\n<td><code>pi&#39;i</code></td>\n<td>times</td>\n<td>×</td>\n</tr>\n<tr>\n<td><code>fe&#39;i</code></td>\n<td>divided by</td>\n<td>÷</td>\n</tr>\n<tr>\n<td><code>du</code></td>\n<td>equals</td>\n<td>=</td>\n</tr>\n</tbody></table>\n<h3>Basic Equations</h3>\n<pre><code>li pa su&#39;i re du li ci\n</code></pre>\n<p>1 + 2 = 3</p>\n<pre><code>li mu vu&#39;u re du li ci\n</code></pre>\n<p>5 − 2 = 3</p>\n<pre><code>li re pi&#39;i ci du li xa\n</code></pre>\n<p>2 × 3 = 6</p>\n<pre><code>li vo fe&#39;i re du li re\n</code></pre>\n<p>4 ÷ 2 = 2</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>li</code> marks the start of a number expression. Operators go between numbers.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Basic Math</h3>\n<p>Write in Lojban:</p>\n<ol>\n<li>2 + 3 = 5</li>\n<li>7 − 4 = 3</li>\n<li>3 × 4 = 12</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>li re su&#39;i ci du li mu</code></li>\n<li><code>li ze vu&#39;u vo du li ci</code></li>\n<li><code>li ci pi&#39;i vo du li pare</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Division</h3>\n<p>Write in Lojban:</p>\n<ol>\n<li>8 ÷ 2 = 4</li>\n<li>10 ÷ 5 = 2</li>\n<li>6 ÷ 3 = 2</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>li bi fe&#39;i re du li vo</code></li>\n<li><code>li pano fe&#39;i mu du li re</code></li>\n<li><code>li xa fe&#39;i ci du li re</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>The company is big.</li>\n<li>Alice governs the company.</li>\n<li>I work at a company.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo kagni cu barda</code></li>\n<li><code>la .alis. cu turni lo kagni</code></li>\n<li><code>mi gunka bu&#39;u lo kagni</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "basic-math",
+          "items": [
+            {
+              "text": "2 + 3 = 5",
+              "answer": "`li re su'i ci du li mu`"
+            },
+            {
+              "text": "7 − 4 = 3",
+              "answer": "`li ze vu'u vo du li ci`"
+            },
+            {
+              "text": "3 × 4 = 12",
+              "answer": "`li ci pi'i vo du li pare`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "division",
+          "items": [
+            {
+              "text": "8 ÷ 2 = 4",
+              "answer": "`li bi fe'i re du li vo`"
+            },
+            {
+              "text": "10 ÷ 5 = 2",
+              "answer": "`li pano fe'i mu du li re`"
+            },
+            {
+              "text": "6 ÷ 3 = 2",
+              "answer": "`li xa fe'i ci du li re`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "new-vocabulary",
+          "items": [
+            {
+              "text": "The company is big.",
+              "answer": "`lo kagni cu barda`"
+            },
+            {
+              "text": "Alice governs the company.",
+              "answer": "`la .alis. cu turni lo kagni`"
+            },
+            {
+              "text": "I work at a company.",
+              "answer": "`mi gunka bu'u lo kagni`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;One plus one equals two.&quot; → <code>li pa su&#39;i pa du li re</code></li>\n<li>&quot;Three times three equals nine.&quot; → <code>li ci pi&#39;i ci du li so</code></li>\n<li>&quot;The company is big.&quot; → <code>lo kagni cu barda</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>turni</code></td>\n<td>govern/rule</td>\n</tr>\n<tr>\n<td><code>kagni</code></td>\n<td>company/corporation</td>\n</tr>\n</tbody></table>\n<p><strong>Math operators:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>su&#39;i</code></td>\n<td>plus</td>\n</tr>\n<tr>\n<td><code>vu&#39;u</code></td>\n<td>minus</td>\n</tr>\n<tr>\n<td><code>pi&#39;i</code></td>\n<td>times</td>\n</tr>\n<tr>\n<td><code>fe&#39;i</code></td>\n<td>divided by</td>\n</tr>\n<tr>\n<td><code>du</code></td>\n<td>equals</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned MEX for math expressions. Use <code>li</code> for numbers and operators between them.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> More math practice and order of operations.</p>\n",
+      "tomorrow": "More math practice and order of operations."
+    }
+  ]
+}

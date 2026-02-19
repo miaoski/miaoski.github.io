@@ -1,0 +1,117 @@
+{
+  "id": "w03d5",
+  "week": 3,
+  "day": 5,
+  "title": "Yes/No Questions with `xu`",
+  "goal": "Turn any statement into a yes/no question using `xu`.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Like/want practice — translate to Lojban:</p>\n<pre><code>1. I like cats.         → ?\n2. Bob wants an apple.  → ?\n3. You like dogs.       → ?\n</code></pre>\n<p>(Answers: <code>mi nelci la mlatu</code>, <code>la .bob. cu djica la plise</code>, <code>do nelci la gerku</code>)</p>\n<p>Say each aloud with correct pronunciation.</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Asking Yes/No Questions</h3>\n<p><code>xu do klama</code> — Are you going?</p>\n<p>In English, we rearrange words or change tone to ask questions. In Lojban, just add <strong><code>xu</code></strong> at the start.</p>\n<h4>The <code>xu</code> Pattern</h4>\n<table>\n<thead>\n<tr>\n<th>Statement</th>\n<th>Question</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>do klama</code> (You go.)</td>\n<td><code>xu do klama</code> (Are you going?)</td>\n</tr>\n<tr>\n<td><code>ti barda</code> (This is big.)</td>\n<td><code>xu ti barda</code> (Is this big?)</td>\n</tr>\n<tr>\n<td><code>mi gleki</code> (I am happy.)</td>\n<td><code>xu mi gleki</code> (Am I happy?)</td>\n</tr>\n</tbody></table>\n<p>That&#39;s it. <code>xu</code> + bridi = question.</p>\n<h4>Pronunciation</h4>\n<p><code>xu</code> is pronounced &quot;khoo&quot; (with the x = kh sound). It&#39;s a single syllable, always at the start of the bridi.</p>\n<h4>Examples with Week 1-3 Vocabulary</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>xu do nelci la mlatu</code></td>\n<td>Do you like cats?</td>\n</tr>\n<tr>\n<td><code>xu la .alis. cu gleki</code></td>\n<td>Is Alice happy?</td>\n</tr>\n<tr>\n<td><code>xu ti plise</code></td>\n<td>Is this an apple?</td>\n</tr>\n<tr>\n<td><code>xu do djica ti</code></td>\n<td>Do you want this?</td>\n</tr>\n<tr>\n<td><code>xu la .bob. cu klama la .paris.</code></td>\n<td>Is Bob going to Paris?</td>\n</tr>\n<tr>\n<td><code>xu zdani cu barda</code></td>\n<td>Is the home big?</td>\n</tr>\n</tbody></table>\n<h4>Position of <code>xu</code></h4>\n<p><code>xu</code> goes at the very beginning, before everything:</p>\n<ul>\n<li>✓ <code>xu mi prami do</code> — Do I love you?</li>\n<li>✗ <code>mi xu prami do</code> — (wrong position)</li>\n</ul>\n<h4>Key Point</h4>\n<blockquote>\n<p><code>xu</code> turns any bridi into a yes/no question. Put it at the start: <code>xu</code> + statement = question.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "`xu` turns any bridi into a yes/no question. Put it at the start: `xu` + statement = question."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Make Questions</h3>\n<p>Turn each statement into a question by adding <code>xu</code>:</p>\n<ol>\n<li><code>do sipna</code> (You sleep.)</li>\n<li><code>la .tam. cu nanmu</code> (Tom is a man.)</li>\n<li><code>ti cmalu</code> (This is small.)</li>\n<li><code>mi nelci do</code> (I like you.)</li>\n<li><code>la .meris. cu badri</code> (Mary is sad.)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>xu do sipna</code></li>\n<li><code>xu la .tam. cu nanmu</code></li>\n<li><code>xu ti cmalu</code></li>\n<li><code>xu mi nelci do</code></li>\n<li><code>xu la .meris. cu badri</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translation (English → Lojban)</h3>\n<p>Translate to Lojban (as questions):</p>\n<ol>\n<li>Are you happy?</li>\n<li>Is this a dog?</li>\n<li>Do you like Paris?</li>\n<li>Is Bob going home?</li>\n<li>Do you want an apple?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>xu do gleki</code></li>\n<li><code>xu ti gerku</code></li>\n<li><code>xu do nelci la .paris.</code></li>\n<li><code>xu la .bob. cu klama la zdani</code></li>\n<li><code>xu do djica la plise</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Question and (Imagined) Answer</h3>\n<p>Write 5 questions using <code>xu</code>. For each, imagine how someone might answer (in English for now — you&#39;ll learn Lojban answers tomorrow):</p>\n<ol>\n<li><code>xu do nelci la mlatu</code> — (Do you like cats?) → Yes / No</li>\n<li><code>xu _____</code> — ?</li>\n<li><code>xu _____</code> — ?</li>\n<li><code>xu _____</code> — ?</li>\n<li><code>xu _____</code> — ?</li>\n</ol>\n<details>\n<summary>Example questions</summary>\n\n<ol>\n<li><code>xu do nelci la mlatu</code> (Do you like cats?)</li>\n<li><code>xu la .alis. cu ninmu</code> (Is Alice a woman?)</li>\n<li><code>xu ti plise</code> (Is this an apple?)</li>\n<li><code>xu do klama la zdani</code> (Are you going home?)</li>\n<li><code>xu la .bob. cu gleki</code> (Is Bob happy?)</li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "make-questions",
+          "items": [
+            {
+              "text": "`do sipna` (You sleep.)",
+              "answer": "`xu do sipna`"
+            },
+            {
+              "text": "`la .tam. cu nanmu` (Tom is a man.)",
+              "answer": "`xu la .tam. cu nanmu`"
+            },
+            {
+              "text": "`ti cmalu` (This is small.)",
+              "answer": "`xu ti cmalu`"
+            },
+            {
+              "text": "`mi nelci do` (I like you.)",
+              "answer": "`xu mi nelci do`"
+            },
+            {
+              "text": "`la .meris. cu badri` (Mary is sad.)",
+              "answer": "`xu la .meris. cu badri`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translation",
+          "items": [
+            {
+              "text": "Are you happy?",
+              "answer": "`xu do gleki`"
+            },
+            {
+              "text": "Is this a dog?",
+              "answer": "`xu ti gerku`"
+            },
+            {
+              "text": "Do you like Paris?",
+              "answer": "`xu do nelci la .paris.`"
+            },
+            {
+              "text": "Is Bob going home?",
+              "answer": "`xu la .bob. cu klama la zdani`"
+            },
+            {
+              "text": "Do you want an apple?",
+              "answer": "`xu do djica la plise`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "question-and-(imagined)-answer",
+          "items": [
+            {
+              "text": "`xu do nelci la mlatu` — (Do you like cats?) → Yes / No",
+              "answer": null
+            },
+            {
+              "text": "`xu _____` — ?",
+              "answer": null
+            },
+            {
+              "text": "`xu _____` — ?",
+              "answer": null
+            },
+            {
+              "text": "`xu _____` — ?",
+              "answer": null
+            },
+            {
+              "text": "`xu _____` — ?",
+              "answer": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;Are you going?&quot; → <code>xu do klama</code></li>\n<li>&quot;Is Alice happy?&quot; → <code>xu la .alis. cu gleki</code></li>\n<li>&quot;Do you like dogs?&quot; → <code>xu do nelci la gerku</code></li>\n<li>&quot;Is this big?&quot; → <code>xu ti barda</code></li>\n<li>&quot;Do you want this?&quot; → <code>xu do djica ti</code></li>\n</ol>\n<p>Practice asking these as if talking to someone. Use rising intonation at the end if it helps, though Lojban doesn&#39;t require it.</p>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p><strong>Cmavo introduced today:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>xu</code></td>\n<td>yes/no question marker (placed at start of bridi)</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned that <code>xu</code> turns any statement into a yes/no question. Just put <code>xu</code> at the beginning: <code>xu do gleki</code> (Are you happy?). This works with any bridi you already know.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll learn how to <em>answer</em> yes/no questions with <code>go&#39;i</code> (yes) and <code>na go&#39;i</code> (no).</p>\n",
+      "tomorrow": "You'll learn how to *answer* yes/no questions with `go'i` (yes) and `na go'i` (no)."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "w13d3",
+  "week": 13,
+  "day": 3,
+  "title": "Introduction to co",
+  "goal": "Learn `co` for tanru inversion.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Quick vocabulary:</p>\n<pre><code>water → ?     clean → ?\nhot → ?       drop → ?\n</code></pre>\n<p>(Answers: <code>djacu</code>, <code>jinsa</code>, <code>glare</code>, <code>dirgo</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>What Is <code>co</code>?</h3>\n<p><code>co</code> <strong>inverts</strong> tanru order. The word AFTER <code>co</code> becomes the modifier.</p>\n<h3>Normal Tanru vs <code>co</code> Tanru</h3>\n<p><strong>Normal:</strong></p>\n<pre><code>blanu gerku = blue dog\n</code></pre>\n<p>(blue modifies dog)</p>\n<p><strong>With <code>co</code>:</strong></p>\n<pre><code>gerku co blanu = blue dog\n</code></pre>\n<p>(Same meaning, but &quot;dog&quot; comes first!)</p>\n<h3>Why Use <code>co</code>?</h3>\n<p><code>co</code> puts the <strong>main concept first</strong>. This is useful when:</p>\n<ol>\n<li>The main noun is important</li>\n<li>You want to add modifiers after the head</li>\n<li>You&#39;re building long chains</li>\n</ol>\n<h3>Place Structure Rule</h3>\n<p>With <code>co</code>, place structure comes from the word <strong>BEFORE</strong> <code>co</code>.</p>\n<pre><code>gerku co blanu\n</code></pre>\n<p>x1 is a dog (from <code>gerku</code>), not x1 is blue.</p>\n<h3>Examples</h3>\n<pre><code>mi viska lo gerku co blanu\n</code></pre>\n<p>I see a dog which-is-blue. (x1 = dog)</p>\n<pre><code>ti djacu co glare\n</code></pre>\n<p>This is water which-is-hot. (x1 = water)</p>\n<pre><code>mi pinxe lo djacu co lenku\n</code></pre>\n<p>I drink water which-is-cold.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>co</code> inverts the order: <code>A co B</code> = <code>B A</code> in meaning, but places come from A.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Convert to <code>co</code> Form</h3>\n<p>Rewrite using <code>co</code>:</p>\n<ol>\n<li><code>blanu gerku</code> → ?</li>\n<li><code>glare djacu</code> → ?</li>\n<li><code>jinsa zdani</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>gerku co blanu</code></li>\n<li><code>djacu co glare</code></li>\n<li><code>zdani co jinsa</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translate with <code>co</code></h3>\n<p>Translate (use <code>co</code> to put noun first):</p>\n<ol>\n<li>I see cold water. (water co cold)</li>\n<li>This is a clean house. (house co clean)</li>\n<li>I drink hot water. (water co hot)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi viska lo djacu co lenku</code></li>\n<li><code>ti zdani co jinsa</code></li>\n<li><code>mi pinxe lo djacu co glare</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Identify Place Structure</h3>\n<p>What is x1 for each?</p>\n<ol>\n<li><code>gerku co barda</code> → x1 = ?</li>\n<li><code>djacu co curve</code> → x1 = ?</li>\n<li><code>zdani co lenku</code> → x1 = ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>x1 = dog (from <code>gerku</code>)</li>\n<li>x1 = water (from <code>djacu</code>)</li>\n<li>x1 = house (from <code>zdani</code>)</li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "convert-to-`co`-form",
+          "items": [
+            {
+              "text": "`blanu gerku` → ?",
+              "answer": "`gerku co blanu`"
+            },
+            {
+              "text": "`glare djacu` → ?",
+              "answer": "`djacu co glare`"
+            },
+            {
+              "text": "`jinsa zdani` → ?",
+              "answer": "`zdani co jinsa`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translate-with-`co`",
+          "items": [
+            {
+              "text": "I see cold water. (water co cold)",
+              "answer": "`mi viska lo djacu co lenku`"
+            },
+            {
+              "text": "This is a clean house. (house co clean)",
+              "answer": "`ti zdani co jinsa`"
+            },
+            {
+              "text": "I drink hot water. (water co hot)",
+              "answer": "`mi pinxe lo djacu co glare`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "identify-place-structure",
+          "items": [
+            {
+              "text": "`gerku co barda` → x1 = ?",
+              "answer": "x1 = dog (from `gerku`)"
+            },
+            {
+              "text": "`djacu co curve` → x1 = ?",
+              "answer": "x1 = water (from `djacu`)"
+            },
+            {
+              "text": "`zdani co lenku` → x1 = ?",
+              "answer": "x1 = house (from `zdani`)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I drink hot water.&quot; → <code>mi pinxe lo djacu co glare</code></li>\n<li>&quot;This is a cold house.&quot; → <code>ti zdani co lenku</code></li>\n<li>&quot;I see a clean dog.&quot; → <code>mi viska lo gerku co jinsa</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Grammar</h2>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>co</code></td>\n<td>Tanru inversion — <code>A co B</code> means <code>B A</code>, places from A</td>\n</tr>\n</tbody></table>\n<p><strong>Comparison:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Form</th>\n<th>Meaning</th>\n<th>x1 from</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>blanu gerku</code></td>\n<td>blue dog</td>\n<td>gerku</td>\n</tr>\n<tr>\n<td><code>gerku co blanu</code></td>\n<td>blue dog</td>\n<td>gerku</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>co</code> for tanru inversion. <code>A co B</code> = <code>B A</code> in meaning, but place structure comes from A.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Deep practice with <code>co</code> in longer tanru chains.</p>\n",
+      "tomorrow": "Deep practice with `co` in longer tanru chains."
+    }
+  ]
+}

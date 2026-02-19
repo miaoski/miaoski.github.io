@@ -1,0 +1,96 @@
+{
+  "id": "w15d4",
+  "week": 15,
+  "day": 4,
+  "title": "Event Contours (Aspect)",
+  "goal": "Learn event contour markers for beginning, ongoing, completion.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Simple tense review:</p>\n<pre><code>past → ?\npresent → ?\nfuture → ?\n</code></pre>\n<p>(Answers: <code>pu</code>, <code>ca</code>, <code>ba</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>What Are Event Contours?</h3>\n<p><strong>Contours</strong> describe WHICH PART of an event you&#39;re talking about — beginning, middle, end.</p>\n<h3>Event Contour Markers</h3>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Meaning</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>co&#39;a</code></td>\n<td>beginning</td>\n<td><code>mi co&#39;a sipna</code> (I fall asleep)</td>\n</tr>\n<tr>\n<td><code>ca&#39;o</code></td>\n<td>ongoing</td>\n<td><code>mi ca&#39;o gunka</code> (I am working)</td>\n</tr>\n<tr>\n<td><code>mo&#39;u</code></td>\n<td>completion</td>\n<td><code>mi mo&#39;u citka</code> (I finished eating)</td>\n</tr>\n<tr>\n<td><code>co&#39;u</code></td>\n<td>cessation</td>\n<td><code>mi co&#39;u tavla</code> (I stop talking)</td>\n</tr>\n</tbody></table>\n<h3>Examples</h3>\n<p><strong>Beginning:</strong></p>\n<pre><code>mi co&#39;a sipna\n</code></pre>\n<p>I begin to sleep. (I fall asleep.)</p>\n<p><strong>Ongoing:</strong></p>\n<pre><code>mi ca&#39;o tcidu\n</code></pre>\n<p>I am reading. (In the middle of reading.)</p>\n<p><strong>Completion:</strong></p>\n<pre><code>mi mo&#39;u ciska\n</code></pre>\n<p>I finished writing.</p>\n<p><strong>Cessation:</strong></p>\n<pre><code>mi co&#39;u bajra\n</code></pre>\n<p>I stop running.</p>\n<h3>Contour vs Tense</h3>\n<ul>\n<li><strong>Tense (pu/ca/ba):</strong> WHEN did it happen?</li>\n<li><strong>Contour (co&#39;a/ca&#39;o/mo&#39;u):</strong> WHICH PART of the event?</li>\n</ul>\n<h3>Key Point</h3>\n<blockquote>\n<p>Contours describe event phases: <code>co&#39;a</code> (start), <code>ca&#39;o</code> (middle), <code>mo&#39;u</code> (complete), <code>co&#39;u</code> (stop).</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Match Contour</h3>\n<p>Which contour fits?</p>\n<ol>\n<li>I begin eating. → ?</li>\n<li>I am eating. → ?</li>\n<li>I finished eating. → ?</li>\n<li>I stop eating. → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi co&#39;a citka</code></li>\n<li><code>mi ca&#39;o citka</code></li>\n<li><code>mi mo&#39;u citka</code></li>\n<li><code>mi co&#39;u citka</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translate</h3>\n<p>Translate:</p>\n<ol>\n<li>I fall asleep. (begin sleeping)</li>\n<li>I am working.</li>\n<li>I finished the book.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi co&#39;a sipna</code></li>\n<li><code>mi ca&#39;o gunka</code></li>\n<li><code>mi mo&#39;u tcidu lo cukta</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Describe Actions</h3>\n<p>Use contours to describe:</p>\n<ol>\n<li>Starting to run → ?</li>\n<li>In the middle of talking → ?</li>\n<li>Stopping work → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi co&#39;a bajra</code></li>\n<li><code>mi ca&#39;o tavla</code></li>\n<li><code>mi co&#39;u gunka</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "matching",
+          "items": [
+            {
+              "text": "I begin eating. → ?",
+              "answer": "`mi co'a citka`"
+            },
+            {
+              "text": "I am eating. → ?",
+              "answer": "`mi ca'o citka`"
+            },
+            {
+              "text": "I finished eating. → ?",
+              "answer": "`mi mo'u citka`"
+            },
+            {
+              "text": "I stop eating. → ?",
+              "answer": "`mi co'u citka`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translate",
+          "items": [
+            {
+              "text": "I fall asleep. (begin sleeping)",
+              "answer": "`mi co'a sipna`"
+            },
+            {
+              "text": "I am working.",
+              "answer": "`mi ca'o gunka`"
+            },
+            {
+              "text": "I finished the book.",
+              "answer": "`mi mo'u tcidu lo cukta`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "describe-actions",
+          "items": [
+            {
+              "text": "Starting to run → ?",
+              "answer": "`mi co'a bajra`"
+            },
+            {
+              "text": "In the middle of talking → ?",
+              "answer": "`mi ca'o tavla`"
+            },
+            {
+              "text": "Stopping work → ?",
+              "answer": "`mi co'u gunka`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I&#39;m working.&quot; → <code>mi ca&#39;o gunka</code></li>\n<li>&quot;I finished eating.&quot; → <code>mi mo&#39;u citka</code></li>\n<li>&quot;I stop.&quot; → <code>mi co&#39;u</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Grammar</h2>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Meaning</th>\n<th>Phase</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>co&#39;a</code></td>\n<td>begin</td>\n<td>Start</td>\n</tr>\n<tr>\n<td><code>ca&#39;o</code></td>\n<td>ongoing</td>\n<td>Middle</td>\n</tr>\n<tr>\n<td><code>mo&#39;u</code></td>\n<td>complete</td>\n<td>End</td>\n</tr>\n<tr>\n<td><code>co&#39;u</code></td>\n<td>cease</td>\n<td>Stop</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned event contours: <code>co&#39;a</code> (begin), <code>ca&#39;o</code> (ongoing), <code>mo&#39;u</code> (complete), <code>co&#39;u</code> (cease). These describe phases of events.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Combining tense and contour.</p>\n",
+      "tomorrow": "Combining tense and contour."
+    }
+  ]
+}

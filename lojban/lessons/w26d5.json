@@ -1,0 +1,80 @@
+{
+  "id": "w26d5",
+  "week": 26,
+  "day": 5,
+  "title": "Parsing Practice",
+  "goal": "Learn to parse complex multi-level sentences.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Conversion review:</p>\n<pre><code>lo nu se ctuca cu nandu = ?\n</code></pre>\n<p>(Answer: Being taught is difficult)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>vajni</code></td>\n<td>x1 is important to x2</td>\n<td>important</td>\n</tr>\n<tr>\n<td><code>nandu</code></td>\n<td>x1 is difficult for x2</td>\n<td>difficult</td>\n</tr>\n</tbody></table>\n<h3>Parsing Strategy</h3>\n<ol>\n<li>Find the main selbri (after <code>cu</code> or at start)</li>\n<li>Identify abstraction boundaries (<code>lo nu</code>, <code>lo du&#39;u</code>)</li>\n<li>Note conversions and their scope</li>\n<li>Trace relative clauses back to <code>ke&#39;a</code></li>\n</ol>\n<h3>Example Parse</h3>\n<pre><code>mi jinvi lo du&#39;u lo nu tadni la .jbobau. cu vajni\n</code></pre>\n<p>Step 1: Main bridi = <code>mi jinvi X</code>\nStep 2: X = <code>lo du&#39;u Y</code>\nStep 3: Y = <code>lo nu tadni la .jbobau. cu vajni</code>\nStep 4: Inner = <code>tadni la .jbobau.</code> (study Lojban) is important</p>\n<p><strong>Full meaning:</strong> I think that studying Lojban is important.</p>\n<h3>Complex Example</h3>\n<pre><code>mi djuno lo du&#39;u la .alis. cu djica lo nu mi ctuca ri\n</code></pre>\n<p>Parse:</p>\n<ul>\n<li>mi djuno lo du&#39;u [Alice wants [me to teach her]]</li>\n<li>Level 1: mi djuno</li>\n<li>Level 2: la .alis. djica</li>\n<li>Level 3: mi ctuca ri</li>\n</ul>\n<p><strong>Full meaning:</strong> I know that Alice wants me to teach her.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Parse from outside in. Identify each abstraction layer separately.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Parse These</h3>\n<p>Break down the structure:</p>\n<ol>\n<li><code>mi krici lo du&#39;u do gleki</code></li>\n</ol>\n<details>\n<summary>Answer</summary>\n\n<ul>\n<li>Main: mi krici (I believe)</li>\n<li>Inner: do gleki (you are happy)</li>\n<li>Meaning: I believe that you are happy.</li>\n</ul>\n</details>\n\n<ol start=\"2\">\n<li><code>la .bob. cu jinvi lo du&#39;u mi djica lo nu klama</code></li>\n</ol>\n<details>\n<summary>Answer</summary>\n\n<ul>\n<li>Level 1: la .bob. jinvi (Bob thinks)</li>\n<li>Level 2: mi djica (I want)</li>\n<li>Level 3: klama (to go)</li>\n<li>Meaning: Bob thinks that I want to go.</li>\n</ul>\n</details>\n\n<h3>Exercise 2: Translate Complex Sentences</h3>\n<p>Translate:</p>\n<ol>\n<li>I know that learning is important.</li>\n<li>Alice thinks that teaching Bob is difficult.</li>\n<li>I believe that you know that science is good.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi djuno lo du&#39;u lo nu cilre cu vajni</code></li>\n<li><code>la .alis. cu jinvi lo du&#39;u lo nu ctuca la .bob. cu nandu</code></li>\n<li><code>mi krici lo du&#39;u do djuno lo du&#39;u lo saske cu xamgu</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Build Complex Sentences</h3>\n<p>Create sentences with 3 levels:</p>\n<ol>\n<li>[You think [I want [to study]]]</li>\n<li>[I know [Alice believes [it&#39;s important]]]</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>do jinvi lo du&#39;u mi djica lo nu tadni</code></li>\n<li><code>mi djuno lo du&#39;u la .alis. cu krici lo du&#39;u ri vajni</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "parse-these",
+          "items": [
+            {
+              "text": "`mi krici lo du'u do gleki`",
+              "answer": null
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translate-complex-sentences",
+          "items": [
+            {
+              "text": "I know that learning is important.",
+              "answer": "`mi djuno lo du'u lo nu cilre cu vajni`"
+            },
+            {
+              "text": "Alice thinks that teaching Bob is difficult.",
+              "answer": "`la .alis. cu jinvi lo du'u lo nu ctuca la .bob. cu nandu`"
+            },
+            {
+              "text": "I believe that you know that science is good.",
+              "answer": "`mi krici lo du'u do djuno lo du'u lo saske cu xamgu`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "build-complex-sentences",
+          "items": [
+            {
+              "text": "[You think [I want [to study]]]",
+              "answer": "`do jinvi lo du'u mi djica lo nu tadni`"
+            },
+            {
+              "text": "[I know [Alice believes [it's important]]]",
+              "answer": "`mi djuno lo du'u la .alis. cu krici lo du'u ri vajni`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Parse and say aloud:</strong></p>\n<pre><code>mi jinvi lo du&#39;u lo nu cilre la .jbobau. cu vajni je nandu\n</code></pre>\n<details>\n<summary>Answer</summary>\n\n<p>I think that learning Lojban is important and difficult.</p>\n</details>"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>vajni</code></td>\n<td>important</td>\n</tr>\n<tr>\n<td><code>nandu</code></td>\n<td>difficult</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced parsing complex sentences by identifying abstraction layers. Read from outside in.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Relative clauses inside abstractions.</p>\n",
+      "tomorrow": "Relative clauses inside abstractions."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "w02d3",
+  "week": 2,
+  "day": 3,
+  "title": "Person Words",
+  "goal": "Describe people using `prenu`, `nanmu`, `ninmu`, and `verba`.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Greeting practice — say aloud:</p>\n<pre><code>coi la .alis. .i mi&#39;e .yourname. .i co&#39;o la .alis.\n</code></pre>\n<p>Quick vocab check from Week 1 — translate to Lojban:</p>\n<ol>\n<li>I love you. → ?</li>\n<li>This is good. → ?</li>\n<li>You sleep. → ?</li>\n</ol>\n<p>(Answers: <code>mi prami do</code>, <code>ti xamgu</code>, <code>do sipna</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Words for People</h3>\n<p><code>la .alis. cu ninmu</code> — Alice is a woman.</p>\n<p>Until now, you&#39;ve used pronouns (<code>mi</code>, <code>do</code>) and names (<code>la .alis.</code>). Today you&#39;ll learn words to describe <em>what kind</em> of person someone is.</p>\n<h4>Four Person Words</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>prenu</code></td>\n<td>x1 is a person</td>\n<td>person</td>\n</tr>\n<tr>\n<td><code>nanmu</code></td>\n<td>x1 is a man</td>\n<td>man</td>\n</tr>\n<tr>\n<td><code>ninmu</code></td>\n<td>x1 is a woman</td>\n<td>woman</td>\n</tr>\n<tr>\n<td><code>verba</code></td>\n<td>x1 is a child of x2</td>\n<td>child</td>\n</tr>\n</tbody></table>\n<h4>Using Person Words as Selbri</h4>\n<p>When a person word is the selbri, it means &quot;is a person/man/woman/child&quot;:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Gloss</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi prenu</code></td>\n<td>I person</td>\n<td>I am a person.</td>\n</tr>\n<tr>\n<td><code>do nanmu</code></td>\n<td>you man</td>\n<td>You are a man.</td>\n</tr>\n<tr>\n<td><code>la .alis. cu ninmu</code></td>\n<td>[name Alice] [cu] woman</td>\n<td>Alice is a woman.</td>\n</tr>\n<tr>\n<td><code>ti verba</code></td>\n<td>this child</td>\n<td>This (one) is a child.</td>\n</tr>\n</tbody></table>\n<p>Notice: names need <code>cu</code> before the selbri to avoid ambiguity (Is <code>.alis. ninmu</code> a compound, or is Alice a woman?).</p>\n<h4>Combining with Week 1 Verbs</h4>\n<p>You can use person words as sumti (x1) with action verbs:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Gloss</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>nanmu cu klama</code></td>\n<td>man [cu] go</td>\n<td>A man goes.</td>\n</tr>\n<tr>\n<td><code>ninmu cu citka</code></td>\n<td>woman [cu] eat</td>\n<td>A woman eats.</td>\n</tr>\n<tr>\n<td><code>verba cu sipna</code></td>\n<td>child [cu] sleep</td>\n<td>A child sleeps.</td>\n</tr>\n</tbody></table>\n<p>And with names:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Gloss</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>la .bob. cu nanmu</code></td>\n<td>[name Bob] [cu] man</td>\n<td>Bob is a man.</td>\n</tr>\n<tr>\n<td><code>la .bob. cu klama</code></td>\n<td>[name Bob] [cu] go</td>\n<td>Bob goes.</td>\n</tr>\n<tr>\n<td><code>la .meris. cu ninmu .i la .meris. cu melbi</code></td>\n<td>Mary woman .i Mary beautiful</td>\n<td>Mary is a woman. Mary is beautiful.</td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p><code>prenu</code>, <code>nanmu</code>, <code>ninmu</code>, and <code>verba</code> describe what kind of person someone is. Use them as selbri (&quot;X is a person&quot;) or as sumti with <code>cu</code> (&quot;A person does X&quot;).</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "`prenu`, `nanmu`, `ninmu`, and `verba` describe what kind of person someone is. Use them as selbri (\"X is a person\") or as sumti with `cu` (\"A person does X\")."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Translation (Lojban → English)</h3>\n<ol>\n<li><code>la .tam. cu nanmu</code></li>\n<li><code>mi prenu</code></li>\n<li><code>verba cu citka</code></li>\n<li><code>la .alis. cu ninmu .i la .alis. cu melbi</code></li>\n<li><code>do nanmu .i mi ninmu</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>Tom is a man.</li>\n<li>I am a person.</li>\n<li>A child eats.</li>\n<li>Alice is a woman. Alice is beautiful.</li>\n<li>You are a man. I am a woman.</li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translation (English → Lojban)</h3>\n<ol>\n<li>Alice is a woman.</li>\n<li>Bob is a man.</li>\n<li>A child sleeps.</li>\n<li>I am a person. I go.</li>\n<li>The woman is beautiful. (use <code>ninmu</code> as x1)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la .alis. cu ninmu</code></li>\n<li><code>la .bob. cu nanmu</code></li>\n<li><code>verba cu sipna</code></li>\n<li><code>mi prenu .i mi klama</code></li>\n<li><code>ninmu cu melbi</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Build Descriptions</h3>\n<p>Describe each person with two sentences — who they are and what they do:</p>\n<ol>\n<li>Tom: a man, walks</li>\n<li>Alice: a woman, reads</li>\n<li>A child: sleeps, is good</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la .tam. cu nanmu .i la .tam. cu cadzu</code></li>\n<li><code>la .alis. cu ninmu .i la .alis. cu tcidu</code></li>\n<li><code>verba cu sipna .i verba cu xamgu</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "translation",
+          "items": [
+            {
+              "text": "`la .tam. cu nanmu`",
+              "answer": "Tom is a man."
+            },
+            {
+              "text": "`mi prenu`",
+              "answer": "I am a person."
+            },
+            {
+              "text": "`verba cu citka`",
+              "answer": "A child eats."
+            },
+            {
+              "text": "`la .alis. cu ninmu .i la .alis. cu melbi`",
+              "answer": "Alice is a woman. Alice is beautiful."
+            },
+            {
+              "text": "`do nanmu .i mi ninmu`",
+              "answer": "You are a man. I am a woman."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translation",
+          "items": [
+            {
+              "text": "Alice is a woman.",
+              "answer": "`la .alis. cu ninmu`"
+            },
+            {
+              "text": "Bob is a man.",
+              "answer": "`la .bob. cu nanmu`"
+            },
+            {
+              "text": "A child sleeps.",
+              "answer": "`verba cu sipna`"
+            },
+            {
+              "text": "I am a person. I go.",
+              "answer": "`mi prenu .i mi klama`"
+            },
+            {
+              "text": "The woman is beautiful. (use `ninmu` as x1)",
+              "answer": "`ninmu cu melbi`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "build-descriptions",
+          "items": [
+            {
+              "text": "Tom: a man, walks",
+              "answer": "`la .tam. cu nanmu .i la .tam. cu cadzu`"
+            },
+            {
+              "text": "Alice: a woman, reads",
+              "answer": "`la .alis. cu ninmu .i la .alis. cu tcidu`"
+            },
+            {
+              "text": "A child: sleeps, is good",
+              "answer": "`verba cu sipna .i verba cu xamgu`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li><p>Introduce yourself and state what you are:</p>\n<ul>\n<li><code>mi&#39;e .yourname. .i mi [nanmu/ninmu/prenu]</code></li>\n</ul>\n</li>\n<li><p>Describe Alice in two sentences:</p>\n<ul>\n<li><code>la .alis. cu ninmu .i la .alis. cu melbi</code></li>\n</ul>\n</li>\n<li><p>Say: &quot;A man walks. A woman talks.&quot;</p>\n<ul>\n<li><code>nanmu cu cadzu .i ninmu cu tavla</code></li>\n</ul>\n</li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>prenu</code></td>\n<td>x1 is a person</td>\n<td>person</td>\n</tr>\n<tr>\n<td><code>nanmu</code></td>\n<td>x1 is a man</td>\n<td>man</td>\n</tr>\n<tr>\n<td><code>ninmu</code></td>\n<td>x1 is a woman</td>\n<td>woman</td>\n</tr>\n<tr>\n<td><code>verba</code></td>\n<td>x1 is a child of x2</td>\n<td>child</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "prenu",
+          "place": "x1 is a person",
+          "english": "person"
+        },
+        {
+          "lojban": "nanmu",
+          "place": "x1 is a man",
+          "english": "man"
+        },
+        {
+          "lojban": "ninmu",
+          "place": "x1 is a woman",
+          "english": "woman"
+        },
+        {
+          "lojban": "verba",
+          "place": "x1 is a child of x2",
+          "english": "child"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned four person words: <code>prenu</code> (person), <code>nanmu</code> (man), <code>ninmu</code> (woman), and <code>verba</code> (child). You can now describe who someone is and combine these with action verbs from Week 1.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll use names inside full bridi — <code>mi tavla la .alis.</code> (I talk to Alice) — and create sentences about named people doing things.</p>\n",
+      "tomorrow": "You'll use names inside full bridi — `mi tavla la .alis.` (I talk to Alice) — and create sentences about named people doing things."
+    }
+  ]
+}

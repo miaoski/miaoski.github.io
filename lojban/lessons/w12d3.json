@@ -1,0 +1,87 @@
+{
+  "id": "w12d3",
+  "week": 12,
+  "day": 3,
+  "title": "The y-Hyphen Rule",
+  "goal": "Learn when to use `y` as a buffer in lujvo.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Lujvo review:</p>\n<pre><code>jbobau = ? + ?\nbrivla = ? + ?\n</code></pre>\n<p>(Answers: jbo + bau, briv + la)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>glibau</code></td>\n<td>x1 is the English language used by x2 to express x3</td>\n<td>English language</td>\n</tr>\n<tr>\n<td><code>selsku</code></td>\n<td>x1 is what is said by x2 to x3 about x4</td>\n<td>what is said</td>\n</tr>\n</tbody></table>\n<h3>The Problem: Consonant Clusters</h3>\n<p>When joining rafsi, sometimes you get invalid consonant clusters:</p>\n<pre><code>? + ? = &quot;srd...&quot; (invalid — hard to pronounce)\n</code></pre>\n<p>Lojban has rules about which consonants can be adjacent.</p>\n<h3>The Solution: y-Buffer</h3>\n<p>Insert <code>y</code> (pronounced like &quot;uh&quot;) between rafsi when needed:</p>\n<pre><code>rafsi1 + y + rafsi2\n</code></pre>\n<p>The <code>y</code> makes the word pronounceable.</p>\n<h3>When to Use y</h3>\n<p>Use <code>y</code> when:</p>\n<ol>\n<li>Two consonants would create an invalid cluster</li>\n<li>The lujvo would be hard to pronounce</li>\n<li>The lujvo might be confused with a gismu</li>\n</ol>\n<h3>Examples</h3>\n<p><strong><code>selsku</code></strong> (what is said):</p>\n<ul>\n<li><code>sel</code> (from se) + <code>sku</code> (from cusku)</li>\n<li>No y needed — &quot;lsk&quot; is pronounceable</li>\n</ul>\n<p><strong><code>seljmi</code></strong> (what is understood):</p>\n<ul>\n<li><code>sel</code> (from se) + <code>jmi</code> (from jimpe)</li>\n<li>No y needed — &quot;ljm&quot; is pronounceable</li>\n</ul>\n<p>Some lujvo do need y:</p>\n<pre><code>? + y + ? = pronounceable\n</code></pre>\n<h3>Recognizing se- Lujvo</h3>\n<p>Many lujvo start with <code>sel-</code>, <code>ter-</code>, or <code>vel-</code>:</p>\n<table>\n<thead>\n<tr>\n<th>Prefix</th>\n<th>From</th>\n<th>Makes x1 =</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>sel-</code></td>\n<td>se</td>\n<td>original x2</td>\n</tr>\n<tr>\n<td><code>ter-</code></td>\n<td>te</td>\n<td>original x3</td>\n</tr>\n<tr>\n<td><code>vel-</code></td>\n<td>ve</td>\n<td>original x4</td>\n</tr>\n</tbody></table>\n<h3>Key Point</h3>\n<blockquote>\n<p>The <code>y</code> buffer prevents invalid consonant clusters. You&#39;ll learn when it&#39;s needed through exposure.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Identify Components</h3>\n<p>What are the parts of each lujvo?</p>\n<ol>\n<li><code>selsku</code> = ?</li>\n<li><code>glibau</code> = ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>sel</code> (from se) + <code>sku</code> (from cusku) — what is said</li>\n<li><code>gli</code> (from glico) + <code>bau</code> (from bangu) — English language</li>\n</ol>\n</details>\n\n<h3>Exercise 2: Understand sel- Lujvo</h3>\n<p><code>cusku</code> means &quot;x1 expresses x2 to x3.&quot;</p>\n<p>What does <code>selsku</code> mean?</p>\n<details>\n<summary>Answer</summary>\n\n<p><code>selsku</code> = se cusku = &quot;x1 is what is expressed/said&quot;</p>\n<p>The original x2 (the content) becomes the new x1.</p>\n</details>\n\n<h3>Exercise 3: Use New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>I speak English.</li>\n<li>This is what is said.</li>\n<li>English is easy.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi tavla fo la glibau</code></li>\n<li><code>ti selsku</code></li>\n<li><code>la glibau cu frili</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "identify-components",
+          "items": [
+            {
+              "text": "`selsku` = ?",
+              "answer": "`sel` (from se) + `sku` (from cusku) — what is said"
+            },
+            {
+              "text": "`glibau` = ?",
+              "answer": "`gli` (from glico) + `bau` (from bangu) — English language"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "understand-sel--lujvo",
+          "items": []
+        },
+        {
+          "number": 3,
+          "type": "use-new-vocabulary",
+          "items": [
+            {
+              "text": "I speak English.",
+              "answer": "`mi tavla fo la glibau`"
+            },
+            {
+              "text": "This is what is said.",
+              "answer": "`ti selsku`"
+            },
+            {
+              "text": "English is easy.",
+              "answer": "`la glibau cu frili`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I speak English.&quot; → <code>mi tavla fo la glibau</code></li>\n<li>&quot;I learn English and Lojban.&quot; → <code>mi cilre la glibau .e la jbobau</code></li>\n<li>&quot;This is what I said.&quot; → <code>ti selsku mi</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>glibau</code></td>\n<td>x1 is English used by x2</td>\n<td>English</td>\n</tr>\n<tr>\n<td><code>selsku</code></td>\n<td>x1 is what is said by x2</td>\n<td>what is said</td>\n</tr>\n</tbody></table>\n<p><strong>Component analysis:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lujvo</th>\n<th>Components</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>glibau</code></td>\n<td>gli (glico) + bau (bangu)</td>\n<td>English language</td>\n</tr>\n<tr>\n<td><code>selsku</code></td>\n<td>sel (se) + sku (cusku)</td>\n<td>what is said</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "glibau",
+          "place": "x1 is English used by x2",
+          "english": "English"
+        },
+        {
+          "lojban": "selsku",
+          "place": "x1 is what is said by x2",
+          "english": "what is said"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned about the y-hyphen rule for handling consonant clusters. You also learned <code>sel-</code> lujvo that convert x2 to x1.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Common lujvo patterns with se/te conversions.</p>\n",
+      "tomorrow": "Common lujvo patterns with se/te conversions."
+    }
+  ]
+}

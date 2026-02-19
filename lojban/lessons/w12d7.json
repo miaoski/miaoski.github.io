@@ -1,0 +1,46 @@
+{
+  "id": "w12d7",
+  "week": 12,
+  "day": 7,
+  "title": "Week Review: Lujvo Mastery",
+  "goal": "Demonstrate mastery of rafsi, lujvo, and compound word concepts.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Quick recall — all 8 new words:</p>\n<pre><code>brivla → ?     glibau → ?\ncmavo → ?      selsku → ?\nlujvo → ?      seljmi → ?\njbobau → ?     terdi → ?\n</code></pre>\n<p>(Answers: predicate word, English, structure word, what is said, compound word, what is understood, Lojban, Earth)</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Grammar Summary (3-4 min)</h2>\n<h3>What You Learned This Week</h3>\n<p><strong>1. Rafsi</strong></p>\n<ul>\n<li>Short combining forms of gismu</li>\n<li>Used to build compound words</li>\n<li>Each gismu has 2-5 rafsi</li>\n</ul>\n<p><strong>2. Lujvo</strong></p>\n<ul>\n<li>Compound words built from rafsi</li>\n<li>Fixed, standardized meanings</li>\n<li>&quot;Frozen tanru&quot;</li>\n</ul>\n<p><strong>3. The y-Hyphen</strong></p>\n<ul>\n<li>Buffer to prevent invalid consonant clusters</li>\n<li>Makes lujvo pronounceable</li>\n</ul>\n<p><strong>4. sel-/ter-/vel- Pattern</strong></p>\n<ul>\n<li>Fuses conversion with gismu</li>\n<li><code>selsku</code> = se + cusku = what is said</li>\n</ul>\n<p><strong>5. Week 12 Vocabulary (8)</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>brivla</code></td>\n<td>predicate word</td>\n<td><code>glibau</code></td>\n<td>English</td>\n</tr>\n<tr>\n<td><code>cmavo</code></td>\n<td>structure word</td>\n<td><code>selsku</code></td>\n<td>what is said</td>\n</tr>\n<tr>\n<td><code>lujvo</code></td>\n<td>compound word</td>\n<td><code>seljmi</code></td>\n<td>what is understood</td>\n</tr>\n<tr>\n<td><code>jbobau</code></td>\n<td>Lojban</td>\n<td><code>terdi</code></td>\n<td>Earth</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Self-Test (5-6 min)</h2>\n<h3>Part A: Vocabulary (8 points)</h3>\n<p>Translate to English:</p>\n<ol>\n<li><code>brivla</code> →</li>\n<li><code>jbobau</code> →</li>\n<li><code>selsku</code> →</li>\n<li><code>terdi</code> →</li>\n</ol>\n<p>Translate to Lojban:</p>\n<ol start=\"5\">\n<li>structure word →</li>\n<li>compound word →</li>\n<li>English (language) →</li>\n<li>what is understood →</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>predicate word</li>\n<li>Lojban</li>\n<li>what is said</li>\n<li>Earth</li>\n<li><code>cmavo</code></li>\n<li><code>lujvo</code></li>\n<li><code>glibau</code></li>\n<li><code>seljmi</code></li>\n</ol>\n</details>\n\n<h3>Part B: Lujvo Analysis (9 points)</h3>\n<p>Decompose these lujvo:</p>\n<ol>\n<li><code>jbobau</code> = ? + ?</li>\n<li><code>brivla</code> = ? + ?</li>\n<li><code>selsku</code> = ? + ?</li>\n</ol>\n<p>What gismu do these rafsi come from?</p>\n<ol start=\"4\">\n<li><code>jbo</code> → ?</li>\n<li><code>bau</code> → ?</li>\n<li><code>sku</code> → ?</li>\n</ol>\n<p>True or False:</p>\n<ol start=\"7\">\n<li>Lujvo have fixed meanings.</li>\n<li>Tanru have fixed meanings.</li>\n<li>Rafsi are used to build lujvo.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>jbo + bau</li>\n<li>briv + la</li>\n<li>sel + sku</li>\n<li>lojbo</li>\n<li>bangu</li>\n<li>cusku</li>\n<li>True</li>\n<li>False (tanru are contextual)</li>\n<li>True</li>\n</ol>\n</details>\n\n<h3>Part C: Sentences (8 points)</h3>\n<p>Translate:</p>\n<ol>\n<li>I speak Lojban.</li>\n<li>This is a predicate word.</li>\n<li>Earth is big.</li>\n<li>I understand what is said.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi tavla fo la jbobau</code></li>\n<li><code>ti brivla</code></li>\n<li><code>la terdi cu barda</code></li>\n<li><code>mi jimpe lo selsku</code></li>\n</ol>\n</details>"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Scoring</h2>\n<table>\n<thead>\n<tr>\n<th>Section</th>\n<th>Points</th>\n<th>Your Score</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Part A</td>\n<td>8</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part B</td>\n<td>9</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part C</td>\n<td>8</td>\n<td>___</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>25</strong></td>\n<td>___</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Integration Challenge (1-2 min)</h2>\n<h3>Discuss Lojban Using Lojban</h3>\n<p>Use at least:</p>\n<ul>\n<li><code>jbobau</code>, <code>glibau</code></li>\n<li><code>brivla</code>, <code>cmavo</code>, <code>lujvo</code></li>\n<li>A complete thought about learning</li>\n</ul>\n<p><strong>Example:</strong></p>\n<pre><code>mi tadni la jbobau\n.i mi cilre lo brivla .e lo cmavo\n.i la jbobau cu xamgu\n.i mi gleki\n</code></pre>\n<p>(I study Lojban. I learn predicates and particles. Lojban is good. I am happy.)</p>\n<p>Create your own and say it aloud.</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Week 12 Complete Reference</h2>\n<p><strong>Vocabulary (8):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>brivla</code></td>\n<td>predicate word</td>\n<td><code>glibau</code></td>\n<td>English</td>\n</tr>\n<tr>\n<td><code>cmavo</code></td>\n<td>structure word</td>\n<td><code>selsku</code></td>\n<td>what is said</td>\n</tr>\n<tr>\n<td><code>lujvo</code></td>\n<td>compound word</td>\n<td><code>seljmi</code></td>\n<td>what is understood</td>\n</tr>\n<tr>\n<td><code>jbobau</code></td>\n<td>Lojban</td>\n<td><code>terdi</code></td>\n<td>Earth</td>\n</tr>\n</tbody></table>\n<p><strong>Key Concepts:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Term</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>rafsi</td>\n<td>Short combining forms</td>\n</tr>\n<tr>\n<td>lujvo</td>\n<td>Compound word (frozen tanru)</td>\n</tr>\n<tr>\n<td>y-hyphen</td>\n<td>Buffer for consonant clusters</td>\n</tr>\n<tr>\n<td>sel-/ter-/vel-</td>\n<td>Conversion prefixes in lujvo</td>\n</tr>\n</tbody></table>\n<p><strong>Cumulative vocabulary:</strong> 106 words</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You completed Week 12 on rafsi and lujvo. You can now recognize and decompose compound words, and understand the difference between lujvo and tanru.</p>\n</blockquote>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Congratulations</h2>\n<p><code>do mo&#39;u cilre lo jicmu be la jbobau</code></p>\n<p>(You have finished learning the basics of Lojban!)</p>\n<p><strong>Twelve weeks complete.</strong></p>\n<p>You have learned:</p>\n<ul>\n<li>106 vocabulary words</li>\n<li>Bridi structure (selbri + sumti)</li>\n<li>Place structures (x1, x2, x3, x4, x5)</li>\n<li>Conversions (se, te, ve, xe)</li>\n<li>Place tags (fa, fe, fi, fo, fu)</li>\n<li>Tanru (compound concepts)</li>\n<li>Tanru grouping (bo, ke...ke&#39;e)</li>\n<li>Lujvo (frozen compounds)</li>\n</ul>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>What&#39;s Next?</h2>\n<p>Your Lojban journey continues:</p>\n<ul>\n<li>Read Lojban texts</li>\n<li>Practice with speakers</li>\n<li>Learn more grammar (abstractions, relative clauses, tenses)</li>\n<li>Build vocabulary</li>\n<li>Join the Lojban community</li>\n</ul>\n<p><code>.ui mi&#39;e la .lojban. .i co&#39;o</code></p>\n<p>(Yay! I am Lojban. Goodbye!)</p>\n"
+    }
+  ]
+}

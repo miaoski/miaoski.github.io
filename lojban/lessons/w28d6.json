@@ -1,0 +1,36 @@
+{
+  "id": "w28d6",
+  "week": 28,
+  "day": 6,
+  "title": "Short Story Draft",
+  "goal": "Plan and begin writing a short story.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Reading practice review:</p>\n<p>Parse: <code>mi djuno lo du&#39;u do djica lo nu klama</code></p>\n<p>(Answer: I know that you want to go — 3 levels)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Story Planning</h3>\n<p>Before writing, plan:</p>\n<table>\n<thead>\n<tr>\n<th>Element</th>\n<th>Questions</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Characters</td>\n<td>Who? Names?</td>\n</tr>\n<tr>\n<td>Setting</td>\n<td>Where? When?</td>\n</tr>\n<tr>\n<td>Plot</td>\n<td>What happens?</td>\n</tr>\n</tbody></table>\n<h3>Story Structure</h3>\n<ol>\n<li><strong>Beginning</strong> — Introduce characters/setting</li>\n<li><strong>Middle</strong> — Event/problem</li>\n<li><strong>End</strong> — Resolution</li>\n</ol>\n<h3>Story Elements in Lojban</h3>\n<table>\n<thead>\n<tr>\n<th>Element</th>\n<th>Tools</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Characters</td>\n<td><code>la .NAME.</code>, descriptions</td>\n</tr>\n<tr>\n<td>Setting</td>\n<td>Position words, spatial tenses</td>\n</tr>\n<tr>\n<td>Time</td>\n<td><code>pu ki</code>, <code>.i ba bo</code></td>\n</tr>\n<tr>\n<td>Dialogue</td>\n<td><code>lu...li&#39;u</code>, <code>cusku</code></td>\n</tr>\n<tr>\n<td>Feelings</td>\n<td>Attitudinals</td>\n</tr>\n</tbody></table>\n<h3>Example Story Start</h3>\n<pre><code>.i pu ki lo nicte cu co&#39;a\n.i la .alis. stali bu&#39;u lo zdani\n.i ri viska lo lunra poi carmi\n.i ri cusku lu .ui lo lunra cu melbi li&#39;u\n.i ba bo ri klama bartu\n</code></pre>\n<p>Once upon a time (in the past), night began. Alice stayed at home. She saw the moon which was bright. She said &quot;Yay, the moon is beautiful!&quot; Then she went outside.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Plan first, then write. Use all your tools: tense, dialogue, feelings, description.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise: Plan Your Story</h3>\n<p>Fill in:</p>\n<p><strong>Characters:</strong></p>\n<ul>\n<li>Name 1: ___</li>\n<li>Name 2: ___</li>\n</ul>\n<p><strong>Setting:</strong></p>\n<ul>\n<li>Place: ___</li>\n<li>Time: ___</li>\n</ul>\n<p><strong>Plot:</strong></p>\n<ul>\n<li>Beginning: ___</li>\n<li>Event: ___</li>\n<li>Ending: ___</li>\n</ul>\n<h3>Exercise: Write First Half</h3>\n<p>Write 50+ words (approximately 6-8 sentences):</p>\n<details>\n<summary>Example Answer</summary>\n\n<pre><code>.i pu ki la .tam. xabju ne&#39;a lo cmana\n.i ro cerni ri cadzu bu&#39;u lo foldi\n.i lo djedi cu lenku je snime\n.i la .tam. viska lo mlatu poi cmalu je blabi\n.i ri cusku lu .ue do ma zvati li&#39;u\n.i lo mlatu cu spuda lu mi se claxu lo zdani li&#39;u\n.i la .tam. cusku lu ko kansa mi li&#39;u\n</code></pre>\n<p>(Tom lived near a mountain. Every morning he walked in the field. The day was cold and snowy. Tom saw a cat which was small and white. He said &quot;Wow, where are you?&quot; The cat replied &quot;I&#39;m missing a home.&quot; Tom said &quot;Come with me.&quot;)</p>\n</details>"
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Read your story start aloud.</strong></p>\n<p>Check:</p>\n<ul>\n<li>Does it flow?</li>\n<li>Are tenses consistent?</li>\n<li>Is it understandable?</li>\n</ul>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Plan</h2>\n<p><strong>Story progress:</strong></p>\n<ul>\n<li><input disabled=\"\" type=\"checkbox\"> Characters planned</li>\n<li><input disabled=\"\" type=\"checkbox\"> Setting planned</li>\n<li><input disabled=\"\" type=\"checkbox\"> Plot outlined</li>\n<li><input disabled=\"\" type=\"checkbox\"> First half written (50+ words)</li>\n</ul>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You planned and started writing your short story. You&#39;ll complete it tomorrow.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Short story completion.</p>\n",
+      "tomorrow": "Short story completion."
+    }
+  ]
+}

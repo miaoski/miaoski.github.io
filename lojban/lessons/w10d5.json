@@ -1,0 +1,104 @@
+{
+  "id": "w10d5",
+  "week": 10,
+  "day": 5,
+  "title": "Quality and Property Tanru",
+  "goal": "Practice tanru with quality words like sutra, xamgu, xlali.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Week 10 vocabulary check:</p>\n<pre><code>blue → ?      wide → ?\ngreen → ?     deep → ?\nlong → ?      short → ?\n</code></pre>\n<p>(Answers: <code>blanu</code>, <code>ganra</code>, <code>crino</code>, <code>condi</code>, <code>clani</code>, <code>tordu</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Vocabulary Review</h3>\n<p>No new gismu today — focus on combining quality words you already know:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>sutra</code></td>\n<td>fast</td>\n</tr>\n<tr>\n<td><code>xamgu</code></td>\n<td>good</td>\n</tr>\n<tr>\n<td><code>xlali</code></td>\n<td>bad</td>\n</tr>\n<tr>\n<td><code>melbi</code></td>\n<td>beautiful</td>\n</tr>\n</tbody></table>\n<h3>Quality + Action Tanru</h3>\n<p>Quality words can modify actions:</p>\n<pre><code>sutra bajra → fast-run\n</code></pre>\n<p>Running that is fast.</p>\n<pre><code>xamgu citka → good-eat\n</code></pre>\n<p>Eating that is good (eating well, or eating good food — ambiguous).</p>\n<pre><code>xlali tavla → bad-talk\n</code></pre>\n<p>Talking that is bad (speaking poorly, or saying bad things).</p>\n<h3>Quality + Object Tanru</h3>\n<p>Quality words can also modify objects:</p>\n<pre><code>xamgu plise → good apple\nmelbi zdani → beautiful house\nxlali cukta → bad book\n</code></pre>\n<h3>In Full Sentences</h3>\n<pre><code>mi sutra bajra\n</code></pre>\n<p>I run fast. (I fast-run.)</p>\n<pre><code>la .bob. cu xamgu citka\n</code></pre>\n<p>Bob eats well. (Bob good-eats.)</p>\n<pre><code>ti melbi zdani\n</code></pre>\n<p>This is a beautiful house.</p>\n<h3>Tanru Ambiguity Preview</h3>\n<p><code>xamgu citka</code> could mean:</p>\n<ul>\n<li>eating in a good way</li>\n<li>eating good food</li>\n<li>healthy eating</li>\n</ul>\n<p>Context determines meaning. We&#39;ll explore this more tomorrow.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Quality words modify actions or objects, creating compound concepts with loose meanings.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Quality + Action</h3>\n<p>Create tanru:</p>\n<ol>\n<li>fast-go → ?</li>\n<li>good-run → ?</li>\n<li>bad-eat → ?</li>\n<li>fast-talk → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>sutra klama</code></li>\n<li><code>xamgu bajra</code></li>\n<li><code>xlali citka</code></li>\n<li><code>sutra tavla</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Quality + Object</h3>\n<p>Create tanru:</p>\n<ol>\n<li>beautiful cat → ?</li>\n<li>good book → ?</li>\n<li>bad house → ?</li>\n<li>fast car → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>melbi mlatu</code></li>\n<li><code>xamgu cukta</code></li>\n<li><code>xlali zdani</code></li>\n<li><code>sutra karce</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Full Sentences</h3>\n<p>Translate:</p>\n<ol>\n<li>I run fast.</li>\n<li>Bob eats well.</li>\n<li>This is a beautiful apple.</li>\n<li>Alice speaks poorly.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi sutra bajra</code></li>\n<li><code>la .bob. cu xamgu citka</code></li>\n<li><code>ti melbi plise</code></li>\n<li><code>la .alis. cu xlali tavla</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "quality-+-action",
+          "items": [
+            {
+              "text": "fast-go → ?",
+              "answer": "`sutra klama`"
+            },
+            {
+              "text": "good-run → ?",
+              "answer": "`xamgu bajra`"
+            },
+            {
+              "text": "bad-eat → ?",
+              "answer": "`xlali citka`"
+            },
+            {
+              "text": "fast-talk → ?",
+              "answer": "`sutra tavla`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "quality-+-object",
+          "items": [
+            {
+              "text": "beautiful cat → ?",
+              "answer": "`melbi mlatu`"
+            },
+            {
+              "text": "good book → ?",
+              "answer": "`xamgu cukta`"
+            },
+            {
+              "text": "bad house → ?",
+              "answer": "`xlali zdani`"
+            },
+            {
+              "text": "fast car → ?",
+              "answer": "`sutra karce`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "full-sentences",
+          "items": [
+            {
+              "text": "I run fast.",
+              "answer": "`mi sutra bajra`"
+            },
+            {
+              "text": "Bob eats well.",
+              "answer": "`la .bob. cu xamgu citka`"
+            },
+            {
+              "text": "This is a beautiful apple.",
+              "answer": "`ti melbi plise`"
+            },
+            {
+              "text": "Alice speaks poorly.",
+              "answer": "`la .alis. cu xlali tavla`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I go quickly.&quot; → <code>mi sutra klama</code></li>\n<li>&quot;This is a good book.&quot; → <code>ti xamgu cukta</code></li>\n<li>&quot;The cat is beautiful.&quot; → <code>la mlatu cu melbi</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p>Review — no new gismu.</p>\n<p><strong>Quality words:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>sutra</code></td>\n<td>fast</td>\n</tr>\n<tr>\n<td><code>xamgu</code></td>\n<td>good</td>\n</tr>\n<tr>\n<td><code>xlali</code></td>\n<td>bad</td>\n</tr>\n<tr>\n<td><code>melbi</code></td>\n<td>beautiful</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced quality tanru. Words like <code>sutra</code>, <code>xamgu</code>, and <code>melbi</code> can modify both actions and objects.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Tanru ambiguity — why <code>gerku zdani</code> can mean many things.</p>\n",
+      "tomorrow": "Tanru ambiguity — why `gerku zdani` can mean many things."
+    }
+  ]
+}

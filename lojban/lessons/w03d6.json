@@ -1,0 +1,96 @@
+{
+  "id": "w03d6",
+  "week": 3,
+  "day": 6,
+  "title": "Answering with `go'i`",
+  "goal": "Answer yes/no questions using `go'i` and `na go'i`.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Question practice — turn these into <code>xu</code> questions:</p>\n<pre><code>1. do gleki        → ?\n2. ti mlatu        → ?\n3. la .bob. cu klama → ?\n</code></pre>\n<p>(Answers: <code>xu do gleki</code>, <code>xu ti mlatu</code>, <code>xu la .bob. cu klama</code>)</p>\n<p>Say each question aloud with clear pronunciation of <code>xu</code> (khoo).</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Answering Yes and No</h3>\n<p><code>go&#39;i</code> — Yes. (That is so.)</p>\n<p>In English, we use &quot;yes&quot; and &quot;no.&quot; In Lojban, we use <strong><code>go&#39;i</code></strong> and <strong><code>na go&#39;i</code></strong>.</p>\n<h4>The Two Answers</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Meaning</th>\n<th>Usage</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>go&#39;i</code></td>\n<td>yes / that&#39;s true / affirm</td>\n<td>confirms the bridi is true</td>\n</tr>\n<tr>\n<td><code>na go&#39;i</code></td>\n<td>no / that&#39;s false / deny</td>\n<td>denies the bridi is true</td>\n</tr>\n</tbody></table>\n<p><code>go&#39;i</code> literally means &quot;the previous bridi is true.&quot; <code>na</code> is a negation marker, so <code>na go&#39;i</code> means &quot;the previous bridi is not true.&quot;</p>\n<h4>Question and Answer Pairs</h4>\n<table>\n<thead>\n<tr>\n<th>Question</th>\n<th>Answer</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>xu do gleki</code></td>\n<td><code>go&#39;i</code></td>\n<td>&quot;Are you happy?&quot; &quot;Yes.&quot;</td>\n</tr>\n<tr>\n<td><code>xu do gleki</code></td>\n<td><code>na go&#39;i</code></td>\n<td>&quot;Are you happy?&quot; &quot;No.&quot;</td>\n</tr>\n<tr>\n<td><code>xu ti plise</code></td>\n<td><code>go&#39;i</code></td>\n<td>&quot;Is this an apple?&quot; &quot;Yes.&quot;</td>\n</tr>\n<tr>\n<td><code>xu ti plise</code></td>\n<td><code>na go&#39;i</code></td>\n<td>&quot;Is this an apple?&quot; &quot;No.&quot;</td>\n</tr>\n</tbody></table>\n<h4>Dialogue Examples</h4>\n<p><strong>Example 1:</strong></p>\n<pre><code>A: xu do nelci la mlatu\nB: go&#39;i\n</code></pre>\n<p>(A: Do you like cats? B: Yes.)</p>\n<p><strong>Example 2:</strong></p>\n<pre><code>A: xu la .alis. cu klama la .paris.\nB: na go&#39;i\n</code></pre>\n<p>(A: Is Alice going to Paris? B: No.)</p>\n<p><strong>Example 3:</strong></p>\n<pre><code>A: xu ti gerku\nB: na go&#39;i .i ti mlatu\n</code></pre>\n<p>(A: Is this a dog? B: No. This is a cat.)</p>\n<h4>Adding Information After Answering</h4>\n<p>You can expand your answer:</p>\n<table>\n<thead>\n<tr>\n<th>Exchange</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>xu do badri</code> / <code>na go&#39;i .i mi gleki</code></td>\n<td>&quot;Are you sad?&quot; &quot;No. I&#39;m happy.&quot;</td>\n</tr>\n<tr>\n<td><code>xu do djica la plise</code> / <code>go&#39;i .i mi djica re plise</code></td>\n<td>&quot;Do you want an apple?&quot; &quot;Yes. I want two apples.&quot;</td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p>Answer yes/no questions with <code>go&#39;i</code> (yes, affirm) or <code>na go&#39;i</code> (no, deny). These confirm or reject the truth of the previous bridi.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "Answer yes/no questions with `go'i` (yes, affirm) or `na go'i` (no, deny). These confirm or reject the truth of the previous bridi."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Choose the Answer</h3>\n<p>For each question, write <code>go&#39;i</code> or <code>na go&#39;i</code> based on the scenario:</p>\n<ol>\n<li><code>xu ti plise</code> (You&#39;re holding an apple) → ?</li>\n<li><code>xu do nanmu</code> (You&#39;re a woman) → ?</li>\n<li><code>xu la .paris. cu barda</code> (Paris is indeed big) → ?</li>\n<li><code>xu do nelci la gerku</code> (You hate dogs) → ?</li>\n<li><code>xu mi gleki</code> (You&#39;re asking yourself; you&#39;re happy) → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>go&#39;i</code></li>\n<li><code>na go&#39;i</code></li>\n<li><code>go&#39;i</code></li>\n<li><code>na go&#39;i</code></li>\n<li><code>go&#39;i</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Complete the Dialogue</h3>\n<p>Fill in the answer:</p>\n<ol>\n<li>A: <code>xu do klama la zdani</code> B: ___ (Yes, I&#39;m going home)</li>\n<li>A: <code>xu ti cmalu</code> B: ___ (No, it&#39;s big)</li>\n<li>A: <code>xu la .bob. cu gleki</code> B: ___ (Yes, Bob is happy)</li>\n<li>A: <code>xu do djica la mlatu</code> B: ___ (No, I want a dog)</li>\n<li>A: <code>xu do nelci mi</code> B: ___ (Yes, I like you)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>go&#39;i</code></li>\n<li><code>na go&#39;i .i ti barda</code></li>\n<li><code>go&#39;i</code></li>\n<li><code>na go&#39;i .i mi djica la gerku</code></li>\n<li><code>go&#39;i</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Create Q&amp;A Exchanges</h3>\n<p>Write 5 question-answer pairs using <code>xu</code> and <code>go&#39;i</code>/<code>na go&#39;i</code>:</p>\n<p>Example:</p>\n<pre><code>xu do citka — go&#39;i\n(Are you eating? — Yes.)\n</code></pre>\n<details>\n<summary>Example answers</summary>\n\n<ol>\n<li><code>xu do sipna</code> — <code>na go&#39;i</code></li>\n<li><code>xu la .alis. cu ninmu</code> — <code>go&#39;i</code></li>\n<li><code>xu ti barda</code> — <code>na go&#39;i .i ti cmalu</code></li>\n<li><code>xu do nelci la .paris.</code> — <code>go&#39;i</code></li>\n<li><code>xu la .tam. cu badri</code> — <code>na go&#39;i .i la .tam. cu gleki</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "choose-the-answer",
+          "items": [
+            {
+              "text": "`xu ti plise` (You're holding an apple) → ?",
+              "answer": "`go'i`"
+            },
+            {
+              "text": "`xu do nanmu` (You're a woman) → ?",
+              "answer": "`na go'i`"
+            },
+            {
+              "text": "`xu la .paris. cu barda` (Paris is indeed big) → ?",
+              "answer": "`go'i`"
+            },
+            {
+              "text": "`xu do nelci la gerku` (You hate dogs) → ?",
+              "answer": "`na go'i`"
+            },
+            {
+              "text": "`xu mi gleki` (You're asking yourself; you're happy) → ?",
+              "answer": "`go'i`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "complete-the-dialogue",
+          "items": [
+            {
+              "text": "A: `xu do klama la zdani` B: ___ (Yes, I'm going home)",
+              "answer": "`go'i`"
+            },
+            {
+              "text": "A: `xu ti cmalu` B: ___ (No, it's big)",
+              "answer": "`na go'i .i ti barda`"
+            },
+            {
+              "text": "A: `xu la .bob. cu gleki` B: ___ (Yes, Bob is happy)",
+              "answer": "`go'i`"
+            },
+            {
+              "text": "A: `xu do djica la mlatu` B: ___ (No, I want a dog)",
+              "answer": "`na go'i .i mi djica la gerku`"
+            },
+            {
+              "text": "A: `xu do nelci mi` B: ___ (Yes, I like you)",
+              "answer": "`go'i`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "create-q&a-exchanges",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Practice these exchanges aloud:</strong></p>\n<p><strong>Exchange 1:</strong></p>\n<pre><code>A: xu do gleki\nB: go&#39;i\n</code></pre>\n<p>(Are you happy? Yes.)</p>\n<p><strong>Exchange 2:</strong></p>\n<pre><code>A: xu do nelci la gerku\nB: na go&#39;i .i mi nelci la mlatu\n</code></pre>\n<p>(Do you like dogs? No. I like cats.)</p>\n<p><strong>Exchange 3:</strong></p>\n<pre><code>A: xu ti plise\nB: go&#39;i .i ti plise\n</code></pre>\n<p>(Is this an apple? Yes. This is an apple.)</p>\n<p>Now create your own exchange and say it aloud.</p>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p><strong>Cmavo introduced today:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>go&#39;i</code></td>\n<td>yes / affirm the previous bridi</td>\n</tr>\n<tr>\n<td><code>na</code></td>\n<td>negation marker (not)</td>\n</tr>\n<tr>\n<td><code>na go&#39;i</code></td>\n<td>no / deny the previous bridi</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned to answer yes/no questions: <code>go&#39;i</code> means &quot;yes&quot; (the bridi is true), and <code>na go&#39;i</code> means &quot;no&quot; (the bridi is false). You can add more information after your answer using <code>.i</code>.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Full week review — you&#39;ll combine numbers, questions, and all Week 3 vocabulary in realistic exchanges.</p>\n",
+      "tomorrow": "Full week review — you'll combine numbers, questions, and all Week 3 vocabulary in realistic exchanges."
+    }
+  ]
+}

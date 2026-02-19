@@ -1,0 +1,96 @@
+{
+  "id": "w05d5",
+  "week": 5,
+  "day": 5,
+  "title": "Five-Place: klama Fully Filled",
+  "goal": "Fill all five places of `klama` in complete sentences.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Four-place review with <code>vecnu</code>:</p>\n<pre><code>vecnu — x1 sells x2 to x3 for x4\n</code></pre>\n<p>Translate: <code>mi vecnu la karce la .bob. mu no no</code></p>\n<p>(Answer: I sell a car to Bob for 500.)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>The Five-Place Champion: <code>klama</code></h3>\n<p><code>mi klama la zarci la zdani la dargu la karce</code> — I go to the market from home via the road by car.</p>\n<p><code>klama</code> is the most common five-place gismu. Today you&#39;ll master all five slots.</p>\n<h4><code>klama</code> Complete Structure</h4>\n<pre><code>klama — x1 goes to x2 from x3 via x4 using x5\n         │       │       │       │        │\n        goer   dest   origin  route   vehicle\n</code></pre>\n<table>\n<thead>\n<tr>\n<th>Place</th>\n<th>Role</th>\n<th>Example sumti</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>x1</td>\n<td>goer</td>\n<td><code>mi</code>, <code>la .bob.</code>, <code>prenu</code></td>\n</tr>\n<tr>\n<td>x2</td>\n<td>destination</td>\n<td><code>la zarci</code>, <code>la zdani</code>, <code>la .paris.</code></td>\n</tr>\n<tr>\n<td>x3</td>\n<td>origin</td>\n<td><code>la zdani</code>, <code>la dinju</code>, <code>la .london.</code></td>\n</tr>\n<tr>\n<td>x4</td>\n<td>route</td>\n<td><code>la dargu</code> (road), <code>zo&#39;e</code> (unspecified)</td>\n</tr>\n<tr>\n<td>x5</td>\n<td>vehicle</td>\n<td><code>la karce</code> (car), <code>la .treni.</code> (train)</td>\n</tr>\n</tbody></table>\n<p>Note: <code>dargu</code> (road) — you&#39;ll learn this formally later, but you can use it now.</p>\n<h4>Building Up Step by Step</h4>\n<table>\n<thead>\n<tr>\n<th>Places filled</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>x1, x2</td>\n<td><code>mi klama la zarci</code></td>\n<td>I go to the market.</td>\n</tr>\n<tr>\n<td>x1, x2, x3</td>\n<td><code>mi klama la zarci la zdani</code></td>\n<td>I go to the market from home.</td>\n</tr>\n<tr>\n<td>x1, x2, x3, x4</td>\n<td><code>mi klama la zarci la zdani la dargu</code></td>\n<td>I go to the market from home via the road.</td>\n</tr>\n<tr>\n<td>x1, x2, x3, x4, x5</td>\n<td><code>mi klama la zarci la zdani la dargu la karce</code></td>\n<td>I go to the market from home via the road by car.</td>\n</tr>\n</tbody></table>\n<h4>Using <code>zo&#39;e</code> to Skip Places</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi klama la zarci la zdani zo&#39;e la karce</code></td>\n<td>I go to the market from home (via unspecified) by car.</td>\n</tr>\n<tr>\n<td><code>mi klama la zarci zo&#39;e zo&#39;e la karce</code></td>\n<td>I go to the market (from somewhere) (via somewhere) by car.</td>\n</tr>\n</tbody></table>\n<h4>Examples</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>la .bob. cu klama la dinju la zdani la dargu la karce</code></td>\n<td>Bob goes to the building from home via the road by car.</td>\n</tr>\n<tr>\n<td><code>do klama la .paris. la .london. zo&#39;e la .treni.</code></td>\n<td>You go to Paris from London (via ?) by train.</td>\n</tr>\n<tr>\n<td><code>la .alis. cu klama la zarci la kumfa</code></td>\n<td>Alice goes to the market from the room.</td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p><code>klama</code> has five places: goer, destination, origin, route, vehicle. Practice filling all five, using <code>zo&#39;e</code> for unspecified middle places.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "`klama` has five places: goer, destination, origin, route, vehicle. Practice filling all five, using `zo'e` for unspecified middle places."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Identify the Places</h3>\n<p>For <code>la .bob. cu klama la zarci la zdani la dargu la karce</code>:</p>\n<ol>\n<li>x1 (goer) = ?</li>\n<li>x2 (destination) = ?</li>\n<li>x3 (origin) = ?</li>\n<li>x4 (route) = ?</li>\n<li>x5 (vehicle) = ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>la .bob. (Bob)</li>\n<li>la zarci (market)</li>\n<li>la zdani (home)</li>\n<li>la dargu (road)</li>\n<li>la karce (car)</li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translation (English → Lojban)</h3>\n<ol>\n<li>I go to the building from home.</li>\n<li>Alice goes to the market from home by car.</li>\n<li>Bob goes to Paris from London via the road.</li>\n<li>You go to the room from the building.</li>\n<li>I go to home from the market (via ?) by car.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi klama la dinju la zdani</code></li>\n<li><code>la .alis. cu klama la zarci la zdani zo&#39;e la karce</code></li>\n<li><code>la .bob. cu klama la .paris. la .london. la dargu</code></li>\n<li><code>do klama la kumfa la dinju</code></li>\n<li><code>mi klama la zdani la zarci zo&#39;e la karce</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Fill All Five</h3>\n<p>Create 3 sentences with all five places of <code>klama</code> filled:</p>\n<details>\n<summary>Example answers</summary>\n\n<ol>\n<li><code>mi klama la zdani la zarci la dargu la karce</code></li>\n<li><code>la .bob. cu klama la dinju la kumfa la dargu la karce</code></li>\n<li><code>do klama la .paris. la .london. la dargu la .treni.</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "identify-the-places",
+          "items": [
+            {
+              "text": "x1 (goer) = ?",
+              "answer": "la .bob. (Bob)"
+            },
+            {
+              "text": "x2 (destination) = ?",
+              "answer": "la zarci (market)"
+            },
+            {
+              "text": "x3 (origin) = ?",
+              "answer": "la zdani (home)"
+            },
+            {
+              "text": "x4 (route) = ?",
+              "answer": "la dargu (road)"
+            },
+            {
+              "text": "x5 (vehicle) = ?",
+              "answer": "la karce (car)"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translation",
+          "items": [
+            {
+              "text": "I go to the building from home.",
+              "answer": "`mi klama la dinju la zdani`"
+            },
+            {
+              "text": "Alice goes to the market from home by car.",
+              "answer": "`la .alis. cu klama la zarci la zdani zo'e la karce`"
+            },
+            {
+              "text": "Bob goes to Paris from London via the road.",
+              "answer": "`la .bob. cu klama la .paris. la .london. la dargu`"
+            },
+            {
+              "text": "You go to the room from the building.",
+              "answer": "`do klama la kumfa la dinju`"
+            },
+            {
+              "text": "I go to home from the market (via ?) by car.",
+              "answer": "`mi klama la zdani la zarci zo'e la karce`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "fill-all-five",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I go to the market from home.&quot; → <code>mi klama la zarci la zdani</code></li>\n<li>&quot;Bob goes to Paris by car.&quot; → <code>la .bob. cu klama la .paris. zo&#39;e zo&#39;e la karce</code></li>\n<li>&quot;You go to the building from the room via the road.&quot; → <code>do klama la dinju la kumfa la dargu</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p>No new formal vocabulary — focus on <code>klama</code> mastery.</p>\n<p><strong><code>klama</code> reference:</strong></p>\n<pre><code>klama — x1 goes to x2 from x3 via x4 using x5\n</code></pre>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You mastered <code>klama</code> with all five places: goer (x1), destination (x2), origin (x3), route (x4), vehicle (x5). Use <code>zo&#39;e</code> to skip middle places when needed.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Mix and match drill — combine any gismu with any object to build fluency.</p>\n",
+      "tomorrow": "Mix and match drill — combine any gismu with any object to build fluency."
+    }
+  ]
+}

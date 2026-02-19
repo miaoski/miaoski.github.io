@@ -1,0 +1,92 @@
+{
+  "id": "w15d6",
+  "week": 15,
+  "day": 6,
+  "title": "Duration",
+  "goal": "Learn duration markers for short, medium, and long time.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Combined tense review:</p>\n<pre><code>was eating → ?\nwill begin working → ?\nhad finished → ?\n</code></pre>\n<p>(Answers: <code>puca&#39;o citka</code>, <code>baco&#39;a gunka</code>, <code>pumo&#39;u</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Duration Markers</h3>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Duration</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ze&#39;i</code></td>\n<td>short</td>\n<td><code>mi ze&#39;i sipna</code> (I sleep briefly)</td>\n</tr>\n<tr>\n<td><code>ze&#39;a</code></td>\n<td>medium</td>\n<td><code>mi ze&#39;a gunka</code> (I work for a while)</td>\n</tr>\n<tr>\n<td><code>ze&#39;u</code></td>\n<td>long</td>\n<td><code>mi ze&#39;u xabju ti</code> (I live here long-term)</td>\n</tr>\n</tbody></table>\n<h3>Using Duration</h3>\n<pre><code>mi ze&#39;i cadzu\n</code></pre>\n<p>I walk briefly.</p>\n<pre><code>mi ze&#39;a tcidu\n</code></pre>\n<p>I read for a while.</p>\n<pre><code>mi ze&#39;u tadni la .jbobau.\n</code></pre>\n<p>I study Lojban for a long time.</p>\n<h3>Duration with Tense</h3>\n<p>Combine duration with tense for more precision:</p>\n<pre><code>mi pu ze&#39;a gunka\n</code></pre>\n<p>I worked for a while (in the past).</p>\n<pre><code>mi ba ze&#39;u xabju ti\n</code></pre>\n<p>I will live here for a long time.</p>\n<h3>Duration with Contour</h3>\n<pre><code>mi ze&#39;i ca&#39;o sipna\n</code></pre>\n<p>I am briefly sleeping.</p>\n<pre><code>mi ze&#39;u co&#39;a tadni\n</code></pre>\n<p>I begin a long study session.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>ze&#39;i</code> (short), <code>ze&#39;a</code> (medium), <code>ze&#39;u</code> (long) specify how long an action takes.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Add Duration</h3>\n<p>Add appropriate duration:</p>\n<ol>\n<li>I sleep briefly. → ?</li>\n<li>I work for a while. → ?</li>\n<li>I live here long-term. → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi ze&#39;i sipna</code></li>\n<li><code>mi ze&#39;a gunka</code></li>\n<li><code>mi ze&#39;u xabju ti</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translate</h3>\n<p>Translate:</p>\n<ol>\n<li>I walked briefly.</li>\n<li>I will study for a while.</li>\n<li>I have lived here for a long time.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi pu ze&#39;i cadzu</code></li>\n<li><code>mi ba ze&#39;a tadni</code></li>\n<li><code>mi pu ze&#39;u xabju ti</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Daily Activities</h3>\n<p>Describe durations:</p>\n<ol>\n<li>I eat briefly. → ?</li>\n<li>I work for a while. → ?</li>\n<li>I sleep for a long time. → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi ze&#39;i citka</code></li>\n<li><code>mi ze&#39;a gunka</code></li>\n<li><code>mi ze&#39;u sipna</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "add-duration",
+          "items": [
+            {
+              "text": "I sleep briefly. → ?",
+              "answer": "`mi ze'i sipna`"
+            },
+            {
+              "text": "I work for a while. → ?",
+              "answer": "`mi ze'a gunka`"
+            },
+            {
+              "text": "I live here long-term. → ?",
+              "answer": "`mi ze'u xabju ti`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translate",
+          "items": [
+            {
+              "text": "I walked briefly.",
+              "answer": "`mi pu ze'i cadzu`"
+            },
+            {
+              "text": "I will study for a while.",
+              "answer": "`mi ba ze'a tadni`"
+            },
+            {
+              "text": "I have lived here for a long time.",
+              "answer": "`mi pu ze'u xabju ti`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "daily-activities",
+          "items": [
+            {
+              "text": "I eat briefly. → ?",
+              "answer": "`mi ze'i citka`"
+            },
+            {
+              "text": "I work for a while. → ?",
+              "answer": "`mi ze'a gunka`"
+            },
+            {
+              "text": "I sleep for a long time. → ?",
+              "answer": "`mi ze'u sipna`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I work for a while.&quot; → <code>mi ze&#39;a gunka</code></li>\n<li>&quot;I sleep long.&quot; → <code>mi ze&#39;u sipna</code></li>\n<li>&quot;I walked briefly.&quot; → <code>mi pu ze&#39;i cadzu</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Grammar</h2>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Duration</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ze&#39;i</code></td>\n<td>short time</td>\n</tr>\n<tr>\n<td><code>ze&#39;a</code></td>\n<td>medium time</td>\n</tr>\n<tr>\n<td><code>ze&#39;u</code></td>\n<td>long time</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned duration markers: <code>ze&#39;i</code> (short), <code>ze&#39;a</code> (medium), <code>ze&#39;u</code> (long). These specify how long an action takes.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Full narrative practice using all tense tools.</p>\n",
+      "tomorrow": "Full narrative practice using all tense tools."
+    }
+  ]
+}

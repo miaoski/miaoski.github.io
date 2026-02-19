@@ -1,0 +1,105 @@
+{
+  "id": "w05d4",
+  "week": 5,
+  "day": 4,
+  "title": "Four-Place: vecnu with Price",
+  "goal": "Use `vecnu` with all four places, including price vocabulary.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Three-place drill — translate quickly:</p>\n<pre><code>1. I give a book to Bob.           → ?\n2. Alice talks to me about this.   → ?\n3. You send a computer to Tom.     → ?\n</code></pre>\n<p>(Answers: <code>mi dunda la cukta la .bob.</code>, <code>la .alis. cu tavla mi ti</code>, <code>do benji la skami la .tam.</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Price and Transaction Vocabulary</h3>\n<p><code>mi vecnu la karce la .bob. pa no no rupnu</code> — I sell a car to Bob for 100 currency units.</p>\n<p>Today you&#39;ll complete <code>vecnu</code> with all four places.</p>\n<h4>Three New Words</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jdima</code></td>\n<td>x1 is the price of x2 to buyer x3 from seller x4</td>\n<td>price</td>\n</tr>\n<tr>\n<td><code>rupnu</code></td>\n<td>x1 is a currency unit of quantity x2</td>\n<td>currency unit</td>\n</tr>\n<tr>\n<td><code>karce</code></td>\n<td>x1 is a car/vehicle for x2 on surface x3</td>\n<td>car</td>\n</tr>\n</tbody></table>\n<h4><code>vecnu</code> Complete Structure</h4>\n<pre><code>vecnu — x1 sells x2 (goods) to x3 (buyer) for x4 (price)\n</code></pre>\n<h4>Using Numbers as Prices</h4>\n<p>You can use numbers directly for x4:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi vecnu la cukta do pa no</code></td>\n<td>I sell a book to you for 10.</td>\n</tr>\n<tr>\n<td><code>la .bob. cu vecnu la karce la .alis. mu no no</code></td>\n<td>Bob sells a car to Alice for 500.</td>\n</tr>\n</tbody></table>\n<p>Or use <code>rupnu</code> (currency unit):</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi vecnu la cukta do pa no rupnu</code></td>\n<td>I sell a book to you for 10 currency units.</td>\n</tr>\n</tbody></table>\n<h4>Examples with All Four Places</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>x1</th>\n<th>x2</th>\n<th>x3</th>\n<th>x4</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi vecnu la karce la .bob. pa no no</code></td>\n<td>I</td>\n<td>car</td>\n<td>Bob</td>\n<td>100</td>\n<td>I sell a car to Bob for 100.</td>\n</tr>\n<tr>\n<td><code>la .alis. cu vecnu la skami mi mu no</code></td>\n<td>Alice</td>\n<td>computer</td>\n<td>me</td>\n<td>50</td>\n<td>Alice sells a computer to me for 50.</td>\n</tr>\n<tr>\n<td><code>do vecnu la stizu la .tam. re no</code></td>\n<td>you</td>\n<td>chair</td>\n<td>Tom</td>\n<td>20</td>\n<td>You sell a chair to Tom for 20.</td>\n</tr>\n</tbody></table>\n<h4>Using <code>jdima</code> for Price</h4>\n<p><code>jdima</code> focuses on the price itself:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pa no no cu jdima la karce</code></td>\n<td>100 is the price of the car.</td>\n</tr>\n<tr>\n<td><code>mu no cu jdima la cukta mi la .alis.</code></td>\n<td>50 is the price of the book to me from Alice.</td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p><code>vecnu</code> has four places: seller, goods, buyer, price. Use numbers or <code>rupnu</code> for the price. <code>jdima</code> lets you focus on the price itself.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "`vecnu` has four places: seller, goods, buyer, price. Use numbers or `rupnu` for the price. `jdima` lets you focus on the price itself."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Translation (Lojban → English)</h3>\n<ol>\n<li><code>mi vecnu la cukta do re mu</code></li>\n<li><code>la .bob. cu vecnu la karce la .alis. pa no no no</code></li>\n<li><code>do vecnu la skami mi bi no</code></li>\n<li><code>pa no cu jdima la stizu</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>I sell a book to you for 25.</li>\n<li>Bob sells a car to Alice for 1000.</li>\n<li>You sell a computer to me for 80.</li>\n<li>10 is the price of the chair.</li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translation (English → Lojban)</h3>\n<ol>\n<li>I sell a chair to Bob for 30.</li>\n<li>Alice sells a book to you for 15.</li>\n<li>The price of the car is 500.</li>\n<li>You sell a computer to Tom for 200.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi vecnu la stizu la .bob. ci no</code></li>\n<li><code>la .alis. cu vecnu la cukta do pa mu</code></li>\n<li><code>mu no no cu jdima la karce</code></li>\n<li><code>do vecnu la skami la .tam. re no no</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Create Five Sales</h3>\n<p>Write 5 sentences about buying/selling with all four places:</p>\n<details>\n<summary>Example answers</summary>\n\n<ol>\n<li><code>mi vecnu la cukta la .alis. pa no</code></li>\n<li><code>la .bob. cu vecnu la karce mi mu no no</code></li>\n<li><code>do vecnu la jubme la .tam. vo no</code></li>\n<li><code>la .meris. cu vecnu la stizu do re mu</code></li>\n<li><code>mi vecnu la skami la .bob. pa no no</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "translation",
+          "items": [
+            {
+              "text": "`mi vecnu la cukta do re mu`",
+              "answer": "I sell a book to you for 25."
+            },
+            {
+              "text": "`la .bob. cu vecnu la karce la .alis. pa no no no`",
+              "answer": "Bob sells a car to Alice for 1000."
+            },
+            {
+              "text": "`do vecnu la skami mi bi no`",
+              "answer": "You sell a computer to me for 80."
+            },
+            {
+              "text": "`pa no cu jdima la stizu`",
+              "answer": "10 is the price of the chair."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translation",
+          "items": [
+            {
+              "text": "I sell a chair to Bob for 30.",
+              "answer": "`mi vecnu la stizu la .bob. ci no`"
+            },
+            {
+              "text": "Alice sells a book to you for 15.",
+              "answer": "`la .alis. cu vecnu la cukta do pa mu`"
+            },
+            {
+              "text": "The price of the car is 500.",
+              "answer": "`mu no no cu jdima la karce`"
+            },
+            {
+              "text": "You sell a computer to Tom for 200.",
+              "answer": "`do vecnu la skami la .tam. re no no`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "create-five-sales",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I sell a car to you for 500.&quot; → <code>mi vecnu la karce do mu no no</code></li>\n<li>&quot;Bob sells a book to Alice for 20.&quot; → <code>la .bob. cu vecnu la cukta la .alis. re no</code></li>\n<li>&quot;The price of the computer is 100.&quot; → <code>pa no no cu jdima la skami</code></li>\n<li>&quot;Do you sell this to me?&quot; → <code>xu do vecnu ti mi</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jdima</code></td>\n<td>x1 is the price of x2 to buyer x3 from seller x4</td>\n<td>price</td>\n</tr>\n<tr>\n<td><code>rupnu</code></td>\n<td>x1 is a currency unit of quantity x2</td>\n<td>currency unit</td>\n</tr>\n<tr>\n<td><code>karce</code></td>\n<td>x1 is a car for x2 on surface x3</td>\n<td>car</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "jdima",
+          "place": "x1 is the price of x2 to buyer x3 from seller x4",
+          "english": "price"
+        },
+        {
+          "lojban": "rupnu",
+          "place": "x1 is a currency unit of quantity x2",
+          "english": "currency unit"
+        },
+        {
+          "lojban": "karce",
+          "place": "x1 is a car for x2 on surface x3",
+          "english": "car"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>jdima</code> (price), <code>rupnu</code> (currency unit), and <code>karce</code> (car). You practiced <code>vecnu</code> with all four places: seller, goods, buyer, and price.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll tackle <code>klama</code> with all five places filled.</p>\n",
+      "tomorrow": "You'll tackle `klama` with all five places filled."
+    }
+  ]
+}

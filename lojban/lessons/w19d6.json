@@ -1,0 +1,79 @@
+{
+  "id": "w19d6",
+  "week": 19,
+  "day": 6,
+  "title": "Conversation Practice",
+  "goal": "Build conversations using abstractions.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Abstractor review:</p>\n<pre><code>djuno takes → ?\ndjica takes → ?\nnelci lo ka... → ?\n</code></pre>\n<p>(Answers: du&#39;u, nu, property abstraction)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Conversational Patterns</h3>\n<p><strong>Asking about desires:</strong></p>\n<pre><code>do djica lo nu ma\n</code></pre>\n<p>What do you want to do?</p>\n<p><strong>Asking about knowledge:</strong></p>\n<pre><code>xu do djuno lo du&#39;u ti jetnu\n</code></pre>\n<p>Do you know that this is true?</p>\n<p><strong>Expressing fear:</strong></p>\n<pre><code>mi terpa lo nu fliba\n</code></pre>\n<p>I&#39;m afraid of failing.</p>\n<h3>Sample Conversation</h3>\n<pre><code>A: do mo\nB: mi ca&#39;o gunka .i mi djica lo nu sisti\nA: xu do tatpi\nB: .ie mi tatpi .i mi pacna lo nu sipna\nA: .a&#39;o do sipna\n</code></pre>\n<p>(A: What are you doing? B: I&#39;m working. I want to stop. A: Are you tired? B: Yes, I&#39;m tired. I hope to sleep. A: I hope you sleep.)</p>\n<h3>Complex Expression</h3>\n<pre><code>mi djuno lo du&#39;u do djica lo nu mi klama\n.i ku&#39;i mi na djica lo nu klama\n.i mi terpa lo nu fliba\n</code></pre>\n<p>(I know you want me to go. But I don&#39;t want to go. I&#39;m afraid of failing.)</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Use abstractions naturally in conversation to express complex thoughts.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Questions with Abstractions</h3>\n<p>Create questions:</p>\n<ol>\n<li>Do you want to eat? → ?</li>\n<li>Do you know I&#39;m here? → ?</li>\n<li>What do you hope for? → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>xu do djica lo nu citka</code></li>\n<li><code>xu do djuno lo du&#39;u mi zvati ti</code></li>\n<li><code>do pacna lo nu ma</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Express Complex Ideas</h3>\n<p>Translate:</p>\n<ol>\n<li>I know you&#39;re afraid of failing.</li>\n<li>I hope you understand that I want to help.</li>\n<li>She began to stop working.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi djuno lo du&#39;u do terpa lo nu fliba</code></li>\n<li><code>mi pacna lo nu do jimpe lo du&#39;u mi djica lo nu sidju</code></li>\n<li><code>ri cfari lo nu sisti lo nu gunka</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Mini-Dialogue</h3>\n<p>Translate this exchange:</p>\n<p>A: What do you want?\nB: I want to sleep.\nA: I understand.</p>\n<details>\n<summary>Answer</summary>\n\n<pre><code>A: do djica lo nu ma\nB: mi djica lo nu sipna\nA: mi jimpe\n</code></pre>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "questions-with-abstractions",
+          "items": [
+            {
+              "text": "Do you want to eat? → ?",
+              "answer": "`xu do djica lo nu citka`"
+            },
+            {
+              "text": "Do you know I'm here? → ?",
+              "answer": "`xu do djuno lo du'u mi zvati ti`"
+            },
+            {
+              "text": "What do you hope for? → ?",
+              "answer": "`do pacna lo nu ma`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "express-complex-ideas",
+          "items": [
+            {
+              "text": "I know you're afraid of failing.",
+              "answer": "`mi djuno lo du'u do terpa lo nu fliba`"
+            },
+            {
+              "text": "I hope you understand that I want to help.",
+              "answer": "`mi pacna lo nu do jimpe lo du'u mi djica lo nu sidju`"
+            },
+            {
+              "text": "She began to stop working.",
+              "answer": "`ri cfari lo nu sisti lo nu gunka`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "mini-dialogue",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud this dialogue:</strong></p>\n<pre><code>A: xu do gleki\nB: .uinai mi terpa lo nu fliba\nA: .uu mi pacna lo nu do snada\nB: .a&#39;o go&#39;i\n</code></pre>\n<p>(A: Are you happy? B: Unhappy! I fear failing. A: Pity. I hope you succeed. B: I hope so too.)</p>\n"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Today&#39;s Practice</h2>\n<p><strong>Common conversational abstractions:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Pattern</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>do djica lo nu ma</code></td>\n<td>What do you want to do?</td>\n</tr>\n<tr>\n<td><code>xu do djuno lo du&#39;u...</code></td>\n<td>Do you know that...?</td>\n</tr>\n<tr>\n<td><code>mi pacna lo nu do...</code></td>\n<td>I hope you...</td>\n</tr>\n<tr>\n<td><code>mi terpa lo nu...</code></td>\n<td>I&#39;m afraid of...</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced using abstractions in natural conversation. Complex ideas flow through nested nu and du&#39;u structures.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Full week review.</p>\n",
+      "tomorrow": "Full week review."
+    }
+  ]
+}

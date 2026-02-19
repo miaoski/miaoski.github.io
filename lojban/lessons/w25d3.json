@@ -1,0 +1,88 @@
+{
+  "id": "w25d3",
+  "week": 25,
+  "day": 3,
+  "title": "Left and Right",
+  "goal": "Learn lateral positions and full spatial descriptions.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Position review:</p>\n<pre><code>gapru = ?     cnita = ?\ncrane = ?     trixe = ?\n</code></pre>\n<p>(Answers: above, below, in front, behind)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>zunle</code></td>\n<td>x1 is to the left of x2</td>\n<td>left</td>\n</tr>\n<tr>\n<td><code>pritu</code></td>\n<td>x1 is to the right of x2</td>\n<td>right</td>\n</tr>\n</tbody></table>\n<h3>Using Left and Right</h3>\n<pre><code>lo mlatu cu zunle lo gerku\n</code></pre>\n<p>The cat is to the left of the dog.</p>\n<pre><code>la .alis. cu pritu la .bob.\n</code></pre>\n<p>Alice is to the right of Bob.</p>\n<h3>All 8 Spatial Positions</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>nenri</code></td>\n<td>inside</td>\n</tr>\n<tr>\n<td><code>bartu</code></td>\n<td>outside</td>\n</tr>\n<tr>\n<td><code>gapru</code></td>\n<td>above</td>\n</tr>\n<tr>\n<td><code>cnita</code></td>\n<td>below</td>\n</tr>\n<tr>\n<td><code>crane</code></td>\n<td>in front</td>\n</tr>\n<tr>\n<td><code>trixe</code></td>\n<td>behind</td>\n</tr>\n<tr>\n<td><code>zunle</code></td>\n<td>left</td>\n</tr>\n<tr>\n<td><code>pritu</code></td>\n<td>right</td>\n</tr>\n</tbody></table>\n<h3>Full Spatial Description</h3>\n<pre><code>lo mlatu cu zunle vi lo jubme\n.i lo gerku cu pritu va lo sfofa\n.i lo cipni cu gapru vu\n</code></pre>\n<p>The cat is to the left of the table, here. The dog is to the right of the sofa, there. The bird is above, far away.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Combine position + distance + reference object for precise spatial description.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Use zunle/pritu</h3>\n<p>Translate:</p>\n<ol>\n<li>The cat is to the left of the dog.</li>\n<li>I am to the right of Alice.</li>\n<li>The book is to the left.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo mlatu cu zunle lo gerku</code></li>\n<li><code>mi pritu la .alis.</code></li>\n<li><code>lo cukta cu zunle</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Describe a Room</h3>\n<p>Translate:</p>\n<ol>\n<li>The table is in the middle. The chair is to the left.</li>\n<li>The door is in front. The window is behind.</li>\n<li>The lamp is above the table.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo jubme cu midju .i lo stizu cu zunle</code></li>\n<li><code>lo vorme cu crane .i lo canko cu trixe</code></li>\n<li><code>lo djacla cu gapru lo jubme</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Full Description</h3>\n<p>Describe in Lojban:</p>\n<ol>\n<li>The cat is inside the box. The dog is outside, to the right.</li>\n<li>The bird is above and in front.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo mlatu cu nenri lo tanxe .i lo gerku cu bartu gi&#39;e pritu</code></li>\n<li><code>lo cipni cu gapru gi&#39;e crane</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "use-zunle/pritu",
+          "items": [
+            {
+              "text": "The cat is to the left of the dog.",
+              "answer": "`lo mlatu cu zunle lo gerku`"
+            },
+            {
+              "text": "I am to the right of Alice.",
+              "answer": "`mi pritu la .alis.`"
+            },
+            {
+              "text": "The book is to the left.",
+              "answer": "`lo cukta cu zunle`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "describe-a-room",
+          "items": [
+            {
+              "text": "The table is in the middle. The chair is to the left.",
+              "answer": "`lo jubme cu midju .i lo stizu cu zunle`"
+            },
+            {
+              "text": "The door is in front. The window is behind.",
+              "answer": "`lo vorme cu crane .i lo canko cu trixe`"
+            },
+            {
+              "text": "The lamp is above the table.",
+              "answer": "`lo djacla cu gapru lo jubme`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "full-description",
+          "items": [
+            {
+              "text": "The cat is inside the box. The dog is outside, to the right.",
+              "answer": "`lo mlatu cu nenri lo tanxe .i lo gerku cu bartu gi'e pritu`"
+            },
+            {
+              "text": "The bird is above and in front.",
+              "answer": "`lo cipni cu gapru gi'e crane`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Describe your room aloud:</strong></p>\n<p>Use at least 4 position words.</p>\n<p><strong>Example:</strong></p>\n<pre><code>lo jubme cu vi zvati\n.i lo stizu cu zunle lo jubme\n.i lo cukta cu gapru lo jubme\n.i lo vorme cu crane\n</code></pre>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>zunle</code></td>\n<td>to the left of</td>\n</tr>\n<tr>\n<td><code>pritu</code></td>\n<td>to the right of</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>zunle</code> (left) and <code>pritu</code> (right). You now have 8 spatial position words for complete spatial descriptions.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Compound tenses — <code>puca&#39;o</code>, <code>baco&#39;a</code>, <code>puze&#39;a</code>.</p>\n",
+      "tomorrow": "Compound tenses — `puca'o`, `baco'a`, `puze'a`."
+    }
+  ]
+}

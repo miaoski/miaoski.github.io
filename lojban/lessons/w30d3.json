@@ -1,0 +1,87 @@
+{
+  "id": "w30d3",
+  "week": 30,
+  "day": 3,
+  "title": "Abstraction & Nesting Drill",
+  "goal": "Demonstrate ability to express multi-level thoughts.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Tanru review:</p>\n<pre><code>blanu gerku = ?\nbarda bo sutra gerku = ?\n</code></pre>\n<p>(Answers: blue dog, (big-fast) dog)</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Review Material (5-7 min)</h2>\n<h3>Abstraction Types</h3>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Type</th>\n<th>Use</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>nu</code></td>\n<td>Event</td>\n<td>Things that happen</td>\n</tr>\n<tr>\n<td><code>du&#39;u</code></td>\n<td>Proposition</td>\n<td>Facts/statements</td>\n</tr>\n<tr>\n<td><code>ka</code></td>\n<td>Property</td>\n<td>Qualities</td>\n</tr>\n<tr>\n<td><code>ni</code></td>\n<td>Amount</td>\n<td>Degree/quantity</td>\n</tr>\n</tbody></table>\n<h3>Basic Abstraction</h3>\n<pre><code>lo nu mi klama\n</code></pre>\n<p>The event of me going.</p>\n<pre><code>lo du&#39;u do gleki\n</code></pre>\n<p>The fact that you&#39;re happy.</p>\n<h3>Nested Abstractions</h3>\n<pre><code>mi djuno lo du&#39;u do djica lo nu klama\n</code></pre>\n<p>I know that you want to go. (3 levels)</p>\n<h3>tu&#39;a Shortcut</h3>\n<pre><code>mi djica tu&#39;a lo plise\n</code></pre>\n<p>I want something-involving apples.</p>\n<h3>be/bei Inside Abstractions</h3>\n<pre><code>lo djica be lo nu klama\n</code></pre>\n<p>The wanter of going.</p>\n"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Simple Abstractions</h3>\n<p>Create:</p>\n<ol>\n<li>The event of eating.</li>\n<li>The fact that it&#39;s good.</li>\n<li>The property of being blue.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo nu citka</code></li>\n<li><code>lo du&#39;u ri xamgu</code></li>\n<li><code>lo ka blanu</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Nested (2-3 Levels)</h3>\n<p>Translate:</p>\n<ol>\n<li>I know that you&#39;re happy.</li>\n<li>Alice thinks that Bob wants to go.</li>\n<li>I believe that you know that it&#39;s true.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi djuno lo du&#39;u do gleki</code></li>\n<li><code>la .alis. cu jinvi lo du&#39;u la .bob. cu djica lo nu klama</code></li>\n<li><code>mi krici lo du&#39;u do djuno lo du&#39;u ri jetnu</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: With tu&#39;a</h3>\n<p>Simplify using tu&#39;a:</p>\n<ol>\n<li><code>mi djica lo nu citka lo plise</code> →</li>\n<li><code>mi se cinri lo nu tadni la .jbobau.</code> →</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi djica tu&#39;a lo plise</code></li>\n<li><code>mi se cinri tu&#39;a la .jbobau.</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "simple-abstractions",
+          "items": [
+            {
+              "text": "The event of eating.",
+              "answer": "`lo nu citka`"
+            },
+            {
+              "text": "The fact that it's good.",
+              "answer": "`lo du'u ri xamgu`"
+            },
+            {
+              "text": "The property of being blue.",
+              "answer": "`lo ka blanu`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "nested-(2-3-levels)",
+          "items": [
+            {
+              "text": "I know that you're happy.",
+              "answer": "`mi djuno lo du'u do gleki`"
+            },
+            {
+              "text": "Alice thinks that Bob wants to go.",
+              "answer": "`la .alis. cu jinvi lo du'u la .bob. cu djica lo nu klama`"
+            },
+            {
+              "text": "I believe that you know that it's true.",
+              "answer": "`mi krici lo du'u do djuno lo du'u ri jetnu`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "with-tu'a",
+          "items": [
+            {
+              "text": "`mi djica lo nu citka lo plise` →",
+              "answer": "`mi djica tu'a lo plise`"
+            },
+            {
+              "text": "`mi se cinri lo nu tadni la .jbobau.` →",
+              "answer": "`mi se cinri tu'a la .jbobau.`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "other",
+      "content": "<h2>Challenge (1-2 min)</h2>\n<p><strong>Build the most complex sentence you can:</strong></p>\n<p>Include:</p>\n<ul>\n<li>Nested abstractions (2+ levels)</li>\n<li>tu&#39;a or be/bei</li>\n<li>Conversion (se/te)</li>\n</ul>\n<p><strong>Example:</strong></p>\n<pre><code>mi djuno lo du&#39;u lo prenu poi ke&#39;a se ctuca mi cu jinvi lo du&#39;u lo nu tadni cu vajni\n</code></pre>\n<p>(I know that the person who is taught by me thinks that studying is important.)</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Review</h2>\n<p><strong>Abstraction tools:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Tool</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>nu</code></td>\n<td>Event abstraction</td>\n</tr>\n<tr>\n<td><code>du&#39;u</code></td>\n<td>Proposition</td>\n</tr>\n<tr>\n<td><code>ka</code></td>\n<td>Property</td>\n</tr>\n<tr>\n<td><code>tu&#39;a</code></td>\n<td>Implicit abstraction</td>\n</tr>\n<tr>\n<td><code>be/bei</code></td>\n<td>Bound arguments</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You reviewed abstractions and nested structures for expressing complex thoughts.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Connectives and modals marathon.</p>\n",
+      "tomorrow": "Connectives and modals marathon."
+    }
+  ]
+}

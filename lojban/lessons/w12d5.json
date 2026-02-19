@@ -1,0 +1,92 @@
+{
+  "id": "w12d5",
+  "week": 12,
+  "day": 5,
+  "title": "Lujvo vs Tanru",
+  "goal": "Understand when to use lujvo versus tanru.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Review all 8 new words so far:</p>\n<pre><code>brivla → ?     glibau → ?\ncmavo → ?      selsku → ?\nlujvo → ?      seljmi → ?\njbobau → ?     terdi → ?\n</code></pre>\n<p>(Answers: predicate word, English, structure word, what is said, compound word, what is understood, Lojban, Earth)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Lujvo = Fixed Meaning</h3>\n<p>Lujvo have <strong>standardized, dictionary definitions</strong>.</p>\n<p><code>jbobau</code> always means &quot;the Lojban language.&quot;\n<code>brivla</code> always means &quot;predicate word.&quot;</p>\n<h3>Tanru = Contextual Meaning</h3>\n<p>Tanru have <strong>loose, context-dependent meanings</strong>.</p>\n<p><code>lojbo bangu</code> could mean:</p>\n<ul>\n<li>Lojbanic language</li>\n<li>Language for Lojban speakers</li>\n<li>Language about Lojban</li>\n<li>etc.</li>\n</ul>\n<h3>Comparison Table</h3>\n<table>\n<thead>\n<tr>\n<th>Feature</th>\n<th>Tanru</th>\n<th>Lujvo</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Form</td>\n<td>Separate words</td>\n<td>Single fused word</td>\n</tr>\n<tr>\n<td>Meaning</td>\n<td>Vague, contextual</td>\n<td>Fixed, precise</td>\n</tr>\n<tr>\n<td>Creation</td>\n<td>Anyone, anytime</td>\n<td>Standardized process</td>\n</tr>\n<tr>\n<td>Example</td>\n<td><code>lojbo bangu</code></td>\n<td><code>jbobau</code></td>\n</tr>\n</tbody></table>\n<h3>When to Use Which</h3>\n<p><strong>Use lujvo when:</strong></p>\n<ul>\n<li>A standard compound exists</li>\n<li>You want a precise, known meaning</li>\n<li>The concept is common</li>\n</ul>\n<p><strong>Use tanru when:</strong></p>\n<ul>\n<li>No lujvo exists for your concept</li>\n<li>You want creative/novel expression</li>\n<li>The meaning is clear from context</li>\n</ul>\n<h3>Examples</h3>\n<pre><code>mi tavla fo la jbobau\n</code></pre>\n<p>I speak in Lojban. (Using the standard lujvo)</p>\n<pre><code>ti lojbo se cusku\n</code></pre>\n<p>This is a Lojbanic utterance. (Novel tanru, no standard lujvo)</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Lujvo are frozen tanru with fixed meanings. Use lujvo for common concepts, tanru for novel descriptions.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Lujvo or Tanru?</h3>\n<p>Identify which is better for each:</p>\n<ol>\n<li>&quot;English language&quot; (common concept)</li>\n<li>&quot;blue-dog house&quot; (novel description)</li>\n<li>&quot;Lojban&quot; (common concept)</li>\n<li>&quot;fast-running dog&quot; (description)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>Lujvo: <code>glibau</code></li>\n<li>Tanru: <code>blanu gerku zdani</code></li>\n<li>Lujvo: <code>jbobau</code></li>\n<li>Tanru: <code>sutra bajra gerku</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Find the Difference</h3>\n<p>What&#39;s the difference between:</p>\n<ol>\n<li><code>jbobau</code> vs <code>lojbo bangu</code></li>\n<li><code>brivla</code> vs <code>bridi valsi</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><p><code>jbobau</code> = fixed meaning &quot;Lojban language&quot;\n<code>lojbo bangu</code> = loose tanru &quot;Lojbanic language / language related to Lojban&quot;</p>\n</li>\n<li><p><code>brivla</code> = fixed meaning &quot;predicate word&quot;\n<code>bridi valsi</code> = loose tanru &quot;predicate word / word about predicates&quot;</p>\n</li>\n</ol>\n</details>\n\n<h3>Exercise 3: Choose Appropriately</h3>\n<p>Translate using lujvo where available:</p>\n<ol>\n<li>I speak Lojban.</li>\n<li>This is a predicate word.</li>\n<li>I see a big blue dog. (novel description)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi tavla fo la jbobau</code> (lujvo)</li>\n<li><code>ti brivla</code> (lujvo)</li>\n<li><code>mi viska la barda blanu gerku</code> (tanru — no lujvo for this)</li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "lujvo-or-tanru?",
+          "items": [
+            {
+              "text": "\"English language\" (common concept)",
+              "answer": "Lujvo: `glibau`"
+            },
+            {
+              "text": "\"blue-dog house\" (novel description)",
+              "answer": "Tanru: `blanu gerku zdani`"
+            },
+            {
+              "text": "\"Lojban\" (common concept)",
+              "answer": "Lujvo: `jbobau`"
+            },
+            {
+              "text": "\"fast-running dog\" (description)",
+              "answer": "Tanru: `sutra bajra gerku`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "find-the-difference",
+          "items": [
+            {
+              "text": "`jbobau` vs `lojbo bangu`",
+              "answer": "`jbobau` = fixed meaning \"Lojban language\""
+            },
+            {
+              "text": "`brivla` vs `bridi valsi`",
+              "answer": "`brivla` = fixed meaning \"predicate word\""
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "choose-appropriately",
+          "items": [
+            {
+              "text": "I speak Lojban.",
+              "answer": "`mi tavla fo la jbobau` (lujvo)"
+            },
+            {
+              "text": "This is a predicate word.",
+              "answer": "`ti brivla` (lujvo)"
+            },
+            {
+              "text": "I see a big blue dog. (novel description)",
+              "answer": "`mi viska la barda blanu gerku` (tanru — no lujvo for this)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I learn Lojban.&quot; → <code>mi cilre la jbobau</code></li>\n<li>&quot;I speak English.&quot; → <code>mi tavla fo la glibau</code></li>\n<li>&quot;This is a structure word.&quot; → <code>ti cmavo</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p>Review — no new words today.</p>\n<p><strong>Decision guide:</strong></p>\n<table>\n<thead>\n<tr>\n<th>If...</th>\n<th>Use...</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Standard compound exists</td>\n<td>Lujvo</td>\n</tr>\n<tr>\n<td>Novel/creative description</td>\n<td>Tanru</td>\n</tr>\n<tr>\n<td>Common, precise concept</td>\n<td>Lujvo</td>\n</tr>\n<tr>\n<td>Context makes meaning clear</td>\n<td>Either works</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned to distinguish lujvo (fixed meanings) from tanru (contextual meanings). Use lujvo for common concepts, tanru for novel descriptions.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Decomposing lujvo — breaking down compound words into their components.</p>\n",
+      "tomorrow": "Decomposing lujvo — breaking down compound words into their components."
+    }
+  ]
+}

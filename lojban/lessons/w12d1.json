@@ -1,0 +1,112 @@
+{
+  "id": "w12d1",
+  "week": 12,
+  "day": 1,
+  "title": "Introduction to Rafsi",
+  "goal": "Learn what rafsi are and why gismu have short combining forms.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Tanru grouping review:</p>\n<pre><code>barda blanu gerku (default) = ?\nbarda blanu bo gerku = ?\n</code></pre>\n<p>(Answers: <code>(barda blanu) gerku</code>, <code>barda (blanu gerku)</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>brivla</code></td>\n<td>x1 is a predicate word with meaning x2</td>\n<td>predicate word</td>\n</tr>\n<tr>\n<td><code>cmavo</code></td>\n<td>x1 is a structure word of class x2</td>\n<td>structure word</td>\n</tr>\n</tbody></table>\n<h3>What Are Rafsi?</h3>\n<p><strong>Rafsi</strong> are short combining forms of gismu. Each gismu has 2-5 rafsi that can be used to build compound words.</p>\n<h3>Why Rafsi Exist</h3>\n<p>Gismu are exactly 5 letters. Combining them directly would create very long words:</p>\n<pre><code>klama + bajra = klamabajra (10 letters!)\n</code></pre>\n<p>Rafsi make compounds shorter:</p>\n<pre><code>klam + baj = klambaj (7 letters)\n</code></pre>\n<h3>Rafsi Forms</h3>\n<p>Each gismu can have:</p>\n<ul>\n<li><strong>CVC</strong> form (3 letters): e.g., <code>klam</code> from <code>klama</code></li>\n<li><strong>CCV</strong> form (3 letters): e.g., <code>kla</code> from <code>klama</code></li>\n<li><strong>CVV</strong> form (3 letters): e.g., <code>kai</code> from <code>karce</code></li>\n<li><strong>CVCC</strong> form (4 letters): e.g., <code>brid</code> from <code>bridi</code></li>\n<li><strong>CCVC</strong> form (4 letters): e.g., <code>bran</code> from <code>branu</code></li>\n</ul>\n<p>Not every gismu has all forms.</p>\n<h3>Examples</h3>\n<table>\n<thead>\n<tr>\n<th>Gismu</th>\n<th>Some Rafsi</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>klama</code> (go)</td>\n<td><code>klam</code>, <code>kla</code></td>\n</tr>\n<tr>\n<td><code>bridi</code> (predicate)</td>\n<td><code>brid</code>, <code>briv</code></td>\n</tr>\n<tr>\n<td><code>valsi</code> (word)</td>\n<td><code>val</code>, <code>vla</code></td>\n</tr>\n<tr>\n<td><code>bangu</code> (language)</td>\n<td><code>ban</code>, <code>bau</code></td>\n</tr>\n</tbody></table>\n<h3>Key Point</h3>\n<blockquote>\n<p>Rafsi are short forms used to build compound words. You don&#39;t need to memorize all rafsi — dictionaries list them.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Identify Word Types</h3>\n<p>Classify each:</p>\n<ol>\n<li><code>klama</code> — gismu, cmavo, or brivla?</li>\n<li><code>.i</code> — gismu, cmavo, or brivla?</li>\n<li><code>cu</code> — gismu, cmavo, or brivla?</li>\n<li><code>gerku</code> — gismu, cmavo, or brivla?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>gismu (and therefore brivla)</li>\n<li>cmavo</li>\n<li>cmavo</li>\n<li>gismu (and therefore brivla)</li>\n</ol>\n<p>Note: All gismu are brivla (predicate words). Cmavo are structure words.</p>\n</details>\n\n<h3>Exercise 2: Rafsi Recognition</h3>\n<p>Which could be rafsi? (3 or 4 letters, specific patterns)</p>\n<ol>\n<li><code>klam</code> — rafsi?</li>\n<li><code>ba</code> — rafsi?</li>\n<li><code>brid</code> — rafsi?</li>\n<li><code>ge</code> — rafsi?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>Yes — CVC pattern, 3 letters</li>\n<li>No — only 2 letters (this is a cmavo)</li>\n<li>Yes — CVCC pattern, 4 letters</li>\n<li>No — only 2 letters (this is a cmavo)</li>\n</ol>\n</details>\n\n<h3>Exercise 3: Use New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>This is a predicate word.</li>\n<li><code>cu</code> is a structure word.</li>\n<li>I learn predicate words.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti brivla</code></li>\n<li><code>zo cu cmavo</code></li>\n<li><code>mi cilre lo brivla</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "identify-word-types",
+          "items": [
+            {
+              "text": "`klama` — gismu, cmavo, or brivla?",
+              "answer": "gismu (and therefore brivla)"
+            },
+            {
+              "text": "`.i` — gismu, cmavo, or brivla?",
+              "answer": "cmavo"
+            },
+            {
+              "text": "`cu` — gismu, cmavo, or brivla?",
+              "answer": "cmavo"
+            },
+            {
+              "text": "`gerku` — gismu, cmavo, or brivla?",
+              "answer": "gismu (and therefore brivla)"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "rafsi-recognition",
+          "items": [
+            {
+              "text": "`klam` — rafsi?",
+              "answer": "Yes — CVC pattern, 3 letters"
+            },
+            {
+              "text": "`ba` — rafsi?",
+              "answer": "No — only 2 letters (this is a cmavo)"
+            },
+            {
+              "text": "`brid` — rafsi?",
+              "answer": "Yes — CVCC pattern, 4 letters"
+            },
+            {
+              "text": "`ge` — rafsi?",
+              "answer": "No — only 2 letters (this is a cmavo)"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "use-new-vocabulary",
+          "items": [
+            {
+              "text": "This is a predicate word.",
+              "answer": "`ti brivla`"
+            },
+            {
+              "text": "`cu` is a structure word.",
+              "answer": "`zo cu cmavo`"
+            },
+            {
+              "text": "I learn predicate words.",
+              "answer": "`mi cilre lo brivla`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;This is a predicate word.&quot; → <code>ti brivla</code></li>\n<li>&quot;That is a structure word.&quot; → <code>ta cmavo</code></li>\n<li>&quot;<code>klama</code> is a gismu.&quot; → <code>zo klama gismu</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>brivla</code></td>\n<td>x1 is a predicate word with meaning x2</td>\n<td>predicate word</td>\n</tr>\n<tr>\n<td><code>cmavo</code></td>\n<td>x1 is a structure word of class x2</td>\n<td>structure word</td>\n</tr>\n</tbody></table>\n<p><strong>Concept:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Term</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>rafsi</td>\n<td>Short combining form of a gismu</td>\n</tr>\n<tr>\n<td>gismu</td>\n<td>5-letter root word</td>\n</tr>\n<tr>\n<td>brivla</td>\n<td>Any predicate word (includes gismu)</td>\n</tr>\n<tr>\n<td>cmavo</td>\n<td>Structure/grammar word</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "brivla",
+          "place": "x1 is a predicate word with meaning x2",
+          "english": "predicate word"
+        },
+        {
+          "lojban": "cmavo",
+          "place": "x1 is a structure word of class x2",
+          "english": "structure word"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned about rafsi — short combining forms that make compound words manageable. Each gismu has multiple rafsi.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Introduction to lujvo — compound words built from rafsi.</p>\n",
+      "tomorrow": "Introduction to lujvo — compound words built from rafsi."
+    }
+  ]
+}

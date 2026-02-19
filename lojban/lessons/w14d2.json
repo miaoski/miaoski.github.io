@@ -1,0 +1,92 @@
+{
+  "id": "w14d2",
+  "week": 14,
+  "day": 2,
+  "title": "Words and Meaning",
+  "goal": "Learn words for language, word, and meaning.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Yesterday&#39;s vocabulary:</p>\n<pre><code>Chinese → ?    Russian → ?\nSpanish → ?    Arabic → ?\n</code></pre>\n<p>(Answers: <code>jungo</code>, <code>rusko</code>, <code>spano</code>, <code>xrabo</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>bangu</code></td>\n<td>x1 is a language used by x2 to express x3</td>\n<td>language</td>\n</tr>\n<tr>\n<td><code>valsi</code></td>\n<td>x1 is a word meaning x2 in language x3</td>\n<td>word</td>\n</tr>\n<tr>\n<td><code>smuni</code></td>\n<td>x1 is the meaning of x2 to interpreter x3</td>\n<td>meaning</td>\n</tr>\n</tbody></table>\n<h3>Using These Words</h3>\n<pre><code>la .lojban. cu bangu\n</code></pre>\n<p>Lojban is a language.</p>\n<pre><code>zo mlatu cu valsi\n</code></pre>\n<p>&quot;mlatu&quot; is a word.</p>\n<pre><code>ma smuni ti\n</code></pre>\n<p>What does this mean? (What is the meaning of this?)</p>\n<h3>Discussing Words</h3>\n<pre><code>zo prami cu valsi lo nu nelci la jbobau\n</code></pre>\n<p>&quot;prami&quot; is a word meaning love in Lojban.</p>\n<pre><code>mi djuno lo smuni be zo klama\n</code></pre>\n<p>I know the meaning of &quot;klama.&quot;</p>\n<h3>lu...li&#39;u for Quoting</h3>\n<p>When quoting full phrases:</p>\n<pre><code>lu coi li&#39;u cu valsi\n</code></pre>\n<p>&quot;coi&quot; (as a phrase) is a word.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>bangu</code> = language, <code>valsi</code> = word, <code>smuni</code> = meaning — essential for metalinguistic discussion.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Language Sentences</h3>\n<p>Translate:</p>\n<ol>\n<li>Lojban is a language.</li>\n<li>English is a language.</li>\n<li>Chinese is a language.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la jbobau cu bangu</code></li>\n<li><code>la glibau cu bangu</code></li>\n<li><code>la junbau cu bangu</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Word Sentences</h3>\n<p>Translate:</p>\n<ol>\n<li>&quot;klama&quot; is a word.</li>\n<li>&quot;mlatu&quot; is a Lojban word.</li>\n<li>I know this word.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>zo klama cu valsi</code></li>\n<li><code>zo mlatu cu valsi fi la jbobau</code></li>\n<li><code>mi djuno ti poi valsi</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Meaning Sentences</h3>\n<p>Translate:</p>\n<ol>\n<li>What does this mean?</li>\n<li>I know the meaning.</li>\n<li>The meaning is clear.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ma smuni ti</code></li>\n<li><code>mi djuno lo smuni</code></li>\n<li><code>lo smuni cu klina</code> (or appropriate word for &quot;clear&quot;)</li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "language-sentences",
+          "items": [
+            {
+              "text": "Lojban is a language.",
+              "answer": "`la jbobau cu bangu`"
+            },
+            {
+              "text": "English is a language.",
+              "answer": "`la glibau cu bangu`"
+            },
+            {
+              "text": "Chinese is a language.",
+              "answer": "`la junbau cu bangu`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "word-sentences",
+          "items": [
+            {
+              "text": "\"klama\" is a word.",
+              "answer": "`zo klama cu valsi`"
+            },
+            {
+              "text": "\"mlatu\" is a Lojban word.",
+              "answer": "`zo mlatu cu valsi fi la jbobau`"
+            },
+            {
+              "text": "I know this word.",
+              "answer": "`mi djuno ti poi valsi`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "meaning-sentences",
+          "items": [
+            {
+              "text": "What does this mean?",
+              "answer": "`ma smuni ti`"
+            },
+            {
+              "text": "I know the meaning.",
+              "answer": "`mi djuno lo smuni`"
+            },
+            {
+              "text": "The meaning is clear.",
+              "answer": "`lo smuni cu klina` (or appropriate word for \"clear\")"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;Lojban is a language.&quot; → <code>la jbobau cu bangu</code></li>\n<li>&quot;&#39;mlatu&#39; is a word.&quot; → <code>zo mlatu cu valsi</code></li>\n<li>&quot;What does this mean?&quot; → <code>ma smuni ti</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>bangu</code></td>\n<td>language</td>\n</tr>\n<tr>\n<td><code>valsi</code></td>\n<td>word</td>\n</tr>\n<tr>\n<td><code>smuni</code></td>\n<td>meaning</td>\n</tr>\n</tbody></table>\n<p><strong>Week 14 so far (8):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jungo</code></td>\n<td>Chinese</td>\n</tr>\n<tr>\n<td><code>spano</code></td>\n<td>Spanish</td>\n</tr>\n<tr>\n<td><code>xindo</code></td>\n<td>Hindi</td>\n</tr>\n<tr>\n<td><code>rusko</code></td>\n<td>Russian</td>\n</tr>\n<tr>\n<td><code>xrabo</code></td>\n<td>Arabic</td>\n</tr>\n<tr>\n<td><code>bangu</code></td>\n<td>language</td>\n</tr>\n<tr>\n<td><code>valsi</code></td>\n<td>word</td>\n</tr>\n<tr>\n<td><code>smuni</code></td>\n<td>meaning</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>bangu</code> (language), <code>valsi</code> (word), and <code>smuni</code> (meaning) — key words for discussing language itself.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Tanru review — formation and semantics.</p>\n",
+      "tomorrow": "Tanru review — formation and semantics."
+    }
+  ]
+}

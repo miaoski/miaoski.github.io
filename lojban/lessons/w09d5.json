@@ -1,0 +1,93 @@
+{
+  "id": "w09d5",
+  "week": 9,
+  "day": 5,
+  "title": "Complex Multi-Place Drills",
+  "goal": "Practice `vecnu` and `klama` with all places filled.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Vocabulary check:</p>\n<pre><code>1. hungry → ?\n2. thirsty → ?\n3. fear → ?\n4. tired → ?\n</code></pre>\n<p>(Answers: <code>xagji</code>, <code>taske</code>, <code>terpa</code>, <code>tatpi</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Full Place Structure Practice</h3>\n<h4><code>vecnu</code> — Four Places</h4>\n<pre><code>vecnu — x1 (seller) sells x2 (goods) to x3 (buyer) for x4 (price)\n</code></pre>\n<p><strong>Full sentence:</strong></p>\n<pre><code>mi vecnu la karce la .bob. mu no no\n</code></pre>\n<p>I sell a car to Bob for 500.</p>\n<p><strong>All conversions:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Version</th>\n<th>x1 =</th>\n<th>Sentence</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>vecnu</code></td>\n<td>seller</td>\n<td><code>mi vecnu la karce la .bob. mu no no</code></td>\n</tr>\n<tr>\n<td><code>se vecnu</code></td>\n<td>goods</td>\n<td><code>la karce se vecnu mi la .bob. mu no no</code></td>\n</tr>\n<tr>\n<td><code>te vecnu</code></td>\n<td>buyer</td>\n<td><code>la .bob. te vecnu la karce mi mu no no</code></td>\n</tr>\n<tr>\n<td><code>ve vecnu</code></td>\n<td>price</td>\n<td><code>mu no no ve vecnu la karce la .bob. mi</code></td>\n</tr>\n</tbody></table>\n<h4><code>klama</code> — Five Places</h4>\n<pre><code>klama — x1 (goer) goes to x2 (dest) from x3 (origin) via x4 (route) using x5 (vehicle)\n</code></pre>\n<p><strong>Full sentence:</strong></p>\n<pre><code>mi klama la zarci la zdani la dargu la karce\n</code></pre>\n<p>I go to the market from home via the road by car.</p>\n<p><strong>All conversions:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Version</th>\n<th>x1 =</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>klama</code></td>\n<td>goer</td>\n</tr>\n<tr>\n<td><code>se klama</code></td>\n<td>destination</td>\n</tr>\n<tr>\n<td><code>te klama</code></td>\n<td>origin</td>\n</tr>\n<tr>\n<td><code>ve klama</code></td>\n<td>route</td>\n</tr>\n<tr>\n<td><code>xe klama</code></td>\n<td>vehicle</td>\n</tr>\n</tbody></table>\n<h4>Mix Conversions and Tags</h4>\n<p>You can combine approaches:</p>\n<pre><code>la karce xe klama fe la .paris. fi la .london. fa mi\n</code></pre>\n<p>The car is the vehicle for going to Paris from London by me.</p>\n<h4>Key Point</h4>\n<blockquote>\n<p>Complex gismu require comfort with all places. Practice filling every slot.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "Complex gismu require comfort with all places. Practice filling every slot."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Fill All <code>vecnu</code> Places</h3>\n<p>Translate with all four places:</p>\n<ol>\n<li>I sell a book to Alice for 25.</li>\n<li>Bob sells a computer to me for 300.</li>\n<li>You sell a chair to Tom for 40.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi vecnu la cukta la .alis. re mu</code></li>\n<li><code>la .bob. cu vecnu la skami mi ci no no</code></li>\n<li><code>do vecnu la stizu la .tam. vo no</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Fill All <code>klama</code> Places</h3>\n<p>Translate:</p>\n<ol>\n<li>I go to Paris from London via the road by car.</li>\n<li>Alice goes to the market from home via the road by car.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi klama la .paris. la .london. la dargu la karce</code></li>\n<li><code>la .alis. cu klama la zarci la zdani la dargu la karce</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Apply Different Conversions</h3>\n<p>Take: <code>mi vecnu la cukta la .bob. mu no</code></p>\n<p>Write four versions:</p>\n<ol>\n<li>Seller focus (original)</li>\n<li>Goods focus (<code>se</code>)</li>\n<li>Buyer focus (<code>te</code>)</li>\n<li>Price focus (<code>ve</code>)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi vecnu la cukta la .bob. mu no</code></li>\n<li><code>la cukta se vecnu mi la .bob. mu no</code></li>\n<li><code>la .bob. te vecnu la cukta mi mu no</code></li>\n<li><code>mu no ve vecnu la cukta la .bob. mi</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "fill-all-`vecnu`-places",
+          "items": [
+            {
+              "text": "I sell a book to Alice for 25.",
+              "answer": "`mi vecnu la cukta la .alis. re mu`"
+            },
+            {
+              "text": "Bob sells a computer to me for 300.",
+              "answer": "`la .bob. cu vecnu la skami mi ci no no`"
+            },
+            {
+              "text": "You sell a chair to Tom for 40.",
+              "answer": "`do vecnu la stizu la .tam. vo no`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "fill-all-`klama`-places",
+          "items": [
+            {
+              "text": "I go to Paris from London via the road by car.",
+              "answer": "`mi klama la .paris. la .london. la dargu la karce`"
+            },
+            {
+              "text": "Alice goes to the market from home via the road by car.",
+              "answer": "`la .alis. cu klama la zarci la zdani la dargu la karce`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "apply-different-conversions",
+          "items": [
+            {
+              "text": "Seller focus (original)",
+              "answer": "`mi vecnu la cukta la .bob. mu no`"
+            },
+            {
+              "text": "Goods focus (`se`)",
+              "answer": "`la cukta se vecnu mi la .bob. mu no`"
+            },
+            {
+              "text": "Buyer focus (`te`)",
+              "answer": "`la .bob. te vecnu la cukta mi mu no`"
+            },
+            {
+              "text": "Price focus (`ve`)",
+              "answer": "`mu no ve vecnu la cukta la .bob. mi`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I sell a car to you for 1000.&quot; → <code>mi vecnu la karce do pa no no no</code></li>\n<li>&quot;I go to Paris from London by train.&quot; → <code>mi klama la .paris. la .london. zo&#39;e la .treni.</code></li>\n<li>&quot;500 is the price of the computer.&quot; → <code>mu no no ve vecnu la skami</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p>No new gismu — focus on complex place drilling.</p>\n<p><strong>Reference:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Gismu</th>\n<th>Places</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>vecnu</code></td>\n<td>seller, goods, buyer, price</td>\n</tr>\n<tr>\n<td><code>klama</code></td>\n<td>goer, dest, origin, route, vehicle</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced filling all places of <code>vecnu</code> (4) and <code>klama</code> (5), then applied all conversions to each.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Error correction practice — identifying and fixing place structure mistakes.</p>\n",
+      "tomorrow": "Error correction practice — identifying and fixing place structure mistakes."
+    }
+  ]
+}

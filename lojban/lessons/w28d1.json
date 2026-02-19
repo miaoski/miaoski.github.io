@@ -1,0 +1,83 @@
+{
+  "id": "w28d1",
+  "week": 28,
+  "day": 1,
+  "title": "Sequential Narrative",
+  "goal": "Learn to tell stories with sequential events.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Review conversation phrases:</p>\n<pre><code>coi = ?\nmi jinvi lo du&#39;u = ?\nxu do tugni = ?\n</code></pre>\n<p>(Answers: hello, I think that, do you agree?)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>solri</code></td>\n<td>x1 is the sun of system x2</td>\n<td>sun</td>\n</tr>\n<tr>\n<td><code>lunra</code></td>\n<td>x1 is a moon of planet x2</td>\n<td>moon</td>\n</tr>\n<tr>\n<td><code>tarci</code></td>\n<td>x1 is a star</td>\n<td>star</td>\n</tr>\n</tbody></table>\n<h3>Sequential Connectives</h3>\n<p>To tell events in order:</p>\n<table>\n<thead>\n<tr>\n<th>Pattern</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>.i ba bo</code></td>\n<td>and then (next)</td>\n</tr>\n<tr>\n<td><code>.i pu bo</code></td>\n<td>and previously (before that)</td>\n</tr>\n</tbody></table>\n<h3>Using .i ba bo</h3>\n<pre><code>mi cikna .i ba bo citka .i ba bo klama\n</code></pre>\n<p>I woke up. Then I ate. Then I went.</p>\n<h3>Using .i pu bo</h3>\n<pre><code>mi klama .i pu bo citka\n</code></pre>\n<p>I went. Before that, I ate.</p>\n<h3>Story Example</h3>\n<pre><code>lo solri cu cfari lo nu carmi\n.i ba bo mi cikna\n.i ba bo mi viska lo cipni\n.i ba bo mi gleki\n</code></pre>\n<p>The sun started shining. Then I woke up. Then I saw a bird. Then I was happy.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>.i ba bo</code> sequences events forward; <code>.i pu bo</code> sequences backward.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Use .i ba bo</h3>\n<p>Write a 4-sentence story using <code>.i ba bo</code>:</p>\n<details>\n<summary>Example Answer</summary>\n\n<pre><code>mi sipna\n.i ba bo cikna\n.i ba bo citka\n.i ba bo klama lo briju\n</code></pre>\n</details>\n\n<h3>Exercise 2: New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>The sun is big.</li>\n<li>I see the moon.</li>\n<li>The stars are beautiful.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo solri cu barda</code></li>\n<li><code>mi viska lo lunra</code></li>\n<li><code>lo tarci cu melbi</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Morning Story</h3>\n<p>Translate this story:</p>\n<ol>\n<li>The sun rose.</li>\n<li>Then I woke up.</li>\n<li>Then I ate breakfast.</li>\n<li>Then I went to work.</li>\n</ol>\n<details>\n<summary>Answer</summary>\n\n<pre><code>lo solri cu co&#39;a se viska\n.i ba bo mi cikna\n.i ba bo mi citka lo cerni cidja\n.i ba bo mi klama lo briju\n</code></pre>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "use-.i-ba-bo",
+          "items": []
+        },
+        {
+          "number": 2,
+          "type": "new-vocabulary",
+          "items": [
+            {
+              "text": "The sun is big.",
+              "answer": "`lo solri cu barda`"
+            },
+            {
+              "text": "I see the moon.",
+              "answer": "`mi viska lo lunra`"
+            },
+            {
+              "text": "The stars are beautiful.",
+              "answer": "`lo tarci cu melbi`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "morning-story",
+          "items": [
+            {
+              "text": "The sun rose.",
+              "answer": null
+            },
+            {
+              "text": "Then I woke up.",
+              "answer": null
+            },
+            {
+              "text": "Then I ate breakfast.",
+              "answer": null
+            },
+            {
+              "text": "Then I went to work.",
+              "answer": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Tell a short story aloud:</strong></p>\n<p>Use <code>.i ba bo</code> at least 3 times.</p>\n<p><strong>Example:</strong></p>\n<pre><code>mi cadzu bu&#39;u lo foldi\n.i ba bo viska lo cipni\n.i ba bo ri sanga\n.i ba bo mi gleki\n</code></pre>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>solri</code></td>\n<td>sun</td>\n</tr>\n<tr>\n<td><code>lunra</code></td>\n<td>moon</td>\n</tr>\n<tr>\n<td><code>tarci</code></td>\n<td>star</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Pattern</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>.i ba bo</code></td>\n<td>and then</td>\n</tr>\n<tr>\n<td><code>.i pu bo</code></td>\n<td>and before that</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned sequential connectives <code>.i ba bo</code> and <code>.i pu bo</code> for telling stories with events in order.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Reported speech — direct and indirect quotes.</p>\n",
+      "tomorrow": "Reported speech — direct and indirect quotes."
+    }
+  ]
+}

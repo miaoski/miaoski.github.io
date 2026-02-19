@@ -1,0 +1,88 @@
+{
+  "id": "w18d3",
+  "week": 18,
+  "day": 3,
+  "title": "Intensity Modifiers",
+  "goal": "Learn to modify attitudinal intensity.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Attitudinal review:</p>\n<pre><code>hope → ?\ndesire → ?\nagreement → ?\n</code></pre>\n<p>(Answers: <code>.a&#39;o</code>, <code>.au</code>, <code>.ie</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Intensity Scale</h3>\n<p>Attitudinals can be modified for intensity:</p>\n<table>\n<thead>\n<tr>\n<th>Modifier</th>\n<th>Intensity</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>cai</code></td>\n<td>extreme</td>\n<td><code>.uicai</code> (ecstatic)</td>\n</tr>\n<tr>\n<td><code>sai</code></td>\n<td>strong</td>\n<td><code>.uisai</code> (very happy)</td>\n</tr>\n<tr>\n<td>(none)</td>\n<td>normal</td>\n<td><code>.ui</code> (happy)</td>\n</tr>\n<tr>\n<td><code>ru&#39;e</code></td>\n<td>weak</td>\n<td><code>.uiru&#39;e</code> (slightly happy)</td>\n</tr>\n<tr>\n<td><code>cu&#39;i</code></td>\n<td>neutral</td>\n<td><code>.uicu&#39;i</code> (indifferent)</td>\n</tr>\n<tr>\n<td><code>nai</code></td>\n<td>opposite</td>\n<td><code>.uinai</code> (unhappy)</td>\n</tr>\n</tbody></table>\n<h3>Examples</h3>\n<pre><code>.uicai mi snada\n</code></pre>\n<p>(Ecstatic!) I succeeded!</p>\n<pre><code>.uisai mi klama\n</code></pre>\n<p>(Very happy!) I go!</p>\n<pre><code>.uiru&#39;e mi citka\n</code></pre>\n<p>(Slightly happy) I eat.</p>\n<pre><code>.uicu&#39;i\n</code></pre>\n<p>(Indifferent) — I don&#39;t care either way about happiness.</p>\n<h3>Combining with nai</h3>\n<p>You can combine intensity with negation:</p>\n<pre><code>.uinaisai\n</code></pre>\n<p>Very unhappy.</p>\n<pre><code>.oinaicai\n</code></pre>\n<p>Extreme pleasure (opposite of extreme pain).</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>cai</code> = extreme, <code>sai</code> = strong, <code>ru&#39;e</code> = weak, <code>cu&#39;i</code> = neutral. Combine with <code>nai</code> for opposites.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Add Intensity</h3>\n<p>Make these more intense:</p>\n<ol>\n<li><code>.ui</code> (happy) → very happy</li>\n<li><code>.oi</code> (pain) → extreme pain</li>\n<li><code>.uu</code> (pity) → strong pity</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>.uisai</code></li>\n<li><code>.oicai</code></li>\n<li><code>.uusai</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Reduce Intensity</h3>\n<p>Make these weaker:</p>\n<ol>\n<li><code>.ui</code> → slightly happy</li>\n<li><code>.a&#39;o</code> → slight hope</li>\n<li><code>.ie</code> → mild agreement</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>.uiru&#39;e</code></li>\n<li><code>.a&#39;oru&#39;e</code></li>\n<li><code>.ieru&#39;e</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Express Indifference</h3>\n<p>Express neutrality:</p>\n<ol>\n<li>Not caring about happiness → ?</li>\n<li>Indifferent to agreement → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>.uicu&#39;i</code></li>\n<li><code>.iecu&#39;i</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "add-intensity",
+          "items": [
+            {
+              "text": "`.ui` (happy) → very happy",
+              "answer": "`.uisai`"
+            },
+            {
+              "text": "`.oi` (pain) → extreme pain",
+              "answer": "`.oicai`"
+            },
+            {
+              "text": "`.uu` (pity) → strong pity",
+              "answer": "`.uusai`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "reduce-intensity",
+          "items": [
+            {
+              "text": "`.ui` → slightly happy",
+              "answer": "`.uiru'e`"
+            },
+            {
+              "text": "`.a'o` → slight hope",
+              "answer": "`.a'oru'e`"
+            },
+            {
+              "text": "`.ie` → mild agreement",
+              "answer": "`.ieru'e`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "express-indifference",
+          "items": [
+            {
+              "text": "Not caring about happiness → ?",
+              "answer": "`.uicu'i`"
+            },
+            {
+              "text": "Indifferent to agreement → ?",
+              "answer": "`.iecu'i`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;Very happy!&quot; → <code>.uisai</code></li>\n<li>&quot;Slightly sad.&quot; → <code>.uinairu&#39;e</code></li>\n<li>&quot;I don&#39;t care.&quot; → <code>.uicu&#39;i</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Grammar</h2>\n<p><strong>Intensity scale:</strong></p>\n<pre><code>cai ← sai ← (none) ← ru&#39;e ← cu&#39;i → nai\nextreme  strong  normal  weak  neutral  opposite\n</code></pre>\n<table>\n<thead>\n<tr>\n<th>Modifier</th>\n<th>Effect</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>cai</code></td>\n<td>Extreme intensity</td>\n</tr>\n<tr>\n<td><code>sai</code></td>\n<td>Strong intensity</td>\n</tr>\n<tr>\n<td><code>ru&#39;e</code></td>\n<td>Weak intensity</td>\n</tr>\n<tr>\n<td><code>cu&#39;i</code></td>\n<td>Neutral/indifferent</td>\n</tr>\n<tr>\n<td><code>nai</code></td>\n<td>Opposite emotion</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned intensity modifiers: <code>cai</code> (extreme), <code>sai</code> (strong), <code>ru&#39;e</code> (weak), <code>cu&#39;i</code> (neutral). Combine with <code>nai</code> for opposites.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Attitudinal placement and scope.</p>\n",
+      "tomorrow": "Attitudinal placement and scope."
+    }
+  ]
+}

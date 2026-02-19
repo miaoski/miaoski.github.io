@@ -1,0 +1,92 @@
+{
+  "id": "w21d2",
+  "week": 21,
+  "day": 2,
+  "title": "Other Sumti Connectives",
+  "goal": "Learn `.a` (or), `.o` (iff), `.u` (whether or not).",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p><code>.e</code> review:</p>\n<pre><code>I and you go → ?\nAlice and Bob are happy → ?\n</code></pre>\n<p>(Answers: <code>mi .e do cu klama</code>, <code>la .alis. .e la .bob. cu gleki</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pagbu</code></td>\n<td>x1 is a part/component of x2</td>\n<td>part/component</td>\n</tr>\n<tr>\n<td><code>stura</code></td>\n<td>x1 is a structure of x2</td>\n<td>structure</td>\n</tr>\n</tbody></table>\n<h3>The Four Sumti Connectives</h3>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Meaning</th>\n<th>Logic</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>.e</code></td>\n<td>and</td>\n<td>both true</td>\n</tr>\n<tr>\n<td><code>.a</code></td>\n<td>or</td>\n<td>at least one true</td>\n</tr>\n<tr>\n<td><code>.o</code></td>\n<td>iff</td>\n<td>same truth value</td>\n</tr>\n<tr>\n<td><code>.u</code></td>\n<td>whether or not</td>\n<td>independent</td>\n</tr>\n</tbody></table>\n<h3>Using <code>.a</code> (Or)</h3>\n<pre><code>mi .a do cu klama\n</code></pre>\n<p>I or you go (or both). — At least one of us goes.</p>\n<pre><code>la .alis. .a la .bob. cu tavla\n</code></pre>\n<p>Alice or Bob talks (or both).</p>\n<h3>Using <code>.o</code> (If and Only If)</h3>\n<pre><code>mi .o do cu klama\n</code></pre>\n<p>I go if and only if you go. — We both go, or neither goes.</p>\n<h3>Using <code>.u</code> (Whether or Not)</h3>\n<pre><code>mi .u do cu klama\n</code></pre>\n<p>I go whether or not you go. — My going is independent of yours.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>.a</code> is inclusive or (at least one). <code>.o</code> means same status. <code>.u</code> means independent.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Choose the Connective</h3>\n<p>Fill in the blank:</p>\n<ol>\n<li>&quot;I or you go (at least one).&quot; → mi ___ do cu klama</li>\n<li>&quot;I and you go (both).&quot; → mi ___ do cu klama</li>\n<li>&quot;I go iff you go.&quot; → mi ___ do cu klama</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>.a</code></li>\n<li><code>.e</code></li>\n<li><code>.o</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translate</h3>\n<ol>\n<li>Alice or Bob is happy.</li>\n<li>The dog and cat are big.</li>\n<li>I go whether or not you go.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la .alis. .a la .bob. cu gleki</code></li>\n<li><code>lo gerku .e lo mlatu cu barda</code></li>\n<li><code>mi .u do cu klama</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>This is a part of the system.</li>\n<li>The structure is big.</li>\n<li>I see a part.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti pagbu lo ciste</code></li>\n<li><code>lo stura cu barda</code></li>\n<li><code>mi viska lo pagbu</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "choose-the-connective",
+          "items": [
+            {
+              "text": "\"I or you go (at least one).\" → mi ___ do cu klama",
+              "answer": "`.a`"
+            },
+            {
+              "text": "\"I and you go (both).\" → mi ___ do cu klama",
+              "answer": "`.e`"
+            },
+            {
+              "text": "\"I go iff you go.\" → mi ___ do cu klama",
+              "answer": "`.o`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translate",
+          "items": [
+            {
+              "text": "Alice or Bob is happy.",
+              "answer": "`la .alis. .a la .bob. cu gleki`"
+            },
+            {
+              "text": "The dog and cat are big.",
+              "answer": "`lo gerku .e lo mlatu cu barda`"
+            },
+            {
+              "text": "I go whether or not you go.",
+              "answer": "`mi .u do cu klama`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "new-vocabulary",
+          "items": [
+            {
+              "text": "This is a part of the system.",
+              "answer": "`ti pagbu lo ciste`"
+            },
+            {
+              "text": "The structure is big.",
+              "answer": "`lo stura cu barda`"
+            },
+            {
+              "text": "I see a part.",
+              "answer": "`mi viska lo pagbu`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;You or I talk.&quot; → <code>mi .a do cu tavla</code></li>\n<li>&quot;I go iff you go.&quot; → <code>mi .o do cu klama</code></li>\n<li>&quot;This is a part.&quot; → <code>ti pagbu</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pagbu</code></td>\n<td>part/component</td>\n</tr>\n<tr>\n<td><code>stura</code></td>\n<td>structure</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>.e</code></td>\n<td>and (both)</td>\n</tr>\n<tr>\n<td><code>.a</code></td>\n<td>or (at least one)</td>\n</tr>\n<tr>\n<td><code>.o</code></td>\n<td>iff (same truth)</td>\n</tr>\n<tr>\n<td><code>.u</code></td>\n<td>whether or not (independent)</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned all four sumti connectives: <code>.e</code> (and), <code>.a</code> (or), <code>.o</code> (iff), <code>.u</code> (whether or not).</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Selbri connectives — <code>je</code> and <code>ja</code>.</p>\n",
+      "tomorrow": "Selbri connectives — `je` and `ja`."
+    }
+  ]
+}

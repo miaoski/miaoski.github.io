@@ -1,0 +1,85 @@
+{
+  "id": "w08d5",
+  "week": 8,
+  "day": 5,
+  "title": "Mixing Tags and Positional",
+  "goal": "Learn to efficiently combine place tags with positional placement.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Complete tag system:</p>\n<pre><code>fa = x1, fe = x2, fi = x3, fo = x4, fu = x5\n</code></pre>\n<p>Write with full tags: <code>mi dunda la cukta la .bob.</code> → ?</p>\n<p>(Answer: <code>fa mi cu dunda fe la cukta fi la .bob.</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Mixing Tags and Positional Placement</h3>\n<p><code>fa mi cu dunda la cukta fi la .bob.</code> — I give a book to Bob.</p>\n<p>You don&#39;t have to tag every sumti. You can mix:</p>\n<ul>\n<li><strong>Tagged sumti:</strong> explicitly marked</li>\n<li><strong>Positional sumti:</strong> fill places in order after a tag</li>\n</ul>\n<h4>The Rule</h4>\n<p>After a tag, sumti without tags fill the next places sequentially.</p>\n<table>\n<thead>\n<tr>\n<th>Sentence</th>\n<th>Interpretation</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>fa mi cu dunda la cukta la .bob.</code></td>\n<td>x1=mi, then x2=la cukta, x3=la .bob. (positional)</td>\n</tr>\n<tr>\n<td><code>fi la .bob. fa mi cu dunda la cukta</code></td>\n<td>x3=la .bob., x1=mi, then x2=la cukta (positional)</td>\n</tr>\n</tbody></table>\n<h4>Examples</h4>\n<p><strong>Tag only x1:</strong></p>\n<pre><code>fa mi cu viska la cukta\n</code></pre>\n<p>x1=mi (tagged), x2=la cukta (positional after selbri)</p>\n<p><strong>Tag x3, leave x2 positional:</strong></p>\n<pre><code>fa mi cu dunda la cukta fi la .bob.\n</code></pre>\n<p>x1=mi, x2=la cukta (positional), x3=la .bob. (tagged)</p>\n<p><strong>Tag x3 first:</strong></p>\n<pre><code>fi la .bob. fa mi cu dunda fe la cukta\n</code></pre>\n<p>x3=la .bob., x1=mi, x2=la cukta</p>\n<h4>When to Mix</h4>\n<p>Mix tags and positional when:</p>\n<ol>\n<li>You want to mention one argument first but keep the rest simple</li>\n<li>Most places are in normal order, with one exception</li>\n</ol>\n<p><strong>Efficient:</strong></p>\n<pre><code>fi la .bob. cu dunda mi la cukta\n</code></pre>\n<p>Wait — without <code>fa</code>, does <code>mi</code> become x1? Yes! After selbri, untagged sumti fill remaining places.</p>\n<p>Actually, this is ambiguous. Better:</p>\n<pre><code>fi la .bob. fa mi cu dunda fe la cukta\n</code></pre>\n<h4>Best Practice</h4>\n<p>When mixing:</p>\n<ol>\n<li>Tag any out-of-order sumti</li>\n<li>Positional sumti follow normal left-to-right order</li>\n<li>When in doubt, add more tags for clarity</li>\n</ol>\n<h4>Key Point</h4>\n<blockquote>\n<p>You can mix tags and positional placement. Untagged sumti after a tagged one fill places sequentially. Use extra tags when clarity is needed.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "You can mix tags and positional placement. Untagged sumti after a tagged one fill places sequentially. Use extra tags when clarity is needed."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Interpret Mixed Sentences</h3>\n<p>Identify x1, x2, x3:</p>\n<ol>\n<li><code>fa mi cu dunda la cukta la .alis.</code></li>\n<li><code>fi la .bob. fa mi cu dunda la skami</code></li>\n<li><code>fe la karce fa la .alis. cu ponse</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>x1=mi, x2=la cukta, x3=la .alis.</li>\n<li>x1=mi, x2=la skami, x3=la .bob.</li>\n<li>x1=la .alis., x2=la karce</li>\n</ol>\n</details>\n\n<h3>Exercise 2: Rewrite Efficiently</h3>\n<p>Rewrite with minimal tags (only tag what&#39;s out of order):</p>\n<ol>\n<li><code>fa mi cu dunda fe la cukta fi la .bob.</code> (all in order) → ?</li>\n<li>Recipient first, rest in order: <code>la .bob. receives a book from me</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi dunda la cukta la .bob.</code> (no tags needed — all positional)</li>\n<li><code>fi la .bob. fa mi cu dunda la cukta</code> (tag x3 and x1, x2 positional)</li>\n</ol>\n</details>\n\n<h3>Exercise 3: Create Mixed Sentences</h3>\n<p>Write sentences with one element out of order, using minimal tags:</p>\n<ol>\n<li>Book first: I give a book to Alice.</li>\n<li>Price first: I sell a car to Bob for 500.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>fe la cukta fa mi cu dunda fi la .alis.</code></li>\n<li><code>fo mu no no fa mi cu vecnu la karce la .bob.</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "interpret-mixed-sentences",
+          "items": [
+            {
+              "text": "`fa mi cu dunda la cukta la .alis.`",
+              "answer": "x1=mi, x2=la cukta, x3=la .alis."
+            },
+            {
+              "text": "`fi la .bob. fa mi cu dunda la skami`",
+              "answer": "x1=mi, x2=la skami, x3=la .bob."
+            },
+            {
+              "text": "`fe la karce fa la .alis. cu ponse`",
+              "answer": "x1=la .alis., x2=la karce"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "rewrite-efficiently",
+          "items": [
+            {
+              "text": "`fa mi cu dunda fe la cukta fi la .bob.` (all in order) → ?",
+              "answer": "`mi dunda la cukta la .bob.` (no tags needed — all positional)"
+            },
+            {
+              "text": "Recipient first, rest in order: `la .bob. receives a book from me` → ?",
+              "answer": "`fi la .bob. fa mi cu dunda la cukta` (tag x3 and x1, x2 positional)"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "create-mixed-sentences",
+          "items": [
+            {
+              "text": "Book first: I give a book to Alice.",
+              "answer": "`fe la cukta fa mi cu dunda fi la .alis.`"
+            },
+            {
+              "text": "Price first: I sell a car to Bob for 500.",
+              "answer": "`fo mu no no fa mi cu vecnu la karce la .bob.`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>Normal order: <code>mi dunda la cukta la .bob.</code></li>\n<li>Recipient first: <code>fi la .bob. fa mi cu dunda la cukta</code></li>\n<li>Price first: <code>fo mu no fa mi cu vecnu la skami do</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p>No new gismu — focus on efficient tag usage.</p>\n<p><strong>Mixing summary:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Strategy</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>All positional</td>\n<td><code>mi dunda la cukta la .bob.</code></td>\n</tr>\n<tr>\n<td>All tagged</td>\n<td><code>fa mi cu dunda fe la cukta fi la .bob.</code></td>\n</tr>\n<tr>\n<td>Mixed</td>\n<td><code>fi la .bob. fa mi cu dunda la cukta</code></td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned to mix place tags with positional placement. Tag only what&#39;s out of order; untagged sumti fill remaining places sequentially.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll compare tags vs. conversions — when to use which approach.</p>\n",
+      "tomorrow": "You'll compare tags vs. conversions — when to use which approach."
+    }
+  ]
+}

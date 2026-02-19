@@ -1,0 +1,75 @@
+{
+  "id": "w22d6",
+  "week": 22,
+  "day": 6,
+  "title": "Conversation Practice",
+  "goal": "Build conversational exchanges using sumtcita.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Sumtcita review:</p>\n<pre><code>ri&#39;a = ?     bu&#39;u = ?     pi&#39;o = ?     bau = ?\n</code></pre>\n<p>(Answers: physical cause, at, using, in language)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Describing Journeys</h3>\n<pre><code>A: do klama ma\nB: mi klama fa&#39;a lo cmana\nA: ki&#39;u ma\nB: ki&#39;u lo nu melbi\n</code></pre>\n<p>(A: Where do you go? B: I go toward the mountain. A: Why? B: Because it&#39;s beautiful.)</p>\n<h3>Describing Methods</h3>\n<pre><code>A: do cilre ta&#39;i ma\nB: mi cilre ta&#39;i lo nu tcidu lo cukta\nA: bau ma\nB: bau la .jbobau.\n</code></pre>\n<p>(A: How do you learn? B: I learn by reading books. A: In what language? B: In Lojban.)</p>\n<h3>Describing Locations</h3>\n<pre><code>A: do xabju bu&#39;u ma\nB: mi xabju bu&#39;u lo stuzi poi ne&#39;a lo rirxe\nA: xu melbi\nB: .ie ri melbi je calme\n</code></pre>\n<p>(A: Where do you live? B: I live at a place near the river. A: Is it beautiful? B: Yes, it&#39;s beautiful and calm.)</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Use sumtcita naturally in dialogue to add context about where, how, why, and in what language.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Complete the Dialogue</h3>\n<p>Fill in the blanks:</p>\n<p>A: do gunka bu&#39;u ma?\nB: mi gunka ___ lo zdani.\nA: pi&#39;o ma?\nB: ___ lo skami.</p>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>bu&#39;u</code></li>\n<li><code>pi&#39;o</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Create Dialogues</h3>\n<p>Write a short dialogue about:</p>\n<ol>\n<li>Going toward the sea because it&#39;s hot.</li>\n<li>Writing in English using a computer.</li>\n</ol>\n<details>\n<summary>Example Answers</summary>\n\n<ol>\n<li></li>\n</ol>\n<pre><code>A: do klama ma\nB: mi klama fa&#39;a lo xamsi\nA: ki&#39;u ma\nB: ki&#39;u lo nu glare\n</code></pre>\n<ol start=\"2\">\n<li></li>\n</ol>\n<pre><code>A: do ciska bau ma\nB: mi ciska bau la .glibau.\nA: pi&#39;o ma\nB: pi&#39;o lo skami\n</code></pre>\n</details>\n\n<h3>Exercise 3: Translate</h3>\n<ol>\n<li>I live near the mountain because I like it.</li>\n<li>Alice works at the station using a computer.</li>\n<li>I walk toward the field in the morning.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi xabju ne&#39;a lo cmana mu&#39;i lo nu mi nelci</code></li>\n<li><code>la .alis. cu gunka bu&#39;u lo tcana pi&#39;o lo skami</code></li>\n<li><code>mi cadzu fa&#39;a lo foldi ca lo cerni</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "complete-the-dialogue",
+          "items": []
+        },
+        {
+          "number": 2,
+          "type": "create-dialogues",
+          "items": [
+            {
+              "text": "Going toward the sea because it's hot.",
+              "answer": null
+            },
+            {
+              "text": "Writing in English using a computer.",
+              "answer": null
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "translate",
+          "items": [
+            {
+              "text": "I live near the mountain because I like it.",
+              "answer": "`mi xabju ne'a lo cmana mu'i lo nu mi nelci`"
+            },
+            {
+              "text": "Alice works at the station using a computer.",
+              "answer": "`la .alis. cu gunka bu'u lo tcana pi'o lo skami`"
+            },
+            {
+              "text": "I walk toward the field in the morning.",
+              "answer": "`mi cadzu fa'a lo foldi ca lo cerni`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Create your own dialogue using:</strong></p>\n<ul>\n<li>At least 2 sumtcita</li>\n<li>At least 2 vocabulary words from this week</li>\n</ul>\n<p><strong>Example:</strong></p>\n<pre><code>A: do klama fa&#39;a ma\nB: mi klama fa&#39;a lo xamsi\nA: mu&#39;i ma\nB: mu&#39;i lo nu mi djica lo nu viska lo kevna\nA: .ui xamgu\n</code></pre>\n<p>(A: Where are you going toward? B: I&#39;m going toward the sea. A: Why? B: Because I want to see a cave. A: Great!)</p>\n"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Today&#39;s Practice</h2>\n<p><strong>Conversation patterns:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Pattern</th>\n<th>Use</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>bu&#39;u ma</code></td>\n<td>Where? (at)</td>\n</tr>\n<tr>\n<td><code>fa&#39;a ma</code></td>\n<td>Toward where?</td>\n</tr>\n<tr>\n<td><code>ki&#39;u ma</code></td>\n<td>Why? (justified by)</td>\n</tr>\n<tr>\n<td><code>mu&#39;i ma</code></td>\n<td>Why? (motivated by)</td>\n</tr>\n<tr>\n<td><code>pi&#39;o ma</code></td>\n<td>Using what?</td>\n</tr>\n<tr>\n<td><code>bau ma</code></td>\n<td>In what language?</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced using sumtcita in natural conversation. Questions with <code>ma</code> work well with sumtcita.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Full week review.</p>\n",
+      "tomorrow": "Full week review."
+    }
+  ]
+}

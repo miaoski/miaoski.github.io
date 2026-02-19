@@ -1,0 +1,79 @@
+{
+  "id": "w27d1",
+  "week": 27,
+  "day": 1,
+  "title": "Introductions and Greetings",
+  "goal": "Practice introduction dialogues.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Review nesting:</p>\n<pre><code>mi djuno lo du&#39;u do djica lo nu klama = ?\n</code></pre>\n<p>(Answer: I know that you want to go)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pendo</code></td>\n<td>x1 is a friend of x2</td>\n<td>friend</td>\n</tr>\n<tr>\n<td><code>bruna</code></td>\n<td>x1 is a brother of x2</td>\n<td>brother</td>\n</tr>\n<tr>\n<td><code>mensi</code></td>\n<td>x1 is a sister of x2</td>\n<td>sister</td>\n</tr>\n</tbody></table>\n<h3>Introduction Phrases</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>coi</code></td>\n<td>Hello</td>\n</tr>\n<tr>\n<td><code>mi&#39;e [name]</code></td>\n<td>I&#39;m [name]</td>\n</tr>\n<tr>\n<td><code>do mo</code></td>\n<td>How are you? / What&#39;s up?</td>\n</tr>\n<tr>\n<td><code>do cmene ma</code></td>\n<td>What&#39;s your name?</td>\n</tr>\n<tr>\n<td><code>co&#39;o</code></td>\n<td>Goodbye</td>\n</tr>\n</tbody></table>\n<h3>Sample Introduction Dialogue</h3>\n<pre><code>A: coi\nB: coi .i mi&#39;e tam.\nA: mi&#39;e alis. .i do mo\nB: mi gleki .i .ui mi penmi do\nA: .ie mi ji&#39;a gleki\n</code></pre>\n<p>(A: Hello. B: Hello. I&#39;m Tom. A: I&#39;m Alice. How are you? B: I&#39;m happy. Yay, I meet you! A: Yes, I&#39;m also happy.)</p>\n<h3>Making Friends</h3>\n<pre><code>xu do se pendo mi\n</code></pre>\n<p>Are you my friend? / Will you be my friend?</p>\n<pre><code>.ie mi pendo do\n</code></pre>\n<p>Yes, I&#39;m your friend.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Practice full dialogues, not just isolated sentences. Flow naturally between greetings, introductions, and conversation.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Basic Introductions</h3>\n<p>Translate:</p>\n<ol>\n<li>Hello, I&#39;m Alice.</li>\n<li>What&#39;s your name?</li>\n<li>I&#39;m happy to meet you.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>coi .i mi&#39;e alis.</code></li>\n<li><code>do cmene ma</code></li>\n<li><code>mi gleki lo nu penmi do</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Family Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>Bob is my friend.</li>\n<li>Alice is my sister.</li>\n<li>Tom is my brother.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la .bob. cu pendo mi</code></li>\n<li><code>la .alis. cu mensi mi</code></li>\n<li><code>la .tam. cu bruna mi</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Create a Dialogue</h3>\n<p>Write a 4-line introduction:</p>\n<details>\n<summary>Example Answer</summary>\n\n<pre><code>A: coi .i mi&#39;e bob.\nB: coi .i mi&#39;e alis.\nA: xu do se pendo mi\nB: .ie .i mi pendo do\n</code></pre>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "basic-introductions",
+          "items": [
+            {
+              "text": "Hello, I'm Alice.",
+              "answer": "`coi .i mi'e alis.`"
+            },
+            {
+              "text": "What's your name?",
+              "answer": "`do cmene ma`"
+            },
+            {
+              "text": "I'm happy to meet you.",
+              "answer": "`mi gleki lo nu penmi do`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "family-vocabulary",
+          "items": [
+            {
+              "text": "Bob is my friend.",
+              "answer": "`la .bob. cu pendo mi`"
+            },
+            {
+              "text": "Alice is my sister.",
+              "answer": "`la .alis. cu mensi mi`"
+            },
+            {
+              "text": "Tom is my brother.",
+              "answer": "`la .tam. cu bruna mi`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "create-a-dialogue",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Role-play aloud:</strong></p>\n<p>Introduce yourself to an imaginary person:</p>\n<ol>\n<li>Greet them</li>\n<li>Give your name</li>\n<li>Ask their name</li>\n<li>Say you&#39;re happy to meet them</li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pendo</code></td>\n<td>friend</td>\n</tr>\n<tr>\n<td><code>bruna</code></td>\n<td>brother</td>\n</tr>\n<tr>\n<td><code>mensi</code></td>\n<td>sister</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced introduction dialogues using greetings, names, and basic social phrases.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Family talk — parents and children.</p>\n",
+      "tomorrow": "Family talk — parents and children."
+    }
+  ]
+}

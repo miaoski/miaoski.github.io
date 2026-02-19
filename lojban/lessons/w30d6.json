@@ -1,0 +1,31 @@
+{
+  "id": "w30d6",
+  "week": 30,
+  "day": 6,
+  "title": "Free Composition",
+  "goal": "Demonstrate unrestricted fluency in extended writing.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Quick review of all major tools:</p>\n<table>\n<thead>\n<tr>\n<th>Category</th>\n<th>Examples</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Structure</td>\n<td><code>cu</code>, <code>.i</code>, place structure</td>\n</tr>\n<tr>\n<td>Tanru</td>\n<td><code>blanu gerku</code>, <code>bo</code>, <code>ke</code></td>\n</tr>\n<tr>\n<td>Abstraction</td>\n<td><code>nu</code>, <code>du&#39;u</code>, <code>tu&#39;a</code></td>\n</tr>\n<tr>\n<td>Connectives</td>\n<td><code>.e</code>, <code>je</code>, <code>gi&#39;e</code>, <code>ge...gi</code></td>\n</tr>\n<tr>\n<td>Tense</td>\n<td><code>pu</code>, <code>ca</code>, <code>ba</code>, <code>ki</code>, <code>roi</code></td>\n</tr>\n<tr>\n<td>Attitudinals</td>\n<td><code>.ui</code>, <code>.oi</code>, <code>.a&#39;o</code></td>\n</tr>\n<tr>\n<td>Sumtcita</td>\n<td><code>mu&#39;i</code>, <code>bu&#39;u</code>, <code>pi&#39;o</code>, <code>bau</code></td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Free Writing Exercise (10+ min)</h2>\n<h3>Your Task</h3>\n<p><strong>Write continuously in Lojban for 10 minutes.</strong></p>\n<p>Choose any topic:</p>\n<ul>\n<li>Your life and activities</li>\n<li>A story (real or fictional)</li>\n<li>An explanation of something</li>\n<li>Your opinions on a topic</li>\n<li>A plan for the future</li>\n<li>Teaching someone about Lojban</li>\n</ul>\n<h3>Guidelines</h3>\n<ul>\n<li>Use as many grammar structures as naturally fit</li>\n<li>Don&#39;t worry about perfection — focus on flow</li>\n<li>Include emotions, opinions, and details</li>\n<li>Aim for 100+ words</li>\n</ul>\n<h3>Possible Structure</h3>\n<ol>\n<li>Introduction (what you&#39;ll discuss)</li>\n<li>Main content (details, events, opinions)</li>\n<li>Conclusion (summary, feelings, future)</li>\n</ol>\n<details>\n<summary>Example: My Lojban Journey</summary>\n\n<pre><code>.i ca mi ba tavla fi lo nu mi cilre la .jbobau.\n\n.i pu ki mi co&#39;a cilre ze&#39;a lo panomoi jeftu\n.i mi na djuno lo du&#39;u la .jbobau. cu mo\n.i .ue mi pu jinvi lo du&#39;u ri nandu sai\n\n.i ku&#39;i mi reroi ro djedi tadni\n.i ba bo mi co&#39;a jimpe lo gismu\n.i .ua mi djuno lo du&#39;u lo bangu cu logji\n\n.i ca mi ka&#39;e tavla bau la .jbobau.\n.i mi ka&#39;e ciska lo lisri\n.i mi ka&#39;e tcidu lo cukta\n.i .ui sai mi gleki\n\n.i pe&#39;i lo nu cilre bangu cu vajni\n.i ki&#39;u lo nu do ka&#39;e tavla lo drata prenu\n.i .e&#39;o do ji&#39;a cilre la .jbobau.\n\n.i mi ba ki ze&#39;u tadni\n.i mi djica lo nu certu\n.i .a&#39;o mi ba certu\n\n.i ki&#39;e la .jbobau.\n.i ki&#39;e lo ctuca\n.i .ui co&#39;o\n</code></pre>\n<p>(Now I will talk about learning Lojban. In the past, I started learning during the 10th week. I didn&#39;t know what Lojban was. Wow, I thought it was very difficult! But I studied twice every day. Then I started understanding gismu. Aha, I know that the language is logical! Now I can speak in Lojban. I can write stories. I can read books. Very happy, I&#39;m glad! In my opinion, learning languages is important. Because you can talk to different people. Please, you also learn Lojban! I will study for a long time (future). I want to be skilled. Hopefully I will be skilled. Thanks to Lojban. Thanks to the teachers. Happy, goodbye!)</p>\n</details>"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Self-Assessment (1-2 min)</h2>\n<p>After writing, check:</p>\n<ul>\n<li><input disabled=\"\" type=\"checkbox\"> Used multiple tenses?</li>\n<li><input disabled=\"\" type=\"checkbox\"> Used attitudinals?</li>\n<li><input disabled=\"\" type=\"checkbox\"> Used connectives?</li>\n<li><input disabled=\"\" type=\"checkbox\"> Used abstractions?</li>\n<li><input disabled=\"\" type=\"checkbox\"> Expressed opinions?</li>\n<li><input disabled=\"\" type=\"checkbox\"> Natural flow?</li>\n</ul>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Goal</h2>\n<p><strong>Free composition demonstrates fluency:</strong></p>\n<ul>\n<li>No prompts</li>\n<li>No exercises</li>\n<li>Just expression</li>\n</ul>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You demonstrated unrestricted Lojban fluency through extended free writing.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Final self-assessment and next steps.</p>\n",
+      "tomorrow": "Final self-assessment and next steps."
+    }
+  ]
+}

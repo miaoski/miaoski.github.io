@@ -1,0 +1,88 @@
+{
+  "id": "w02d2",
+  "week": 2,
+  "day": 2,
+  "title": "Greeting People by Name",
+  "goal": "Greet and say goodbye to people using `coi` and `co'o` with names.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Practice your introduction from yesterday:</p>\n<pre><code>mi&#39;e .yourname.\n</code></pre>\n<p>Say it 3 times. Now Lojbanize these names quickly:</p>\n<ol>\n<li>Anna → ?</li>\n<li>Sam → ?</li>\n<li>Kate → ?</li>\n</ol>\n<p>(Answers: <code>.anas.</code>, <code>.sam.</code>, <code>.keit.</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Hello and Goodbye</h3>\n<p><code>coi la .alis.</code> — Hello, Alice.</p>\n<p>Lojban has special words called <strong>vocatives</strong> for social interactions. Today you&#39;ll learn the two most important:</p>\n<table>\n<thead>\n<tr>\n<th>Vocative</th>\n<th>Meaning</th>\n<th>Usage</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>coi</code></td>\n<td>hello</td>\n<td>greeting someone</td>\n</tr>\n<tr>\n<td><code>co&#39;o</code></td>\n<td>goodbye</td>\n<td>parting from someone</td>\n</tr>\n</tbody></table>\n<h4>Using <code>la</code> for Names</h4>\n<p>When you use a name in a sentence (not just as an introduction), you need <strong><code>la</code></strong> before it:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>coi la .alis.</code></td>\n<td>Hello, Alice.</td>\n</tr>\n<tr>\n<td><code>co&#39;o la .bob.</code></td>\n<td>Goodbye, Bob.</td>\n</tr>\n<tr>\n<td><code>coi la .paris.</code></td>\n<td>Hello, Paris. (greeting a city!)</td>\n</tr>\n</tbody></table>\n<p>The pattern: <strong>vocative + <code>la</code> + name</strong></p>\n<h4><code>la</code> vs. No <code>la</code></h4>\n<p>Compare:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Meaning</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi&#39;e .alis.</code></td>\n<td>I&#39;m Alice.</td>\n<td>No <code>la</code> — <code>mi&#39;e</code> directly takes the name</td>\n</tr>\n<tr>\n<td><code>coi la .alis.</code></td>\n<td>Hello, Alice.</td>\n<td><code>la</code> required — marks the name as a sumti</td>\n</tr>\n</tbody></table>\n<p>Think of <code>la</code> as &quot;the one called&quot; — it turns a cmevla into a sumti you can use anywhere.</p>\n<h4>Responding to Greetings</h4>\n<p>When someone says <code>coi</code> to you, respond with <code>coi</code>:</p>\n<pre><code>A: coi la .bob.     (Hello, Bob.)\nB: coi la .alis.    (Hello, Alice.)\n</code></pre>\n<p>When someone says <code>co&#39;o</code>, respond with <code>co&#39;o</code>:</p>\n<pre><code>A: co&#39;o la .bob.    (Goodbye, Bob.)\nB: co&#39;o la .alis.   (Goodbye, Alice.)\n</code></pre>\n<h4>Examples</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Gloss</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>coi la .tam.</code></td>\n<td>hello [name Tom]</td>\n<td>Hello, Tom.</td>\n</tr>\n<tr>\n<td><code>co&#39;o la .meris.</code></td>\n<td>goodbye [name Mary]</td>\n<td>Goodbye, Mary.</td>\n</tr>\n<tr>\n<td><code>coi la .tokios.</code></td>\n<td>hello [name Tokyo]</td>\n<td>Hello, Tokyo.</td>\n</tr>\n<tr>\n<td><code>co&#39;o la .lyndyn.</code></td>\n<td>goodbye [name London]</td>\n<td>Goodbye, London.</td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p>Use <code>coi</code> for hello and <code>co&#39;o</code> for goodbye. Add <code>la</code> before names: <code>coi la .name.</code></p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "Use `coi` for hello and `co'o` for goodbye. Add `la` before names: `coi la .name.`"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Greet These People</h3>\n<p>Write the greeting in Lojban:</p>\n<ol>\n<li>Say hello to Alice.</li>\n<li>Say goodbye to Bob.</li>\n<li>Say hello to Tom.</li>\n<li>Say goodbye to Sarah.</li>\n<li>Say hello to yourself (your Lojbanized name).</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>coi la .alis.</code></li>\n<li><code>co&#39;o la .bob.</code></li>\n<li><code>coi la .tam.</code></li>\n<li><code>co&#39;o la .seras.</code></li>\n<li><code>coi la .yourname.</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Complete the Dialogue</h3>\n<p>Fill in the blanks:</p>\n<pre><code>A: coi la .bob.\nB: ___ la .alis.        (hello back)\n\nA: co&#39;o la .bob.\nB: ___ la .alis.        (goodbye back)\n</code></pre>\n<details>\n<summary>Answers</summary>\n\n<pre><code>A: coi la .bob.\nB: coi la .alis.\n\nA: co&#39;o la .bob.\nB: co&#39;o la .alis.\n</code></pre>\n</details>\n\n<h3>Exercise 3: Lojbanize and Greet</h3>\n<p>Think of 3 people you know. Lojbanize their names, then write a greeting for each:</p>\n<ol>\n<li>Name: _______ → Lojban: <code>._______.</code> → Greeting: <code>coi la ._______.</code></li>\n<li>Name: _______ → Lojban: <code>._______.</code> → Greeting: <code>coi la ._______.</code></li>\n<li>Name: _______ → Lojban: <code>._______.</code> → Greeting: <code>coi la ._______.</code></li>\n</ol>\n<p>Say each greeting aloud.</p>\n",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "greet-these-people",
+          "items": [
+            {
+              "text": "Say hello to Alice.",
+              "answer": "`coi la .alis.`"
+            },
+            {
+              "text": "Say goodbye to Bob.",
+              "answer": "`co'o la .bob.`"
+            },
+            {
+              "text": "Say hello to Tom.",
+              "answer": "`coi la .tam.`"
+            },
+            {
+              "text": "Say goodbye to Sarah.",
+              "answer": "`co'o la .seras.`"
+            },
+            {
+              "text": "Say hello to yourself (your Lojbanized name).",
+              "answer": "`coi la .yourname.`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "complete-the-dialogue",
+          "items": []
+        },
+        {
+          "number": 3,
+          "type": "lojbanize-and-greet",
+          "items": [
+            {
+              "text": "Name: _______ → Lojban: `._______.` → Greeting: `coi la ._______.`",
+              "answer": null
+            },
+            {
+              "text": "Name: _______ → Lojban: `._______.` → Greeting: `coi la ._______.`",
+              "answer": null
+            },
+            {
+              "text": "Name: _______ → Lojban: `._______.` → Greeting: `coi la ._______.`",
+              "answer": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>Greet Alice: <code>coi la .alis.</code></li>\n<li>Introduce yourself: <code>mi&#39;e .yourname.</code></li>\n<li>Say goodbye to Alice: <code>co&#39;o la .alis.</code></li>\n</ol>\n<p>Now put it together as a mini-conversation:</p>\n<pre><code>coi la .alis. .i mi&#39;e .yourname. .i co&#39;o la .alis.\n</code></pre>\n<p>Say the whole thing aloud twice.</p>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p><strong>Cmavo introduced today:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>coi</code></td>\n<td>hello (vocative)</td>\n</tr>\n<tr>\n<td><code>co&#39;o</code></td>\n<td>goodbye (vocative)</td>\n</tr>\n<tr>\n<td><code>la</code></td>\n<td>article marking a name (turns cmevla into sumti)</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>coi</code> (hello) and <code>co&#39;o</code> (goodbye), and how to use <code>la</code> before names when greeting people. You can now greet anyone by name: <code>coi la .name.</code></p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll learn words for people — <code>prenu</code> (person), <code>nanmu</code> (man), <code>ninmu</code> (woman), and <code>verba</code> (child).</p>\n",
+      "tomorrow": "You'll learn words for people — `prenu` (person), `nanmu` (man), `ninmu` (woman), and `verba` (child)."
+    }
+  ]
+}

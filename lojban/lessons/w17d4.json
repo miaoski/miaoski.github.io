@@ -1,0 +1,92 @@
+{
+  "id": "w17d4",
+  "week": 17,
+  "day": 4,
+  "title": "mo for Selbri Questions",
+  "goal": "Learn `mo` to ask about selbri (what is/does).",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p><code>ma</code> review:</p>\n<pre><code>Who goes? → ?\nWhat do you eat? → ?\n</code></pre>\n<p>(Answers: <code>ma klama</code>, <code>do citka ma</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>What Is <code>mo</code>?</h3>\n<p><code>mo</code> replaces the <strong>selbri</strong> (predicate) to ask what something is or does.</p>\n<h3>Basic Usage</h3>\n<pre><code>do mo\n</code></pre>\n<p>What are you? / What are you doing? / What&#39;s your state?</p>\n<pre><code>ti mo\n</code></pre>\n<p>What is this?</p>\n<h3>Examples</h3>\n<pre><code>la .alis. mo\n</code></pre>\n<p>What is Alice? / What is Alice doing?</p>\n<p><strong>Answers could be:</strong></p>\n<ul>\n<li><code>la .alis. cu ninmu</code> (Alice is a woman.)</li>\n<li><code>la .alis. ca&#39;o gunka</code> (Alice is working.)</li>\n<li><code>la .alis. cu gleki</code> (Alice is happy.)</li>\n</ul>\n<h3><code>mo</code> vs <code>ma</code></h3>\n<table>\n<thead>\n<tr>\n<th>Question</th>\n<th>Asks about</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ma klama</code></td>\n<td>Who goes? (sumti)</td>\n</tr>\n<tr>\n<td><code>do mo</code></td>\n<td>What are you? (selbri)</td>\n</tr>\n</tbody></table>\n<h3><code>mo</code> in Context</h3>\n<pre><code>ti mo .i ti mlatu\n</code></pre>\n<p>What is this? — This is a cat.</p>\n<pre><code>do mo .i mi gunka\n</code></pre>\n<p>What are you doing? — I am working.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>mo</code> asks &quot;what is X?&quot; or &quot;what does X do?&quot; — answer with a selbri.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Form mo Questions</h3>\n<p>Create questions:</p>\n<ol>\n<li>What is this? → ?</li>\n<li>What is Bob? → ?</li>\n<li>What are you doing? → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti mo</code></li>\n<li><code>la .bob. mo</code></li>\n<li><code>do mo</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Answer mo Questions</h3>\n<p>Answer with appropriate selbri:</p>\n<ol>\n<li><code>ti mo</code> — This is a book.</li>\n<li><code>do mo</code> — I am working.</li>\n<li><code>la .alis. mo</code> — Alice is happy.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti cukta</code></li>\n<li><code>mi gunka</code></li>\n<li><code>la .alis. cu gleki</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Compare ma and mo</h3>\n<p>Translate:</p>\n<ol>\n<li>What do you eat? (ma) → ?</li>\n<li>What are you? (mo) → ?</li>\n<li>Who is that? (ma) → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>do citka ma</code></li>\n<li><code>do mo</code></li>\n<li><code>ma ta</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "form-mo-questions",
+          "items": [
+            {
+              "text": "What is this? → ?",
+              "answer": "`ti mo`"
+            },
+            {
+              "text": "What is Bob? → ?",
+              "answer": "`la .bob. mo`"
+            },
+            {
+              "text": "What are you doing? → ?",
+              "answer": "`do mo`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "answer-mo-questions",
+          "items": [
+            {
+              "text": "`ti mo` — This is a book.",
+              "answer": "`ti cukta`"
+            },
+            {
+              "text": "`do mo` — I am working.",
+              "answer": "`mi gunka`"
+            },
+            {
+              "text": "`la .alis. mo` — Alice is happy.",
+              "answer": "`la .alis. cu gleki`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "compare-ma-and-mo",
+          "items": [
+            {
+              "text": "What do you eat? (ma) → ?",
+              "answer": "`do citka ma`"
+            },
+            {
+              "text": "What are you? (mo) → ?",
+              "answer": "`do mo`"
+            },
+            {
+              "text": "Who is that? (ma) → ?",
+              "answer": "`ma ta`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;What is this?&quot; → <code>ti mo</code></li>\n<li>&quot;What are you doing?&quot; → <code>do mo</code></li>\n<li>&quot;This is a dog.&quot; → <code>ti gerku</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Grammar</h2>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mo</code></td>\n<td>Question word for selbri (what is/does)</td>\n</tr>\n</tbody></table>\n<p><strong>Comparison:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Question</th>\n<th>Type</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ma klama</code></td>\n<td>Who goes? (sumti)</td>\n</tr>\n<tr>\n<td><code>do mo</code></td>\n<td>What are you? (selbri)</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>mo</code> for selbri questions. Use <code>mo</code> to ask &quot;what is X?&quot; or &quot;what is X doing?&quot;</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> <code>xo</code> for number questions.</p>\n",
+      "tomorrow": "`xo` for number questions."
+    }
+  ]
+}

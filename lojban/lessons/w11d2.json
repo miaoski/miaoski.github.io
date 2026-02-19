@@ -1,0 +1,104 @@
+{
+  "id": "w11d2",
+  "week": 11,
+  "day": 2,
+  "title": "Introduction to bo",
+  "goal": "Learn to use `bo` to bind the right two words in a tanru.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Default grouping review:</p>\n<pre><code>barda blanu gerku = ?\nsutra bajra prenu = ?\n</code></pre>\n<p>(Answers: <code>(barda blanu) gerku</code>, <code>(sutra bajra) prenu</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>bolci</code></td>\n<td>x1 is a ball/sphere of material x2</td>\n<td>ball/sphere</td>\n</tr>\n<tr>\n<td><code>kubli</code></td>\n<td>x1 is a cube/polyhedron of material x2</td>\n<td>cube</td>\n</tr>\n</tbody></table>\n<h3>The <code>bo</code> Particle</h3>\n<p><code>bo</code> binds <strong>tighter</strong> than default. It makes the words on either side of it group first.</p>\n<pre><code>a b bo c = a (b c)\n</code></pre>\n<p>Now the RIGHT two words combine first, and the left word modifies that compound.</p>\n<h3>Comparing Groupings</h3>\n<p><strong>Without <code>bo</code>:</strong></p>\n<pre><code>barda blanu gerku = (barda blanu) gerku\n</code></pre>\n<p>(big-blue) dog — a dog that is big-and-blue.</p>\n<p><strong>With <code>bo</code>:</strong></p>\n<pre><code>barda blanu bo gerku = barda (blanu gerku)\n</code></pre>\n<p>big (blue-dog) — a big instance of a blue-dog.</p>\n<h3>The Difference in Meaning</h3>\n<p><code>(barda blanu) gerku</code> — The dog has the combined property of being big-blue.</p>\n<p><code>barda (blanu gerku)</code> — There&#39;s a type called &quot;blue-dog&quot; and this one is big.</p>\n<p>The emphasis shifts. With <code>bo</code>, &quot;blue dog&quot; is treated as a single concept.</p>\n<h3>More Examples</h3>\n<pre><code>sutra bajra bo gerku = sutra (bajra gerku)\n</code></pre>\n<p>fast (running-dog) — a fast instance of a running-dog.</p>\n<pre><code>cmalu xunre bo bolci = cmalu (xunre bolci)\n</code></pre>\n<p>small (red-ball) — a small instance of a red-ball.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>bo</code> creates tighter binding on the right. Use it to form <code>a (b c)</code> instead of <code>(a b) c</code>.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Apply bo</h3>\n<p>Rewrite with different grouping using <code>bo</code>:</p>\n<ol>\n<li><code>(barda blanu) zdani</code> → big (blue house)</li>\n<li><code>(sutra klama) prenu</code> → fast (going person)</li>\n<li><code>(cmalu crino) mlatu</code> → small (green cat)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>barda blanu bo zdani</code></li>\n<li><code>sutra klama bo prenu</code></li>\n<li><code>cmalu crino bo mlatu</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Identify the Grouping</h3>\n<p>What does each mean?</p>\n<ol>\n<li><code>barda xunre bo bolci</code></li>\n<li><code>clani blabi bo karce</code></li>\n<li><code>sutra bajra bo gerku</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>big (red-ball) — a big instance of a red ball</li>\n<li>long (white-car) — a long instance of a white car</li>\n<li>fast (running-dog) — a fast running-dog</li>\n</ol>\n</details>\n\n<h3>Exercise 3: Use New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>This is a ball.</li>\n<li>The cube is blue.</li>\n<li>I see a big red ball.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti bolci</code></li>\n<li><code>la kubli cu blanu</code></li>\n<li><code>mi viska la barda xunre bolci</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "apply-bo",
+          "items": [
+            {
+              "text": "`(barda blanu) zdani` → big (blue house)",
+              "answer": "`barda blanu bo zdani`"
+            },
+            {
+              "text": "`(sutra klama) prenu` → fast (going person)",
+              "answer": "`sutra klama bo prenu`"
+            },
+            {
+              "text": "`(cmalu crino) mlatu` → small (green cat)",
+              "answer": "`cmalu crino bo mlatu`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "identify-the-grouping",
+          "items": [
+            {
+              "text": "`barda xunre bo bolci`",
+              "answer": "big (red-ball) — a big instance of a red ball"
+            },
+            {
+              "text": "`clani blabi bo karce`",
+              "answer": "long (white-car) — a long instance of a white car"
+            },
+            {
+              "text": "`sutra bajra bo gerku`",
+              "answer": "fast (running-dog) — a fast running-dog"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "use-new-vocabulary",
+          "items": [
+            {
+              "text": "This is a ball.",
+              "answer": "`ti bolci`"
+            },
+            {
+              "text": "The cube is blue.",
+              "answer": "`la kubli cu blanu`"
+            },
+            {
+              "text": "I see a big red ball.",
+              "answer": "`mi viska la barda xunre bolci`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;This is a big blue-dog.&quot; → <code>ti barda blanu bo gerku</code></li>\n<li>&quot;I have a small red-ball.&quot; → <code>mi ponse la cmalu xunre bo bolci</code></li>\n<li>&quot;The cube is white.&quot; → <code>la kubli cu blabi</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>bolci</code></td>\n<td>x1 is a ball/sphere of x2</td>\n<td>ball</td>\n</tr>\n<tr>\n<td><code>kubli</code></td>\n<td>x1 is a cube of x2</td>\n<td>cube</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>bo</code></td>\n<td>Tight binding — makes right side group first</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "bolci",
+          "place": "x1 is a ball/sphere of x2",
+          "english": "ball"
+        },
+        {
+          "lojban": "kubli",
+          "place": "x1 is a cube of x2",
+          "english": "cube"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned that <code>bo</code> creates tighter binding, changing <code>a b c</code> from <code>(a b) c</code> to <code>a (b c)</code>. This shifts which words form the core concept.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> More <code>bo</code> practice with disambiguation exercises.</p>\n",
+      "tomorrow": "More `bo` practice with disambiguation exercises."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "w14d4",
+  "week": 14,
+  "day": 4,
+  "title": "Lujvo Deep Dive",
+  "goal": "Review rafsi and lujvo formation.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Tanru review:</p>\n<pre><code>barda blanu gerku (default grouping) = ?\nPlace structure from ? word\n</code></pre>\n<p>(Answers: (big-blue) dog, rightmost word — <code>gerku</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Rafsi Review</h3>\n<p><strong>Rafsi</strong> are short combining forms of gismu:</p>\n<table>\n<thead>\n<tr>\n<th>Gismu</th>\n<th>Rafsi</th>\n<th>Example Lujvo</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>bangu</code></td>\n<td><code>bau</code>, <code>ban</code></td>\n<td><code>jbobau</code></td>\n</tr>\n<tr>\n<td><code>lojbo</code></td>\n<td><code>jbo</code></td>\n<td><code>jbobau</code></td>\n</tr>\n<tr>\n<td><code>bridi</code></td>\n<td><code>bri</code>, <code>briv</code></td>\n<td><code>brivla</code></td>\n</tr>\n<tr>\n<td><code>valsi</code></td>\n<td><code>vla</code>, <code>val</code></td>\n<td><code>brivla</code></td>\n</tr>\n</tbody></table>\n<h3>Building Lujvo Step-by-Step</h3>\n<p><strong>Example: jbobau (Lojban language)</strong></p>\n<ol>\n<li>Start with tanru: <code>lojbo bangu</code></li>\n<li>Find rafsi: <code>jbo</code> (from lojbo) + <code>bau</code> (from bangu)</li>\n<li>Combine: <code>jbobau</code></li>\n</ol>\n<p><strong>Example: brivla (predicate word)</strong></p>\n<ol>\n<li>Start with tanru: <code>bridi valsi</code></li>\n<li>Find rafsi: <code>briv</code> (from bridi) + <code>la</code> (from valsi)</li>\n<li>Combine: <code>brivla</code></li>\n</ol>\n<h3>Decomposing Lujvo</h3>\n<p>Given a lujvo, break it down:</p>\n<pre><code>junbau = jun + bau = jungo + bangu = Chinese language\nspanbau = span + bau = spano + bangu = Spanish language\n</code></pre>\n<h3>Lujvo vs Tanru</h3>\n<table>\n<thead>\n<tr>\n<th>Feature</th>\n<th>Tanru</th>\n<th>Lujvo</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Form</td>\n<td>Separate words</td>\n<td>Single word</td>\n</tr>\n<tr>\n<td>Meaning</td>\n<td>Contextual</td>\n<td>Fixed</td>\n</tr>\n<tr>\n<td>Creation</td>\n<td>Free</td>\n<td>Standardized</td>\n</tr>\n</tbody></table>\n<h3>Key Point</h3>\n<blockquote>\n<p>Lujvo are frozen tanru with fixed meanings. Know common rafsi to build and decompose them.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Build Lujvo</h3>\n<p>Create lujvo from these tanru:</p>\n<ol>\n<li><code>rusko bangu</code> (Russian language) → ?</li>\n<li><code>xrabo bangu</code> (Arabic language) → ?</li>\n<li><code>xindo bangu</code> (Hindi language) → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>rusbau</code></li>\n<li><code>rabbau</code> or <code>xarbau</code></li>\n<li><code>xinbau</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Decompose Lujvo</h3>\n<p>What gismu make up each lujvo?</p>\n<ol>\n<li><code>jbobau</code> = ? + ?</li>\n<li><code>glibau</code> = ? + ?</li>\n<li><code>brivla</code> = ? + ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lojbo</code> + <code>bangu</code></li>\n<li><code>glico</code> + <code>bangu</code></li>\n<li><code>bridi</code> + <code>valsi</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Use in Sentences</h3>\n<p>Translate:</p>\n<ol>\n<li>I speak Chinese.</li>\n<li>Spanish is a language.</li>\n<li>I learn Russian.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi tavla bau la junbau</code></li>\n<li><code>la spanbau cu bangu</code></li>\n<li><code>mi cilre la rusbau</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "build-lujvo",
+          "items": [
+            {
+              "text": "`rusko bangu` (Russian language) → ?",
+              "answer": "`rusbau`"
+            },
+            {
+              "text": "`xrabo bangu` (Arabic language) → ?",
+              "answer": "`rabbau` or `xarbau`"
+            },
+            {
+              "text": "`xindo bangu` (Hindi language) → ?",
+              "answer": "`xinbau`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "decompose-lujvo",
+          "items": [
+            {
+              "text": "`jbobau` = ? + ?",
+              "answer": "`lojbo` + `bangu`"
+            },
+            {
+              "text": "`glibau` = ? + ?",
+              "answer": "`glico` + `bangu`"
+            },
+            {
+              "text": "`brivla` = ? + ?",
+              "answer": "`bridi` + `valsi`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "use-in-sentences",
+          "items": [
+            {
+              "text": "I speak Chinese.",
+              "answer": "`mi tavla bau la junbau`"
+            },
+            {
+              "text": "Spanish is a language.",
+              "answer": "`la spanbau cu bangu`"
+            },
+            {
+              "text": "I learn Russian.",
+              "answer": "`mi cilre la rusbau`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I speak Russian.&quot; → <code>mi tavla bau la rusbau</code></li>\n<li>&quot;Arabic is beautiful.&quot; → <code>la rabbau cu melbi</code></li>\n<li>&quot;I learn Hindi.&quot; → <code>mi cilre la xinbau</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Review</h2>\n<p><strong>Common language rafsi:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Nationality</th>\n<th>Rafsi</th>\n<th>+ bau =</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jungo</code></td>\n<td><code>jun</code></td>\n<td><code>junbau</code></td>\n</tr>\n<tr>\n<td><code>spano</code></td>\n<td><code>span</code></td>\n<td><code>spanbau</code></td>\n</tr>\n<tr>\n<td><code>rusko</code></td>\n<td><code>rus</code></td>\n<td><code>rusbau</code></td>\n</tr>\n<tr>\n<td><code>xrabo</code></td>\n<td><code>rab</code></td>\n<td><code>rabbau</code></td>\n</tr>\n<tr>\n<td><code>xindo</code></td>\n<td><code>xin</code></td>\n<td><code>xinbau</code></td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You reviewed lujvo formation using rafsi. Lujvo freeze tanru into single words with fixed meanings.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Fu&#39;ivla creation for cultural items.</p>\n",
+      "tomorrow": "Fu'ivla creation for cultural items."
+    }
+  ]
+}

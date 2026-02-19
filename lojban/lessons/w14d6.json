@@ -1,0 +1,88 @@
+{
+  "id": "w14d6",
+  "week": 14,
+  "day": 6,
+  "title": "co Review and Complex Compounds",
+  "goal": "Review `co` with complex tanru structures.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Fu&#39;ivla review:</p>\n<pre><code>tea → ?\npizza → ?\ncookie → ?\n</code></pre>\n<p>(Answers: <code>tcati</code>, <code>pitsa</code>, <code>kurki</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3><code>co</code> Review</h3>\n<p><code>co</code> inverts tanru: <code>A co B</code> = <code>B A</code></p>\n<p>Place structure comes from word BEFORE <code>co</code>.</p>\n<h3>Complex <code>co</code> Chains</h3>\n<pre><code>lo valsi co jungo co cnino\n</code></pre>\n<p>The word which-is-Chinese which-is-new.\n= A new Chinese word.</p>\n<p>Each <code>co</code> adds a modifier to the head word (<code>valsi</code>).</p>\n<h3>Combining <code>co</code> with Other Tools</h3>\n<p><strong>With fu&#39;ivla:</strong></p>\n<pre><code>mi pinxe lo djacu co glare co jinsa\n</code></pre>\n<p>I drink water which-is-hot which-is-clean.</p>\n<p><strong>With lujvo:</strong></p>\n<pre><code>mi tavla bau lo bangu co cnino\n</code></pre>\n<p>I speak in a language which-is-new.</p>\n<h3>When to Use <code>co</code></h3>\n<table>\n<thead>\n<tr>\n<th>Use <code>co</code> when...</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Head noun is important</td>\n<td><code>lo gerku co barda</code> (the dog, big)</td>\n</tr>\n<tr>\n<td>Building long chains</td>\n<td><code>A co B co C co D</code></td>\n</tr>\n<tr>\n<td>Clarifying complex tanru</td>\n<td><code>lo valsi co jungo</code></td>\n</tr>\n</tbody></table>\n<h3>Converting Between Forms</h3>\n<table>\n<thead>\n<tr>\n<th>Normal Tanru</th>\n<th>With <code>co</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>barda blanu gerku</code></td>\n<td><code>gerku co barda co blanu</code></td>\n</tr>\n<tr>\n<td><code>cnino jungo bangu</code></td>\n<td><code>bangu co cnino co jungo</code></td>\n</tr>\n<tr>\n<td><code>glare jinsa djacu</code></td>\n<td><code>djacu co glare co jinsa</code></td>\n</tr>\n</tbody></table>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Convert to <code>co</code></h3>\n<p>Rewrite using <code>co</code>:</p>\n<ol>\n<li><code>melbi jungo valsi</code> → ?</li>\n<li><code>barda spano zdani</code> → ?</li>\n<li><code>cnino rusko bangu</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>valsi co melbi co jungo</code></li>\n<li><code>zdani co barda co spano</code></li>\n<li><code>bangu co cnino co rusko</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Convert from <code>co</code></h3>\n<p>Rewrite as normal tanru:</p>\n<ol>\n<li><code>prenu co sutra co barda</code> → ?</li>\n<li><code>cukta co melbi co cnino</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>barda sutra prenu</code></li>\n<li><code>cnino melbi cukta</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Full Sentences</h3>\n<p>Translate using <code>co</code>:</p>\n<ol>\n<li>I see a new Chinese word.</li>\n<li>I drink hot clean water.</li>\n<li>This is a big Spanish house.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi viska lo valsi co cnino co jungo</code></li>\n<li><code>mi pinxe lo djacu co glare co jinsa</code></li>\n<li><code>ti zdani co barda co spano</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "convert-to-`co`",
+          "items": [
+            {
+              "text": "`melbi jungo valsi` → ?",
+              "answer": "`valsi co melbi co jungo`"
+            },
+            {
+              "text": "`barda spano zdani` → ?",
+              "answer": "`zdani co barda co spano`"
+            },
+            {
+              "text": "`cnino rusko bangu` → ?",
+              "answer": "`bangu co cnino co rusko`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "convert-from-`co`",
+          "items": [
+            {
+              "text": "`prenu co sutra co barda` → ?",
+              "answer": "`barda sutra prenu`"
+            },
+            {
+              "text": "`cukta co melbi co cnino` → ?",
+              "answer": "`cnino melbi cukta`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "full-sentences",
+          "items": [
+            {
+              "text": "I see a new Chinese word.",
+              "answer": "`mi viska lo valsi co cnino co jungo`"
+            },
+            {
+              "text": "I drink hot clean water.",
+              "answer": "`mi pinxe lo djacu co glare co jinsa`"
+            },
+            {
+              "text": "This is a big Spanish house.",
+              "answer": "`ti zdani co barda co spano`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I learn a new language.&quot; → <code>mi cilre lo bangu co cnino</code></li>\n<li>&quot;This is a beautiful word.&quot; → <code>ti valsi co melbi</code></li>\n<li>&quot;I speak Chinese.&quot; → <code>mi tavla bau la junbau</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Review</h2>\n<p><strong><code>co</code> summary:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Form</th>\n<th>Meaning</th>\n<th>Places from</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>A co B</code></td>\n<td>B A</td>\n<td>A</td>\n</tr>\n<tr>\n<td><code>A co B co C</code></td>\n<td>C B A</td>\n<td>A</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You reviewed <code>co</code> inversion with complex compound structures. <code>co</code> puts the main noun first and stacks modifiers.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Comprehensive compound word review.</p>\n",
+      "tomorrow": "Comprehensive compound word review."
+    }
+  ]
+}

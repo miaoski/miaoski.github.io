@@ -1,0 +1,92 @@
+{
+  "id": "w16d5",
+  "week": 16,
+  "day": 5,
+  "title": "Scalar Negation",
+  "goal": "Learn `na'e` (other-than), `to'e` (opposite), and `no'e` (neutral).",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p><code>na</code> with tense review:</p>\n<pre><code>I didn&#39;t go (past) → ?\nIt&#39;s not true that I will eat → ?\n</code></pre>\n<p>(Answers: <code>mi pu na klama</code>, <code>mi na ba citka</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Scalar Negation</h3>\n<p>Unlike <code>na</code> (which negates the whole bridi), these negate just the selbri on a <strong>scale</strong>:</p>\n<h3><code>na&#39;e</code> — Other Than</h3>\n<pre><code>mi na&#39;e klama\n</code></pre>\n<p>I other-than-go. (I do something else, not specified.)</p>\n<h3><code>to&#39;e</code> — Polar Opposite</h3>\n<pre><code>ti to&#39;e melbi\n</code></pre>\n<p>This is the opposite of beautiful. (= ugly)</p>\n<pre><code>ti to&#39;e xamgu\n</code></pre>\n<p>This is the opposite of good. (= bad)</p>\n<h3><code>no&#39;e</code> — Neutral Midpoint</h3>\n<pre><code>ti no&#39;e melbi\n</code></pre>\n<p>This is neither beautiful nor ugly. (neutral)</p>\n<h3>The Scale</h3>\n<pre><code>to&#39;e ←——— no&#39;e ———→ [positive]\nopposite   neutral    affirmed\n</code></pre>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Position</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>to&#39;e</code></td>\n<td>Opposite extreme</td>\n<td><code>to&#39;e xamgu</code> (bad)</td>\n</tr>\n<tr>\n<td><code>no&#39;e</code></td>\n<td>Middle/neutral</td>\n<td><code>no&#39;e melbi</code> (plain)</td>\n</tr>\n<tr>\n<td><code>na&#39;e</code></td>\n<td>Other than</td>\n<td><code>na&#39;e klama</code> (not-going)</td>\n</tr>\n<tr>\n<td>(none)</td>\n<td>Affirmed</td>\n<td><code>melbi</code> (beautiful)</td>\n</tr>\n</tbody></table>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>na&#39;e</code> = other than, <code>to&#39;e</code> = opposite, <code>no&#39;e</code> = neutral. These modify the selbri, not the whole bridi.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Opposites with to&#39;e</h3>\n<p>Create opposites:</p>\n<ol>\n<li>beautiful → ugly</li>\n<li>good → bad</li>\n<li>big → tiny</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>to&#39;e melbi</code></li>\n<li><code>to&#39;e xamgu</code></li>\n<li><code>to&#39;e barda</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Neutral with no&#39;e</h3>\n<p>Create neutral forms:</p>\n<ol>\n<li>neither beautiful nor ugly → ?</li>\n<li>neither good nor bad → ?</li>\n<li>neither big nor small → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>no&#39;e melbi</code></li>\n<li><code>no&#39;e xamgu</code></li>\n<li><code>no&#39;e barda</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Other-than with na&#39;e</h3>\n<p>Translate:</p>\n<ol>\n<li>I do something other than go. → ?</li>\n<li>I feel something other than happy. → ?</li>\n<li>This is something other than a dog. → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi na&#39;e klama</code></li>\n<li><code>mi na&#39;e gleki</code></li>\n<li><code>ti na&#39;e gerku</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "opposites-with-to'e",
+          "items": [
+            {
+              "text": "beautiful → ugly",
+              "answer": "`to'e melbi`"
+            },
+            {
+              "text": "good → bad",
+              "answer": "`to'e xamgu`"
+            },
+            {
+              "text": "big → tiny",
+              "answer": "`to'e barda`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "neutral-with-no'e",
+          "items": [
+            {
+              "text": "neither beautiful nor ugly → ?",
+              "answer": "`no'e melbi`"
+            },
+            {
+              "text": "neither good nor bad → ?",
+              "answer": "`no'e xamgu`"
+            },
+            {
+              "text": "neither big nor small → ?",
+              "answer": "`no'e barda`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "other-than-with-na'e",
+          "items": [
+            {
+              "text": "I do something other than go. → ?",
+              "answer": "`mi na'e klama`"
+            },
+            {
+              "text": "I feel something other than happy. → ?",
+              "answer": "`mi na'e gleki`"
+            },
+            {
+              "text": "This is something other than a dog. → ?",
+              "answer": "`ti na'e gerku`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;This is ugly.&quot; → <code>ti to&#39;e melbi</code></li>\n<li>&quot;This is neither good nor bad.&quot; → <code>ti no&#39;e xamgu</code></li>\n<li>&quot;I do something else.&quot; → <code>mi na&#39;e zukte</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Grammar</h2>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Meaning</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>na&#39;e</code></td>\n<td>other than</td>\n<td><code>na&#39;e klama</code></td>\n</tr>\n<tr>\n<td><code>to&#39;e</code></td>\n<td>opposite</td>\n<td><code>to&#39;e melbi</code></td>\n</tr>\n<tr>\n<td><code>no&#39;e</code></td>\n<td>neutral</td>\n<td><code>no&#39;e barda</code></td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned scalar negation: <code>na&#39;e</code> (other than), <code>to&#39;e</code> (polar opposite), <code>no&#39;e</code> (neutral midpoint).</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Combining negation types in practice.</p>\n",
+      "tomorrow": "Combining negation types in practice."
+    }
+  ]
+}

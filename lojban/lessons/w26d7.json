@@ -1,0 +1,38 @@
+{
+  "id": "w26d7",
+  "week": 26,
+  "day": 7,
+  "title": "Week Review: Complex Sentence Nesting",
+  "goal": "Demonstrate mastery of complex nested structures.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>All 8 vocabulary words:</p>\n<pre><code>think → ?       study → ?\nlearn → ?       teach → ?\nscience → ?     idea → ?\nimportant → ?   difficult → ?\n</code></pre>\n<p>(Answers: <code>jinvi</code>, <code>tadni</code>, <code>cilre</code>, <code>ctuca</code>, <code>saske</code>, <code>sidbo</code>, <code>vajni</code>, <code>nandu</code>)</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Grammar Summary (3-4 min)</h2>\n<h3>Nesting Tools</h3>\n<table>\n<thead>\n<tr>\n<th>Tool</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>lo du&#39;u</code></td>\n<td>Proposition abstraction</td>\n</tr>\n<tr>\n<td><code>lo nu</code></td>\n<td>Event abstraction</td>\n</tr>\n<tr>\n<td><code>tu&#39;a</code></td>\n<td>Implicit abstraction</td>\n</tr>\n<tr>\n<td><code>se/te</code></td>\n<td>Conversion (works inside abstractions)</td>\n</tr>\n<tr>\n<td><code>poi/noi</code></td>\n<td>Relative clauses (can nest)</td>\n</tr>\n</tbody></table>\n<h3>Parsing Strategy</h3>\n<ol>\n<li>Find main selbri</li>\n<li>Identify abstraction boundaries</li>\n<li>Note conversions</li>\n<li>Trace relative clauses</li>\n</ol>\n<h3>Week 26 Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jinvi</code></td>\n<td>think/opine</td>\n<td><code>tadni</code></td>\n<td>study</td>\n</tr>\n<tr>\n<td><code>cilre</code></td>\n<td>learn</td>\n<td><code>ctuca</code></td>\n<td>teach</td>\n</tr>\n<tr>\n<td><code>saske</code></td>\n<td>science</td>\n<td><code>sidbo</code></td>\n<td>idea</td>\n</tr>\n<tr>\n<td><code>vajni</code></td>\n<td>important</td>\n<td><code>nandu</code></td>\n<td>difficult</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Self-Test (5-6 min)</h2>\n<h3>Part A: Vocabulary (8 points)</h3>\n<p>Translate:</p>\n<ol>\n<li><code>jinvi</code> →</li>\n<li><code>cilre</code> →</li>\n<li><code>saske</code> →</li>\n<li><code>vajni</code> →</li>\n</ol>\n<p>Translate to Lojban:</p>\n<ol start=\"5\">\n<li>study →</li>\n<li>teach →</li>\n<li>idea →</li>\n<li>difficult →</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>think/opine</li>\n<li>learn</li>\n<li>science</li>\n<li>important</li>\n<li><code>tadni</code></li>\n<li><code>ctuca</code></li>\n<li><code>sidbo</code></li>\n<li><code>nandu</code></li>\n</ol>\n</details>\n\n<h3>Part B: Nesting (8 points)</h3>\n<p>Translate:</p>\n<ol>\n<li>I know that you study.</li>\n<li>Alice thinks that learning is important.</li>\n<li>I want something involving the book. (use tu&#39;a)</li>\n<li>Being taught is difficult.</li>\n</ol>\n<p>Parse (identify levels):</p>\n<ol start=\"5\">\n<li><code>mi djuno lo du&#39;u do djica lo nu klama</code></li>\n<li><code>la .alis. cu jinvi lo du&#39;u lo nu tadni cu vajni</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi djuno lo du&#39;u do tadni</code></li>\n<li><code>la .alis. cu jinvi lo du&#39;u lo nu cilre cu vajni</code></li>\n<li><code>mi djica tu&#39;a lo cukta</code></li>\n<li><code>lo nu se ctuca cu nandu</code></li>\n<li>Level 1: mi djuno, Level 2: do djica, Level 3: klama (I know that you want to go)</li>\n<li>Level 1: la .alis. jinvi, Level 2: lo nu tadni cu vajni (Alice thinks that studying is important)</li>\n</ol>\n</details>\n\n<h3>Part C: Complex Sentences (4 points)</h3>\n<p>Translate:</p>\n<ol>\n<li>I happily know that the person who teaches you thinks that learning Lojban is important.</li>\n<li>Alice believes that the science which Bob studies is difficult.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>.ui mi djuno lo du&#39;u lo prenu poi ke&#39;a ctuca do cu jinvi lo du&#39;u lo nu cilre la .jbobau. cu vajni</code></li>\n<li><code>la .alis. cu krici lo du&#39;u lo saske poi la .bob. cu tadni ke&#39;a cu nandu</code></li>\n</ol>\n</details>"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Scoring</h2>\n<table>\n<thead>\n<tr>\n<th>Section</th>\n<th>Points</th>\n<th>Your Score</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Part A</td>\n<td>8</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part B</td>\n<td>8</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part C</td>\n<td>4</td>\n<td>___</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>20</strong></td>\n<td>___</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Integration Challenge (1-2 min)</h2>\n<p><strong>Build the most complex sentence you can:</strong></p>\n<p>Use:</p>\n<ul>\n<li>Nested abstractions (2-3 levels)</li>\n<li>tu&#39;a OR conversion (se/te)</li>\n<li>A relative clause</li>\n<li>An attitudinal</li>\n</ul>\n<p><strong>Example:</strong></p>\n<pre><code>.ui mi djuno lo du&#39;u lo prenu poi ke&#39;a ctuca mi cu jinvi lo du&#39;u lo nu tadni la .jbobau. cu vajni je nandu\n</code></pre>\n<p>(Happily, I know that the person who teaches me thinks that studying Lojban is important and difficult.)</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Week 26 Complete Reference</h2>\n<p><strong>Vocabulary (8):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jinvi</code></td>\n<td>think</td>\n<td><code>tadni</code></td>\n<td>study</td>\n</tr>\n<tr>\n<td><code>cilre</code></td>\n<td>learn</td>\n<td><code>ctuca</code></td>\n<td>teach</td>\n</tr>\n<tr>\n<td><code>saske</code></td>\n<td>science</td>\n<td><code>sidbo</code></td>\n<td>idea</td>\n</tr>\n<tr>\n<td><code>vajni</code></td>\n<td>important</td>\n<td><code>nandu</code></td>\n<td>difficult</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Tool</th>\n<th>Use</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Nested du&#39;u/nu</td>\n<td>Multi-level thoughts</td>\n</tr>\n<tr>\n<td>tu&#39;a</td>\n<td>Implicit abstraction</td>\n</tr>\n<tr>\n<td>se/te in abstraction</td>\n<td>Perspective shift</td>\n</tr>\n<tr>\n<td>poi in du&#39;u</td>\n<td>Relative clauses inside</td>\n</tr>\n</tbody></table>\n<p><strong>Cumulative vocabulary:</strong> ~212 words</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You completed Week 26 on complex nesting. You can now express multi-layered thoughts with nested abstractions, conversion, and relative clauses.</p>\n</blockquote>\n<p><strong>Next week preview:</strong> Week 27 is a practice week — everyday conversations using all your tools.</p>\n"
+    }
+  ]
+}

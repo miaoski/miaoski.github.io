@@ -1,0 +1,88 @@
+{
+  "id": "w06d5",
+  "week": 6,
+  "day": 5,
+  "title": "`se` with Three-Place Predicates",
+  "goal": "Master `se` conversion with `tavla`, `cusku`, and other three-place gismu.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>New vocabulary review:</p>\n<pre><code>1. own   → ?\n2. carry → ?\n3. move  → ?\n</code></pre>\n<p>(Answers: <code>ponse</code>, <code>bevri</code>, <code>muvdu</code>)</p>\n<p>Convert: <code>mi ponse la skami</code> → ?</p>\n<p>(Answer: <code>la skami se ponse mi</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Deep Dive: <code>se</code> with Three-Place Gismu</h3>\n<p><code>do se tavla mi la cukta</code> — You are talked to by me about the book.</p>\n<p>When <code>se</code> swaps x1 and x2 in a three-place gismu, the result can feel like English passive voice.</p>\n<h4><code>tavla</code> Analysis</h4>\n<table>\n<thead>\n<tr>\n<th>Version</th>\n<th>x1</th>\n<th>x2</th>\n<th>x3</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>tavla</code></td>\n<td>talker</td>\n<td>listener</td>\n<td>topic</td>\n</tr>\n<tr>\n<td><code>se tavla</code></td>\n<td>listener</td>\n<td>talker</td>\n<td>topic</td>\n</tr>\n</tbody></table>\n<p>Examples:</p>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>se</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi tavla do la cukta</code></td>\n<td><code>do se tavla mi la cukta</code></td>\n</tr>\n<tr>\n<td>I talk to you about the book.</td>\n<td>You are talked to by me about the book.</td>\n</tr>\n</tbody></table>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>se</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>la .bob. cu tavla la .alis. la karce</code></td>\n<td><code>la .alis. se tavla la .bob. la karce</code></td>\n</tr>\n<tr>\n<td>Bob talks to Alice about the car.</td>\n<td>Alice is talked to by Bob about the car.</td>\n</tr>\n</tbody></table>\n<h4><code>cusku</code> Analysis</h4>\n<table>\n<thead>\n<tr>\n<th>Version</th>\n<th>x1</th>\n<th>x2</th>\n<th>x3</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>cusku</code></td>\n<td>speaker</td>\n<td>statement</td>\n<td>audience</td>\n</tr>\n<tr>\n<td><code>se cusku</code></td>\n<td>statement</td>\n<td>speaker</td>\n<td>audience</td>\n</tr>\n</tbody></table>\n<p>Examples:</p>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>se</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi cusku ti do</code></td>\n<td><code>ti se cusku mi do</code></td>\n</tr>\n<tr>\n<td>I say this to you.</td>\n<td>This is said by me to you.</td>\n</tr>\n</tbody></table>\n<h4>When <code>se</code> is Natural</h4>\n<p><strong>Answering questions about the listener:</strong></p>\n<ul>\n<li>Q: &quot;Who is talked to about the book?&quot;</li>\n<li>A: <code>la .alis. se tavla la .bob. la cukta</code> — Alice is talked to by Bob about the book.</li>\n</ul>\n<p><strong>Maintaining topic continuity:</strong></p>\n<pre><code>la .alis. se tavla mi la cukta .i la .alis. cu gleki\n</code></pre>\n<p>(Alice is talked to by me about the book. Alice is happy.)</p>\n<h4>Multiple <code>se</code> Examples</h4>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>se</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi benji la cukta la .bob.</code></td>\n<td><code>la cukta se benji mi la .bob.</code></td>\n</tr>\n<tr>\n<td><code>la .alis. cu dunda la plise mi</code></td>\n<td><code>la plise se dunda la .alis. mi</code></td>\n</tr>\n<tr>\n<td><code>do lebna la stizu la .tam.</code></td>\n<td><code>la stizu se lebna do la .tam.</code></td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p>With three-place gismu, <code>se</code> makes the original x2 (listener, statement, gift) the new topic in x1 position.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "With three-place gismu, `se` makes the original x2 (listener, statement, gift) the new topic in x1 position."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Convert to <code>se</code></h3>\n<ol>\n<li><code>mi tavla la .bob. la skami</code> → ?</li>\n<li><code>la .alis. cu cusku ti mi</code> → ?</li>\n<li><code>do lebna la cukta la .tam.</code> → ?</li>\n<li><code>la .meris. cu benji la karce la .bob.</code> → ?</li>\n<li><code>mi tavla do la zarci</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la .bob. se tavla mi la skami</code></li>\n<li><code>ti se cusku la .alis. mi</code></li>\n<li><code>la cukta se lebna do la .tam.</code></li>\n<li><code>la karce se benji la .meris. la .bob.</code></li>\n<li><code>do se tavla mi la zarci</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Convert from <code>se</code></h3>\n<ol>\n<li><code>la .alis. se tavla la .bob. la cukta</code> → ?</li>\n<li><code>ta se cusku mi do</code> → ?</li>\n<li><code>la skami se benji la .tam. la .alis.</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la .bob. cu tavla la .alis. la cukta</code></li>\n<li><code>mi cusku ta do</code></li>\n<li><code>la .tam. cu benji la skami la .alis.</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Create Continuous Topic Sentences</h3>\n<p>Write two sentences where the topic stays the same using <code>se</code>:</p>\n<p>Example:</p>\n<pre><code>la .alis. se tavla mi la cukta .i la .alis. cu gleki\n</code></pre>\n<details>\n<summary>Example answers</summary>\n\n<ol>\n<li><code>la cukta se dunda mi la .bob. .i la cukta cu melbi</code></li>\n<li><code>la karce se benji la .alis. mi .i la karce cu barda</code></li>\n<li><code>la .bob. se tavla mi la zarci .i la .bob. cu klama la zarci</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "convert-to-`se`",
+          "items": [
+            {
+              "text": "`mi tavla la .bob. la skami` → ?",
+              "answer": "`la .bob. se tavla mi la skami`"
+            },
+            {
+              "text": "`la .alis. cu cusku ti mi` → ?",
+              "answer": "`ti se cusku la .alis. mi`"
+            },
+            {
+              "text": "`do lebna la cukta la .tam.` → ?",
+              "answer": "`la cukta se lebna do la .tam.`"
+            },
+            {
+              "text": "`la .meris. cu benji la karce la .bob.` → ?",
+              "answer": "`la karce se benji la .meris. la .bob.`"
+            },
+            {
+              "text": "`mi tavla do la zarci` → ?",
+              "answer": "`do se tavla mi la zarci`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "convert-from-`se`",
+          "items": [
+            {
+              "text": "`la .alis. se tavla la .bob. la cukta` → ?",
+              "answer": "`la .bob. cu tavla la .alis. la cukta`"
+            },
+            {
+              "text": "`ta se cusku mi do` → ?",
+              "answer": "`mi cusku ta do`"
+            },
+            {
+              "text": "`la skami se benji la .tam. la .alis.` → ?",
+              "answer": "`la .tam. cu benji la skami la .alis.`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "create-continuous-topic-sentences",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;Alice is talked to by me.&quot; → <code>la .alis. se tavla mi</code></li>\n<li>&quot;This is said by Bob to you.&quot; → <code>ti se cusku la .bob. do</code></li>\n<li>&quot;The book is taken from Tom by me.&quot; → <code>la cukta se lebna mi la .tam.</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p>No new gismu — focus on <code>se</code> mastery with three-place predicates.</p>\n<p><strong>Pattern summary:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Gismu</th>\n<th><code>se</code> Effect</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>tavla</code></td>\n<td>listener becomes x1</td>\n</tr>\n<tr>\n<td><code>cusku</code></td>\n<td>statement becomes x1</td>\n</tr>\n<tr>\n<td><code>benji</code></td>\n<td>thing sent becomes x1</td>\n</tr>\n<tr>\n<td><code>lebna</code></td>\n<td>thing taken becomes x1</td>\n</tr>\n<tr>\n<td><code>dunda</code></td>\n<td>gift becomes x1</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You mastered <code>se</code> with three-place gismu. The original x2 (listener, statement, gift, etc.) moves to x1 position, becoming the topic.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll learn <code>pleji</code> (pay), <code>canja</code> (exchange), and <code>ralte</code> (keep), then practice choosing when <code>se</code> makes sentences more natural.</p>\n",
+      "tomorrow": "You'll learn `pleji` (pay), `canja` (exchange), and `ralte` (keep), then practice choosing when `se` makes sentences more natural."
+    }
+  ]
+}

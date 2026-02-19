@@ -1,0 +1,38 @@
+{
+  "id": "w30d7",
+  "week": 30,
+  "day": 7,
+  "title": "Final Review & Graduation",
+  "goal": "Self-assess your learning and plan next steps.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "other",
+      "content": "<h2>Congratulations! 🎉</h2>\n<p>You have completed <strong>30 weeks of Lojban study</strong>.</p>\n<pre><code>.ui sai do snada\n</code></pre>\n<p>Very happy, you succeeded!</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>What You&#39;ve Learned (3-4 min)</h2>\n<h3>Grammar Mastery</h3>\n<table>\n<thead>\n<tr>\n<th>Category</th>\n<th>Skills</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Foundation</strong></td>\n<td>Place structure, cu, .i, pronouns</td>\n</tr>\n<tr>\n<td><strong>Words</strong></td>\n<td>~236 gismu, many cmavo</td>\n</tr>\n<tr>\n<td><strong>Compounds</strong></td>\n<td>Tanru, lujvo, rafsi, bo, ke, co</td>\n</tr>\n<tr>\n<td><strong>Abstraction</strong></td>\n<td>nu, du&#39;u, ka, ni, tu&#39;a</td>\n</tr>\n<tr>\n<td><strong>Connectives</strong></td>\n<td>.e, je, gi&#39;e, ge...gi, joi, ce, ce&#39;o</td>\n</tr>\n<tr>\n<td><strong>Tense</strong></td>\n<td>pu/ca/ba, co&#39;a/ca&#39;o/mo&#39;u, ki, roi</td>\n</tr>\n<tr>\n<td><strong>Negation</strong></td>\n<td>na, na&#39;e, to&#39;e, no&#39;e</td>\n</tr>\n<tr>\n<td><strong>Questions</strong></td>\n<td>xu, ma, mo, xo</td>\n</tr>\n<tr>\n<td><strong>Attitudinals</strong></td>\n<td>.ui, .oi, .ie, .a&#39;o, etc.</td>\n</tr>\n<tr>\n<td><strong>Evidentials</strong></td>\n<td>za&#39;a, pe&#39;i, ti&#39;e</td>\n</tr>\n<tr>\n<td><strong>Relative</strong></td>\n<td>poi, noi, pe, ke&#39;a</td>\n</tr>\n<tr>\n<td><strong>Sumtcita</strong></td>\n<td>ri&#39;a, mu&#39;i, bu&#39;u, pi&#39;o, bau</td>\n</tr>\n<tr>\n<td><strong>Quotation</strong></td>\n<td>lu..li&#39;u, zo, lo&#39;u..le&#39;u</td>\n</tr>\n<tr>\n<td><strong>Advanced</strong></td>\n<td>MEX, pro-bridi, elision</td>\n</tr>\n</tbody></table>\n<h3>Production Skills</h3>\n<ul>\n<li><strong>Speaking</strong>: Basic conversation</li>\n<li><strong>Writing</strong>: Stories, journals, opinions</li>\n<li><strong>Reading</strong>: Parsing complex sentences</li>\n<li><strong>Listening</strong>: Ready to practice</li>\n</ul>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Self-Assessment (5-6 min)</h2>\n<h3>Rate Yourself (1-5)</h3>\n<table>\n<thead>\n<tr>\n<th>Skill</th>\n<th>Rating</th>\n<th>Notes</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Place structure</td>\n<td>___</td>\n<td></td>\n</tr>\n<tr>\n<td>Tanru</td>\n<td>___</td>\n<td></td>\n</tr>\n<tr>\n<td>Abstraction</td>\n<td>___</td>\n<td></td>\n</tr>\n<tr>\n<td>Connectives</td>\n<td>___</td>\n<td></td>\n</tr>\n<tr>\n<td>Tense</td>\n<td>___</td>\n<td></td>\n</tr>\n<tr>\n<td>Conversation</td>\n<td>___</td>\n<td></td>\n</tr>\n<tr>\n<td>Writing</td>\n<td>___</td>\n<td></td>\n</tr>\n<tr>\n<td>Reading</td>\n<td>___</td>\n<td></td>\n</tr>\n</tbody></table>\n<h3>Strongest Areas</h3>\n<p>List your top 3:</p>\n<ol>\n<li><hr>\n</li>\n<li><hr>\n</li>\n<li><hr>\n</li>\n</ol>\n<h3>Areas for Improvement</h3>\n<p>List 3 to work on:</p>\n<ol>\n<li><hr>\n</li>\n<li><hr>\n</li>\n<li><hr>\n</li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Next Steps (3-4 min)</h2>\n<h3>Continue Learning</h3>\n<ol>\n<li><p><strong>Expand Vocabulary</strong></p>\n<ul>\n<li>Learn more gismu (there are ~1300+)</li>\n<li>Study common lujvo</li>\n<li>Learn specialized cmavo</li>\n</ul>\n</li>\n<li><p><strong>Join the Community</strong></p>\n<ul>\n<li>IRC: <code>#lojban</code> on Libera Chat</li>\n<li>Discord: Lojban servers</li>\n<li>Mailing lists and forums</li>\n</ul>\n</li>\n<li><p><strong>Read Lojban Texts</strong></p>\n<ul>\n<li>jbovlaste (dictionary with examples)</li>\n<li>Translated texts</li>\n<li>Original Lojban writing</li>\n</ul>\n</li>\n<li><p><strong>Write Regularly</strong></p>\n<ul>\n<li>Daily journal</li>\n<li>Stories</li>\n<li>Essays and opinions</li>\n</ul>\n</li>\n<li><p><strong>Speak with Others</strong></p>\n<ul>\n<li>Voice chat with other Lojbanists</li>\n<li>Practice conversations</li>\n<li>Teaching others</li>\n</ul>\n</li>\n<li><p><strong>Study CLL (Complete Lojban Language)</strong></p>\n<ul>\n<li>Deep dive into grammar</li>\n<li>Advanced topics</li>\n<li>Edge cases</li>\n</ul>\n</li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Final Challenge</h2>\n<p><strong>Write a graduation statement in Lojban:</strong></p>\n<p>Include:</p>\n<ul>\n<li>What you learned</li>\n<li>How you feel</li>\n<li>Your future plans</li>\n</ul>\n<details>\n<summary>Example</summary>\n\n<pre><code>mi pu cilre la .jbobau. ze&#39;a lo cinoki djedi\n.i ca mi djuno so&#39;i da\n.i mi ka&#39;e tavla .e ciska .e tcidu\n.i .ui sai mi gleki lo nu snada\n.i ki&#39;e ro lo sidju\n.i mi ba ze&#39;u tadni\n.i mi djica lo nu certu\n.i .a&#39;o mi ba tavla so&#39;i jbopre\n.i la .jbobau. cu melbi je vajni bangu\n.i co&#39;o .e&#39;o .ui\n</code></pre>\n<p>(I learned Lojban for 210 days. Now I know many things. I can speak and write and read. Very happy, I&#39;m glad to succeed! Thanks to all helpers. I will study for a long time. I want to be skilled. Hopefully I will talk to many Lojbanists. Lojban is a beautiful and important language. Goodbye, please, happy!)</p>\n</details>"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Graduation Certificate</h2>\n<pre><code>┌─────────────────────────────────────────┐\n│                                         │\n│   .ui sai do snada                      │\n│                                         │\n│   You have completed                    │\n│   30 WEEKS OF LOJBAN                    │\n│                                         │\n│   ~236 words learned                    │\n│   All major grammar covered             │\n│   Ready for fluent practice             │\n│                                         │\n│   lo pu cilre cu ca djuno               │\n│   (The former student now knows)        │\n│                                         │\n└─────────────────────────────────────────┘\n</code></pre>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You completed the 30-week Lojban course. You have a solid foundation in grammar, vocabulary, and production skills. Continue practicing, join the community, and keep learning!</p>\n</blockquote>\n<p><strong>lo pu cilre cu ca djuno</strong>\nThe former student now knows.</p>\n<p><strong>.ui sai</strong>\nVery happy!</p>\n<p><strong>co&#39;o</strong>\nGoodbye!</p>\n"
+    }
+  ]
+}

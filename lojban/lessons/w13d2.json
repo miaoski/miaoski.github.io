@@ -1,0 +1,92 @@
+{
+  "id": "w13d2",
+  "week": 13,
+  "day": 2,
+  "title": "Cleanliness and Water Vocabulary",
+  "goal": "Learn words for cleanliness and water.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Yesterday&#39;s vocabulary:</p>\n<pre><code>hot → ?       wet → ?\ncold → ?      dry → ?\n</code></pre>\n<p>(Answers: <code>glare</code>, <code>cilmo</code>, <code>lenku</code>, <code>sudga</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jinsa</code></td>\n<td>x1 is clean/pure of dirt x2</td>\n<td>clean</td>\n</tr>\n<tr>\n<td><code>curve</code></td>\n<td>x1 is pure/unmixed of x2</td>\n<td>pure</td>\n</tr>\n<tr>\n<td><code>dirgo</code></td>\n<td>x1 is a drop/droplet of liquid x2</td>\n<td>drop</td>\n</tr>\n<tr>\n<td><code>djacu</code></td>\n<td>x1 is water/H2O</td>\n<td>water</td>\n</tr>\n</tbody></table>\n<h3>Cleanliness</h3>\n<pre><code>lo zdani cu jinsa\n</code></pre>\n<p>The house is clean.</p>\n<pre><code>lo djacu cu curve\n</code></pre>\n<p>The water is pure.</p>\n<h3>Water and Drops</h3>\n<pre><code>mi viska lo dirgo be lo djacu\n</code></pre>\n<p>I see a drop of water.</p>\n<pre><code>ti djacu\n</code></pre>\n<p>This is water.</p>\n<h3>Combining with Yesterday&#39;s Words</h3>\n<pre><code>lo djacu cu glare .ije lo djacu cu jinsa\n</code></pre>\n<p>The water is hot. And the water is clean.</p>\n<pre><code>mi djica lo lenku djacu\n</code></pre>\n<p>I want cold water.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>jinsa</code> means clean (free from dirt), while <code>curve</code> means pure (unmixed). Both describe quality.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Cleanliness</h3>\n<p>Translate:</p>\n<ol>\n<li>The room is clean.</li>\n<li>The water is pure.</li>\n<li>My hands are clean.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo kumfa cu jinsa</code></li>\n<li><code>lo djacu cu curve</code></li>\n<li><code>lo mi xance cu jinsa</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Water Descriptions</h3>\n<p>Translate:</p>\n<ol>\n<li>I drink water.</li>\n<li>The water is cold and clean.</li>\n<li>I see a water drop.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi pinxe lo djacu</code></li>\n<li><code>lo djacu cu lenku je jinsa</code></li>\n<li><code>mi viska lo dirgo be lo djacu</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Combine All New Words</h3>\n<p>Translate:</p>\n<ol>\n<li>I want hot pure water.</li>\n<li>The drop is small.</li>\n<li>The house is clean and dry.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi djica lo glare curve djacu</code></li>\n<li><code>lo dirgo cu cmalu</code></li>\n<li><code>lo zdani cu jinsa je sudga</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "cleanliness",
+          "items": [
+            {
+              "text": "The room is clean.",
+              "answer": "`lo kumfa cu jinsa`"
+            },
+            {
+              "text": "The water is pure.",
+              "answer": "`lo djacu cu curve`"
+            },
+            {
+              "text": "My hands are clean.",
+              "answer": "`lo mi xance cu jinsa`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "water-descriptions",
+          "items": [
+            {
+              "text": "I drink water.",
+              "answer": "`mi pinxe lo djacu`"
+            },
+            {
+              "text": "The water is cold and clean.",
+              "answer": "`lo djacu cu lenku je jinsa`"
+            },
+            {
+              "text": "I see a water drop.",
+              "answer": "`mi viska lo dirgo be lo djacu`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "combine-all-new-words",
+          "items": [
+            {
+              "text": "I want hot pure water.",
+              "answer": "`mi djica lo glare curve djacu`"
+            },
+            {
+              "text": "The drop is small.",
+              "answer": "`lo dirgo cu cmalu`"
+            },
+            {
+              "text": "The house is clean and dry.",
+              "answer": "`lo zdani cu jinsa je sudga`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;The water is clean.&quot; → <code>lo djacu cu jinsa</code></li>\n<li>&quot;I see a drop.&quot; → <code>mi viska lo dirgo</code></li>\n<li>&quot;This is pure water.&quot; → <code>ti curve djacu</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jinsa</code></td>\n<td>clean</td>\n</tr>\n<tr>\n<td><code>curve</code></td>\n<td>pure</td>\n</tr>\n<tr>\n<td><code>dirgo</code></td>\n<td>drop</td>\n</tr>\n<tr>\n<td><code>djacu</code></td>\n<td>water</td>\n</tr>\n</tbody></table>\n<p><strong>Week 13 so far (8):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>glare</code></td>\n<td>hot</td>\n</tr>\n<tr>\n<td><code>lenku</code></td>\n<td>cold</td>\n</tr>\n<tr>\n<td><code>cilmo</code></td>\n<td>wet</td>\n</tr>\n<tr>\n<td><code>sudga</code></td>\n<td>dry</td>\n</tr>\n<tr>\n<td><code>jinsa</code></td>\n<td>clean</td>\n</tr>\n<tr>\n<td><code>curve</code></td>\n<td>pure</td>\n</tr>\n<tr>\n<td><code>dirgo</code></td>\n<td>drop</td>\n</tr>\n<tr>\n<td><code>djacu</code></td>\n<td>water</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned four more words: <code>jinsa</code> (clean), <code>curve</code> (pure), <code>dirgo</code> (drop), <code>djacu</code> (water).</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Introduction to <code>co</code> — tanru inversion.</p>\n",
+      "tomorrow": "Introduction to `co` — tanru inversion."
+    }
+  ]
+}

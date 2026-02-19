@@ -1,0 +1,92 @@
+{
+  "id": "w15d1",
+  "week": 15,
+  "day": 1,
+  "title": "Time Period Vocabulary",
+  "goal": "Learn words for time periods (day, week, month, year, hour).",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Week 14 review:</p>\n<pre><code>language → ?\nword → ?\nChinese language (lujvo) → ?\n</code></pre>\n<p>(Answers: <code>bangu</code>, <code>valsi</code>, <code>junbau</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>djedi</code></td>\n<td>x1 is a day of week/month x2</td>\n<td>day</td>\n</tr>\n<tr>\n<td><code>jeftu</code></td>\n<td>x1 is a week of month/year x2</td>\n<td>week</td>\n</tr>\n<tr>\n<td><code>masti</code></td>\n<td>x1 is a month of year x2</td>\n<td>month</td>\n</tr>\n<tr>\n<td><code>nanca</code></td>\n<td>x1 is a year</td>\n<td>year</td>\n</tr>\n<tr>\n<td><code>cacra</code></td>\n<td>x1 is an hour</td>\n<td>hour</td>\n</tr>\n</tbody></table>\n<h3>Using Time Words</h3>\n<pre><code>ti djedi\n</code></pre>\n<p>This is a day.</p>\n<pre><code>mi gunka pa jeftu\n</code></pre>\n<p>I work one week.</p>\n<pre><code>la .alis. cu xabju ti re nanca\n</code></pre>\n<p>Alice lives here two years.</p>\n<h3>With Numbers</h3>\n<pre><code>ci djedi\n</code></pre>\n<p>Three days.</p>\n<pre><code>re jeftu\n</code></pre>\n<p>Two weeks.</p>\n<pre><code>pa re masti\n</code></pre>\n<p>Twelve months.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>These words name time periods. Use numbers to quantify them.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Time Period Sentences</h3>\n<p>Translate:</p>\n<ol>\n<li>This is a day.</li>\n<li>One week.</li>\n<li>Three months.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti djedi</code></li>\n<li><code>pa jeftu</code></li>\n<li><code>ci masti</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Duration</h3>\n<p>Translate:</p>\n<ol>\n<li>I work five days.</li>\n<li>I study one year.</li>\n<li>I sleep eight hours.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi gunka mu djedi</code></li>\n<li><code>mi tadni pa nanca</code></li>\n<li><code>mi sipna bi cacra</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Complex Sentences</h3>\n<p>Translate:</p>\n<ol>\n<li>I live here one year.</li>\n<li>The week is long.</li>\n<li>One hour is short.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi xabju ti pa nanca</code></li>\n<li><code>lo jeftu cu clani</code></li>\n<li><code>pa cacra cu tordu</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "time-period-sentences",
+          "items": [
+            {
+              "text": "This is a day.",
+              "answer": "`ti djedi`"
+            },
+            {
+              "text": "One week.",
+              "answer": "`pa jeftu`"
+            },
+            {
+              "text": "Three months.",
+              "answer": "`ci masti`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "duration",
+          "items": [
+            {
+              "text": "I work five days.",
+              "answer": "`mi gunka mu djedi`"
+            },
+            {
+              "text": "I study one year.",
+              "answer": "`mi tadni pa nanca`"
+            },
+            {
+              "text": "I sleep eight hours.",
+              "answer": "`mi sipna bi cacra`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "complex-sentences",
+          "items": [
+            {
+              "text": "I live here one year.",
+              "answer": "`mi xabju ti pa nanca`"
+            },
+            {
+              "text": "The week is long.",
+              "answer": "`lo jeftu cu clani`"
+            },
+            {
+              "text": "One hour is short.",
+              "answer": "`pa cacra cu tordu`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;One day&quot; → <code>pa djedi</code></li>\n<li>&quot;Two weeks&quot; → <code>re jeftu</code></li>\n<li>&quot;I work five days.&quot; → <code>mi gunka mu djedi</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>djedi</code></td>\n<td>day</td>\n</tr>\n<tr>\n<td><code>jeftu</code></td>\n<td>week</td>\n</tr>\n<tr>\n<td><code>masti</code></td>\n<td>month</td>\n</tr>\n<tr>\n<td><code>nanca</code></td>\n<td>year</td>\n</tr>\n<tr>\n<td><code>cacra</code></td>\n<td>hour</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned five time period words: <code>djedi</code> (day), <code>jeftu</code> (week), <code>masti</code> (month), <code>nanca</code> (year), <code>cacra</code> (hour).</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Day parts — morning, evening, night.</p>\n",
+      "tomorrow": "Day parts — morning, evening, night."
+    }
+  ]
+}

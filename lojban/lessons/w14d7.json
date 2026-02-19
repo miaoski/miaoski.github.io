@@ -1,0 +1,38 @@
+{
+  "id": "w14d7",
+  "week": 14,
+  "day": 7,
+  "title": "Comprehensive Compound Review",
+  "goal": "Demonstrate mastery of all compound word types.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Quick recall — all 8 gismu:</p>\n<pre><code>Chinese → ?    language → ?\nSpanish → ?    word → ?\nHindi → ?      meaning → ?\nRussian → ?\nArabic → ?\n</code></pre>\n<p>(Answers: <code>jungo</code>, <code>bangu</code>, <code>spano</code>, <code>valsi</code>, <code>xindo</code>, <code>smuni</code>, <code>rusko</code>, <code>xrabo</code>)</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Grammar Summary (3-4 min)</h2>\n<h3>Compound Word Types</h3>\n<p><strong>1. Tanru</strong> — Two+ gismu, left modifies right</p>\n<ul>\n<li><code>blanu gerku</code> = blue dog</li>\n<li>Places from rightmost word</li>\n</ul>\n<p><strong>2. Lujvo</strong> — Frozen tanru using rafsi</p>\n<ul>\n<li><code>jbobau</code> = lojbo + bangu</li>\n<li>Fixed meaning</li>\n</ul>\n<p><strong>3. Fu&#39;ivla</strong> — Borrowed words</p>\n<ul>\n<li><code>tcati</code>, <code>pitsa</code>, <code>kurki</code></li>\n<li>Must have cluster, end in vowel</li>\n</ul>\n<p>**4. <code>co</code> — Tanru inversion</p>\n<ul>\n<li><code>gerku co blanu</code> = blue dog</li>\n<li>Places from word before <code>co</code></li>\n</ul>\n<h3>Week 14 Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jungo</code></td>\n<td>Chinese</td>\n<td><code>bangu</code></td>\n<td>language</td>\n</tr>\n<tr>\n<td><code>spano</code></td>\n<td>Spanish</td>\n<td><code>valsi</code></td>\n<td>word</td>\n</tr>\n<tr>\n<td><code>xindo</code></td>\n<td>Hindi</td>\n<td><code>smuni</code></td>\n<td>meaning</td>\n</tr>\n<tr>\n<td><code>rusko</code></td>\n<td>Russian</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td><code>xrabo</code></td>\n<td>Arabic</td>\n<td></td>\n<td></td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Self-Test (5-6 min)</h2>\n<h3>Part A: Vocabulary (8 points)</h3>\n<p>Translate:</p>\n<ol>\n<li><code>jungo</code> →</li>\n<li><code>bangu</code> →</li>\n<li><code>valsi</code> →</li>\n<li><code>smuni</code> →</li>\n</ol>\n<p>Create language lujvo:</p>\n<ol start=\"5\">\n<li>Chinese language →</li>\n<li>Russian language →</li>\n<li>Spanish language →</li>\n<li>Arabic language →</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>Chinese</li>\n<li>language</li>\n<li>word</li>\n<li>meaning</li>\n<li><code>junbau</code></li>\n<li><code>rusbau</code></li>\n<li><code>spanbau</code></li>\n<li><code>rabbau</code></li>\n</ol>\n</details>\n\n<h3>Part B: Compound Types (8 points)</h3>\n<p>Identify the type (tanru, lujvo, fu&#39;ivla):</p>\n<ol>\n<li><code>blanu gerku</code> →</li>\n<li><code>jbobau</code> →</li>\n<li><code>tcati</code> →</li>\n<li><code>sutra klama</code> →</li>\n</ol>\n<p>Build:</p>\n<ol start=\"5\">\n<li>Tanru for &quot;big word&quot; →</li>\n<li>Lujvo for &quot;English language&quot; →</li>\n<li>Use <code>co</code> for &quot;new blue book&quot; →</li>\n<li>Fu&#39;ivla sentence: &quot;I drink tea&quot; →</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>tanru</li>\n<li>lujvo</li>\n<li>fu&#39;ivla</li>\n<li>tanru</li>\n<li><code>barda valsi</code></li>\n<li><code>glibau</code></li>\n<li><code>cukta co cnino co blanu</code></li>\n<li><code>mi pinxe la .tcati.</code></li>\n</ol>\n</details>\n\n<h3>Part C: Sentences (4 points)</h3>\n<p>Translate:</p>\n<ol>\n<li>I speak Lojban and Chinese.</li>\n<li>&quot;klama&quot; is a word.</li>\n<li>What does this mean?</li>\n<li>I learn Russian.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi tavla bau la jbobau .e la junbau</code></li>\n<li><code>zo klama cu valsi</code></li>\n<li><code>ma smuni ti</code></li>\n<li><code>mi cilre la rusbau</code></li>\n</ol>\n</details>"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Scoring</h2>\n<table>\n<thead>\n<tr>\n<th>Section</th>\n<th>Points</th>\n<th>Your Score</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Part A</td>\n<td>8</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part B</td>\n<td>8</td>\n<td>___</td>\n</tr>\n<tr>\n<td>Part C</td>\n<td>4</td>\n<td>___</td>\n</tr>\n<tr>\n<td><strong>Total</strong></td>\n<td><strong>20</strong></td>\n<td>___</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Integration Challenge (1-2 min)</h2>\n<p><strong>Discuss languages using all compound types:</strong></p>\n<p>Use:</p>\n<ul>\n<li>Two language lujvo</li>\n<li>One tanru</li>\n<li>One fu&#39;ivla</li>\n<li>One <code>co</code> construction</li>\n</ul>\n<p><strong>Example:</strong></p>\n<pre><code>mi tavla bau la jbobau .e la glibau\n.i mi cilre la junbau\n.i mi nelci lo valsi co cnino\n.i mi pinxe la .tcati.\n</code></pre>\n<p>(I speak in Lojban and English. I learn Chinese. I like new words. I drink tea.)</p>\n<p>Create your own and say it aloud.</p>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Week 14 Complete Reference</h2>\n<p><strong>Gismu (8):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jungo</code></td>\n<td>Chinese</td>\n<td><code>bangu</code></td>\n<td>language</td>\n</tr>\n<tr>\n<td><code>spano</code></td>\n<td>Spanish</td>\n<td><code>valsi</code></td>\n<td>word</td>\n</tr>\n<tr>\n<td><code>xindo</code></td>\n<td>Hindi</td>\n<td><code>smuni</code></td>\n<td>meaning</td>\n</tr>\n<tr>\n<td><code>rusko</code></td>\n<td>Russian</td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td><code>xrabo</code></td>\n<td>Arabic</td>\n<td></td>\n<td></td>\n</tr>\n</tbody></table>\n<p><strong>Cumulative vocabulary:</strong> ~122 words</p>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You completed Week 14, reviewing all compound word types: tanru, lujvo, fu&#39;ivla, and <code>co</code>. You can now discuss languages and create complex descriptions.</p>\n</blockquote>\n<p><strong>Next week preview:</strong> Week 15 introduces tense — past, present, future, and aspect.</p>\n"
+    }
+  ]
+}

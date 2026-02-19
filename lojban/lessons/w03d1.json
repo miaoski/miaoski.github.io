@@ -1,0 +1,157 @@
+{
+  "id": "w03d1",
+  "week": 3,
+  "day": 1,
+  "title": "Learning Digits 0-9",
+  "goal": "Memorize the ten Lojban digits and count confidently from 0 to 9.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Week 2 review — translate to Lojban:</p>\n<pre><code>1. Hello, Alice.           → ?\n2. I&#39;m Bob.                → ?\n3. Thanks.                 → ?\n4. Alice is a woman.       → ?\n5. I go home.              → ?\n</code></pre>\n<p>(Answers: <code>coi la .alis.</code>, <code>mi&#39;e .bob.</code>, <code>ki&#39;e</code>, <code>la .alis. cu ninmu</code>, <code>mi klama la zdani</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>The Ten Digits</h3>\n<p><code>pa re ci</code> — one two three.</p>\n<p>Lojban has single-syllable words for each digit 0-9. These are <strong>cmavo</strong> (grammar words), not gismu.</p>\n<table>\n<thead>\n<tr>\n<th>Digit</th>\n<th>Lojban</th>\n<th>Pronunciation</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>0</td>\n<td><code>no</code></td>\n<td>noh</td>\n</tr>\n<tr>\n<td>1</td>\n<td><code>pa</code></td>\n<td>pah</td>\n</tr>\n<tr>\n<td>2</td>\n<td><code>re</code></td>\n<td>reh</td>\n</tr>\n<tr>\n<td>3</td>\n<td><code>ci</code></td>\n<td>shee</td>\n</tr>\n<tr>\n<td>4</td>\n<td><code>vo</code></td>\n<td>voh</td>\n</tr>\n<tr>\n<td>5</td>\n<td><code>mu</code></td>\n<td>moo</td>\n</tr>\n<tr>\n<td>6</td>\n<td><code>xa</code></td>\n<td>khah</td>\n</tr>\n<tr>\n<td>7</td>\n<td><code>ze</code></td>\n<td>zeh</td>\n</tr>\n<tr>\n<td>8</td>\n<td><code>bi</code></td>\n<td>bee</td>\n</tr>\n<tr>\n<td>9</td>\n<td><code>so</code></td>\n<td>soh</td>\n</tr>\n</tbody></table>\n<p>Notice:</p>\n<ul>\n<li><code>ci</code> uses the &quot;c = sh&quot; sound from Week 1</li>\n<li><code>xa</code> uses the &quot;x = kh&quot; sound</li>\n<li>All are exactly two letters: consonant + vowel</li>\n</ul>\n<h4>The Counting Sequence</h4>\n<p>Say this aloud five times:</p>\n<pre><code>no  pa  re  ci  vo  mu  xa  ze  bi  so\n0   1   2   3   4   5   6   7   8   9\n</code></pre>\n<p>Start slow. Get faster each time. By the fifth repetition, aim for smooth, rapid counting.</p>\n<h4>Memory Tricks</h4>\n<p>Some learners find patterns helpful:</p>\n<ul>\n<li><strong>pa</strong> (1) — sounds like &quot;first&quot; in some languages</li>\n<li><strong>re</strong> (2) — like &quot;pair&quot; without the &quot;pai&quot;</li>\n<li><strong>ci</strong> (3) — &quot;three&quot; has a &quot;th&quot; sound, &quot;ci&quot; has &quot;sh&quot; — both are special consonants</li>\n<li><strong>vo</strong> (4) — &quot;four&quot; / &quot;vo&quot; both have an &quot;o&quot; sound</li>\n<li><strong>mu</strong> (5) — think &quot;moo&quot; — a cow has five letters? (silly, but memorable)</li>\n<li><strong>xa</strong> (6) — the &quot;x&quot; looks like a cross, which has 6 ends if you count the points</li>\n<li><strong>ze</strong> (7) — &quot;seven&quot; / &quot;ze&quot; both start with a voiced sound</li>\n<li><strong>bi</strong> (8) — &quot;bi&quot; like &quot;bite&quot; — 8 looks like a bite taken from two circles</li>\n<li><strong>so</strong> (9) — &quot;so&quot; close to 10!</li>\n<li><strong>no</strong> (0) — &quot;no&quot; thing, nothing, zero</li>\n</ul>\n<p>Use whatever works for you.</p>\n<h4>Key Point</h4>\n<blockquote>\n<p>The ten digits (no pa re ci vo mu xa ze bi so) are the foundation for all Lojban numbers. Memorize them like you memorized 0-9 as a child.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "The ten digits (no pa re ci vo mu xa ze bi so) are the foundation for all Lojban numbers. Memorize them like you memorized 0-9 as a child."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Digit Recognition</h3>\n<p>What number is each Lojban digit?</p>\n<ol>\n<li><code>mu</code> → ?</li>\n<li><code>ci</code> → ?</li>\n<li><code>ze</code> → ?</li>\n<li><code>pa</code> → ?</li>\n<li><code>so</code> → ?</li>\n<li><code>no</code> → ?</li>\n<li><code>vo</code> → ?</li>\n<li><code>bi</code> → ?</li>\n<li><code>re</code> → ?</li>\n<li><code>xa</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>5</li>\n<li>3</li>\n<li>7</li>\n<li>1</li>\n<li>9</li>\n<li>0</li>\n<li>4</li>\n<li>8</li>\n<li>2</li>\n<li>6</li>\n</ol>\n</details>\n\n<h3>Exercise 2: Lojban Digits</h3>\n<p>Write the Lojban digit:</p>\n<ol>\n<li>3 → ?</li>\n<li>7 → ?</li>\n<li>1 → ?</li>\n<li>9 → ?</li>\n<li>0 → ?</li>\n<li>4 → ?</li>\n<li>6 → ?</li>\n<li>2 → ?</li>\n<li>8 → ?</li>\n<li>5 → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ci</code></li>\n<li><code>ze</code></li>\n<li><code>pa</code></li>\n<li><code>so</code></li>\n<li><code>no</code></li>\n<li><code>vo</code></li>\n<li><code>xa</code></li>\n<li><code>re</code></li>\n<li><code>bi</code></li>\n<li><code>mu</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Random Sequence</h3>\n<p>Say these digit sequences aloud:</p>\n<ol>\n<li><code>ci ze mu pa</code></li>\n<li><code>so bi xa vo</code></li>\n<li><code>re no pa ci</code></li>\n<li><code>mu vo ci re pa</code></li>\n<li><code>bi ze xa mu vo ci re pa</code></li>\n</ol>\n<p>Check your pronunciation: <code>ci</code> = &quot;shee&quot;, <code>xa</code> = &quot;khah&quot;</p>\n",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "digit-recognition",
+          "items": [
+            {
+              "text": "`mu` → ?",
+              "answer": "5"
+            },
+            {
+              "text": "`ci` → ?",
+              "answer": "3"
+            },
+            {
+              "text": "`ze` → ?",
+              "answer": "7"
+            },
+            {
+              "text": "`pa` → ?",
+              "answer": "1"
+            },
+            {
+              "text": "`so` → ?",
+              "answer": "9"
+            },
+            {
+              "text": "`no` → ?",
+              "answer": "0"
+            },
+            {
+              "text": "`vo` → ?",
+              "answer": "4"
+            },
+            {
+              "text": "`bi` → ?",
+              "answer": "8"
+            },
+            {
+              "text": "`re` → ?",
+              "answer": "2"
+            },
+            {
+              "text": "`xa` → ?",
+              "answer": "6"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "lojban-digits",
+          "items": [
+            {
+              "text": "3 → ?",
+              "answer": "`ci`"
+            },
+            {
+              "text": "7 → ?",
+              "answer": "`ze`"
+            },
+            {
+              "text": "1 → ?",
+              "answer": "`pa`"
+            },
+            {
+              "text": "9 → ?",
+              "answer": "`so`"
+            },
+            {
+              "text": "0 → ?",
+              "answer": "`no`"
+            },
+            {
+              "text": "4 → ?",
+              "answer": "`vo`"
+            },
+            {
+              "text": "6 → ?",
+              "answer": "`xa`"
+            },
+            {
+              "text": "2 → ?",
+              "answer": "`re`"
+            },
+            {
+              "text": "8 → ?",
+              "answer": "`bi`"
+            },
+            {
+              "text": "5 → ?",
+              "answer": "`mu`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "random-sequence",
+          "items": [
+            {
+              "text": "`ci ze mu pa`",
+              "answer": null
+            },
+            {
+              "text": "`so bi xa vo`",
+              "answer": null
+            },
+            {
+              "text": "`re no pa ci`",
+              "answer": null
+            },
+            {
+              "text": "`mu vo ci re pa`",
+              "answer": null
+            },
+            {
+              "text": "`bi ze xa mu vo ci re pa`",
+              "answer": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>Count from 0 to 9 in Lojban.</li>\n<li>Count backwards from 9 to 0.</li>\n<li>Say your phone number digit by digit (or make one up).</li>\n<li>Say today&#39;s date as digits (e.g., February 11 = <code>re pa pa</code> for 2-1-1).</li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p><strong>Digits (cmavo):</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Number</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>no</code></td>\n<td>0</td>\n</tr>\n<tr>\n<td><code>pa</code></td>\n<td>1</td>\n</tr>\n<tr>\n<td><code>re</code></td>\n<td>2</td>\n</tr>\n<tr>\n<td><code>ci</code></td>\n<td>3</td>\n</tr>\n<tr>\n<td><code>vo</code></td>\n<td>4</td>\n</tr>\n<tr>\n<td><code>mu</code></td>\n<td>5</td>\n</tr>\n<tr>\n<td><code>xa</code></td>\n<td>6</td>\n</tr>\n<tr>\n<td><code>ze</code></td>\n<td>7</td>\n</tr>\n<tr>\n<td><code>bi</code></td>\n<td>8</td>\n</tr>\n<tr>\n<td><code>so</code></td>\n<td>9</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned the ten Lojban digits: <code>no pa re ci vo mu xa ze bi so</code> (0-9). These are the building blocks for all numbers in Lojban. Practice until you can count 0-9 without hesitation.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll learn to build larger numbers by stringing digits together — <code>pa no</code> (10), <code>re vo</code> (24), <code>pa no no</code> (100).</p>\n",
+      "tomorrow": "You'll learn to build larger numbers by stringing digits together — `pa no` (10), `re vo` (24), `pa no no` (100)."
+    }
+  ]
+}

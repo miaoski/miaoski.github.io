@@ -1,0 +1,88 @@
+{
+  "id": "w23d2",
+  "week": 23,
+  "day": 2,
+  "title": "Extending with bei",
+  "goal": "Learn to attach x3, x4, x5 with `bei`.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p><code>be</code> review:</p>\n<pre><code>The seller of apples → ?\nThe reader of books → ?\n</code></pre>\n<p>(Answers: <code>lo vecnu be lo plise</code>, <code>lo tcidu be lo cukta</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jufra</code></td>\n<td>x1 is a sentence about x2 in language x3</td>\n<td>sentence</td>\n</tr>\n<tr>\n<td><code>pinka</code></td>\n<td>x1 is a comment about x2 by x3</td>\n<td>comment/remark</td>\n</tr>\n</tbody></table>\n<h3>Extending Beyond x2</h3>\n<p><code>be</code> gives x2. <code>bei</code> gives x3, x4, x5:</p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Place</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>be</code></td>\n<td>x2</td>\n</tr>\n<tr>\n<td><code>bei</code></td>\n<td>x3, x4, x5 (in order)</td>\n</tr>\n</tbody></table>\n<h3>Using bei</h3>\n<pre><code>lo dunda be lo plise bei mi\n</code></pre>\n<p>The giver of apples to me.</p>\n<pre><code>lo vecnu be lo cukta bei la .alis.\n</code></pre>\n<p>The seller of books to Alice.</p>\n<h3>Multiple bei</h3>\n<pre><code>lo vecnu be lo cukta bei la .alis. bei li mu\n</code></pre>\n<p>The seller of books to Alice for 5 (price).</p>\n<h3>Place Structure Reminder</h3>\n<p><code>vecnu</code>: x1 sells x2 to x3 for x4</p>\n<p>So: <code>lo vecnu be X bei Y bei Z</code> = seller of X to Y for Z</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Use <code>be</code> for x2, then <code>bei</code> for each additional place (x3, x4, x5...).</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Use be...bei</h3>\n<p>Translate:</p>\n<ol>\n<li>The giver of apples to me.</li>\n<li>The seller of books to Alice.</li>\n<li>The teacher of math to children.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo dunda be lo plise bei mi</code></li>\n<li><code>lo vecnu be lo cukta bei la .alis.</code></li>\n<li><code>lo ctuca be la .cmaci. bei lo verba</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Multiple Places</h3>\n<p>Translate (vecnu = x1 sells x2 to x3 for x4):</p>\n<ol>\n<li>The seller of apples to me for 5.</li>\n<li>The taker of books from Alice.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo vecnu be lo plise bei mi bei li mu</code></li>\n<li><code>lo lebna be lo cukta bei la .alis.</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>This is a sentence.</li>\n<li>I write a comment.</li>\n<li>The sentence is long.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti jufra</code></li>\n<li><code>mi ciska lo pinka</code></li>\n<li><code>lo jufra cu clani</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "use-be...bei",
+          "items": [
+            {
+              "text": "The giver of apples to me.",
+              "answer": "`lo dunda be lo plise bei mi`"
+            },
+            {
+              "text": "The seller of books to Alice.",
+              "answer": "`lo vecnu be lo cukta bei la .alis.`"
+            },
+            {
+              "text": "The teacher of math to children.",
+              "answer": "`lo ctuca be la .cmaci. bei lo verba`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "multiple-places",
+          "items": [
+            {
+              "text": "The seller of apples to me for 5.",
+              "answer": "`lo vecnu be lo plise bei mi bei li mu`"
+            },
+            {
+              "text": "The taker of books from Alice.",
+              "answer": "`lo lebna be lo cukta bei la .alis.`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "new-vocabulary",
+          "items": [
+            {
+              "text": "This is a sentence.",
+              "answer": "`ti jufra`"
+            },
+            {
+              "text": "I write a comment.",
+              "answer": "`mi ciska lo pinka`"
+            },
+            {
+              "text": "The sentence is long.",
+              "answer": "`lo jufra cu clani`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;The giver of books to me.&quot; → <code>lo dunda be lo cukta bei mi</code></li>\n<li>&quot;This is a sentence.&quot; → <code>ti jufra</code></li>\n<li>&quot;The seller of apples to Alice.&quot; → <code>lo vecnu be lo plise bei la .alis.</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>jufra</code></td>\n<td>sentence</td>\n</tr>\n<tr>\n<td><code>pinka</code></td>\n<td>comment/remark</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>be</code></td>\n<td>Attaches x2</td>\n</tr>\n<tr>\n<td><code>bei</code></td>\n<td>Attaches x3, x4, x5 (in sequence)</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>bei</code> to attach x3 and beyond. Chain them: <code>be x2 bei x3 bei x4</code>.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> The <code>be&#39;o</code> terminator.</p>\n",
+      "tomorrow": "The `be'o` terminator."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "w18d5",
+  "week": 18,
+  "day": 5,
+  "title": "Evidentials",
+  "goal": "Learn evidentials to express how you know something.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Attitudinal placement review:</p>\n<pre><code>.ui mi klama — emotion about ?\nmi viska lo .uu gerku — emotion about ?\n</code></pre>\n<p>(Answers: whole situation, the dog)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>What Are Evidentials?</h3>\n<p><strong>Evidentials</strong> tell HOW you know something — your source of information.</p>\n<h3>The Five Evidentials</h3>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Evidence</th>\n<th>Example</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ba&#39;a</code></td>\n<td>expectation</td>\n<td><code>ba&#39;a do klama</code> (I expect you go)</td>\n</tr>\n<tr>\n<td><code>ti&#39;e</code></td>\n<td>hearsay</td>\n<td><code>ti&#39;e la .tam. cu snada</code> (I heard Tom succeeded)</td>\n</tr>\n<tr>\n<td><code>za&#39;a</code></td>\n<td>observation</td>\n<td><code>za&#39;a do klama</code> (I observe you going)</td>\n</tr>\n<tr>\n<td><code>pe&#39;i</code></td>\n<td>opinion</td>\n<td><code>pe&#39;i ti xamgu</code> (In my opinion, this is good)</td>\n</tr>\n<tr>\n<td><code>ju&#39;o</code></td>\n<td>certainty</td>\n<td><code>ju&#39;o ti jetnu</code> (Certainly this is true)</td>\n</tr>\n</tbody></table>\n<h3>Using Evidentials</h3>\n<pre><code>za&#39;a do klama\n</code></pre>\n<p>I observe/see that you&#39;re going.</p>\n<pre><code>ti&#39;e la .bob. cu bilma\n</code></pre>\n<p>I heard that Bob is sick. (Someone told me.)</p>\n<pre><code>pe&#39;i ti melbi\n</code></pre>\n<p>In my opinion, this is beautiful.</p>\n<pre><code>ju&#39;o ti jetnu\n</code></pre>\n<p>I&#39;m certain this is true.</p>\n<h3>Evidentials vs Attitudinals</h3>\n<table>\n<thead>\n<tr>\n<th>Type</th>\n<th>Expresses</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Attitudinals</td>\n<td>How you FEEL</td>\n</tr>\n<tr>\n<td>Evidentials</td>\n<td>How you KNOW</td>\n</tr>\n</tbody></table>\n<h3>Key Point</h3>\n<blockquote>\n<p>Evidentials mark your source of information: observation, hearsay, opinion, expectation, certainty.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Choose Evidential</h3>\n<p>Which evidential fits?</p>\n<ol>\n<li>I see you going. → ?</li>\n<li>Someone told me Bob is sick. → ?</li>\n<li>I think this is good. → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>za&#39;a do klama</code></li>\n<li><code>ti&#39;e la .bob. cu bilma</code></li>\n<li><code>pe&#39;i ti xamgu</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translate</h3>\n<p>Translate:</p>\n<ol>\n<li>I expect it will rain.</li>\n<li>I heard Alice succeeded.</li>\n<li>Certainly this is true.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ba&#39;a lo carvi ba fasnu</code></li>\n<li><code>ti&#39;e la .alis. cu snada</code></li>\n<li><code>ju&#39;o ti jetnu</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Report Information</h3>\n<p>Express these with evidentials:</p>\n<ol>\n<li>You see the dog is big. → ?</li>\n<li>In your opinion, Lojban is good. → ?</li>\n<li>You&#39;re certain Bob will come. → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>za&#39;a lo gerku cu barda</code></li>\n<li><code>pe&#39;i la jbobau cu xamgu</code></li>\n<li><code>ju&#39;o la .bob. ba klama</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "choose-evidential",
+          "items": [
+            {
+              "text": "I see you going. → ?",
+              "answer": "`za'a do klama`"
+            },
+            {
+              "text": "Someone told me Bob is sick. → ?",
+              "answer": "`ti'e la .bob. cu bilma`"
+            },
+            {
+              "text": "I think this is good. → ?",
+              "answer": "`pe'i ti xamgu`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translate",
+          "items": [
+            {
+              "text": "I expect it will rain.",
+              "answer": "`ba'a lo carvi ba fasnu`"
+            },
+            {
+              "text": "I heard Alice succeeded.",
+              "answer": "`ti'e la .alis. cu snada`"
+            },
+            {
+              "text": "Certainly this is true.",
+              "answer": "`ju'o ti jetnu`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "report-information",
+          "items": [
+            {
+              "text": "You see the dog is big. → ?",
+              "answer": "`za'a lo gerku cu barda`"
+            },
+            {
+              "text": "In your opinion, Lojban is good. → ?",
+              "answer": "`pe'i la jbobau cu xamgu`"
+            },
+            {
+              "text": "You're certain Bob will come. → ?",
+              "answer": "`ju'o la .bob. ba klama`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I observe you&#39;re going.&quot; → <code>za&#39;a do klama</code></li>\n<li>&quot;I heard Tom is sick.&quot; → <code>ti&#39;e la .tam. cu bilma</code></li>\n<li>&quot;In my opinion, this is good.&quot; → <code>pe&#39;i ti xamgu</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Cmavo</h2>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Evidence Type</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ba&#39;a</code></td>\n<td>expectation</td>\n</tr>\n<tr>\n<td><code>ti&#39;e</code></td>\n<td>hearsay</td>\n</tr>\n<tr>\n<td><code>za&#39;a</code></td>\n<td>observation</td>\n</tr>\n<tr>\n<td><code>pe&#39;i</code></td>\n<td>opinion</td>\n</tr>\n<tr>\n<td><code>ju&#39;o</code></td>\n<td>certainty</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned five evidentials: <code>ba&#39;a</code> (expect), <code>ti&#39;e</code> (heard), <code>za&#39;a</code> (observe), <code>pe&#39;i</code> (opine), <code>ju&#39;o</code> (certain).</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Combining attitudinals and evidentials.</p>\n",
+      "tomorrow": "Combining attitudinals and evidentials."
+    }
+  ]
+}

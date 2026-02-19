@@ -1,0 +1,97 @@
+{
+  "id": "w04d4",
+  "week": 4,
+  "day": 4,
+  "title": "The `zo'e` Placeholder",
+  "goal": "Use `zo'e` to skip places while maintaining correct place order.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Three-place practice — translate to Lojban:</p>\n<pre><code>1. I give this to Alice.    → ?\n2. Bob says that to me.     → ?\n3. You give a dog to Tom.   → ?\n</code></pre>\n<p>(Answers: <code>mi dunda ti la .alis.</code>, <code>la .bob. cu cusku ta mi</code>, <code>do dunda la gerku la .tam.</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>The Placeholder <code>zo&#39;e</code></h3>\n<p><code>mi klama zo&#39;e la .london.</code> — I go (somewhere) from London.</p>\n<p>Sometimes you want to fill x3 but not x2. Or you want to explicitly mark a place as &quot;unspecified.&quot; That&#39;s what <strong><code>zo&#39;e</code></strong> does.</p>\n<h4>The Problem</h4>\n<p>Consider <code>klama</code>:</p>\n<pre><code>klama — x1 goes to x2 from x3 via x4 using x5\n</code></pre>\n<p>If you say <code>mi klama la .london.</code>, that fills x2 (destination). But what if London is your <em>origin</em> (x3), and you don&#39;t care about the destination?</p>\n<p>You can&#39;t just skip x2 — the first sumti after the selbri always fills x2.</p>\n<h4>The Solution: <code>zo&#39;e</code></h4>\n<p><code>zo&#39;e</code> means &quot;something unspecified.&quot; Use it to hold a place:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi klama zo&#39;e la .london.</code></td>\n<td>I go (somewhere) from London.</td>\n</tr>\n</tbody></table>\n<p>Here:</p>\n<ul>\n<li>x1 = <code>mi</code></li>\n<li>x2 = <code>zo&#39;e</code> (unspecified destination)</li>\n<li>x3 = <code>la .london.</code> (origin)</li>\n</ul>\n<h4>More Examples with <code>klama</code></h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>x1</th>\n<th>x2</th>\n<th>x3</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi klama la .paris.</code></td>\n<td>I</td>\n<td>Paris</td>\n<td>—</td>\n<td>I go to Paris.</td>\n</tr>\n<tr>\n<td><code>mi klama zo&#39;e la .london.</code></td>\n<td>I</td>\n<td>(somewhere)</td>\n<td>London</td>\n<td>I go from London.</td>\n</tr>\n<tr>\n<td><code>mi klama la .paris. zo&#39;e zo&#39;e la .karce.</code></td>\n<td>I</td>\n<td>Paris</td>\n<td>—</td>\n<td>—</td>\n</tr>\n</tbody></table>\n<p>(Note: <code>karce</code> means &quot;car&quot; — you&#39;ll learn it later. This shows how to skip to x5.)</p>\n<h4>Using <code>zo&#39;e</code> with Three-Place Gismu</h4>\n<p>With <code>dunda</code> (x1 gives x2 to x3):</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi dunda la plise zo&#39;e</code></td>\n<td>I give an apple (to someone).</td>\n</tr>\n<tr>\n<td><code>mi dunda zo&#39;e la .bob.</code></td>\n<td>I give (something) to Bob.</td>\n</tr>\n</tbody></table>\n<p>With <code>cusku</code> (x1 says x2 to x3):</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>la .alis. cu cusku ti zo&#39;e</code></td>\n<td>Alice says this (to someone).</td>\n</tr>\n<tr>\n<td><code>la .bob. cu cusku zo&#39;e mi</code></td>\n<td>Bob says (something) to me.</td>\n</tr>\n</tbody></table>\n<h4>When to Use <code>zo&#39;e</code></h4>\n<p>Use <code>zo&#39;e</code> when:</p>\n<ol>\n<li>You need to fill a later place but not an earlier one</li>\n<li>You want to be explicit that a place is unspecified</li>\n<li>You&#39;re learning and want to practice place structure</li>\n</ol>\n<p>Note: Leaving places empty at the end (like <code>mi dunda la plise</code>) is fine — <code>zo&#39;e</code> is only needed to skip <em>middle</em> places.</p>\n<h4>Key Point</h4>\n<blockquote>\n<p><code>zo&#39;e</code> is a placeholder meaning &quot;something unspecified.&quot; Use it to skip a place while still filling later places in the correct order.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "`zo'e` is a placeholder meaning \"something unspecified.\" Use it to skip a place while still filling later places in the correct order."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Interpret the Sentence</h3>\n<p>What does each sentence mean? Identify what <code>zo&#39;e</code> replaces.</p>\n<ol>\n<li><code>mi klama zo&#39;e la .paris.</code></li>\n<li><code>la .bob. cu dunda zo&#39;e la .alis.</code></li>\n<li><code>do cusku zo&#39;e mi</code></li>\n<li><code>mi klama la .london. zo&#39;e zo&#39;e la .karce.</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>I go (somewhere) from Paris. (<code>zo&#39;e</code> = unspecified destination)</li>\n<li>Bob gives (something) to Alice. (<code>zo&#39;e</code> = unspecified gift)</li>\n<li>You say (something) to me. (<code>zo&#39;e</code> = unspecified statement)</li>\n<li>I go to London (from somewhere) (via somewhere) by car. (<code>zo&#39;e</code> fills x3 and x4)</li>\n</ol>\n</details>\n\n<h3>Exercise 2: Add <code>zo&#39;e</code> Where Needed</h3>\n<p>Translate to Lojban, using <code>zo&#39;e</code> to skip places:</p>\n<ol>\n<li>I go from London. (destination unspecified)</li>\n<li>Alice gives (something) to Bob.</li>\n<li>You say (something) to Alice.</li>\n<li>Bob goes to Paris by car. (origin and route unspecified)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi klama zo&#39;e la .london.</code></li>\n<li><code>la .alis. cu dunda zo&#39;e la .bob.</code></li>\n<li><code>do cusku zo&#39;e la .alis.</code></li>\n<li><code>la .bob. cu klama la .paris. zo&#39;e zo&#39;e la .karce.</code> (or just <code>la .bob. cu klama la .paris.</code> if skipping all later places)</li>\n</ol>\n</details>\n\n<h3>Exercise 3: Rewrite Without <code>zo&#39;e</code></h3>\n<p>These sentences use <code>zo&#39;e</code> at the end, which is unnecessary. Simplify:</p>\n<ol>\n<li><code>mi viska do zo&#39;e</code> → ?</li>\n<li><code>la .alis. cu dunda la plise la .bob. zo&#39;e</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi viska do</code> (no x3 in <code>viska</code>, so <code>zo&#39;e</code> is meaningless here)</li>\n<li><code>la .alis. cu dunda la plise la .bob.</code> (trailing <code>zo&#39;e</code> is unnecessary)</li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "interpret-the-sentence",
+          "items": [
+            {
+              "text": "`mi klama zo'e la .paris.`",
+              "answer": "I go (somewhere) from Paris. (`zo'e` = unspecified destination)"
+            },
+            {
+              "text": "`la .bob. cu dunda zo'e la .alis.`",
+              "answer": "Bob gives (something) to Alice. (`zo'e` = unspecified gift)"
+            },
+            {
+              "text": "`do cusku zo'e mi`",
+              "answer": "You say (something) to me. (`zo'e` = unspecified statement)"
+            },
+            {
+              "text": "`mi klama la .london. zo'e zo'e la .karce.`",
+              "answer": "I go to London (from somewhere) (via somewhere) by car. (`zo'e` fills x3 and x4)"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "add-`zo'e`-where-needed",
+          "items": [
+            {
+              "text": "I go from London. (destination unspecified)",
+              "answer": "`mi klama zo'e la .london.`"
+            },
+            {
+              "text": "Alice gives (something) to Bob.",
+              "answer": "`la .alis. cu dunda zo'e la .bob.`"
+            },
+            {
+              "text": "You say (something) to Alice.",
+              "answer": "`do cusku zo'e la .alis.`"
+            },
+            {
+              "text": "Bob goes to Paris by car. (origin and route unspecified)",
+              "answer": "`la .bob. cu klama la .paris. zo'e zo'e la .karce.` (or just `la .bob. cu klama la .paris.` if skipping all later places)"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "rewrite-without-`zo'e`",
+          "items": [
+            {
+              "text": "`mi viska do zo'e` → ?",
+              "answer": "`mi viska do` (no x3 in `viska`, so `zo'e` is meaningless here)"
+            },
+            {
+              "text": "`la .alis. cu dunda la plise la .bob. zo'e` → ?",
+              "answer": "`la .alis. cu dunda la plise la .bob.` (trailing `zo'e` is unnecessary)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I go from Paris.&quot; → <code>mi klama zo&#39;e la .paris.</code></li>\n<li>&quot;Bob gives something to me.&quot; → <code>la .bob. cu dunda zo&#39;e mi</code></li>\n<li>&quot;You say something to Alice.&quot; → <code>do cusku zo&#39;e la .alis.</code></li>\n<li>&quot;I go to Tokyo from London.&quot; (no <code>zo&#39;e</code> needed) → <code>mi klama la .tokios. la .london.</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p><strong>Cmavo introduced today:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>zo&#39;e</code></td>\n<td>placeholder for &quot;something unspecified&quot; in a place</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>zo&#39;e</code>, a placeholder meaning &quot;something unspecified.&quot; Use it to skip middle places while filling later ones. <code>mi klama zo&#39;e la .london.</code> means &quot;I go (somewhere) from London&quot; — x2 is explicitly unspecified so x3 can be filled.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll learn <code>vecnu</code> — a four-place gismu for selling: seller, goods, buyer, and price.</p>\n",
+      "tomorrow": "You'll learn `vecnu` — a four-place gismu for selling: seller, goods, buyer, and price."
+    }
+  ]
+}

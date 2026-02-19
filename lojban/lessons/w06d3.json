@@ -1,0 +1,88 @@
+{
+  "id": "w06d3",
+  "week": 6,
+  "day": 3,
+  "title": "`se dunda` — Foregrounding the Gift",
+  "goal": "Use `se` with three-place predicates to foreground different participants.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Two-place <code>se</code> review:</p>\n<p>Convert: <code>la .bob. cu pilno la skami</code> → ?</p>\n<p>(Answer: <code>la skami se pilno la .bob.</code> — The computer is used by Bob.)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3><code>se</code> with Three-Place Gismu</h3>\n<p><code>la cukta se dunda mi la .bob.</code> — The book is given by me to Bob.</p>\n<p>With three-place gismu, <code>se</code> still swaps x1 and x2 — but now x3 remains unchanged.</p>\n<h4><code>dunda</code> Original and Converted</h4>\n<table>\n<thead>\n<tr>\n<th>Version</th>\n<th>x1</th>\n<th>x2</th>\n<th>x3</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>dunda</code></td>\n<td>giver</td>\n<td>gift</td>\n<td>recipient</td>\n</tr>\n<tr>\n<td><code>se dunda</code></td>\n<td>gift</td>\n<td>giver</td>\n<td>recipient</td>\n</tr>\n</tbody></table>\n<h4>Examples with <code>dunda</code></h4>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>se</code></th>\n<th>Focus</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi dunda la cukta la .bob.</code></td>\n<td><code>la cukta se dunda mi la .bob.</code></td>\n<td>I give → The book is given</td>\n</tr>\n<tr>\n<td><code>la .alis. cu dunda la skami mi</code></td>\n<td><code>la skami se dunda la .alis. mi</code></td>\n<td>Alice gives → The computer is given</td>\n</tr>\n</tbody></table>\n<p>The third place (recipient) stays in the same position relative to the selbri.</p>\n<h4>Why Foreground the Gift?</h4>\n<p>Sometimes you want to talk about the thing, not the giver:</p>\n<pre><code>la cukta se dunda mi la .bob. .i la cukta cu melbi\n</code></pre>\n<p>(The book is given by me to Bob. The book is beautiful.)</p>\n<p>The topic stays consistent: the book.</p>\n<h4>Other Three-Place Gismu with <code>se</code></h4>\n<p><strong><code>cusku</code> (x1 says x2 to x3):</strong></p>\n<ul>\n<li><code>mi cusku ti do</code> — I say this to you.</li>\n<li><code>ti se cusku mi do</code> — This is said by me to you.</li>\n</ul>\n<p><strong><code>benji</code> (x1 sends x2 to x3):</strong></p>\n<ul>\n<li><code>mi benji la cukta la .alis.</code> — I send a book to Alice.</li>\n<li><code>la cukta se benji mi la .alis.</code> — The book is sent by me to Alice.</li>\n</ul>\n<p><strong><code>tavla</code> (x1 talks to x2 about x3):</strong></p>\n<ul>\n<li><code>mi tavla do la cukta</code> — I talk to you about the book.</li>\n<li><code>do se tavla mi la cukta</code> — You are talked to by me about the book.</li>\n</ul>\n<h4>Key Point</h4>\n<blockquote>\n<p>With three-place gismu, <code>se</code> swaps x1 and x2 while x3 remains in place. This foregrounds the thing (gift, message, etc.) rather than the doer.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "With three-place gismu, `se` swaps x1 and x2 while x3 remains in place. This foregrounds the thing (gift, message, etc.) rather than the doer."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Convert to <code>se</code></h3>\n<ol>\n<li><code>mi dunda la skami la .alis.</code> → ?</li>\n<li><code>la .bob. cu benji la cukta mi</code> → ?</li>\n<li><code>do cusku ti la .tam.</code> → ?</li>\n<li><code>mi tavla la .meris. la karce</code> → ?</li>\n<li><code>la .alis. cu dunda la plise la .bob.</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la skami se dunda mi la .alis.</code></li>\n<li><code>la cukta se benji la .bob. mi</code></li>\n<li><code>ti se cusku do la .tam.</code></li>\n<li><code>la .meris. se tavla mi la karce</code></li>\n<li><code>la plise se dunda la .alis. la .bob.</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Convert from <code>se</code></h3>\n<ol>\n<li><code>la stizu se dunda la .bob. mi</code> → ?</li>\n<li><code>ti se benji la .alis. do</code> → ?</li>\n<li><code>la cukta se cusku mi la .tam.</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la .bob. cu dunda la stizu mi</code></li>\n<li><code>la .alis. cu benji ti do</code></li>\n<li><code>mi cusku la cukta la .tam.</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Create &quot;Gift-Focused&quot; Sentences</h3>\n<p>Write 5 sentences where the gift/thing is foregrounded using <code>se dunda</code> or <code>se benji</code>:</p>\n<details>\n<summary>Example answers</summary>\n\n<ol>\n<li><code>la skami se dunda la .bob. mi</code></li>\n<li><code>la cukta se benji mi la .alis.</code></li>\n<li><code>la karce se dunda la .tam. la .meris.</code></li>\n<li><code>la plise se dunda mi do</code></li>\n<li><code>la stizu se benji la .alis. la .bob.</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "convert-to-`se`",
+          "items": [
+            {
+              "text": "`mi dunda la skami la .alis.` → ?",
+              "answer": "`la skami se dunda mi la .alis.`"
+            },
+            {
+              "text": "`la .bob. cu benji la cukta mi` → ?",
+              "answer": "`la cukta se benji la .bob. mi`"
+            },
+            {
+              "text": "`do cusku ti la .tam.` → ?",
+              "answer": "`ti se cusku do la .tam.`"
+            },
+            {
+              "text": "`mi tavla la .meris. la karce` → ?",
+              "answer": "`la .meris. se tavla mi la karce`"
+            },
+            {
+              "text": "`la .alis. cu dunda la plise la .bob.` → ?",
+              "answer": "`la plise se dunda la .alis. la .bob.`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "convert-from-`se`",
+          "items": [
+            {
+              "text": "`la stizu se dunda la .bob. mi` → ?",
+              "answer": "`la .bob. cu dunda la stizu mi`"
+            },
+            {
+              "text": "`ti se benji la .alis. do` → ?",
+              "answer": "`la .alis. cu benji ti do`"
+            },
+            {
+              "text": "`la cukta se cusku mi la .tam.` → ?",
+              "answer": "`mi cusku la cukta la .tam.`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "create-\"gift-focused\"-sentences",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;The book is given by me to Alice.&quot; → <code>la cukta se dunda mi la .alis.</code></li>\n<li>&quot;The computer is sent by Bob to me.&quot; → <code>la skami se benji la .bob. mi</code></li>\n<li>&quot;This is said by you to Tom.&quot; → <code>ti se cusku do la .tam.</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p>No new gismu — focus on <code>se</code> with three-place predicates.</p>\n<p><strong>Pattern reference:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Gismu</th>\n<th>Normal</th>\n<th>With <code>se</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>dunda</code></td>\n<td>giver, gift, recipient</td>\n<td>gift, giver, recipient</td>\n</tr>\n<tr>\n<td><code>benji</code></td>\n<td>sender, sent, destination</td>\n<td>sent, sender, destination</td>\n</tr>\n<tr>\n<td><code>cusku</code></td>\n<td>speaker, statement, audience</td>\n<td>statement, speaker, audience</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned to apply <code>se</code> to three-place gismu. <code>se dunda</code> puts the gift in x1 position, making it the topic. The recipient (x3) stays in the same place.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll learn three more gismu — <code>ponse</code> (own), <code>bevri</code> (carry), and <code>muvdu</code> (move) — and practice <code>se</code> with all of them.</p>\n",
+      "tomorrow": "You'll learn three more gismu — `ponse` (own), `bevri` (carry), and `muvdu` (move) — and practice `se` with all of them."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "w02d5",
+  "week": 2,
+  "day": 5,
+  "title": "Home and Descriptors",
+  "goal": "Use `zdani`, `sutra`, and `barda` to describe places and qualities.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Names in bridi — translate to Lojban:</p>\n<pre><code>1. Alice goes to London.      → ?\n2. Bob loves Mary.            → ?\n3. I talk to Tom.             → ?\n</code></pre>\n<p>(Answers: <code>la .alis. cu klama la .lyndyn.</code>, <code>la .bob. cu prami la .meris.</code>, <code>mi tavla la .tam.</code>)</p>\n<p>Say each aloud.</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Three New Descriptors</h3>\n<p><code>ti barda</code> — This is big.</p>\n<p>Today you&#39;ll learn three versatile gismu:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>zdani</code></td>\n<td>x1 is a home of x2</td>\n<td>home, house</td>\n</tr>\n<tr>\n<td><code>sutra</code></td>\n<td>x1 is fast at x2</td>\n<td>fast, quick</td>\n</tr>\n<tr>\n<td><code>barda</code></td>\n<td>x1 is big in dimension x2</td>\n<td>big, large</td>\n</tr>\n</tbody></table>\n<h4><code>zdani</code> — Home</h4>\n<p><code>zdani</code> means &quot;x1 is a home/nest/dwelling of x2&quot;:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Gloss</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ti zdani</code></td>\n<td>this home</td>\n<td>This is a home.</td>\n</tr>\n<tr>\n<td><code>ti zdani mi</code></td>\n<td>this home-of me</td>\n<td>This is my home.</td>\n</tr>\n<tr>\n<td><code>la .alis. cu klama la zdani</code></td>\n<td>Alice [cu] go-to [the] home</td>\n<td>Alice goes home.</td>\n</tr>\n</tbody></table>\n<p>Wait — <code>la zdani</code>? Yes! You can use <code>la</code> with any word to mean &quot;the thing called [word].&quot; Here it means &quot;the place called &#39;home&#39;&quot; — i.e., home.</p>\n<h4><code>sutra</code> — Fast</h4>\n<p><code>sutra</code> describes speed:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Gloss</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>do sutra</code></td>\n<td>you fast</td>\n<td>You are fast.</td>\n</tr>\n<tr>\n<td><code>la .bob. cu sutra</code></td>\n<td>Bob [cu] fast</td>\n<td>Bob is fast.</td>\n</tr>\n<tr>\n<td><code>la .bob. cu cadzu sutra</code></td>\n<td>Bob [cu] walk fast</td>\n<td>Bob walks fast.</td>\n</tr>\n</tbody></table>\n<p>In the last example, <code>sutra</code> modifies <code>cadzu</code>. When two gismu appear together like this, the second modifies the first — creating a <strong>tanru</strong> (compound). You&#39;ll study tanru more later; for now, just notice the pattern.</p>\n<h4><code>barda</code> — Big</h4>\n<p><code>barda</code> describes size:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Gloss</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ti barda</code></td>\n<td>this big</td>\n<td>This is big.</td>\n</tr>\n<tr>\n<td><code>la .paris. cu barda</code></td>\n<td>Paris [cu] big</td>\n<td>Paris is big.</td>\n</tr>\n<tr>\n<td><code>zdani cu barda</code></td>\n<td>home [cu] big</td>\n<td>The home is big.</td>\n</tr>\n</tbody></table>\n<h4>Combining Descriptors</h4>\n<p>You can chain sentences to give multiple descriptions:</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ti zdani mi .i ti barda</code></td>\n<td>This is my home. It is big.</td>\n</tr>\n<tr>\n<td><code>la .bob. cu sutra .i la .bob. cu xamgu</code></td>\n<td>Bob is fast. Bob is good.</td>\n</tr>\n<tr>\n<td><code>la .paris. cu barda .i la .paris. cu melbi</code></td>\n<td>Paris is big. Paris is beautiful.</td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p><code>zdani</code> (home), <code>sutra</code> (fast), and <code>barda</code> (big) describe qualities. Combine them with names and other gismu to build richer descriptions.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "`zdani` (home), `sutra` (fast), and `barda` (big) describe qualities. Combine them with names and other gismu to build richer descriptions."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Translation (Lojban → English)</h3>\n<ol>\n<li><code>ti zdani mi</code></li>\n<li><code>la .bob. cu sutra</code></li>\n<li><code>la .lyndyn. cu barda</code></li>\n<li><code>mi klama la zdani</code></li>\n<li><code>ninmu cu cadzu sutra</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>This is my home.</li>\n<li>Bob is fast.</li>\n<li>London is big.</li>\n<li>I go home.</li>\n<li>A woman walks fast.</li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translation (English → Lojban)</h3>\n<ol>\n<li>This is big.</li>\n<li>Alice is fast.</li>\n<li>The home is good.</li>\n<li>I go home. (use <code>la zdani</code>)</li>\n<li>Paris is big. Paris is beautiful.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti barda</code></li>\n<li><code>la .alis. cu sutra</code></li>\n<li><code>zdani cu xamgu</code></li>\n<li><code>mi klama la zdani</code></li>\n<li><code>la .paris. cu barda .i la .paris. cu melbi</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Describe Your Home</h3>\n<p>Build 3 sentences about your home or city:</p>\n<p>Example:</p>\n<pre><code>ti zdani mi\n.i ti barda\n.i ti melbi\n</code></pre>\n<p>(This is my home. It is big. It is beautiful.)</p>\n<p>Write and say your own description.</p>\n",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "translation",
+          "items": [
+            {
+              "text": "`ti zdani mi`",
+              "answer": "This is my home."
+            },
+            {
+              "text": "`la .bob. cu sutra`",
+              "answer": "Bob is fast."
+            },
+            {
+              "text": "`la .lyndyn. cu barda`",
+              "answer": "London is big."
+            },
+            {
+              "text": "`mi klama la zdani`",
+              "answer": "I go home."
+            },
+            {
+              "text": "`ninmu cu cadzu sutra`",
+              "answer": "A woman walks fast."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translation",
+          "items": [
+            {
+              "text": "This is big.",
+              "answer": "`ti barda`"
+            },
+            {
+              "text": "Alice is fast.",
+              "answer": "`la .alis. cu sutra`"
+            },
+            {
+              "text": "The home is good.",
+              "answer": "`zdani cu xamgu`"
+            },
+            {
+              "text": "I go home. (use `la zdani`)",
+              "answer": "`mi klama la zdani`"
+            },
+            {
+              "text": "Paris is big. Paris is beautiful.",
+              "answer": "`la .paris. cu barda .i la .paris. cu melbi`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "describe-your-home",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I go home.&quot; → <code>mi klama la zdani</code></li>\n<li>&quot;You are fast.&quot; → <code>do sutra</code></li>\n<li>&quot;London is big. Tokyo is beautiful.&quot; → <code>la .lyndyn. cu barda .i la .tokios. cu melbi</code></li>\n<li>&quot;This is my home. It is good.&quot; → <code>ti zdani mi .i ti xamgu</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>zdani</code></td>\n<td>x1 is a home/nest of x2</td>\n<td>home</td>\n</tr>\n<tr>\n<td><code>sutra</code></td>\n<td>x1 is fast at x2</td>\n<td>fast</td>\n</tr>\n<tr>\n<td><code>barda</code></td>\n<td>x1 is big in dimension x2</td>\n<td>big</td>\n</tr>\n</tbody></table>\n<p><strong>Week 2 gismu so far:</strong> cmene, prenu, nanmu, ninmu, verba, zdani, sutra, barda (8/8 — complete!)</p>\n",
+      "items": [
+        {
+          "lojban": "zdani",
+          "place": "x1 is a home/nest of x2",
+          "english": "home"
+        },
+        {
+          "lojban": "sutra",
+          "place": "x1 is fast at x2",
+          "english": "fast"
+        },
+        {
+          "lojban": "barda",
+          "place": "x1 is big in dimension x2",
+          "english": "big"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>zdani</code> (home), <code>sutra</code> (fast), and <code>barda</code> (big). You can now describe places and qualities, go home (<code>klama la zdani</code>), and combine descriptors with named people and places. All 8 gismu for Week 2 are now introduced.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll learn <code>ki&#39;e</code> (thanks) and <code>je&#39;e</code> (acknowledged), completing the vocative set for basic social interaction.</p>\n",
+      "tomorrow": "You'll learn `ki'e` (thanks) and `je'e` (acknowledged), completing the vocative set for basic social interaction."
+    }
+  ]
+}

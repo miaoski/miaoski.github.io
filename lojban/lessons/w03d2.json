@@ -1,0 +1,118 @@
+{
+  "id": "w03d2",
+  "week": 3,
+  "day": 2,
+  "title": "Compound Numbers",
+  "goal": "Build multi-digit numbers by stringing digits together.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Digit drill — say the Lojban for each number:</p>\n<pre><code>1. 5 → ?    6. 0 → ?\n2. 3 → ?    7. 8 → ?\n3. 7 → ?    8. 2 → ?\n4. 9 → ?    9. 6 → ?\n5. 1 → ?   10. 4 → ?\n</code></pre>\n<p>(Answers: mu, ci, ze, so, pa, no, bi, re, xa, vo)</p>\n<p>Now count 0-9 aloud twice without looking.</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Building Larger Numbers</h3>\n<p><code>pa no</code> — ten.</p>\n<p>In Lojban, you build numbers by simply stringing digits together. No special words for &quot;ten,&quot; &quot;twenty,&quot; or &quot;hundred&quot; — just digits in sequence.</p>\n<h4>The Pattern</h4>\n<table>\n<thead>\n<tr>\n<th>Number</th>\n<th>Lojban</th>\n<th>How it works</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>10</td>\n<td><code>pa no</code></td>\n<td>1-0</td>\n</tr>\n<tr>\n<td>11</td>\n<td><code>pa pa</code></td>\n<td>1-1</td>\n</tr>\n<tr>\n<td>12</td>\n<td><code>pa re</code></td>\n<td>1-2</td>\n</tr>\n<tr>\n<td>20</td>\n<td><code>re no</code></td>\n<td>2-0</td>\n</tr>\n<tr>\n<td>24</td>\n<td><code>re vo</code></td>\n<td>2-4</td>\n</tr>\n<tr>\n<td>35</td>\n<td><code>ci mu</code></td>\n<td>3-5</td>\n</tr>\n<tr>\n<td>99</td>\n<td><code>so so</code></td>\n<td>9-9</td>\n</tr>\n</tbody></table>\n<p>Just say each digit in order. That&#39;s it.</p>\n<h4>Larger Numbers</h4>\n<p>The same pattern extends indefinitely:</p>\n<table>\n<thead>\n<tr>\n<th>Number</th>\n<th>Lojban</th>\n<th>How it works</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>100</td>\n<td><code>pa no no</code></td>\n<td>1-0-0</td>\n</tr>\n<tr>\n<td>123</td>\n<td><code>pa re ci</code></td>\n<td>1-2-3</td>\n</tr>\n<tr>\n<td>456</td>\n<td><code>vo mu xa</code></td>\n<td>4-5-6</td>\n</tr>\n<tr>\n<td>1000</td>\n<td><code>pa no no no</code></td>\n<td>1-0-0-0</td>\n</tr>\n<tr>\n<td>2024</td>\n<td><code>re no re vo</code></td>\n<td>2-0-2-4</td>\n</tr>\n</tbody></table>\n<h4>Counting by Tens</h4>\n<p>Practice this sequence:</p>\n<pre><code>pa no   (10)\nre no   (20)\nci no   (30)\nvo no   (40)\nmu no   (50)\nxa no   (60)\nze no   (70)\nbi no   (80)\nso no   (90)\npa no no (100)\n</code></pre>\n<p>Say it aloud until smooth.</p>\n<h4>Examples in Context</h4>\n<p>Numbers can be used as sumti (things you&#39;re talking about):</p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi nelci pa no</code></td>\n<td>I like ten. / I like 10.</td>\n</tr>\n<tr>\n<td><code>re vo cu barda</code></td>\n<td>Twenty-four is big.</td>\n</tr>\n</tbody></table>\n<p>You&#39;ll learn more uses for numbers (counting objects, ages) later this week.</p>\n<h4>Key Point</h4>\n<blockquote>\n<p>Lojban numbers are built by stringing digits together. &quot;Forty-seven&quot; = <code>vo ze</code> (4-7). No special words needed.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "Lojban numbers are built by stringing digits together. \"Forty-seven\" = `vo ze` (4-7). No special words needed."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Number to Lojban</h3>\n<p>Write the Lojban:</p>\n<ol>\n<li>15 → ?</li>\n<li>42 → ?</li>\n<li>78 → ?</li>\n<li>100 → ?</li>\n<li>365 → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>pa mu</code></li>\n<li><code>vo re</code></li>\n<li><code>ze bi</code></li>\n<li><code>pa no no</code></li>\n<li><code>ci xa mu</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Lojban to Number</h3>\n<p>What number is this?</p>\n<ol>\n<li><code>re ci</code> → ?</li>\n<li><code>mu no</code> → ?</li>\n<li><code>bi vo</code> → ?</li>\n<li><code>pa re ci</code> → ?</li>\n<li><code>so no so</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>23</li>\n<li>50</li>\n<li>84</li>\n<li>123</li>\n<li>909</li>\n</ol>\n</details>\n\n<h3>Exercise 3: Count by Tens</h3>\n<p>Say aloud:</p>\n<ul>\n<li>Count from 10 to 100 by tens: <code>pa no, re no, ci no...</code></li>\n<li>Count from 1 to 20: <code>pa, re, ci... pa so, re no</code></li>\n</ul>\n<h3>Exercise 4: Real Numbers</h3>\n<p>Convert these real-world numbers to Lojban:</p>\n<ol>\n<li>Your age → ?</li>\n<li>The current year → ?</li>\n<li>50 (half of 100) → ?</li>\n<li>7 days in a week → ?</li>\n</ol>\n<details>\n<summary>Sample answers</summary>\n\n<ol>\n<li>(your age as digits, e.g., 25 = <code>re mu</code>)</li>\n<li>2024 = <code>re no re vo</code></li>\n<li><code>mu no</code></li>\n<li><code>ze</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "number-to-lojban",
+          "items": [
+            {
+              "text": "15 → ?",
+              "answer": "`pa mu`"
+            },
+            {
+              "text": "42 → ?",
+              "answer": "`vo re`"
+            },
+            {
+              "text": "78 → ?",
+              "answer": "`ze bi`"
+            },
+            {
+              "text": "100 → ?",
+              "answer": "`pa no no`"
+            },
+            {
+              "text": "365 → ?",
+              "answer": "`ci xa mu`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "lojban-to-number",
+          "items": [
+            {
+              "text": "`re ci` → ?",
+              "answer": "23"
+            },
+            {
+              "text": "`mu no` → ?",
+              "answer": "50"
+            },
+            {
+              "text": "`bi vo` → ?",
+              "answer": "84"
+            },
+            {
+              "text": "`pa re ci` → ?",
+              "answer": "123"
+            },
+            {
+              "text": "`so no so` → ?",
+              "answer": "909"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "count-by-tens",
+          "items": []
+        },
+        {
+          "number": 4,
+          "type": "real-numbers",
+          "items": [
+            {
+              "text": "Your age → ?",
+              "answer": null
+            },
+            {
+              "text": "The current year → ?",
+              "answer": null
+            },
+            {
+              "text": "50 (half of 100) → ?",
+              "answer": null
+            },
+            {
+              "text": "7 days in a week → ?",
+              "answer": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>Count from 1 to 20 in Lojban.</li>\n<li>Say the year you were born.</li>\n<li>Say &quot;fifty-five&quot;: <code>mu mu</code></li>\n<li>Say &quot;ninety-nine&quot;: <code>so so</code></li>\n<li>Say &quot;one hundred&quot;: <code>pa no no</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p>No new gismu today — focus on number fluency.</p>\n<p><strong>Number patterns:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Pattern</th>\n<th>Example</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Single digit</td>\n<td><code>mu</code></td>\n<td>5</td>\n</tr>\n<tr>\n<td>Two digits</td>\n<td><code>mu re</code></td>\n<td>52</td>\n</tr>\n<tr>\n<td>Three digits</td>\n<td><code>mu re ci</code></td>\n<td>523</td>\n</tr>\n<tr>\n<td>Leading zero</td>\n<td><code>no mu</code></td>\n<td>05 (as in times, codes)</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned to build compound numbers by stringing digits together. There are no special words for &quot;ten&quot; or &quot;hundred&quot; — just say the digits in order. <code>re vo</code> = 24, <code>pa no no</code> = 100, <code>re no re vo</code> = 2024.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll learn emotion words — <code>gleki</code> (happy), <code>badri</code> (sad), and <code>cmalu</code> (small) — and describe how people feel.</p>\n",
+      "tomorrow": "You'll learn emotion words — `gleki` (happy), `badri` (sad), and `cmalu` (small) — and describe how people feel."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "w20d2",
+  "week": 20,
+  "day": 2,
+  "title": "The ke'a Pronoun",
+  "goal": "Learn to use `ke'a` for back-reference in relative clauses.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p><code>poi</code> review:</p>\n<pre><code>The dog which is blue → ?\nThe person who works → ?\n</code></pre>\n<p>(Answers: <code>lo gerku poi blanu</code>, <code>lo prenu poi gunka</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pixra</code></td>\n<td>x1 is a picture of x2 made by x3</td>\n<td>picture</td>\n</tr>\n<tr>\n<td><code>sanga</code></td>\n<td>x1 sings x2 (song)</td>\n<td>sing</td>\n</tr>\n</tbody></table>\n<h3>What Is <code>ke&#39;a</code>?</h3>\n<p><code>ke&#39;a</code> refers back to the thing being described by the relative clause.</p>\n<h3>When Is ke&#39;a Needed?</h3>\n<p>When the described thing is NOT x1 of the relative clause bridi:</p>\n<pre><code>lo prenu poi mi prami ke&#39;a\n</code></pre>\n<p>The person whom I love.</p>\n<p>Here, &quot;person&quot; is x2 of <code>prami</code>, not x1. So we need <code>ke&#39;a</code>.</p>\n<h3>Default: ke&#39;a is x1</h3>\n<p>When omitted, <code>ke&#39;a</code> is assumed to be x1:</p>\n<pre><code>lo prenu poi tavla mi = lo prenu poi ke&#39;a tavla mi\n</code></pre>\n<p>The person who talks to me.</p>\n<h3>Examples</h3>\n<pre><code>lo cukta poi mi tcidu ke&#39;a\n</code></pre>\n<p>The book which I read.</p>\n<pre><code>lo prenu poi mi prami ke&#39;a cu melbi\n</code></pre>\n<p>The person whom I love is beautiful.</p>\n<pre><code>lo zdani poi mi xabju ke&#39;a\n</code></pre>\n<p>The house which I live in.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Use <code>ke&#39;a</code> when the described thing is not x1 of the relative clause.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Use ke&#39;a</h3>\n<p>Translate (described thing is not x1):</p>\n<ol>\n<li>The book which I read → ?</li>\n<li>The person whom I love → ?</li>\n<li>The house where I live → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo cukta poi mi tcidu ke&#39;a</code></li>\n<li><code>lo prenu poi mi prami ke&#39;a</code></li>\n<li><code>lo zdani poi mi xabju ke&#39;a</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: ke&#39;a Optional</h3>\n<p>These don&#39;t need explicit ke&#39;a (it&#39;s x1). Translate:</p>\n<ol>\n<li>The dog which barks → ?</li>\n<li>The person who goes → ?</li>\n<li>The singer who sings → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo gerku poi bacru</code> (or appropriate verb)</li>\n<li><code>lo prenu poi klama</code></li>\n<li><code>lo sanga poi sanga</code> (redundant but grammatical)</li>\n</ol>\n</details>\n\n<h3>Exercise 3: New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>This is a picture.</li>\n<li>I sing.</li>\n<li>The picture which I see is beautiful.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti pixra</code></li>\n<li><code>mi sanga</code></li>\n<li><code>lo pixra poi mi viska ke&#39;a cu melbi</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "use-ke'a",
+          "items": [
+            {
+              "text": "The book which I read → ?",
+              "answer": "`lo cukta poi mi tcidu ke'a`"
+            },
+            {
+              "text": "The person whom I love → ?",
+              "answer": "`lo prenu poi mi prami ke'a`"
+            },
+            {
+              "text": "The house where I live → ?",
+              "answer": "`lo zdani poi mi xabju ke'a`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "ke'a-optional",
+          "items": [
+            {
+              "text": "The dog which barks → ?",
+              "answer": "`lo gerku poi bacru` (or appropriate verb)"
+            },
+            {
+              "text": "The person who goes → ?",
+              "answer": "`lo prenu poi klama`"
+            },
+            {
+              "text": "The singer who sings → ?",
+              "answer": "`lo sanga poi sanga` (redundant but grammatical)"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "new-vocabulary",
+          "items": [
+            {
+              "text": "This is a picture.",
+              "answer": "`ti pixra`"
+            },
+            {
+              "text": "I sing.",
+              "answer": "`mi sanga`"
+            },
+            {
+              "text": "The picture which I see is beautiful.",
+              "answer": "`lo pixra poi mi viska ke'a cu melbi`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;The book I read&quot; → <code>lo cukta poi mi tcidu ke&#39;a</code></li>\n<li>&quot;The person I love&quot; → <code>lo prenu poi mi prami ke&#39;a</code></li>\n<li>&quot;I sing.&quot; → <code>mi sanga</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pixra</code></td>\n<td>picture</td>\n</tr>\n<tr>\n<td><code>sanga</code></td>\n<td>sing</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>ke&#39;a</code></td>\n<td>Back-reference in relative clause</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>ke&#39;a</code> for back-reference. Use it when the described thing is not x1 of the relative clause.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> <code>noi</code> for incidental (non-restrictive) clauses.</p>\n",
+      "tomorrow": "`noi` for incidental (non-restrictive) clauses."
+    }
+  ]
+}

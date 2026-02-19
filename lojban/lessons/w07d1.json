@@ -1,0 +1,96 @@
+{
+  "id": "w07d1",
+  "week": 7,
+  "day": 1,
+  "title": "Introduction to `te`",
+  "goal": "Learn how `te` swaps x1 and x3, putting the third place first.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p><code>se</code> review — convert these:</p>\n<pre><code>1. mi dunda la cukta la .bob. → ? (with se)\n2. la .alis. cu pilno la skami → ? (with se)\n</code></pre>\n<p>(Answers: <code>la cukta se dunda mi la .bob.</code>, <code>la skami se pilno la .alis.</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Beyond <code>se</code>: The Full Conversion System</h3>\n<p><code>la .bob. te dunda la cukta mi</code> — Bob receives a book from me.</p>\n<p>You&#39;ve mastered <code>se</code> (swap x1↔x2). Now meet <code>te</code>, which swaps x1↔x3.</p>\n<h4>The Conversion Family</h4>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Swaps</th>\n<th>Effect</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>se</code></td>\n<td>x1 ↔ x2</td>\n<td>second place becomes topic</td>\n</tr>\n<tr>\n<td><code>te</code></td>\n<td>x1 ↔ x3</td>\n<td>third place becomes topic</td>\n</tr>\n<tr>\n<td><code>ve</code></td>\n<td>x1 ↔ x4</td>\n<td>fourth place becomes topic</td>\n</tr>\n<tr>\n<td><code>xe</code></td>\n<td>x1 ↔ x5</td>\n<td>fifth place becomes topic</td>\n</tr>\n</tbody></table>\n<p>Today: focus on <code>te</code>.</p>\n<h4><code>te</code> with <code>dunda</code></h4>\n<p>Original <code>dunda</code>:</p>\n<pre><code>dunda — x1 (giver) gives x2 (gift) to x3 (recipient)\n</code></pre>\n<p>With <code>te</code>:</p>\n<pre><code>te dunda — x1 (recipient) receives x2 (gift) from x3 (giver)\n</code></pre>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>te</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi dunda la cukta la .bob.</code></td>\n<td><code>la .bob. te dunda la cukta mi</code></td>\n</tr>\n<tr>\n<td>I give a book to Bob.</td>\n<td>Bob receives a book from me.</td>\n</tr>\n</tbody></table>\n<h4>New Vocabulary</h4>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>banxa</code></td>\n<td>x1 is a bank holding x2 for depositor x3</td>\n<td>bank</td>\n</tr>\n<tr>\n<td><code>notci</code></td>\n<td>x1 is a message about x2 from x3 to x4</td>\n<td>message</td>\n</tr>\n</tbody></table>\n<h4><code>te</code> Examples</h4>\n<p><strong>With <code>dunda</code>:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>la .alis. te dunda la skami mi</code></td>\n<td>Alice receives a computer from me.</td>\n</tr>\n<tr>\n<td><code>mi te dunda la cukta la .bob.</code></td>\n<td>I receive a book from Bob.</td>\n</tr>\n</tbody></table>\n<p><strong>With <code>klama</code>:</strong>\nOriginal: x1 goes to x2 from x3 via x4 by x5</p>\n<p>With <code>te</code>: x1 is the origin, x3 is the goer</p>\n<table>\n<thead>\n<tr>\n<th>Normal</th>\n<th>With <code>te</code></th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>mi klama la .paris. la .london.</code></td>\n<td><code>la .london. te klama la .paris. mi</code></td>\n</tr>\n<tr>\n<td>I go to Paris from London.</td>\n<td>London is-departed-from (to Paris, by me).</td>\n</tr>\n</tbody></table>\n<h4>Key Point</h4>\n<blockquote>\n<p><code>te</code> swaps x1 and x3. For <code>dunda</code>, this makes the recipient the topic. For <code>klama</code>, this makes the origin the topic.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "`te` swaps x1 and x3. For `dunda`, this makes the recipient the topic. For `klama`, this makes the origin the topic."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Apply <code>te</code></h3>\n<p>Rewrite using <code>te</code>:</p>\n<ol>\n<li><code>mi dunda la cukta la .alis.</code> → ?</li>\n<li><code>la .bob. cu benji la skami la .tam.</code> → ?</li>\n<li><code>do lebna la plise mi</code> → ?</li>\n<li><code>mi klama la zarci la zdani</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la .alis. te dunda la cukta mi</code></li>\n<li><code>la .tam. te benji la skami la .bob.</code></li>\n<li><code>mi te lebna la plise do</code> (I am taken-from regarding the apple by you)</li>\n<li><code>la zdani te klama la zarci mi</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Interpret <code>te</code> Sentences</h3>\n<p>Translate to English:</p>\n<ol>\n<li><code>la .bob. te dunda la karce mi</code></li>\n<li><code>mi te benji la notci la .alis.</code></li>\n<li><code>la .london. te klama la .paris. la .bob.</code></li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>Bob receives a car from me.</li>\n<li>I receive a message from Alice.</li>\n<li>London is-departed-from (to Paris, by Bob). / Bob goes to Paris from London.</li>\n</ol>\n</details>\n\n<h3>Exercise 3: Create Recipient-Focused Sentences</h3>\n<p>Write 4 sentences where the recipient is the topic using <code>te dunda</code>:</p>\n<details>\n<summary>Example answers</summary>\n\n<ol>\n<li><code>la .alis. te dunda la plise mi</code></li>\n<li><code>mi te dunda la cukta la .bob.</code></li>\n<li><code>la .tam. te dunda la skami la .meris.</code></li>\n<li><code>do te dunda la karce la .alis.</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "apply-`te`",
+          "items": [
+            {
+              "text": "`mi dunda la cukta la .alis.` → ?",
+              "answer": "`la .alis. te dunda la cukta mi`"
+            },
+            {
+              "text": "`la .bob. cu benji la skami la .tam.` → ?",
+              "answer": "`la .tam. te benji la skami la .bob.`"
+            },
+            {
+              "text": "`do lebna la plise mi` → ?",
+              "answer": "`mi te lebna la plise do` (I am taken-from regarding the apple by you)"
+            },
+            {
+              "text": "`mi klama la zarci la zdani` → ?",
+              "answer": "`la zdani te klama la zarci mi`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "interpret-`te`-sentences",
+          "items": [
+            {
+              "text": "`la .bob. te dunda la karce mi`",
+              "answer": "Bob receives a car from me."
+            },
+            {
+              "text": "`mi te benji la notci la .alis.`",
+              "answer": "I receive a message from Alice."
+            },
+            {
+              "text": "`la .london. te klama la .paris. la .bob.`",
+              "answer": "London is-departed-from (to Paris, by Bob). / Bob goes to Paris from London."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "create-recipient-focused-sentences",
+          "items": []
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I give a book to Alice.&quot; → <code>mi dunda la cukta la .alis.</code></li>\n<li>&quot;Alice receives a book from me.&quot; → <code>la .alis. te dunda la cukta mi</code></li>\n<li>&quot;Bob receives a computer from you.&quot; → <code>la .bob. te dunda la skami do</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>banxa</code></td>\n<td>x1 is a bank holding x2 for x3</td>\n<td>bank</td>\n</tr>\n<tr>\n<td><code>notci</code></td>\n<td>x1 is a message about x2 from x3 to x4</td>\n<td>message</td>\n</tr>\n</tbody></table>\n<p><strong>Cmavo:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>te</code></td>\n<td>swaps x1 and x3</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "banxa",
+          "place": "x1 is a bank holding x2 for x3",
+          "english": "bank"
+        },
+        {
+          "lojban": "notci",
+          "place": "x1 is a message about x2 from x3 to x4",
+          "english": "message"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>te</code>, which swaps x1 and x3. For <code>dunda</code>, <code>te dunda</code> means &quot;receive&quot; — the recipient becomes the topic. This is part of the full conversion system: <code>se</code>, <code>te</code>, <code>ve</code>, <code>xe</code>.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> You&#39;ll drill <code>te</code> conversion with <code>dunda</code>, <code>klama</code>, and <code>benji</code> until it&#39;s automatic.</p>\n",
+      "tomorrow": "You'll drill `te` conversion with `dunda`, `klama`, and `benji` until it's automatic."
+    }
+  ]
+}

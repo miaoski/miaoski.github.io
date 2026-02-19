@@ -1,0 +1,96 @@
+{
+  "id": "w21d6",
+  "week": 21,
+  "day": 6,
+  "title": "Negation with Connectives",
+  "goal": "Learn `na.e`, `.enai`, `na.enai`.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Forethought review:</p>\n<pre><code>ge mi gi do = ? (meaning)\nga mi gi do = ? (meaning)\n</code></pre>\n<p>(Answers: both I and you, either I or you)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Negating Connectives</h3>\n<p>You can negate either or both parts of a connective:</p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Meaning</th>\n<th>Logic</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>na.e</code></td>\n<td>A but not B</td>\n<td>A true, B false</td>\n</tr>\n<tr>\n<td><code>.enai</code></td>\n<td>B but not A</td>\n<td>A false, B true</td>\n</tr>\n<tr>\n<td><code>na.enai</code></td>\n<td>neither A nor B</td>\n<td>both false</td>\n</tr>\n</tbody></table>\n<h3>Using <code>na.e</code> (A but not B)</h3>\n<pre><code>mi na.e do cu klama\n</code></pre>\n<p>I but not you go. (I go, you don&#39;t.)</p>\n<pre><code>la .alis. na.e la .bob. cu gleki\n</code></pre>\n<p>Alice but not Bob is happy.</p>\n<h3>Using <code>.enai</code> (B but not A)</h3>\n<pre><code>mi .enai do cu klama\n</code></pre>\n<p>Not I but you go. (You go, I don&#39;t.)</p>\n<h3>Using <code>na.enai</code> (Neither...Nor)</h3>\n<pre><code>mi na.enai do cu klama\n</code></pre>\n<p>Neither I nor you go.</p>\n<pre><code>la .alis. na.enai la .bob. cu tavla\n</code></pre>\n<p>Neither Alice nor Bob talks.</p>\n<h3>Pattern Summary</h3>\n<table>\n<thead>\n<tr>\n<th>Position</th>\n<th><code>na</code></th>\n<th><code>nai</code></th>\n<th>Result</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Before</td>\n<td><code>na.e</code></td>\n<td>—</td>\n<td>A not B</td>\n</tr>\n<tr>\n<td>After</td>\n<td>—</td>\n<td><code>.enai</code></td>\n<td>B not A</td>\n</tr>\n<tr>\n<td>Both</td>\n<td><code>na.e</code></td>\n<td><code>nai</code></td>\n<td>neither</td>\n</tr>\n</tbody></table>\n<h3>Key Point</h3>\n<blockquote>\n<p>Add <code>na</code> before or <code>nai</code> after a connective to negate specific parts.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Use na.e</h3>\n<p>Translate:</p>\n<ol>\n<li>I but not you go.</li>\n<li>Alice but not Bob is happy.</li>\n<li>The dog but not the cat is big.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi na.e do cu klama</code></li>\n<li><code>la .alis. na.e la .bob. cu gleki</code></li>\n<li><code>lo gerku na.e lo mlatu cu barda</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Use na.enai</h3>\n<p>Translate:</p>\n<ol>\n<li>Neither I nor you go.</li>\n<li>Neither Alice nor Bob talks.</li>\n<li>Neither is good.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi na.enai do cu klama</code></li>\n<li><code>la .alis. na.enai la .bob. cu tavla</code></li>\n<li><code>ti na.enai ta cu xamgu</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Mixed</h3>\n<p>Choose the right connective:</p>\n<ol>\n<li>Both go (and) → .___</li>\n<li>At least one goes (or) → .___</li>\n<li>I go, you don&#39;t → na.___</li>\n<li>Neither goes → na.___nai</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>.e</code></li>\n<li><code>.a</code></li>\n<li><code>na.e</code></li>\n<li><code>na.enai</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "use-na.e",
+          "items": [
+            {
+              "text": "I but not you go.",
+              "answer": "`mi na.e do cu klama`"
+            },
+            {
+              "text": "Alice but not Bob is happy.",
+              "answer": "`la .alis. na.e la .bob. cu gleki`"
+            },
+            {
+              "text": "The dog but not the cat is big.",
+              "answer": "`lo gerku na.e lo mlatu cu barda`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "use-na.enai",
+          "items": [
+            {
+              "text": "Neither I nor you go.",
+              "answer": "`mi na.enai do cu klama`"
+            },
+            {
+              "text": "Neither Alice nor Bob talks.",
+              "answer": "`la .alis. na.enai la .bob. cu tavla`"
+            },
+            {
+              "text": "Neither is good.",
+              "answer": "`ti na.enai ta cu xamgu`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "mixed",
+          "items": [
+            {
+              "text": "Both go (and) → .___",
+              "answer": "`.e`"
+            },
+            {
+              "text": "At least one goes (or) → .___",
+              "answer": "`.a`"
+            },
+            {
+              "text": "I go, you don't → na.___",
+              "answer": "`na.e`"
+            },
+            {
+              "text": "Neither goes → na.___nai",
+              "answer": "`na.enai`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I but not you understand.&quot; → <code>mi na.e do cu jimpe</code></li>\n<li>&quot;Neither Alice nor Bob is here.&quot; → <code>la .alis. na.enai la .bob. cu zvati</code></li>\n<li>&quot;Both are similar.&quot; → <code>ti .e ta cu simsa</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Grammar</h2>\n<p><strong>Negated connectives:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>na.e</code></td>\n<td>A but not B</td>\n</tr>\n<tr>\n<td><code>.enai</code></td>\n<td>B but not A</td>\n</tr>\n<tr>\n<td><code>na.enai</code></td>\n<td>neither A nor B</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned to negate connectives: <code>na.e</code> (A not B), <code>.enai</code> (B not A), <code>na.enai</code> (neither).</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Full week review of logical connectives.</p>\n",
+      "tomorrow": "Full week review of logical connectives."
+    }
+  ]
+}

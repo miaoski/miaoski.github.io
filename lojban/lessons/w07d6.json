@@ -1,0 +1,101 @@
+{
+  "id": "w07d6",
+  "week": 7,
+  "day": 6,
+  "title": "Stacking Conversions",
+  "goal": "Understand what happens when you combine multiple conversions.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Complete conversion review:</p>\n<pre><code>se: x1 ↔ x2\nte: x1 ↔ x3\nve: x1 ↔ x4\nxe: x1 ↔ x5\n</code></pre>\n<p>Quick drill — convert to focus on the underlined:</p>\n<ol>\n<li><code>mi dunda la cukta __la .bob.__</code> → ? (te)</li>\n<li><code>mi vecnu la skami do __mu no__</code> → ? (ve)</li>\n</ol>\n<p>(Answers: <code>la .bob. te dunda la cukta mi</code>, <code>mu no ve vecnu la skami do mi</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>Stacking Conversions</h3>\n<p><code>se te dunda</code> — What does this mean?</p>\n<p>When you use multiple conversion operators, they apply in sequence, right to left.</p>\n<h4>How Stacking Works</h4>\n<p>Each conversion swaps two places. If you stack them:</p>\n<p><strong><code>se te dunda</code>:</strong></p>\n<ol>\n<li>Start with <code>dunda</code>: x1=giver, x2=gift, x3=recipient</li>\n<li>Apply <code>te</code>: swap x1↔x3 → x1=recipient, x2=gift, x3=giver</li>\n<li>Apply <code>se</code>: swap x1↔x2 → x1=gift, x2=recipient, x3=giver</li>\n</ol>\n<p>Result: <code>se te dunda</code> = x1 is gift, x2 is recipient, x3 is giver</p>\n<p>Wait — that&#39;s the same as just <code>se dunda</code>! Not quite:</p>\n<ul>\n<li><code>se dunda</code>: x1=gift, x2=giver, x3=recipient</li>\n<li><code>se te dunda</code>: x1=gift, x2=recipient, x3=giver</li>\n</ul>\n<p>The places are rearranged differently.</p>\n<h4>Practical Example</h4>\n<table>\n<thead>\n<tr>\n<th>Version</th>\n<th>x1</th>\n<th>x2</th>\n<th>x3</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>dunda</code></td>\n<td>giver</td>\n<td>gift</td>\n<td>recipient</td>\n</tr>\n<tr>\n<td><code>se dunda</code></td>\n<td>gift</td>\n<td>giver</td>\n<td>recipient</td>\n</tr>\n<tr>\n<td><code>te dunda</code></td>\n<td>recipient</td>\n<td>gift</td>\n<td>giver</td>\n</tr>\n<tr>\n<td><code>se te dunda</code></td>\n<td>gift</td>\n<td>recipient</td>\n<td>giver</td>\n</tr>\n</tbody></table>\n<h4>Cancellation</h4>\n<p>Some combinations cancel out:</p>\n<ul>\n<li><code>se se dunda</code> = <code>dunda</code> (swap twice = back to original)</li>\n<li><code>te te dunda</code> = <code>dunda</code></li>\n</ul>\n<h4>Why Stack?</h4>\n<p>Stacking is rare in practice. Usually, you just pick the single conversion you need. But understanding it helps you:</p>\n<ol>\n<li>Read complex Lojban</li>\n<li>Understand the logic of the system</li>\n</ol>\n<h4>Key Point</h4>\n<blockquote>\n<p>Stacked conversions apply right to left. <code>se se</code> cancels out. In practice, use single conversions — stacking is for advanced use.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)",
+      "keyPoint": "Stacked conversions apply right to left. `se se` cancels out. In practice, use single conversions — stacking is for advanced use."
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Trace the Stacking</h3>\n<p>For <code>dunda</code> (x1=giver, x2=gift, x3=recipient), what is x1 after:</p>\n<ol>\n<li><code>se dunda</code> → x1 = ?</li>\n<li><code>te dunda</code> → x1 = ?</li>\n<li><code>se te dunda</code> → x1 = ?</li>\n<li><code>se se dunda</code> → x1 = ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>gift</li>\n<li>recipient</li>\n<li>gift (after te: recipient in x1, then se swaps with x2=gift)</li>\n<li>giver (cancels out)</li>\n</ol>\n</details>\n\n<h3>Exercise 2: Simplify</h3>\n<p>Which single conversion (if any) equals:</p>\n<ol>\n<li><code>se se</code> → ?</li>\n<li><code>te te</code> → ?</li>\n<li><code>se te se</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>(none — cancels to original)</li>\n<li>(none — cancels to original)</li>\n<li><code>te</code> (se cancels with se, leaving te)</li>\n</ol>\n</details>\n\n<h3>Exercise 3: Practical Conversions</h3>\n<p>For each scenario, write the sentence using the appropriate single conversion:</p>\n<ol>\n<li>Focus on the gift: <code>mi dunda la cukta la .bob.</code> → ?</li>\n<li>Focus on the recipient: <code>mi dunda la cukta la .bob.</code> → ?</li>\n<li>Focus on the price: <code>mi vecnu la karce do mu no no</code> → ?</li>\n<li>Focus on the vehicle: <code>mi klama la .paris. zo&#39;e zo&#39;e la karce</code> → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la cukta se dunda mi la .bob.</code></li>\n<li><code>la .bob. te dunda la cukta mi</code></li>\n<li><code>mu no no ve vecnu la karce do mi</code></li>\n<li><code>la karce xe klama la .paris. zo&#39;e zo&#39;e mi</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "trace-the-stacking",
+          "items": [
+            {
+              "text": "`se dunda` → x1 = ?",
+              "answer": "gift"
+            },
+            {
+              "text": "`te dunda` → x1 = ?",
+              "answer": "recipient"
+            },
+            {
+              "text": "`se te dunda` → x1 = ?",
+              "answer": "gift (after te: recipient in x1, then se swaps with x2=gift)"
+            },
+            {
+              "text": "`se se dunda` → x1 = ?",
+              "answer": "giver (cancels out)"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "simplify",
+          "items": [
+            {
+              "text": "`se se` → ?",
+              "answer": "(none — cancels to original)"
+            },
+            {
+              "text": "`te te` → ?",
+              "answer": "(none — cancels to original)"
+            },
+            {
+              "text": "`se te se` → ?",
+              "answer": "`te` (se cancels with se, leaving te)"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "practical-conversions",
+          "items": [
+            {
+              "text": "Focus on the gift: `mi dunda la cukta la .bob.` → ?",
+              "answer": "`la cukta se dunda mi la .bob.`"
+            },
+            {
+              "text": "Focus on the recipient: `mi dunda la cukta la .bob.` → ?",
+              "answer": "`la .bob. te dunda la cukta mi`"
+            },
+            {
+              "text": "Focus on the price: `mi vecnu la karce do mu no no` → ?",
+              "answer": "`mu no no ve vecnu la karce do mi`"
+            },
+            {
+              "text": "Focus on the vehicle: `mi klama la .paris. zo'e zo'e la karce` → ?",
+              "answer": "`la karce xe klama la .paris. zo'e zo'e mi`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud, using the appropriate conversion:</strong></p>\n<ol>\n<li>&quot;The book is given to Bob by me.&quot; (focus on book) → <code>la cukta se dunda mi la .bob.</code></li>\n<li>&quot;Bob receives a book from me.&quot; (focus on Bob) → <code>la .bob. te dunda la cukta mi</code></li>\n<li>&quot;50 is the price.&quot; (focus on price) → <code>mu no ve vecnu</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<p>No new gismu — focus on understanding stacked conversions.</p>\n<p><strong>Stacking summary:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Stack</th>\n<th>Effect</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>se se</code></td>\n<td>cancels (back to original)</td>\n</tr>\n<tr>\n<td><code>te te</code></td>\n<td>cancels</td>\n</tr>\n<tr>\n<td><code>se te</code></td>\n<td>complex rearrangement</td>\n</tr>\n<tr>\n<td>single conversion</td>\n<td>clearest choice</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned that conversions can be stacked (applied right to left), but double applications cancel out. In practice, use single conversions for clarity.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Full week review — you&#39;ll practice choosing the right conversion and test yourself on all Week 7 vocabulary.</p>\n",
+      "tomorrow": "Full week review — you'll practice choosing the right conversion and test yourself on all Week 7 vocabulary."
+    }
+  ]
+}

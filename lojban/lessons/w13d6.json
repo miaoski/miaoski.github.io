@@ -1,0 +1,92 @@
+{
+  "id": "w13d6",
+  "week": 13,
+  "day": 6,
+  "title": "Fu'ivla Practice",
+  "goal": "Practice using fu'ivla with temperature and quality words.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Fu&#39;ivla review:</p>\n<pre><code>tea → ?\ncookie → ?\ncoffee → ?\n</code></pre>\n<p>(Answers: <code>tcati</code>, <code>kurki</code>, <code>kafke</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>More Common Fu&#39;ivla</h3>\n<table>\n<thead>\n<tr>\n<th>Fu&#39;ivla</th>\n<th>Source</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pitsa</code></td>\n<td>Italian</td>\n<td>pizza</td>\n</tr>\n<tr>\n<td><code>ranti</code></td>\n<td>Hindi</td>\n<td>bread (roti)</td>\n</tr>\n<tr>\n<td><code>cukla</code></td>\n<td>English</td>\n<td>chocolate</td>\n</tr>\n<tr>\n<td><code>banana</code></td>\n<td>various</td>\n<td>banana</td>\n</tr>\n</tbody></table>\n<h3>Combining Fu&#39;ivla with Descriptors</h3>\n<p>Use this week&#39;s vocabulary with fu&#39;ivla:</p>\n<pre><code>la .pitsa. cu glare\n</code></pre>\n<p>The pizza is hot.</p>\n<pre><code>mi citka la .kurki. co cilmo\n</code></pre>\n<p>I eat a moist cookie.</p>\n<pre><code>la .tcati. cu lenku je jinsa\n</code></pre>\n<p>The tea is cold and clean.</p>\n<h3>Fu&#39;ivla in Tanru</h3>\n<p>Fu&#39;ivla can be part of tanru:</p>\n<pre><code>ti tcati djacu\n</code></pre>\n<p>This is tea-water. (water for tea)</p>\n<pre><code>mi citka lo glare pitsa\n</code></pre>\n<p>I eat hot pizza.</p>\n<h3>Creating Fu&#39;ivla</h3>\n<p>To borrow a word:</p>\n<ol>\n<li>Find the source word</li>\n<li>Adapt to Lojban sounds</li>\n<li>Ensure consonant cluster exists</li>\n<li>End with a vowel</li>\n</ol>\n<p>Example: &quot;sushi&quot; → <code>cucri</code> or <code>susxi</code></p>\n<h3>Key Point</h3>\n<blockquote>\n<p>Fu&#39;ivla integrate fully into Lojban grammar — use them like any other brivla.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Temperature + Fu&#39;ivla</h3>\n<p>Translate:</p>\n<ol>\n<li>The pizza is hot.</li>\n<li>The tea is cold.</li>\n<li>The coffee is warm.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la .pitsa. cu glare</code></li>\n<li><code>la .tcati. cu lenku</code></li>\n<li><code>la .kafke. cu glare</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Quality + Fu&#39;ivla</h3>\n<p>Translate:</p>\n<ol>\n<li>The cookie is dry.</li>\n<li>The chocolate is wet.</li>\n<li>The tea is pure.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>la .kurki. cu sudga</code></li>\n<li><code>la .cukla. cu cilmo</code></li>\n<li><code>la .tcati. cu curve</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Full Sentences with co</h3>\n<p>Translate using <code>co</code>:</p>\n<ol>\n<li>I drink hot clean tea.</li>\n<li>I eat a dry cookie.</li>\n<li>This is cold pure water.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi pinxe la .tcati. co glare co jinsa</code></li>\n<li><code>mi citka la .kurki. co sudga</code></li>\n<li><code>ti djacu co lenku co curve</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "temperature-+-fu'ivla",
+          "items": [
+            {
+              "text": "The pizza is hot.",
+              "answer": "`la .pitsa. cu glare`"
+            },
+            {
+              "text": "The tea is cold.",
+              "answer": "`la .tcati. cu lenku`"
+            },
+            {
+              "text": "The coffee is warm.",
+              "answer": "`la .kafke. cu glare`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "quality-+-fu'ivla",
+          "items": [
+            {
+              "text": "The cookie is dry.",
+              "answer": "`la .kurki. cu sudga`"
+            },
+            {
+              "text": "The chocolate is wet.",
+              "answer": "`la .cukla. cu cilmo`"
+            },
+            {
+              "text": "The tea is pure.",
+              "answer": "`la .tcati. cu curve`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "full-sentences-with-co",
+          "items": [
+            {
+              "text": "I drink hot clean tea.",
+              "answer": "`mi pinxe la .tcati. co glare co jinsa`"
+            },
+            {
+              "text": "I eat a dry cookie.",
+              "answer": "`mi citka la .kurki. co sudga`"
+            },
+            {
+              "text": "This is cold pure water.",
+              "answer": "`ti djacu co lenku co curve`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I eat hot pizza.&quot; → <code>mi citka la .pitsa. co glare</code></li>\n<li>&quot;The tea is cold.&quot; → <code>la .tcati. cu lenku</code></li>\n<li>&quot;I want a cookie.&quot; → <code>mi djica la .kurki.</code></li>\n</ol>\n"
+    },
+    {
+      "type": "other",
+      "content": "<h2>Today&#39;s Fu&#39;ivla</h2>\n<table>\n<thead>\n<tr>\n<th>Fu&#39;ivla</th>\n<th>Meaning</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>tcati</code></td>\n<td>tea</td>\n</tr>\n<tr>\n<td><code>kurki</code></td>\n<td>cookie</td>\n</tr>\n<tr>\n<td><code>kafke</code></td>\n<td>coffee</td>\n</tr>\n<tr>\n<td><code>pitsa</code></td>\n<td>pizza</td>\n</tr>\n<tr>\n<td><code>cukla</code></td>\n<td>chocolate</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You practiced combining fu&#39;ivla with temperature and quality words, and using <code>co</code> to structure descriptions.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Full week review with all vocabulary and grammar.</p>\n",
+      "tomorrow": "Full week review with all vocabulary and grammar."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "w24d3",
+  "week": 24,
+  "day": 3,
+  "title": "Foreign Quotes: lo'u...le'u",
+  "goal": "Learn to quote non-Lojban text.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>zo review:</p>\n<pre><code>The word &quot;gerku&quot; → ?\n&quot;mlatu&quot; means cat → ?\n</code></pre>\n<p>(Answers: <code>zo gerku</code>, <code>zo mlatu cu smuni lo mlatu</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>kanro</code></td>\n<td>x1 is healthy/well</td>\n<td>healthy/well</td>\n</tr>\n<tr>\n<td><code>speni</code></td>\n<td>x1 is married to x2 by law/custom x3</td>\n<td>married</td>\n</tr>\n</tbody></table>\n<h3>The Problem</h3>\n<p><code>lu...li&#39;u</code> requires grammatical Lojban. What about foreign text or errors?</p>\n<h3>Using lo&#39;u...le&#39;u</h3>\n<p><code>lo&#39;u</code> opens a non-grammatical quote; <code>le&#39;u</code> closes it. Anything goes inside.</p>\n<pre><code>lo&#39;u Hello! le&#39;u cu glibau jufra\n</code></pre>\n<p>&quot;Hello!&quot; is an English sentence.</p>\n<pre><code>lo&#39;u Bonjour le&#39;u cu fraso valsi\n</code></pre>\n<p>&quot;Bonjour&quot; is a French word.</p>\n<h3>For Errors</h3>\n<pre><code>lo&#39;u mi klama le&#39;u cu drani na.e lo&#39;u mi cu klama le&#39;u\n</code></pre>\n<p>&quot;mi klama&quot; is correct but not &quot;mi cu klama.&quot;</p>\n<h3>Comparing Quote Types</h3>\n<table>\n<thead>\n<tr>\n<th>Type</th>\n<th>Cmavo</th>\n<th>Use</th>\n</tr>\n</thead>\n<tbody><tr>\n<td>Grammatical</td>\n<td><code>lu...li&#39;u</code></td>\n<td>Valid Lojban</td>\n</tr>\n<tr>\n<td>Single word</td>\n<td><code>zo</code></td>\n<td>One Lojban word</td>\n</tr>\n<tr>\n<td>Non-grammatical</td>\n<td><code>lo&#39;u...le&#39;u</code></td>\n<td>Foreign/error/anything</td>\n</tr>\n</tbody></table>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>lo&#39;u...le&#39;u</code> quotes anything, regardless of grammar. Use for foreign languages or malformed text.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Use lo&#39;u...le&#39;u</h3>\n<p>Translate:</p>\n<ol>\n<li>&quot;Hello&quot; is an English word.</li>\n<li>&quot;Gracias&quot; is a Spanish word.</li>\n<li>&quot;Guten Tag&quot; is a German phrase.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>lo&#39;u Hello le&#39;u cu glibau valsi</code></li>\n<li><code>lo&#39;u Gracias le&#39;u cu spano valsi</code></li>\n<li><code>lo&#39;u Guten Tag le&#39;u cu dotco jufra</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Mixed Quotes</h3>\n<p>Choose lu...li&#39;u, zo, or lo&#39;u...le&#39;u:</p>\n<ol>\n<li>The word &quot;gerku&quot; (single Lojban word)</li>\n<li>&quot;I go&quot; (grammatical Lojban sentence)</li>\n<li>&quot;Bonjour&quot; (French word)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>zo gerku</code></li>\n<li><code>lu mi klama li&#39;u</code></li>\n<li><code>lo&#39;u Bonjour le&#39;u</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>I am healthy.</li>\n<li>Alice is married to Bob.</li>\n<li>I am healthy and happy.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi kanro</code></li>\n<li><code>la .alis. cu speni la .bob.</code></li>\n<li><code>mi kanro je gleki</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "use-lo'u...le'u",
+          "items": [
+            {
+              "text": "\"Hello\" is an English word.",
+              "answer": "`lo'u Hello le'u cu glibau valsi`"
+            },
+            {
+              "text": "\"Gracias\" is a Spanish word.",
+              "answer": "`lo'u Gracias le'u cu spano valsi`"
+            },
+            {
+              "text": "\"Guten Tag\" is a German phrase.",
+              "answer": "`lo'u Guten Tag le'u cu dotco jufra`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "mixed-quotes",
+          "items": [
+            {
+              "text": "The word \"gerku\" (single Lojban word)",
+              "answer": "`zo gerku`"
+            },
+            {
+              "text": "\"I go\" (grammatical Lojban sentence)",
+              "answer": "`lu mi klama li'u`"
+            },
+            {
+              "text": "\"Bonjour\" (French word)",
+              "answer": "`lo'u Bonjour le'u`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "new-vocabulary",
+          "items": [
+            {
+              "text": "I am healthy.",
+              "answer": "`mi kanro`"
+            },
+            {
+              "text": "Alice is married to Bob.",
+              "answer": "`la .alis. cu speni la .bob.`"
+            },
+            {
+              "text": "I am healthy and happy.",
+              "answer": "`mi kanro je gleki`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;&#39;Hello&#39; is English.&quot; → <code>lo&#39;u Hello le&#39;u cu glibau</code></li>\n<li>&quot;I am healthy.&quot; → <code>mi kanro</code></li>\n<li>&quot;Are you married?&quot; → <code>xu do speni</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>kanro</code></td>\n<td>healthy/well</td>\n</tr>\n<tr>\n<td><code>speni</code></td>\n<td>married</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>lo&#39;u</code></td>\n<td>Opens non-grammatical quote</td>\n</tr>\n<tr>\n<td><code>le&#39;u</code></td>\n<td>Closes non-grammatical quote</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned <code>lo&#39;u...le&#39;u</code> for quoting foreign text or errors. Use it when <code>lu...li&#39;u</code> won&#39;t work.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Referent and symbol — <code>la&#39;e</code>, <code>lu&#39;e</code>.</p>\n",
+      "tomorrow": "Referent and symbol — `la'e`, `lu'e`."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "id": "w11d1",
+  "week": 11,
+  "day": 1,
+  "title": "Default Tanru Grouping",
+  "goal": "Understand that three-word tanru group left-to-right by default.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Tanru review:</p>\n<pre><code>blue dog → ?\nfast run → ?\nbig red house → ?\n</code></pre>\n<p>(Answers: <code>blanu gerku</code>, <code>sutra bajra</code>, <code>barda xunre zdani</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>skari</code></td>\n<td>x1 is a color/hue of x2 as perceived by x3</td>\n<td>color</td>\n</tr>\n<tr>\n<td><code>tarmi</code></td>\n<td>x1 is the shape/form of x2</td>\n<td>shape/form</td>\n</tr>\n</tbody></table>\n<h3>Three-Word Tanru</h3>\n<p>When you have three words, how do they group?</p>\n<p><strong>Default rule:</strong> Left-to-right, first two group first.</p>\n<pre><code>a b c = (a b) c\n</code></pre>\n<p>The first two words form a unit, which then modifies the third.</p>\n<h3>Example: <code>barda blanu gerku</code></h3>\n<pre><code>barda blanu gerku = (barda blanu) gerku\n</code></pre>\n<p>Reading: (big-blue) dog</p>\n<p>Meaning: A dog that is big-blue (both big and blue together as a combined property).</p>\n<h3>More Examples</h3>\n<pre><code>sutra bajra prenu = (sutra bajra) prenu\n</code></pre>\n<p>(fast-running) person — a person who is a fast-runner.</p>\n<pre><code>cmalu xunre mlatu = (cmalu xunre) mlatu\n</code></pre>\n<p>(small-red) cat — a cat that is small-red.</p>\n<h3>Visualizing the Grouping</h3>\n<pre><code>      gerku\n       /\n   (barda blanu)\n    /       \\\n barda    blanu\n</code></pre>\n<p>The compound <code>barda blanu</code> acts as a single modifier for <code>gerku</code>.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p>In <code>a b c</code>, the first two words (<code>a b</code>) combine first, then modify <code>c</code>.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Identify Grouping</h3>\n<p>How do these group by default?</p>\n<ol>\n<li><code>clani blabi karce</code> = ?</li>\n<li><code>sutra klama prenu</code> = ?</li>\n<li><code>xamgu citka mlatu</code> = ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>(clani blabi) karce</code> — (long-white) car</li>\n<li><code>(sutra klama) prenu</code> — (fast-going) person</li>\n<li><code>(xamgu citka) mlatu</code> — (good-eating) cat</li>\n</ol>\n</details>\n\n<h3>Exercise 2: Create Three-Word Tanru</h3>\n<p>Form tanru:</p>\n<ol>\n<li>(big-blue) house → ?</li>\n<li>(fast-running) dog → ?</li>\n<li>(small-red) apple → ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>barda blanu zdani</code></li>\n<li><code>sutra bajra gerku</code></li>\n<li><code>cmalu xunre plise</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Use New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>This is a color.</li>\n<li>The shape is big.</li>\n<li>I see the red color.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti skari</code></li>\n<li><code>la tarmi cu barda</code></li>\n<li><code>mi viska la xunre skari</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "identify-grouping",
+          "items": [
+            {
+              "text": "`clani blabi karce` = ?",
+              "answer": "`(clani blabi) karce` — (long-white) car"
+            },
+            {
+              "text": "`sutra klama prenu` = ?",
+              "answer": "`(sutra klama) prenu` — (fast-going) person"
+            },
+            {
+              "text": "`xamgu citka mlatu` = ?",
+              "answer": "`(xamgu citka) mlatu` — (good-eating) cat"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "create-three-word-tanru",
+          "items": [
+            {
+              "text": "(big-blue) house → ?",
+              "answer": "`barda blanu zdani`"
+            },
+            {
+              "text": "(fast-running) dog → ?",
+              "answer": "`sutra bajra gerku`"
+            },
+            {
+              "text": "(small-red) apple → ?",
+              "answer": "`cmalu xunre plise`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "use-new-vocabulary",
+          "items": [
+            {
+              "text": "This is a color.",
+              "answer": "`ti skari`"
+            },
+            {
+              "text": "The shape is big.",
+              "answer": "`la tarmi cu barda`"
+            },
+            {
+              "text": "I see the red color.",
+              "answer": "`mi viska la xunre skari`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;This is a big blue dog.&quot; → <code>ti barda blanu gerku</code></li>\n<li>&quot;I am a fast runner.&quot; → <code>mi sutra bajra prenu</code></li>\n<li>&quot;The color is green.&quot; → <code>la skari cu crino</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>skari</code></td>\n<td>x1 is a color of x2 perceived by x3</td>\n<td>color</td>\n</tr>\n<tr>\n<td><code>tarmi</code></td>\n<td>x1 is the shape/form of x2</td>\n<td>shape/form</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "skari",
+          "place": "x1 is a color of x2 perceived by x3",
+          "english": "color"
+        },
+        {
+          "lojban": "tarmi",
+          "place": "x1 is the shape/form of x2",
+          "english": "shape/form"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned that three-word tanru group left-to-right by default: <code>a b c</code> = <code>(a b) c</code>. The first two words combine, then modify the third.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Using <code>bo</code> to change grouping — make the right two words combine first.</p>\n",
+      "tomorrow": "Using `bo` to change grouping — make the right two words combine first."
+    }
+  ]
+}

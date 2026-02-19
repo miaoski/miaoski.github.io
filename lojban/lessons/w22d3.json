@@ -1,0 +1,92 @@
+{
+  "id": "w22d3",
+  "week": 22,
+  "day": 3,
+  "title": "Instrument/Method: pi'o, ta'i",
+  "goal": "Learn to specify tools and methods.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Location tags review:</p>\n<pre><code>bu&#39;u = ?     fa&#39;a = ?     to&#39;o = ?\n</code></pre>\n<p>(Answers: at, toward, away from)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>xamsi</code></td>\n<td>x1 is a sea/ocean of fluid x2</td>\n<td>sea/ocean</td>\n</tr>\n<tr>\n<td><code>kevna</code></td>\n<td>x1 is a cave/cavern in x2</td>\n<td>cave/cavern</td>\n</tr>\n</tbody></table>\n<h3>Instrument and Method Tags</h3>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Meaning</th>\n<th>Use</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pi&#39;o</code></td>\n<td>using (tool)</td>\n<td>instrument</td>\n</tr>\n<tr>\n<td><code>ta&#39;i</code></td>\n<td>by method</td>\n<td>method/manner</td>\n</tr>\n</tbody></table>\n<h3>Using pi&#39;o (Using)</h3>\n<pre><code>mi ciska pi&#39;o lo penbi\n</code></pre>\n<p>I write using a pen.</p>\n<pre><code>mi citka pi&#39;o lo forca\n</code></pre>\n<p>I eat using a fork.</p>\n<pre><code>mi viska pi&#39;o lo kanla\n</code></pre>\n<p>I see using my eyes.</p>\n<h3>Using ta&#39;i (By Method)</h3>\n<pre><code>mi snada ta&#39;i lo nu troci\n</code></pre>\n<p>I succeed by the method of trying.</p>\n<pre><code>mi cilre ta&#39;i lo nu tcidu\n</code></pre>\n<p>I learn by the method of reading.</p>\n<h3>Combining Tags</h3>\n<pre><code>mi ciska lo valsi pi&#39;o lo penbi bu&#39;u lo zdani\n</code></pre>\n<p>I write words using a pen at home.</p>\n<h3>Key Point</h3>\n<blockquote>\n<p><code>pi&#39;o</code> = using (tool/instrument), <code>ta&#39;i</code> = by method (how you do it).</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Use pi&#39;o</h3>\n<p>Translate:</p>\n<ol>\n<li>I write using a pen.</li>\n<li>Alice eats using a fork.</li>\n<li>I see using glasses.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi ciska pi&#39;o lo penbi</code></li>\n<li><code>la .alis. cu citka pi&#39;o lo forca</code></li>\n<li><code>mi viska pi&#39;o lo lacni</code></li>\n</ol>\n</details>\n\n<h3>Exercise 2: Use ta&#39;i</h3>\n<p>Translate:</p>\n<ol>\n<li>I learn by reading.</li>\n<li>I succeed by trying.</li>\n<li>I understand by studying.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi cilre ta&#39;i lo nu tcidu</code></li>\n<li><code>mi snada ta&#39;i lo nu troci</code></li>\n<li><code>mi jimpe ta&#39;i lo nu tadni</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: New Vocabulary</h3>\n<p>Translate:</p>\n<ol>\n<li>This is a sea.</li>\n<li>I see a cave.</li>\n<li>The ocean is big.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti xamsi</code></li>\n<li><code>mi viska lo kevna</code></li>\n<li><code>lo xamsi cu barda</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "use-pi'o",
+          "items": [
+            {
+              "text": "I write using a pen.",
+              "answer": "`mi ciska pi'o lo penbi`"
+            },
+            {
+              "text": "Alice eats using a fork.",
+              "answer": "`la .alis. cu citka pi'o lo forca`"
+            },
+            {
+              "text": "I see using glasses.",
+              "answer": "`mi viska pi'o lo lacni`"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "use-ta'i",
+          "items": [
+            {
+              "text": "I learn by reading.",
+              "answer": "`mi cilre ta'i lo nu tcidu`"
+            },
+            {
+              "text": "I succeed by trying.",
+              "answer": "`mi snada ta'i lo nu troci`"
+            },
+            {
+              "text": "I understand by studying.",
+              "answer": "`mi jimpe ta'i lo nu tadni`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "new-vocabulary",
+          "items": [
+            {
+              "text": "This is a sea.",
+              "answer": "`ti xamsi`"
+            },
+            {
+              "text": "I see a cave.",
+              "answer": "`mi viska lo kevna`"
+            },
+            {
+              "text": "The ocean is big.",
+              "answer": "`lo xamsi cu barda`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I write using a pen.&quot; → <code>mi ciska pi&#39;o lo penbi</code></li>\n<li>&quot;This is a cave.&quot; → <code>ti kevna</code></li>\n<li>&quot;I learn by reading.&quot; → <code>mi cilre ta&#39;i lo nu tcidu</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>xamsi</code></td>\n<td>sea/ocean</td>\n</tr>\n<tr>\n<td><code>kevna</code></td>\n<td>cave/cavern</td>\n</tr>\n</tbody></table>\n<p><strong>Grammar:</strong></p>\n<table>\n<thead>\n<tr>\n<th>Cmavo</th>\n<th>Function</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>pi&#39;o</code></td>\n<td>using (instrument)</td>\n</tr>\n<tr>\n<td><code>ta&#39;i</code></td>\n<td>by method (manner)</td>\n</tr>\n</tbody></table>\n"
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned instrument and method tags: <code>pi&#39;o</code> (using a tool), <code>ta&#39;i</code> (by what method). These specify how actions are performed.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> Language and result tags — <code>bau</code>, <code>ja&#39;e</code>.</p>\n",
+      "tomorrow": "Language and result tags — `bau`, `ja'e`."
+    }
+  ]
+}

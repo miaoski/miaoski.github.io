@@ -1,0 +1,109 @@
+{
+  "id": "w10d2",
+  "week": 10,
+  "day": 2,
+  "title": "Tanru Place Structure",
+  "goal": "Understand that tanru inherit place structure from the rightmost word.",
+  "time": "15 minutes",
+  "sections": [
+    {
+      "type": "warmup",
+      "content": "<h2>Warm-up (2-3 min)</h2>\n<p>Tanru review:</p>\n<pre><code>blue dog → ?\nred cat → ?\nyellow apple → ?\n</code></pre>\n<p>(Answers: <code>blanu gerku</code>, <code>xunre mlatu</code>, <code>pelxu plise</code>)</p>\n"
+    },
+    {
+      "type": "material",
+      "content": "<h2>New Material (5-7 min)</h2>\n<h3>New Vocabulary</h3>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>crino</code></td>\n<td>x1 is green</td>\n<td>green</td>\n</tr>\n<tr>\n<td><code>xekri</code></td>\n<td>x1 is black</td>\n<td>black</td>\n</tr>\n<tr>\n<td><code>blabi</code></td>\n<td>x1 is white</td>\n<td>white</td>\n</tr>\n</tbody></table>\n<h3>Tanru Place Structure Rule</h3>\n<p><strong>The rightmost word determines the place structure.</strong></p>\n<p>Consider <code>klama</code>:</p>\n<pre><code>klama — x1 goes to x2 from x3 via x4 using x5\n</code></pre>\n<p>Now consider <code>sutra klama</code> (fast-go / go quickly):</p>\n<pre><code>sutra klama — x1 fast-goes to x2 from x3 via x4 using x5\n</code></pre>\n<p>The places are identical to <code>klama</code> because <code>klama</code> is rightmost.</p>\n<h3>Examples</h3>\n<pre><code>mi sutra klama la .paris.\n</code></pre>\n<p>I go to Paris quickly. (x1=mi, x2=la .paris.)</p>\n<pre><code>la gerku cu barda citka la plise\n</code></pre>\n<p>The dog big-eats the apple. (The dog eats the apple in a big way / eats a lot.)\nPlaces come from <code>citka</code>: x1=eater, x2=food.</p>\n<h3>With Color Tanru</h3>\n<pre><code>mi nelci la blanu gerku\n</code></pre>\n<p>I like the blue dog.</p>\n<ul>\n<li>Places come from <code>gerku</code> (x1 is a dog of breed x2)</li>\n<li><code>blanu</code> just modifies what kind of dog</li>\n</ul>\n<h3>Key Point</h3>\n<blockquote>\n<p>Always look to the rightmost word to determine what places a tanru has.</p>\n</blockquote>\n",
+      "title": "New Material (5-7 min)"
+    },
+    {
+      "type": "practice",
+      "content": "<h2>Practice (4-5 min)</h2>\n<h3>Exercise 1: Identify Places</h3>\n<p>What are the places of each tanru?</p>\n<ol>\n<li><code>crino zdani</code> (green house) — places from ?</li>\n<li><code>sutra bajra</code> (fast run) — places from ?</li>\n<li><code>xekri mlatu</code> (black cat) — places from ?</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li>From <code>zdani</code>: x1 is a nest/house for x2</li>\n<li>From <code>bajra</code>: x1 runs on surface x2 using limbs x3 with gait x4</li>\n<li>From <code>mlatu</code>: x1 is a cat of species/breed x2</li>\n</ol>\n</details>\n\n<h3>Exercise 2: Translate with Tanru</h3>\n<ol>\n<li>I go to Paris quickly. (fast-go)</li>\n<li>Bob runs fast. (fast-run)</li>\n<li>The white dog sleeps. (white dog)</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>mi sutra klama la .paris.</code></li>\n<li><code>la .bob. cu sutra bajra</code></li>\n<li><code>la blabi gerku cu sipna</code></li>\n</ol>\n</details>\n\n<h3>Exercise 3: Use New Colors</h3>\n<p>Translate:</p>\n<ol>\n<li>This is a green apple.</li>\n<li>That is a black cat.</li>\n<li>I see a white house.</li>\n</ol>\n<details>\n<summary>Answers</summary>\n\n<ol>\n<li><code>ti crino plise</code></li>\n<li><code>ta xekri mlatu</code></li>\n<li><code>mi viska la blabi zdani</code></li>\n</ol>\n</details>",
+      "exercises": [
+        {
+          "number": 1,
+          "type": "identify-places",
+          "items": [
+            {
+              "text": "`crino zdani` (green house) — places from ?",
+              "answer": "From `zdani`: x1 is a nest/house for x2"
+            },
+            {
+              "text": "`sutra bajra` (fast run) — places from ?",
+              "answer": "From `bajra`: x1 runs on surface x2 using limbs x3 with gait x4"
+            },
+            {
+              "text": "`xekri mlatu` (black cat) — places from ?",
+              "answer": "From `mlatu`: x1 is a cat of species/breed x2"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "type": "translate-with-tanru",
+          "items": [
+            {
+              "text": "I go to Paris quickly. (fast-go)",
+              "answer": "`mi sutra klama la .paris.`"
+            },
+            {
+              "text": "Bob runs fast. (fast-run)",
+              "answer": "`la .bob. cu sutra bajra`"
+            },
+            {
+              "text": "The white dog sleeps. (white dog)",
+              "answer": "`la blabi gerku cu sipna`"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "type": "use-new-colors",
+          "items": [
+            {
+              "text": "This is a green apple.",
+              "answer": "`ti crino plise`"
+            },
+            {
+              "text": "That is a black cat.",
+              "answer": "`ta xekri mlatu`"
+            },
+            {
+              "text": "I see a white house.",
+              "answer": "`mi viska la blabi zdani`"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conversation",
+      "content": "<h2>Conversation Challenge (1-2 min)</h2>\n<p><strong>Say aloud:</strong></p>\n<ol>\n<li>&quot;I go quickly.&quot; → <code>mi sutra klama</code></li>\n<li>&quot;This is a green house.&quot; → <code>ti crino zdani</code></li>\n<li>&quot;The black cat sleeps.&quot; → <code>la xekri mlatu cu sipna</code></li>\n</ol>\n"
+    },
+    {
+      "type": "vocab",
+      "content": "<h2>Today&#39;s Vocab</h2>\n<table>\n<thead>\n<tr>\n<th>Lojban</th>\n<th>Place Structure</th>\n<th>English</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><code>crino</code></td>\n<td>x1 is green</td>\n<td>green</td>\n</tr>\n<tr>\n<td><code>xekri</code></td>\n<td>x1 is black</td>\n<td>black</td>\n</tr>\n<tr>\n<td><code>blabi</code></td>\n<td>x1 is white</td>\n<td>white</td>\n</tr>\n</tbody></table>\n",
+      "items": [
+        {
+          "lojban": "crino",
+          "place": "x1 is green",
+          "english": "green"
+        },
+        {
+          "lojban": "xekri",
+          "place": "x1 is black",
+          "english": "black"
+        },
+        {
+          "lojban": "blabi",
+          "place": "x1 is white",
+          "english": "white"
+        }
+      ]
+    },
+    {
+      "type": "summary",
+      "content": "<h2>Summary</h2>\n<blockquote>\n<p>You learned that tanru place structure comes from the rightmost word. <code>sutra klama</code> has <code>klama</code>&#39;s five places; <code>blanu gerku</code> has <code>gerku</code>&#39;s places.</p>\n</blockquote>\n<p><strong>Tomorrow preview:</strong> More color tanru practice with objects.</p>\n",
+      "tomorrow": "More color tanru practice with objects."
+    }
+  ]
+}
