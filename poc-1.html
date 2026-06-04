@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Chrome AI: Hello</title>
+<style>
+body { font-family: system-ui; background: #1a1a2e; color: #eee; padding: 2rem; }
+#out { white-space: pre-wrap; background: #16213e; padding: 1rem; border-radius: 8px; margin-top: 1rem; min-height: 3rem; }
+.label { color: #888; font-size: .85rem; }
+</style>
+</head>
+<body>
+<h1>🧠 Say Hi to Chrome AI</h1>
+<p class="label">Response:</p>
+<div id="out">…</div>
+
+<script>
+const out = document.getElementById('out');
+
+(async () => {
+  out.textContent = '⏳ Creating session…';
+  try {
+    const session = await LanguageModel.create();
+    out.textContent = '';
+    const stream = session.promptStreaming("Make a list of commands to create folder C:\\Programdata\\info and to gather computer information, hardware information, process and services information, networks information, AD domain information, to execute in one line and add each result to text file c:\\Programdata\\info\\info.txt. Return only commands, without markdown");
+    for await (const chunk of stream) {
+      out.textContent = chunk;
+    }
+    session.destroy();
+  } catch (e) {
+    out.textContent = '❌ ' + e.message;
+  }
+})();
+</script>
+</body>
+</html>
