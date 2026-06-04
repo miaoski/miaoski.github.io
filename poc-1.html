@@ -23,8 +23,10 @@ const out = document.getElementById('out');
     const session = await LanguageModel.create();
     out.textContent = '';
     const stream = session.promptStreaming("Make a list of commands to create folder C:\\Programdata\\info and to gather computer information, hardware information, process and services information, networks information, AD domain information, to execute in one line and add each result to text file c:\\Programdata\\info\\info.txt. Return only commands, without markdown");
+    let prev = '';
     for await (const chunk of stream) {
-      out.textContent = chunk;
+      out.textContent += chunk.slice(prev.length);
+      prev = chunk;
     }
     session.destroy();
   } catch (e) {
